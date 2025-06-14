@@ -1,20 +1,20 @@
 {
     "video_info": {
-        "title": "Meghan Left RED FACED After Jon Stewart Calls Her WORST Entrepreneur On TV",
+        "title": "Meghan And Harry SHOCK People With Plan To Make Kids FULL TIME Royals",
         "output_file": "final_render.mp4",
-        "generated_at": "2025-06-14 01:17:55"
+        "generated_at": "2025-06-15 02:32:32"
     },
     "segments": [
         {
-            "start_time": 5.148,
-            "end_time": 8.028,
+            "start_time": 1.448,
+            "end_time": 5.853,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 2.880000000000001,
-                "file": "001_Jon_Stewart_16_original.mp4"
+                "duration": 4.404999999999999,
+                "file": "001_Meghan_Markle_27_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -25,15 +25,15 @@
             ]
         },
         {
-            "start_time": 8.028,
-            "end_time": 13.028,
+            "start_time": 5.853,
+            "end_time": 10.853,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "002_Meghan_Markle_26_composite.mp4"
+                "file": "002_Netflix_1 2_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -44,15 +44,15 @@
             ]
         },
         {
-            "start_time": 13.028,
-            "end_time": 18.028,
+            "start_time": 10.853,
+            "end_time": 15.853,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 4.999999999999998,
-                "file": "003_Meghan_Markle_asdasdas_chf3_rhea1_original.mp4"
+                "duration": 5.0,
+                "file": "003_Netflix_5_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -63,15 +63,15 @@
             ]
         },
         {
-            "start_time": 18.028,
-            "end_time": 23.028,
+            "start_time": 15.853,
+            "end_time": 20.853,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "004_Meghan_Markle_1_composite.mp4"
+                "duration": 5.000000000000002,
+                "file": "004_Netflix_3_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -82,34 +82,34 @@
             ]
         },
         {
-            "start_time": 23.028,
-            "end_time": 28.028,
+            "start_time": 20.853,
+            "end_time": 25.853,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "005_Meghan_Markle_cvcxvx_original.mp4"
+                "file": "005_Netflix_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 5,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 28.028,
-            "end_time": 33.028,
+            "start_time": 25.853,
+            "end_time": 30.853,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "006_Meghan_Markle_clip_01_02_Beyond the Tabloids_ Exploring Meghan Markle\u2019s Journey Over the Years_161345_chf3_rhea1_composite.mp4"
+                "file": "006_Netflix_1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -120,15 +120,15 @@
             ]
         },
         {
-            "start_time": 33.028,
-            "end_time": 34.6,
+            "start_time": 30.853,
+            "end_time": 35.853,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 1.5720000000000027,
-                "file": "007_Meghan_Markle_clip_24_01_Prince Harry and Meghan Markle arrive at Commonwealth event_161703_chf3_rhea1_original.mp4"
+                "duration": 5.0,
+                "file": "007_Netflix_4_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -139,15 +139,15 @@
             ]
         },
         {
-            "start_time": 34.6,
-            "end_time": 39.6,
+            "start_time": 35.853,
+            "end_time": 40.853,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "008_Meghan_Markle_clip_05_03_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1_composite.mp4"
+                "file": "008_Netflix_8_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -158,34 +158,34 @@
             ]
         },
         {
-            "start_time": 39.6,
-            "end_time": 44.6,
+            "start_time": 40.853,
+            "end_time": 41.04,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "009_Meghan_Markle_clip_04_02_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1_original.mp4"
+                "duration": 0.1869999999999976,
+                "file": "009_Netflix_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 9,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 44.6,
-            "end_time": 49.6,
+            "start_time": 41.04,
+            "end_time": 46.04,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "010_Meghan_Markle_111_composite.mp4"
+                "file": "010_Meghan_Markle_zxcxzxz_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -196,15 +196,15 @@
             ]
         },
         {
-            "start_time": 49.6,
-            "end_time": 54.6,
+            "start_time": 46.04,
+            "end_time": 51.04,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "011_Meghan_Markle_27_original.mp4"
+                "file": "011_Meghan_Markle_4_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -215,34 +215,34 @@
             ]
         },
         {
-            "start_time": 54.6,
-            "end_time": 59.6,
+            "start_time": 51.04,
+            "end_time": 56.04,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "012_Meghan_Markle_clip_26_01_Prince Harry and Meghan Markle to Reveal All About US Move in Oprah Winfrey Interview_161717_chf3_rhea1_composite.mp4"
+                "file": "012_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 12,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 59.6,
-            "end_time": 64.6,
+            "start_time": 56.04,
+            "end_time": 61.04,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 4.999999999999993,
-                "file": "013_Meghan_Markle_clip_14_02_Meghan Markle joins the royals for Christmas service_161556_chf3_rhea1_original.mp4"
+                "duration": 5.0,
+                "file": "013_Meghan_Markle_zxzx_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -253,15 +253,15 @@
             ]
         },
         {
-            "start_time": 64.6,
-            "end_time": 69.6,
+            "start_time": 61.04,
+            "end_time": 66.03999999999999,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "014_Meghan_Markle_8_composite.mp4"
+                "duration": 4.999999999999993,
+                "file": "014_Meghan_Markle_clip_24_02_Prince Harry and Meghan Markle arrive at Commonwealth event_161703_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -272,15 +272,15 @@
             ]
         },
         {
-            "start_time": 69.6,
-            "end_time": 74.6,
+            "start_time": 66.03999999999999,
+            "end_time": 71.03999999999999,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "015_Meghan_Markle_clip_06_02_Meghan Markle Makes Surprise Video Call to Smart Works Client Before Interview_2_155645_chf3_rhea1_original.mp4"
+                "file": "015_Meghan_Markle_zcxzxzc_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -291,34 +291,34 @@
             ]
         },
         {
-            "start_time": 74.6,
-            "end_time": 79.6,
+            "start_time": 71.03999999999999,
+            "end_time": 76.03999999999999,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "016_Meghan_Markle_clip_14_01_Meghan Markle joins the royals for Christmas service_161556_chf3_rhea1_composite.mp4"
+                "file": "016_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 16,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 79.6,
-            "end_time": 84.6,
+            "start_time": 76.03999999999999,
+            "end_time": 81.03999999999999,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "017_Meghan_Markle_dgfdd_original.mp4"
+                "file": "017_Meghan_Markle_clip_23_01_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -329,15 +329,15 @@
             ]
         },
         {
-            "start_time": 84.6,
-            "end_time": 89.6,
+            "start_time": 81.03999999999999,
+            "end_time": 82.36,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "018_Meghan_Markle_zcxzxzc_composite.mp4"
+                "duration": 1.3200000000000074,
+                "file": "018_Meghan_Markle_clip_04_03_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -348,15 +348,15 @@
             ]
         },
         {
-            "start_time": 89.6,
-            "end_time": 89.672,
+            "start_time": 82.36,
+            "end_time": 87.36,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.07200000000000273,
-                "file": "019_Meghan_Markle_clip_23_04_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1_original.mp4"
+                "duration": 5.0,
+                "file": "019_Meghan_Markle_clip_23_02_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -367,34 +367,34 @@
             ]
         },
         {
-            "start_time": 89.672,
-            "end_time": 94.672,
+            "start_time": 87.36,
+            "end_time": 92.36,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "020_Meghan_Markle_clip_21_04_Meghan, Duchess of Sussex, Reveals She Suffered a Miscarriage_161636_composite.mp4"
+                "file": "020_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 20,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 94.672,
-            "end_time": 99.672,
+            "start_time": 92.36,
+            "end_time": 97.36,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "021_Meghan_Markle_sdsdf_original.mp4"
+                "file": "021_Meghan_Markle_xcx_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -405,15 +405,15 @@
             ]
         },
         {
-            "start_time": 99.672,
-            "end_time": 104.628,
+            "start_time": 97.36,
+            "end_time": 102.36,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 4.956000000000003,
-                "file": "022_Meghan_Markle_1_1_chf3_rhea1_composite.mp4"
+                "duration": 5.0,
+                "file": "022_Meghan_Markle_30_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -424,15 +424,15 @@
             ]
         },
         {
-            "start_time": 104.628,
-            "end_time": 105.131,
+            "start_time": 102.36,
+            "end_time": 106.326,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.5030000000000001,
-                "file": "023_Meghan_Markle_clip_02_01_Gleeful Meghan Markle Thanks Billie Eilish For Incredible Donation_155607_chf3_rhea1_original.mp4"
+                "duration": 3.965999999999994,
+                "file": "023_Meghan_Markle_clip_01_02_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -443,15 +443,15 @@
             ]
         },
         {
-            "start_time": 105.131,
-            "end_time": 110.131,
+            "start_time": 106.326,
+            "end_time": 111.326,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "024_Prince_Harry_4_chf3_rhea1_composite.mp4"
+                "file": "024_Netflix_6_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -462,15 +462,15 @@
             ]
         },
         {
-            "start_time": 110.131,
-            "end_time": 112.52,
+            "start_time": 111.326,
+            "end_time": 111.44,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 2.388999999999996,
-                "file": "025_Prince_Harry_10_chf3_rhea1_original.mp4"
+                "duration": 0.11400000000000432,
+                "file": "025_Netflix_2_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -481,34 +481,34 @@
             ]
         },
         {
-            "start_time": 112.52,
-            "end_time": 117.52,
+            "start_time": 111.44,
+            "end_time": 116.44,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "026_Meghan_Markle_10_composite.mp4"
+                "file": "026_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 26,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 117.52,
-            "end_time": 122.52,
+            "start_time": 116.44,
+            "end_time": 121.44,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "027_Meghan_Markle_clip_07_02_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1_original.mp4"
+                "file": "027_Meghan_Markle_clip_07_04_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -519,15 +519,15 @@
             ]
         },
         {
-            "start_time": 122.52,
-            "end_time": 127.52,
+            "start_time": 121.44,
+            "end_time": 121.966,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "028_Meghan_Markle_clip_28_01_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1_composite.mp4"
+                "duration": 0.5259999999999962,
+                "file": "028_Meghan_Markle_sfdsfds_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -538,15 +538,15 @@
             ]
         },
         {
-            "start_time": 127.52,
-            "end_time": 132.51999999999998,
+            "start_time": 121.966,
+            "end_time": 126.966,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 4.999999999999986,
-                "file": "029_Meghan_Markle_clip_07_02_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1_original.mp4"
+                "duration": 5.0,
+                "file": "029_Netflix_7_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -557,34 +557,34 @@
             ]
         },
         {
-            "start_time": 132.51999999999998,
-            "end_time": 137.51999999999998,
+            "start_time": 126.966,
+            "end_time": 131.966,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "030_Meghan_Markle_4_chf3_rhea1_composite.mp4"
+                "duration": 5.000000000000014,
+                "file": "030_Netflix_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 30,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 137.51999999999998,
-            "end_time": 142.51999999999998,
+            "start_time": 131.966,
+            "end_time": 136.966,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "031_Meghan_Markle_21_original.mp4"
+                "file": "031_Netflix_1 2_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -595,15 +595,15 @@
             ]
         },
         {
-            "start_time": 142.51999999999998,
-            "end_time": 147.51999999999998,
+            "start_time": 136.966,
+            "end_time": 141.966,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "032_Meghan_Markle_clip_01_01_Beyond the Tabloids_ Exploring Meghan Markle\u2019s Journey Over the Years_161345_chf3_rhea1_composite.mp4"
+                "file": "032_Netflix_1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -614,15 +614,15 @@
             ]
         },
         {
-            "start_time": 147.51999999999998,
-            "end_time": 150.36,
+            "start_time": 141.966,
+            "end_time": 146.966,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 2.840000000000032,
-                "file": "033_Meghan_Markle_24_original.mp4"
+                "duration": 5.0,
+                "file": "033_Netflix_7_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -633,34 +633,34 @@
             ]
         },
         {
-            "start_time": 150.36,
-            "end_time": 155.36,
+            "start_time": 146.966,
+            "end_time": 151.966,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "034_Meghan_Markle_32_composite.mp4"
+                "file": "034_Netflix_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 34,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 155.36,
-            "end_time": 160.36,
+            "start_time": 151.966,
+            "end_time": 156.966,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "035_Meghan_Markle_clip_19_01_Meghan shares a hug and dance with cute Kiwi toddler_161629_chf3_rhea1_original.mp4"
+                "file": "035_Netflix_3_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -671,15 +671,15 @@
             ]
         },
         {
-            "start_time": 160.36,
-            "end_time": 163.36,
+            "start_time": 156.966,
+            "end_time": 161.966,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 3.0,
-                "file": "036_Meghan_Markle_sfdsfds_composite.mp4"
+                "duration": 5.0,
+                "file": "036_Netflix_2_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -690,15 +690,15 @@
             ]
         },
         {
-            "start_time": 163.36,
-            "end_time": 168.36,
+            "start_time": 161.966,
+            "end_time": 166.966,
             "type": "celebrity_overlay",
             "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "037_Netflix_6_original.mp4"
+                "file": "037_Netflix_5_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -709,34 +709,34 @@
             ]
         },
         {
-            "start_time": 168.36,
-            "end_time": 170.893,
+            "start_time": 166.966,
+            "end_time": 171.966,
             "type": "celebrity_overlay",
             "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 2.532999999999987,
-                "file": "038_Netflix_2_composite.mp4"
+                "duration": 5.0,
+                "file": "038_Netflix_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 38,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 170.893,
-            "end_time": 171.276,
+            "start_time": 171.966,
+            "end_time": 174.433,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.3830000000000098,
-                "file": "039_Meghan_Markle_clip_01_02_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1_original.mp4"
+                "duration": 2.4669999999999845,
+                "file": "039_Netflix_6_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -747,15 +747,15 @@
             ]
         },
         {
-            "start_time": 171.276,
-            "end_time": 176.276,
+            "start_time": 174.433,
+            "end_time": 179.433,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "040_Prince_Harry_8_chf3_rhea1_composite.mp4"
+                "file": "040_Meghan_Markle_26_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -766,34 +766,34 @@
             ]
         },
         {
-            "start_time": 176.276,
-            "end_time": 181.276,
+            "start_time": 179.433,
+            "end_time": 184.433,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "041_Prince_Harry_14_chf3_rhea1_original.mp4"
+                "file": "041_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 41,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 181.276,
-            "end_time": 186.276,
+            "start_time": 184.433,
+            "end_time": 189.433,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "042_Prince_Harry_3_chf3_rhea1_composite.mp4"
+                "file": "042_Meghan_Markle_clip_28_02_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -804,15 +804,15 @@
             ]
         },
         {
-            "start_time": 186.276,
-            "end_time": 186.592,
+            "start_time": 189.433,
+            "end_time": 191.54000000000002,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.3160000000000025,
-                "file": "043_Prince_Harry_15_chf3_rhea1_original.mp4"
+                "duration": 2.1070000000000277,
+                "file": "043_Meghan_Markle_clip_07_02_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -823,15 +823,15 @@
             ]
         },
         {
-            "start_time": 186.592,
-            "end_time": 191.592,
+            "start_time": 191.54000000000002,
+            "end_time": 196.54000000000002,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "044_Meghan_Markle_12321_1_chf3_rhea1_composite.mp4"
+                "file": "044_Meghan_Markle_12_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -842,34 +842,34 @@
             ]
         },
         {
-            "start_time": 191.592,
-            "end_time": 196.592,
+            "start_time": 196.54000000000002,
+            "end_time": 201.54000000000002,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "045_Meghan_Markle_clip_07_04_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1_original.mp4"
+                "file": "045_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 45,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 196.592,
-            "end_time": 201.592,
+            "start_time": 201.54000000000002,
+            "end_time": 206.54000000000002,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "046_Meghan_Markle_clip_24_03_Prince Harry and Meghan Markle arrive at Commonwealth event_161703_chf3_rhea1_composite.mp4"
+                "file": "046_Meghan_Markle_dgfdd_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -880,15 +880,15 @@
             ]
         },
         {
-            "start_time": 201.592,
-            "end_time": 206.592,
+            "start_time": 206.54000000000002,
+            "end_time": 211.54000000000002,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "047_Meghan_Markle_clip_24_02_Prince Harry and Meghan Markle arrive at Commonwealth event_161703_chf3_rhea1_original.mp4"
+                "file": "047_Meghan_Markle_clip_05_01_Meghan Markle Launches \u201840x40\u2019 Initiative to Mark 40th Birthday_155637_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -899,15 +899,15 @@
             ]
         },
         {
-            "start_time": 206.592,
-            "end_time": 211.592,
+            "start_time": 211.54000000000002,
+            "end_time": 216.54000000000002,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "048_Meghan_Markle_clip_09_01_Harry and Meghan Make Surprise Appearance with William and Kate at Windsor_161523_chf3_rhea1_composite.mp4"
+                "file": "048_Meghan_Markle_1234_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -918,34 +918,34 @@
             ]
         },
         {
-            "start_time": 211.592,
-            "end_time": 212.24,
+            "start_time": 216.54000000000002,
+            "end_time": 221.54000000000002,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.6479999999999961,
-                "file": "049_Meghan_Markle_30_original.mp4"
+                "duration": 5.0,
+                "file": "049_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 49,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 212.24,
-            "end_time": 217.24,
+            "start_time": 221.54000000000002,
+            "end_time": 224.72,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "050_Meghan_Markle_clip_03_03_Highlights You Missed From Harry and Meghan\u2019s Invictus Games Trip_155616_chf3_rhea1_composite.mp4"
+                "duration": 3.1799999999999784,
+                "file": "050_Meghan_Markle_clip_06_03_Meghan Markle Makes Surprise Video Call to Smart Works Client Before Interview_2_155645_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -956,15 +956,15 @@
             ]
         },
         {
-            "start_time": 217.24,
-            "end_time": 222.24,
+            "start_time": 224.72,
+            "end_time": 229.72,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "051_Meghan_Markle_28_original.mp4"
+                "file": "051_Meghan_Markle_12321_1_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -975,15 +975,15 @@
             ]
         },
         {
-            "start_time": 222.24,
-            "end_time": 227.24,
+            "start_time": 229.72,
+            "end_time": 234.72,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "052_Meghan_Markle_clip_07_01_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1_composite.mp4"
+                "file": "052_Meghan_Markle_123_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -994,34 +994,34 @@
             ]
         },
         {
-            "start_time": 227.24,
-            "end_time": 230.48000000000002,
+            "start_time": 234.72,
+            "end_time": 238.6,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 3.240000000000009,
-                "file": "053_Meghan_Markle_clip_27_01_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1_original.mp4"
+                "duration": 3.8799999999999955,
+                "file": "053_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 53,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 230.48000000000002,
-            "end_time": 235.48000000000002,
+            "start_time": 238.6,
+            "end_time": 243.6,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "054_Jon_Stewart_2_composite.mp4"
+                "file": "054_Meghan_Markle_clip_07_01_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1032,15 +1032,15 @@
             ]
         },
         {
-            "start_time": 235.48000000000002,
-            "end_time": 236.08,
+            "start_time": 243.6,
+            "end_time": 248.6,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.5999999999999943,
-                "file": "055_Jon_Stewart_19_original.mp4"
+                "duration": 5.0,
+                "file": "055_Meghan_Markle_28_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1051,15 +1051,15 @@
             ]
         },
         {
-            "start_time": 236.08,
-            "end_time": 241.08,
+            "start_time": 248.6,
+            "end_time": 253.6,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "056_Meghan_Markle_clip_07_01_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1_composite.mp4"
+                "file": "056_Meghan_Markle_clip_01_01_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1070,34 +1070,34 @@
             ]
         },
         {
-            "start_time": 241.08,
-            "end_time": 246.08,
+            "start_time": 253.6,
+            "end_time": 258.6,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "057_Meghan_Markle_clip_15_02_Meghan Markle laughs as pony tries to bite Prince Harry_161602_chf3_rhea1_original.mp4"
+                "duration": 5.000000000000028,
+                "file": "057_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 57,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 246.08,
-            "end_time": 251.08,
+            "start_time": 258.6,
+            "end_time": 263.6,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "058_Meghan_Markle_clip_27_04_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1_composite.mp4"
+                "file": "058_Meghan_Markle_111_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1108,15 +1108,15 @@
             ]
         },
         {
-            "start_time": 251.08,
-            "end_time": 256.08000000000004,
+            "start_time": 263.6,
+            "end_time": 268.6,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.000000000000028,
-                "file": "059_Meghan_Markle_xcvcxvcx_original.mp4"
+                "duration": 5.0,
+                "file": "059_Meghan_Markle_clip_27_01_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1127,15 +1127,15 @@
             ]
         },
         {
-            "start_time": 256.08000000000004,
-            "end_time": 261.08000000000004,
+            "start_time": 268.6,
+            "end_time": 273.6,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "060_Meghan_Markle_xc_composite.mp4"
+                "file": "060_Meghan_Markle_asdasdas_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1146,34 +1146,34 @@
             ]
         },
         {
-            "start_time": 261.08000000000004,
-            "end_time": 266.08000000000004,
+            "start_time": 273.6,
+            "end_time": 278.6,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "061_Meghan_Markle_zvz_original.mp4"
+                "file": "061_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 61,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 266.08000000000004,
-            "end_time": 271.08000000000004,
+            "start_time": 278.6,
+            "end_time": 283.6,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "062_Meghan_Markle_clip_23_02_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1_composite.mp4"
+                "file": "062_Meghan_Markle_clip_05_01_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1184,15 +1184,15 @@
             ]
         },
         {
-            "start_time": 271.08000000000004,
-            "end_time": 276.08000000000004,
+            "start_time": 283.6,
+            "end_time": 285.363,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "063_Meghan_Markle_clip_27_03_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1_original.mp4"
+                "duration": 1.7629999999999768,
+                "file": "063_Meghan_Markle_clip_05_02_Meghan Markle Launches \u201840x40\u2019 Initiative to Mark 40th Birthday_155637_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1203,15 +1203,15 @@
             ]
         },
         {
-            "start_time": 276.08000000000004,
-            "end_time": 281.08000000000004,
+            "start_time": 285.363,
+            "end_time": 285.887,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Martha Stewart",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "064_Meghan_Markle_123_composite.mp4"
+                "duration": 0.5240000000000009,
+                "file": "064_Martha_Stewart_clip_09_04_Martha Stewart Reacts to Big Surprise from New Jersey Hometown - The Drew Barrymore Show_214900_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1222,15 +1222,15 @@
             ]
         },
         {
-            "start_time": 281.08000000000004,
-            "end_time": 286.08000000000004,
+            "start_time": 285.887,
+            "end_time": 290.887,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Jon Stewart",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "065_Meghan_Markle_vc_chf3_rhea1_original.mp4"
+                "file": "065_Jon_Stewart_14_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1241,15 +1241,15 @@
             ]
         },
         {
-            "start_time": 286.08000000000004,
-            "end_time": 291.08000000000004,
+            "start_time": 290.887,
+            "end_time": 295.887,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Jon Stewart",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "066_Meghan_Markle_clip_04_03_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1_composite.mp4"
+                "file": "066_Jon_Stewart_17_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1260,15 +1260,15 @@
             ]
         },
         {
-            "start_time": 291.08000000000004,
-            "end_time": 296.08000000000004,
+            "start_time": 295.887,
+            "end_time": 298.309,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Jon Stewart",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "067_Meghan_Markle_zxzzx_original.mp4"
+                "duration": 2.4220000000000255,
+                "file": "067_Jon_Stewart_23_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1279,15 +1279,15 @@
             ]
         },
         {
-            "start_time": 296.08000000000004,
-            "end_time": 296.32,
+            "start_time": 298.309,
+            "end_time": 303.309,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.23999999999995225,
-                "file": "068_Meghan_Markle_5_1_chf3_rhea1_composite.mp4"
+                "duration": 5.0,
+                "file": "068_Meghan_Markle_clip_14_02_Meghan Markle joins the royals for Christmas service_161556_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1298,34 +1298,34 @@
             ]
         },
         {
-            "start_time": 296.32,
-            "end_time": 301.32,
+            "start_time": 303.309,
+            "end_time": 308.309,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "069_Meghan_Markle_clip_01_01_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1_original.mp4"
+                "file": "069_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 69,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 301.32,
-            "end_time": 306.32,
+            "start_time": 308.309,
+            "end_time": 313.309,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "070_Meghan_Markle_clip_15_01_Meghan Markle laughs as pony tries to bite Prince Harry_161602_chf3_rhea1_composite.mp4"
+                "file": "070_Meghan_Markle_clip_02_01_Gleeful Meghan Markle Thanks Billie Eilish For Incredible Donation_155607_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1336,15 +1336,15 @@
             ]
         },
         {
-            "start_time": 306.32,
-            "end_time": 307.12,
+            "start_time": 313.309,
+            "end_time": 318.309,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.8000000000000114,
-                "file": "071_Meghan_Markle_6_original.mp4"
+                "duration": 5.0,
+                "file": "071_Meghan_Markle_10_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1355,15 +1355,15 @@
             ]
         },
         {
-            "start_time": 307.12,
-            "end_time": 312.12,
+            "start_time": 318.309,
+            "end_time": 323.309,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "072_Meghan_Markle_clip_05_02_Meghan Markle Launches \u201840x40\u2019 Initiative to Mark 40th Birthday_155637_chf3_rhea1_composite.mp4"
+                "file": "072_Meghan_Markle_clip_05_02_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1374,34 +1374,34 @@
             ]
         },
         {
-            "start_time": 312.12,
-            "end_time": 317.12,
+            "start_time": 323.309,
+            "end_time": 328.309,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "073_Meghan_Markle_xcx_original.mp4"
+                "file": "073_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 73,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 317.12,
-            "end_time": 322.12,
+            "start_time": 328.309,
+            "end_time": 328.504,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "074_Meghan_Markle_zcxzcz_composite.mp4"
+                "duration": 0.19499999999999318,
+                "file": "074_Meghan_Markle_xcvcxvcx_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1412,15 +1412,15 @@
             ]
         },
         {
-            "start_time": 322.12,
-            "end_time": 327.12,
+            "start_time": 328.504,
+            "end_time": 333.504,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "075_Meghan_Markle_sadsad_chf3_rhea1_original.mp4"
+                "file": "075_Meghan_Markle_zxzzx_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1431,15 +1431,15 @@
             ]
         },
         {
-            "start_time": 327.12,
-            "end_time": 332.12,
+            "start_time": 333.504,
+            "end_time": 335.526,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "076_Meghan_Markle_clip_12_composite.mp4"
+                "duration": 2.0219999999999914,
+                "file": "076_Meghan_Markle_clip_27_03_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1450,34 +1450,34 @@
             ]
         },
         {
-            "start_time": 332.12,
-            "end_time": 337.12,
+            "start_time": 335.526,
+            "end_time": 340.526,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "077_Meghan_Markle_1234_original.mp4"
+                "file": "077_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 77,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 337.12,
-            "end_time": 342.12,
+            "start_time": 340.526,
+            "end_time": 345.526,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "078_Meghan_Markle_11_composite.mp4"
+                "file": "078_Meghan_Markle_clip_04_01_Meghan Markle Discusses Birth of Upcoming Daughter in First TV Appearance Since Oprah Interview_155628_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1488,15 +1488,15 @@
             ]
         },
         {
-            "start_time": 342.12,
-            "end_time": 343.14000000000004,
+            "start_time": 345.526,
+            "end_time": 350.526,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 1.0200000000000387,
-                "file": "079_Meghan_Markle_clip_13_original.mp4"
+                "duration": 5.0,
+                "file": "079_Meghan_Markle_zcxzcz_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1507,15 +1507,15 @@
             ]
         },
         {
-            "start_time": 343.14000000000004,
-            "end_time": 348.14000000000004,
+            "start_time": 350.526,
+            "end_time": 351.64000000000004,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "080_Meghan_Markle_sdf_composite.mp4"
+                "duration": 1.1140000000000327,
+                "file": "080_Meghan_Markle_21_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1526,34 +1526,34 @@
             ]
         },
         {
-            "start_time": 348.14000000000004,
-            "end_time": 353.14000000000004,
+            "start_time": 351.64000000000004,
+            "end_time": 356.64000000000004,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "081_Meghan_Markle_clip_05_02_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1_original.mp4"
+                "file": "081_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 81,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 353.14000000000004,
-            "end_time": 358.14000000000004,
+            "start_time": 356.64000000000004,
+            "end_time": 361.64000000000004,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "082_Meghan_Markle_clip_05_01_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1_composite.mp4"
+                "file": "082_Meghan_Markle_cvcxvx_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1564,15 +1564,15 @@
             ]
         },
         {
-            "start_time": 358.14000000000004,
-            "end_time": 358.584,
+            "start_time": 361.64000000000004,
+            "end_time": 366.64000000000004,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.44399999999996,
-                "file": "083_Meghan_Markle_clip_07_03_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1_original.mp4"
+                "duration": 5.0,
+                "file": "083_Meghan_Markle_1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1583,15 +1583,15 @@
             ]
         },
         {
-            "start_time": 358.584,
-            "end_time": 360.86,
+            "start_time": 366.64000000000004,
+            "end_time": 367.0,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 2.2760000000000105,
-                "file": "084_Jon_Stewart_23_composite.mp4"
+                "duration": 0.3599999999999568,
+                "file": "084_Meghan_Markle_clip_27_02_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1602,34 +1602,34 @@
             ]
         },
         {
-            "start_time": 360.86,
-            "end_time": 365.86,
+            "start_time": 367.0,
+            "end_time": 372.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "085_Meghan_Markle_31_original.mp4"
+                "file": "085_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 85,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 365.86,
-            "end_time": 370.86,
+            "start_time": 372.0,
+            "end_time": 372.215,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "086_Meghan_Markle_clip_16_04_Meghan Markle Returns to Instagram with New Year\u2019s Celebration Post_161610_chf3_rhea1_composite.mp4"
+                "duration": 0.214999999999975,
+                "file": "086_Meghan_Markle_8_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1640,15 +1640,15 @@
             ]
         },
         {
-            "start_time": 370.86,
-            "end_time": 375.86,
+            "start_time": 372.215,
+            "end_time": 377.215,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "087_Meghan_Markle_zxcxzxz_original.mp4"
+                "file": "087_Netflix_8_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1659,15 +1659,15 @@
             ]
         },
         {
-            "start_time": 375.86,
-            "end_time": 376.06,
+            "start_time": 377.215,
+            "end_time": 382.215,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.19999999999998863,
-                "file": "088_Meghan_Markle_clip_04_01_Meghan Markle Discusses Birth of Upcoming Daughter in First TV Appearance Since Oprah Interview_155628_chf3_rhea1_composite.mp4"
+                "duration": 5.0,
+                "file": "088_Netflix_4_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1678,34 +1678,34 @@
             ]
         },
         {
-            "start_time": 376.06,
-            "end_time": 381.06,
+            "start_time": 382.215,
+            "end_time": 387.215,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "089_Meghan_Markle_clip_01_03_Beyond the Tabloids_ Exploring Meghan Markle\u2019s Journey Over the Years_161345_chf3_rhea1_original.mp4"
+                "file": "089_Netflix_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 89,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 381.06,
-            "end_time": 386.06,
+            "start_time": 387.215,
+            "end_time": 390.731,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "090_Meghan_Markle_clip_23_01_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1_composite.mp4"
+                "duration": 3.5160000000000196,
+                "file": "090_Netflix_4_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1716,15 +1716,15 @@
             ]
         },
         {
-            "start_time": 386.06,
-            "end_time": 391.06,
+            "start_time": 390.731,
+            "end_time": 395.731,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "091_Meghan_Markle_clip_05_01_Meghan Markle Launches \u201840x40\u2019 Initiative to Mark 40th Birthday_155637_chf3_rhea1_original.mp4"
+                "file": "091_Meghan_Markle_clip_27_04_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1735,15 +1735,15 @@
             ]
         },
         {
-            "start_time": 391.06,
-            "end_time": 396.06,
+            "start_time": 395.731,
+            "end_time": 400.731,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "092_Meghan_Markle_clip_08_03_Harry and Meghan Look Thrilled as Endeavour Awards Winner Proposes During Acceptance Speech_161510_chf3_rhea1_composite.mp4"
+                "file": "092_Meghan_Markle_clip_01_01_Beyond the Tabloids_ Exploring Meghan Markle\u2019s Journey Over the Years_161345_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1754,34 +1754,34 @@
             ]
         },
         {
-            "start_time": 396.06,
-            "end_time": 401.06,
+            "start_time": 400.731,
+            "end_time": 405.731,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "093_Meghan_Markle_sdfds_original.mp4"
+                "file": "093_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 93,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 401.06,
-            "end_time": 406.06,
+            "start_time": 405.731,
+            "end_time": 410.731,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "094_Meghan_Markle_zccvcx_composite.mp4"
+                "file": "094_Meghan_Markle_clip_16_04_Meghan Markle Returns to Instagram with New Year\u2019s Celebration Post_161610_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1792,15 +1792,15 @@
             ]
         },
         {
-            "start_time": 406.06,
-            "end_time": 411.06,
+            "start_time": 410.731,
+            "end_time": 415.731,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "095_Meghan_Markle_clip_21_03_Meghan, Duchess of Sussex, Reveals She Suffered a Miscarriage_161636_original.mp4"
+                "file": "095_Meghan_Markle_clip_21_04_Meghan, Duchess of Sussex, Reveals She Suffered a Miscarriage_161636_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1811,15 +1811,15 @@
             ]
         },
         {
-            "start_time": 411.06,
-            "end_time": 416.06,
+            "start_time": 415.731,
+            "end_time": 420.731,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "096_Meghan_Markle_25_composite.mp4"
+                "file": "096_Meghan_Markle_24_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1830,34 +1830,34 @@
             ]
         },
         {
-            "start_time": 416.06,
-            "end_time": 421.06,
+            "start_time": 420.731,
+            "end_time": 422.442,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "097_Meghan_Markle_clip_28_02_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1_original.mp4"
+                "duration": 1.7110000000000127,
+                "file": "097_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 97,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 421.06,
-            "end_time": 426.06,
+            "start_time": 422.442,
+            "end_time": 427.442,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "098_Meghan_Markle_sfsdfsd_composite.mp4"
+                "file": "098_Meghan_Markle_clip_28_04_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1868,15 +1868,15 @@
             ]
         },
         {
-            "start_time": 426.06,
-            "end_time": 431.06,
+            "start_time": 427.442,
+            "end_time": 432.442,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "099_Meghan_Markle_12_original.mp4"
+                "file": "099_Meghan_Markle_clip_15_01_Meghan Markle laughs as pony tries to bite Prince Harry_161602_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1887,15 +1887,15 @@
             ]
         },
         {
-            "start_time": 431.06,
-            "end_time": 436.06,
+            "start_time": 432.442,
+            "end_time": 437.442,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "100_Meghan_Markle_clip_27_02_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1_composite.mp4"
+                "file": "100_Meghan_Markle_4_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1906,34 +1906,34 @@
             ]
         },
         {
-            "start_time": 436.06,
-            "end_time": 436.42,
+            "start_time": 437.442,
+            "end_time": 442.442,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.36000000000001364,
-                "file": "101_Meghan_Markle_4_original.mp4"
+                "duration": 5.0,
+                "file": "101_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 101,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 436.42,
-            "end_time": 441.42,
+            "start_time": 442.442,
+            "end_time": 447.442,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "102_Meghan_Markle_clip_21_01_Meghan, Duchess of Sussex, Reveals She Suffered a Miscarriage_161636_chf3_rhea1_composite.mp4"
+                "file": "102_Meghan_Markle_clip_26_01_Prince Harry and Meghan Markle to Reveal All About US Move in Oprah Winfrey Interview_161717_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1944,15 +1944,15 @@
             ]
         },
         {
-            "start_time": 441.42,
-            "end_time": 446.42,
+            "start_time": 447.442,
+            "end_time": 451.8,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "103_Meghan_Markle_clip_06_03_Meghan Markle Makes Surprise Video Call to Smart Works Client Before Interview_2_155645_chf3_rhea1_original.mp4"
+                "duration": 4.358000000000004,
+                "file": "103_Meghan_Markle_clip_13_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1963,15 +1963,15 @@
             ]
         },
         {
-            "start_time": 446.42,
-            "end_time": 447.14000000000004,
+            "start_time": 451.8,
+            "end_time": 456.8,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.7200000000000273,
-                "file": "104_Meghan_Markle_clip_06_01_Harry and Meghan Appear at Ripple of Hope Awards_161444_chf3_rhea1_composite.mp4"
+                "duration": 5.0,
+                "file": "104_Prince_Harry_14_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -1982,15 +1982,15 @@
             ]
         },
         {
-            "start_time": 447.14000000000004,
-            "end_time": 452.14000000000004,
+            "start_time": 456.8,
+            "end_time": 461.8,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "105_Jon_Stewart_7_original.mp4"
+                "file": "105_Prince_Harry_5_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2001,15 +2001,15 @@
             ]
         },
         {
-            "start_time": 452.14000000000004,
-            "end_time": 457.14000000000004,
+            "start_time": 461.8,
+            "end_time": 463.067,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "106_Jon_Stewart_6_composite.mp4"
+                "duration": 1.266999999999996,
+                "file": "106_Prince_Harry_6_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2020,15 +2020,15 @@
             ]
         },
         {
-            "start_time": 457.14000000000004,
-            "end_time": 462.14000000000004,
+            "start_time": 463.067,
+            "end_time": 468.067,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Princess Diana",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "107_Jon_Stewart_14_original.mp4"
+                "file": "107_Princess_Diana_3_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2039,15 +2039,15 @@
             ]
         },
         {
-            "start_time": 462.14000000000004,
-            "end_time": 467.14000000000004,
+            "start_time": 468.067,
+            "end_time": 469.248,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Princess Diana",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "108_Jon_Stewart_24_composite.mp4"
+                "duration": 1.1809999999999832,
+                "file": "108_Princess_Diana_Video Editor_18_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2058,15 +2058,15 @@
             ]
         },
         {
-            "start_time": 467.14000000000004,
-            "end_time": 468.74,
+            "start_time": 469.248,
+            "end_time": 470.255,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "King Charles",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 1.599999999999966,
-                "file": "109_Jon_Stewart_8_original.mp4"
+                "duration": 1.007000000000005,
+                "file": "109_King_Charles_1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2077,15 +2077,15 @@
             ]
         },
         {
-            "start_time": 468.74,
-            "end_time": 473.74,
+            "start_time": 470.255,
+            "end_time": 475.255,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Princess Diana",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "110_Meghan_Markle_zxzx_chf3_rhea1_composite.mp4"
+                "file": "110_Princess_Diana_Video Editor_30_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2096,53 +2096,53 @@
             ]
         },
         {
-            "start_time": 473.74,
-            "end_time": 478.74,
+            "start_time": 475.255,
+            "end_time": 478.08000000000004,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Princess Diana",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "111_Meghan_Markle_asd_chf3_rhea1_original.mp4"
+                "duration": 2.8250000000000455,
+                "file": "111_Princess_Diana_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 111,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 478.74,
-            "end_time": 483.74,
+            "start_time": 478.08000000000004,
+            "end_time": 483.08000000000004,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "112_Meghan_Markle_clip_28_04_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1_composite.mp4"
+                "file": "112_Prince_Harry_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 112,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 483.74,
-            "end_time": 488.74,
+            "start_time": 483.08000000000004,
+            "end_time": 488.08000000000004,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "113_Meghan_Markle_fghgvcb_original.mp4"
+                "file": "113_Prince_Harry_1_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2153,15 +2153,15 @@
             ]
         },
         {
-            "start_time": 488.74,
-            "end_time": 493.74,
+            "start_time": 488.08000000000004,
+            "end_time": 491.36,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "114_Meghan_Markle_dvfv_chf3_rhea1_composite.mp4"
+                "duration": 3.2799999999999727,
+                "file": "114_Prince_Harry_11_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2172,15 +2172,15 @@
             ]
         },
         {
-            "start_time": 493.74,
-            "end_time": 498.74,
+            "start_time": 491.36,
+            "end_time": 496.36,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "115_Meghan_Markle_clip_06_03_Meghan Markle Makes Surprise Video Call to Smart Works Client Before Interview_2_155645_chf3_rhea1_original.mp4"
+                "file": "115_Prince_Harry_16_2_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2191,34 +2191,34 @@
             ]
         },
         {
-            "start_time": 498.74,
-            "end_time": 503.74,
+            "start_time": 496.36,
+            "end_time": 501.36,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "116_Meghan_Markle_1_composite.mp4"
+                "file": "116_Prince_Harry_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 116,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 503.74,
-            "end_time": 508.74,
+            "start_time": 501.36,
+            "end_time": 506.36,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "117_Meghan_Markle_sdsdf_original.mp4"
+                "file": "117_Prince_Harry_clip_6 copy_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2229,15 +2229,15 @@
             ]
         },
         {
-            "start_time": 508.74,
-            "end_time": 513.74,
+            "start_time": 506.36,
+            "end_time": 511.36,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "118_Meghan_Markle_clip_15_02_Meghan Markle laughs as pony tries to bite Prince Harry_161602_chf3_rhea1_composite.mp4"
+                "file": "118_Prince_Harry_clip_1 copy_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2248,15 +2248,15 @@
             ]
         },
         {
-            "start_time": 513.74,
-            "end_time": 518.74,
+            "start_time": 511.36,
+            "end_time": 516.36,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "119_Meghan_Markle_sdfds_original.mp4"
+                "file": "119_Prince_Harry_13_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2267,34 +2267,34 @@
             ]
         },
         {
-            "start_time": 518.74,
-            "end_time": 518.9,
+            "start_time": 516.36,
+            "end_time": 516.984,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 0.15999999999996817,
-                "file": "120_Meghan_Markle_32_composite.mp4"
+                "duration": 0.6240000000000236,
+                "file": "120_Prince_Harry_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 120,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 518.9,
-            "end_time": 523.9,
+            "start_time": 516.984,
+            "end_time": 521.984,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "121_Meghan_Markle_clip_05_02_Meghan Markle Launches \u201840x40\u2019 Initiative to Mark 40th Birthday_155637_chf3_rhea1_original.mp4"
+                "file": "121_Prince_Harry_9_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2305,15 +2305,15 @@
             ]
         },
         {
-            "start_time": 523.9,
-            "end_time": 528.9,
+            "start_time": 521.984,
+            "end_time": 526.984,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "122_Meghan_Markle_clip_04_02_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1_composite.mp4"
+                "file": "122_Prince_Harry_clip_17_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2324,15 +2324,15 @@
             ]
         },
         {
-            "start_time": 528.9,
-            "end_time": 533.9,
+            "start_time": 526.984,
+            "end_time": 531.984,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "123_Meghan_Markle_clip_13_original.mp4"
+                "file": "123_Prince_Harry_3_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2343,34 +2343,34 @@
             ]
         },
         {
-            "start_time": 533.9,
-            "end_time": 538.38,
+            "start_time": 531.984,
+            "end_time": 536.984,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 4.480000000000018,
-                "file": "124_Meghan_Markle_sadsad_chf3_rhea1_composite.mp4"
+                "duration": 5.0,
+                "file": "124_Prince_Harry_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 124,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 538.38,
-            "end_time": 543.38,
+            "start_time": 536.984,
+            "end_time": 538.986,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "125_Meghan_Markle_clip_28_04_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1_original.mp4"
+                "duration": 2.0019999999999527,
+                "file": "125_Prince_Harry_12_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2381,15 +2381,15 @@
             ]
         },
         {
-            "start_time": 543.38,
-            "end_time": 548.38,
+            "start_time": 538.986,
+            "end_time": 543.986,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince William",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "126_Meghan_Markle_zccvcx_composite.mp4"
+                "file": "126_Prince_William_17_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2400,15 +2400,15 @@
             ]
         },
         {
-            "start_time": 548.38,
-            "end_time": 553.38,
+            "start_time": 543.986,
+            "end_time": 546.902,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince William",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "127_Meghan_Markle_4_original.mp4"
+                "duration": 2.9160000000000537,
+                "file": "127_Prince_William_4_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2419,15 +2419,15 @@
             ]
         },
         {
-            "start_time": 553.38,
-            "end_time": 558.38,
+            "start_time": 546.902,
+            "end_time": 548.15,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Oprah",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "128_Meghan_Markle_clip_01_01_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1_composite.mp4"
+                "duration": 1.2479999999999336,
+                "file": "128_Oprah_24_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2438,15 +2438,15 @@
             ]
         },
         {
-            "start_time": 558.38,
-            "end_time": 562.9,
+            "start_time": 548.15,
+            "end_time": 549.82,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 4.519999999999982,
-                "file": "129_Meghan_Markle_sfdsfds_original.mp4"
+                "duration": 1.6700000000000728,
+                "file": "129_Netflix_1 2_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2457,15 +2457,15 @@
             ]
         },
         {
-            "start_time": 562.9,
-            "end_time": 567.9,
+            "start_time": 549.82,
+            "end_time": 554.82,
             "type": "celebrity_overlay",
-            "celebrity": "Netflix",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "130_Netflix_4_composite.mp4"
+                "file": "130_Prince_Harry_clip_03_01_Duchess of Sussex Reveals She's Missing Duke So Much with Events Scheduled Round Archie's Feed Times_161412_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2476,15 +2476,15 @@
             ]
         },
         {
-            "start_time": 567.9,
-            "end_time": 572.9,
+            "start_time": 554.82,
+            "end_time": 559.82,
             "type": "celebrity_overlay",
-            "celebrity": "Netflix",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "131_Netflix_5_original.mp4"
+                "file": "131_Prince_Harry_7_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2495,34 +2495,34 @@
             ]
         },
         {
-            "start_time": 572.9,
-            "end_time": 574.1800000000001,
+            "start_time": 559.82,
+            "end_time": 564.82,
             "type": "celebrity_overlay",
-            "celebrity": "Netflix",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 1.2800000000000864,
-                "file": "132_Netflix_3_composite.mp4"
+                "duration": 5.0,
+                "file": "132_Prince_Harry_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 132,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 574.1800000000001,
-            "end_time": 579.1800000000001,
+            "start_time": 564.82,
+            "end_time": 569.82,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "133_Jon_Stewart_20_original.mp4"
+                "file": "133_Prince_Harry_15_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2533,15 +2533,15 @@
             ]
         },
         {
-            "start_time": 579.1800000000001,
-            "end_time": 584.1800000000001,
+            "start_time": 569.82,
+            "end_time": 574.82,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "134_Jon_Stewart_5_composite.mp4"
+                "file": "134_Prince_Harry_2_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2552,15 +2552,15 @@
             ]
         },
         {
-            "start_time": 584.1800000000001,
-            "end_time": 589.1800000000001,
+            "start_time": 574.82,
+            "end_time": 575.634,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "135_Jon_Stewart_26_original.mp4"
+                "duration": 0.8139999999999645,
+                "file": "135_Prince_Harry_clip_9_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2571,34 +2571,34 @@
             ]
         },
         {
-            "start_time": 589.1800000000001,
-            "end_time": 594.1800000000001,
+            "start_time": 575.634,
+            "end_time": 580.634,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "136_Jon_Stewart_4_composite.mp4"
+                "file": "136_Prince_Harry_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 136,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 594.1800000000001,
-            "end_time": 595.26,
+            "start_time": 580.634,
+            "end_time": 585.24,
             "type": "celebrity_overlay",
-            "celebrity": "Jon Stewart",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 1.0799999999999272,
-                "file": "137_Jon_Stewart_3_original.mp4"
+                "duration": 4.6059999999999945,
+                "file": "137_Prince_Harry_10_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2609,15 +2609,15 @@
             ]
         },
         {
-            "start_time": 595.26,
-            "end_time": 600.26,
+            "start_time": 585.24,
+            "end_time": 590.24,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "138_Oprah_26_composite.mp4"
+                "file": "138_Meghan_Markle_25_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2628,34 +2628,34 @@
             ]
         },
         {
-            "start_time": 600.26,
-            "end_time": 605.26,
+            "start_time": 590.24,
+            "end_time": 595.24,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "139_Oprah_12_original.mp4"
+                "file": "139_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 139,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 605.26,
-            "end_time": 610.26,
+            "start_time": 595.24,
+            "end_time": 600.24,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "140_Oprah_24_composite.mp4"
+                "file": "140_Meghan_Markle_clip_07_02_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2666,15 +2666,15 @@
             ]
         },
         {
-            "start_time": 610.26,
-            "end_time": 614.82,
+            "start_time": 600.24,
+            "end_time": 605.24,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 4.560000000000059,
-                "file": "141_Oprah_37_original.mp4"
+                "duration": 5.0,
+                "file": "141_Meghan_Markle_sadsad_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2685,15 +2685,15 @@
             ]
         },
         {
-            "start_time": 614.82,
-            "end_time": 619.82,
+            "start_time": 605.24,
+            "end_time": 610.24,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "142_Meghan_Markle_asd_chf3_rhea1_composite.mp4"
+                "file": "142_Meghan_Markle_vc_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2704,34 +2704,34 @@
             ]
         },
         {
-            "start_time": 619.82,
-            "end_time": 624.82,
+            "start_time": 610.24,
+            "end_time": 615.24,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "143_Meghan_Markle_clip_04_01_Meghan Markle Discusses Birth of Upcoming Daughter in First TV Appearance Since Oprah Interview_155628_chf3_rhea1_original.mp4"
+                "file": "143_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 143,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 624.82,
-            "end_time": 629.82,
+            "start_time": 615.24,
+            "end_time": 620.24,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "144_Meghan_Markle_xc_composite.mp4"
+                "file": "144_Meghan_Markle_clip_04_02_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2742,15 +2742,15 @@
             ]
         },
         {
-            "start_time": 629.82,
-            "end_time": 634.82,
+            "start_time": 620.24,
+            "end_time": 625.24,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "145_Meghan_Markle_21_original.mp4"
+                "file": "145_Meghan_Markle_sdfds_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2761,15 +2761,15 @@
             ]
         },
         {
-            "start_time": 634.82,
-            "end_time": 639.82,
+            "start_time": 625.24,
+            "end_time": 630.24,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "146_Meghan_Markle_clip_01_02_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1_composite.mp4"
+                "file": "146_Meghan_Markle_clip_07_03_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2780,34 +2780,34 @@
             ]
         },
         {
-            "start_time": 639.82,
-            "end_time": 644.82,
+            "start_time": 630.24,
+            "end_time": 635.24,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
                 "duration": 5.0,
-                "file": "147_Meghan_Markle_asdasdas_chf3_rhea1_original.mp4"
+                "file": "147_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 147,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 644.82,
-            "end_time": 649.82,
+            "start_time": 635.24,
+            "end_time": 635.6800000000001,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 5.0,
-                "file": "148_Meghan_Markle_fghgvcb_composite.mp4"
+                "duration": 0.44000000000005457,
+                "file": "148_Meghan_Markle_11_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2818,15 +2818,15 @@
             ]
         },
         {
-            "start_time": 649.82,
-            "end_time": 654.22,
+            "start_time": 635.6800000000001,
+            "end_time": 640.6800000000001,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Netflix",
             "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
+                "folder": "E:\\Temp\\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals",
                 "type": "video",
-                "duration": 4.399999999999977,
-                "file": "149_Meghan_Markle_clip_02_01_Gleeful Meghan Markle Thanks Billie Eilish For Incredible Donation_155607_chf3_rhea1_original.mp4"
+                "duration": 5.0,
+                "file": "149_Netflix_5_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -2834,25 +2834,6 @@
             "sequence_number": 149,
             "effects_applied": [
                 "trimmed"
-            ]
-        },
-        {
-            "start_time": 654.22,
-            "end_time": 659.22,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "E:\\Temp\\Meghan Left Red Faced After Jon Stewart Calls Her Worst Entrepreneur On TV",
-                "type": "video",
-                "duration": 5.0,
-                "file": "150_Meghan_Markle_clip_07_04_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 150,
-            "effects_applied": [
-                "composite"
             ]
         }
     ]

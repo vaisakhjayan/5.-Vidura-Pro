@@ -67,24 +67,43 @@ def initialize_celebrity_tracker(celebrity_name):
         print(f"📂 Initialized {celebrity_name}: {len(videos)} videos, {len(images)} images")
 
 def choose_media_for_celebrity(celebrity_name):
-    """Choose the next media file for a celebrity, prioritizing variety and cycling through videos"""
+    """Choose the next media file for a celebrity, prioritizing variety and cycling through both videos and images"""
     initialize_celebrity_tracker(celebrity_name)
     tracker = celebrity_clip_trackers[celebrity_name]
     tracker['clip_count'] += 1
     
-    # Check if we need to reset the video pool
+    # Check if we need to reset either pool
     if not tracker['available_videos']:
         # Reset video pool if exhausted
         tracker['available_videos'] = tracker['all_videos'].copy()
         tracker['used_videos'] = []
         print(f"♻️  {celebrity_name}: Reset video pool - all videos used, starting over")
     
-    if tracker['available_videos']:
+    if not tracker['available_images']:
+        # Reset image pool if exhausted
+        tracker['available_images'] = tracker['all_images'].copy()
+        tracker['used_images'] = []
+        print(f"♻️  {celebrity_name}: Reset image pool - all images used, starting over")
+    
+    # Alternate between videos and images if both are available
+    if tracker['available_images'] and (tracker['clip_count'] % 4 == 0):  # Every 4th clip is an image
+        chosen_image = random.choice(tracker['available_images'])
+        tracker['available_images'].remove(chosen_image)
+        tracker['used_images'].append(chosen_image)
+        print(f"🖼️  {celebrity_name}: Using image {chosen_image} ({len(tracker['available_images'])} images left)")
+        return 'image', chosen_image
+    elif tracker['available_videos']:
         chosen_video = random.choice(tracker['available_videos'])
         tracker['available_videos'].remove(chosen_video)
         tracker['used_videos'].append(chosen_video)
         print(f"🎥 {celebrity_name}: Using video {chosen_video} ({len(tracker['available_videos'])} videos left)")
         return 'video', chosen_video
+    elif tracker['available_images']:  # Fallback to images if no videos
+        chosen_image = random.choice(tracker['available_images'])
+        tracker['available_images'].remove(chosen_image)
+        tracker['used_images'].append(chosen_image)
+        print(f"🖼️  {celebrity_name}: Using image {chosen_image} ({len(tracker['available_images'])} images left)")
+        return 'image', chosen_image
     else:
         # Fallback if no media files exist
         print(f"⚠️  {celebrity_name}: No media files found, using placeholder")

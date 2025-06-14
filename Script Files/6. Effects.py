@@ -643,9 +643,25 @@ def process_image_with_ken_burns(segment, ken_burns_exporter):
     
     input_path = folder / filename
     
-    # Create UNIQUE filename with sequence number for perfect timeline ordering
-    celebrity_safe = celebrity.replace(' ', '_').replace('&', 'and')
-    output_filename = f"{sequence_number:03d}_{celebrity_safe}_{Path(filename).stem}_ken_burns.mp4"
+    # Create a filename that maintains order but avoids special characters
+    # Format: 001_Prince_Harry_clip.mp4
+    def sanitize_for_filename(text):
+        # Keep only letters, numbers, and spaces
+        import re
+        # First replace common special characters with spaces
+        text = text.replace('&', ' and ')
+        text = text.replace('-', ' ')
+        text = text.replace('_', ' ')
+        # Then remove any other special characters
+        text = re.sub(r'[^a-zA-Z0-9 ]', '', text)
+        # Replace multiple spaces with single space
+        text = re.sub(r'\s+', ' ', text)
+        # Convert spaces to underscores and trim
+        text = text.strip().replace(' ', '_')
+        return text
+    
+    celebrity_safe = sanitize_for_filename(celebrity)
+    output_filename = f"{sequence_number:03d}_{celebrity_safe}_clip.mp4"
     
     # Render to configured temp folder
     temp_folder = Path(config.OUTPUT_FOLDER)
@@ -661,50 +677,82 @@ def process_image_with_ken_burns(segment, ken_burns_exporter):
     print(f"   Output location: {temp_folder}")
     
     try:
-        # Create Ken Burns exporter with CONSTANT zoom speed configuration
-        # We'll use a fixed optimal zoom duration and adapt to the actual duration
-        optimal_zoom_duration = 4.0  # Sweet spot for smooth zoom
+        # Use a fixed optimal zoom duration for consistent speed
+        OPTIMAL_ZOOM_DURATION = 5.0  # Sweet spot for smooth zoom
         
+        # Create Ken Burns exporter with fixed optimal duration
         exporter = ken_burns_exporter(
             output_width=config.OUTPUT_WIDTH,
             output_height=config.OUTPUT_HEIGHT,
             fps=config.OUTPUT_FPS,
-            duration_seconds=int(duration)  # Use actual duration
+            duration_seconds=int(OPTIMAL_ZOOM_DURATION)  # Always use optimal duration
         )
         
-        # Override the zoom parameters for constant speed
-        if duration <= 2.0:
-            # Short clips: Use gentler zoom range for less jarring effect
-            exporter.max_zoom = 1.1  # Subtle zoom
-            exporter.min_zoom = 1.0
-            print(f"   📐 Short clip optimization: Gentle zoom (1.0x → 1.1x)")
-        elif duration <= 3.0:
-            # Medium clips: Standard zoom range
-            exporter.max_zoom = 1.15
-            exporter.min_zoom = 1.0
-            print(f"   📐 Medium clip optimization: Standard zoom (1.0x → 1.15x)")
+        # Use fixed zoom parameters for consistency
+        exporter.max_zoom = 1.2  # Standard zoom range
+        exporter.min_zoom = 1.0
+        print(f"   📐 Using standard zoom range (1.0x → 1.2x)")
+        
+        # Use a simple temp filename that maintains sequence
+        temp_output = temp_folder / f"{sequence_number:03d}_temp.mp4"
+        
+        # Convert paths to absolute and normalize them
+        input_abs_path = input_path.resolve()
+        temp_abs_path = temp_output.resolve()
+        output_abs_path = output_path.resolve()
+        
+        print(f"   📁 Using absolute paths to avoid encoding issues:")
+        print(f"      Input: {input_abs_path}")
+        print(f"      Temp: {temp_abs_path}")
+        print(f"      Output: {output_abs_path}")
+        
+        # Create Ken Burns effect
+        exporter.export_video(str(input_abs_path), str(temp_abs_path))
+        
+        print(f"   ✓ Ken Burns effect created with optimal duration")
+        print(f"   ✂️  Now trimming to exact duration: {duration:.3f} seconds")
+        
+        # Then use FFmpeg to trim to exact duration
+        import subprocess
+        ffmpeg_cmd = [
+            'ffmpeg', '-y',
+            '-i', str(temp_abs_path),
+            '-t', str(duration),
+            '-c:v', 'libx264',
+            '-preset', 'medium',
+            '-crf', '23',
+            str(output_abs_path)
+        ]
+        
+        result = subprocess.run(ffmpeg_cmd, capture_output=True, text=True)
+        
+        # Clean up temporary file
+        try:
+            if temp_output.exists():
+                temp_output.unlink()
+        except Exception as e:
+            print(f"   ⚠️  Could not delete temp file: {e}")
+        
+        if result.returncode == 0:
+            print(f"   ✓ Successfully trimmed to {duration:.3f}s")
+            print(f"   Output: {output_path}")
+            
+            # Update the segment to point to the new video file
+            segment['media']['file'] = output_filename
+            segment['media']['folder'] = str(temp_folder)  # Update folder location
+            segment['media']['type'] = 'video'  # Now it's a video
+            segment['effects_applied'] = ['ken_burns']  # Track applied effects
+            
+            return True
+            
         else:
-            # Long clips: Can handle more dramatic zoom
-            exporter.max_zoom = 1.2
-            exporter.min_zoom = 1.0
-            print(f"   📐 Long clip optimization: Full zoom (1.0x → 1.2x)")
-        
-        # Export the Ken Burns video with optimized settings
-        exporter.export_video(str(input_path), str(output_path))
-        
-        print(f"   ✓ Ken Burns effect applied with constant zoom speed!")
-        print(f"   Output: {output_path}")
-        
-        # Update the segment to point to the new video file
-        segment['media']['file'] = output_filename
-        segment['media']['folder'] = str(temp_folder)  # Update folder location
-        segment['media']['type'] = 'video'  # Now it's a video
-        segment['effects_applied'] = ['ken_burns']  # Track applied effects
-        
-        return True
-        
+            print(f"   ✗ Failed to trim video: {result.stderr}")
+            return False
+            
     except Exception as e:
         print(f"   ✗ Failed to apply Ken Burns effect: {e}")
+        print(f"   📁 Input path: {input_path}")
+        print(f"   📁 Output path: {output_path}")
         return False
 
 def process_video_with_composite(segment, composite_effect_class, video_index):

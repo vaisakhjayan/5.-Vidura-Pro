@@ -1,704 +1,335 @@
 {
     "video": {
-        "title": "Martin Lawrence And Dave Chappelle FINALLY Speak On Diddy's INSANE Black Party Night",
-        "channel": "Diddy",
-        "page_id": "21202cd2-c142-8042-bcca-f55f54ebd933",
-        "selected_at": "2025-06-14T19:50:52.525877"
+        "title": "Meghan And Harry SHOCK People With Plan To Make Kids FULL TIME Royals",
+        "channel": "Meghan Markle",
+        "page_id": "21202cd2-c142-80fb-b20c-dfb7e78714ce",
+        "selected_at": "2025-06-15T02:31:28.814218"
     },
     "detections": [
         {
             "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 2.48,
-            "formatted_timestamp": "2.48",
-            "segment_start": 2.48,
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 1.448,
+            "formatted_timestamp": "1.45",
+            "segment_start": 0.0,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Netflix",
+            "matched_text": "Netflix",
+            "timestamp": 5.853,
+            "formatted_timestamp": "5.85",
+            "segment_start": 0.0,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 41.04,
+            "formatted_timestamp": "41.04",
+            "segment_start": 41.04,
             "word_level_detection": false
         },
         {
             "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 3.564,
-            "formatted_timestamp": "3.56",
-            "segment_start": 2.48,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy",
-            "timestamp": 4.32,
-            "formatted_timestamp": "4.32",
-            "segment_start": 4.32,
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 82.36,
+            "formatted_timestamp": "1:22.36",
+            "segment_start": 82.36,
             "word_level_detection": false
         },
         {
             "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy",
-            "timestamp": 22.113,
-            "formatted_timestamp": "22.11",
-            "segment_start": 21.32,
+            "keyword": "Netflix",
+            "matched_text": "Netflix",
+            "timestamp": 106.326,
+            "formatted_timestamp": "1:46.33",
+            "segment_start": 105.44,
             "word_level_detection": true
         },
         {
             "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy's",
-            "timestamp": 25.892,
-            "formatted_timestamp": "25.89",
-            "segment_start": 23.72,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin's",
-            "timestamp": 24.207,
-            "formatted_timestamp": "24.21",
-            "segment_start": 23.72,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 35.646,
-            "formatted_timestamp": "35.65",
-            "segment_start": 35.28,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 50.921,
-            "formatted_timestamp": "50.92",
-            "segment_start": 48.84,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 57.002,
-            "formatted_timestamp": "57.00",
-            "segment_start": 56.800000000000004,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 67.48,
-            "formatted_timestamp": "1:07.48",
-            "segment_start": 67.48,
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 111.44,
+            "formatted_timestamp": "1:51.44",
+            "segment_start": 111.44,
             "word_level_detection": false
         },
         {
             "type": "main",
-            "keyword": "Katt Williams",
-            "matched_text": "Katt",
-            "timestamp": 82.462,
-            "formatted_timestamp": "1:22.46",
-            "segment_start": 82.36000000000001,
+            "keyword": "Netflix",
+            "matched_text": "Netflix",
+            "timestamp": 121.966,
+            "formatted_timestamp": "2:01.97",
+            "segment_start": 121.12,
             "word_level_detection": true
         },
         {
             "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 85.187,
-            "formatted_timestamp": "1:25.19",
-            "segment_start": 84.16,
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 174.433,
+            "formatted_timestamp": "2:54.43",
+            "segment_start": 173.62,
             "word_level_detection": true
         },
         {
             "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 90.001,
-            "formatted_timestamp": "1:30.00",
-            "segment_start": 89.88,
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 191.54000000000002,
+            "formatted_timestamp": "3:11.54",
+            "segment_start": 191.54000000000002,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 224.72,
+            "formatted_timestamp": "3:44.72",
+            "segment_start": 224.72,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 238.6,
+            "formatted_timestamp": "3:58.60",
+            "segment_start": 238.6,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Martha Stewart",
+            "matched_text": "Martha",
+            "timestamp": 285.363,
+            "formatted_timestamp": "4:45.36",
+            "segment_start": 282.44,
             "word_level_detection": true
         },
         {
             "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 96.043,
-            "formatted_timestamp": "1:36.04",
-            "segment_start": 93.88,
+            "keyword": "Jon Stewart",
+            "matched_text": "Stewart's",
+            "timestamp": 285.887,
+            "formatted_timestamp": "4:45.89",
+            "segment_start": 282.44,
             "word_level_detection": true
         },
         {
             "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 100.615,
-            "formatted_timestamp": "1:40.61",
-            "segment_start": 99.12,
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 298.309,
+            "formatted_timestamp": "4:58.31",
+            "segment_start": 297.36,
             "word_level_detection": true
         },
         {
             "type": "main",
-            "keyword": "Katt Williams",
-            "matched_text": "Katt",
-            "timestamp": 99.261,
-            "formatted_timestamp": "1:39.26",
-            "segment_start": 99.12,
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 328.504,
+            "formatted_timestamp": "5:28.50",
+            "segment_start": 327.88,
             "word_level_detection": true
         },
         {
             "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 116.422,
-            "formatted_timestamp": "1:56.42",
-            "segment_start": 116.28000000000002,
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 335.526,
+            "formatted_timestamp": "5:35.53",
+            "segment_start": 334.96000000000004,
             "word_level_detection": true
         },
         {
             "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 130.36,
-            "formatted_timestamp": "2:10.36",
-            "segment_start": 127.80000000000001,
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 351.64000000000004,
+            "formatted_timestamp": "5:51.64",
+            "segment_start": 351.64000000000004,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 367.0,
+            "formatted_timestamp": "6:07.00",
+            "segment_start": 367.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Netflix",
+            "matched_text": "Netflix",
+            "timestamp": 372.215,
+            "formatted_timestamp": "6:12.21",
+            "segment_start": 367.0,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 390.731,
+            "formatted_timestamp": "6:30.73",
+            "segment_start": 389.36,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 422.442,
+            "formatted_timestamp": "7:02.44",
+            "segment_start": 422.20000000000005,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 451.8,
+            "formatted_timestamp": "7:31.80",
+            "segment_start": 451.8,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Princess Diana",
+            "matched_text": "Diana's",
+            "timestamp": 463.067,
+            "formatted_timestamp": "7:43.07",
+            "segment_start": 462.08,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "King Charles",
+            "matched_text": "Charles",
+            "timestamp": 469.248,
+            "formatted_timestamp": "7:49.25",
+            "segment_start": 468.04,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Princess Diana",
+            "matched_text": "Diana's",
+            "timestamp": 470.255,
+            "formatted_timestamp": "7:50.25",
+            "segment_start": 468.04,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 478.08000000000004,
+            "formatted_timestamp": "7:58.08",
+            "segment_start": 478.08000000000004,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 478.08000000000004,
+            "formatted_timestamp": "7:58.08",
+            "segment_start": 478.08000000000004,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 491.36,
+            "formatted_timestamp": "8:11.36",
+            "segment_start": 491.36,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 516.984,
+            "formatted_timestamp": "8:36.98",
+            "segment_start": 516.44,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Prince William",
+            "matched_text": "William",
+            "timestamp": 538.986,
+            "formatted_timestamp": "8:58.99",
+            "segment_start": 538.28,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry's",
+            "timestamp": 549.82,
+            "formatted_timestamp": "9:09.82",
+            "segment_start": 546.58,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Netflix",
+            "matched_text": "Netflix",
+            "timestamp": 548.15,
+            "formatted_timestamp": "9:08.15",
+            "segment_start": 546.58,
             "word_level_detection": true
         },
         {
             "type": "main",
             "keyword": "Oprah",
             "matched_text": "Oprah",
-            "timestamp": 132.88,
-            "formatted_timestamp": "2:12.88",
-            "segment_start": 132.88,
+            "timestamp": 546.902,
+            "formatted_timestamp": "9:06.90",
+            "segment_start": 546.58,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry's",
+            "timestamp": 575.634,
+            "formatted_timestamp": "9:35.63",
+            "segment_start": 574.2800000000001,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 585.24,
+            "formatted_timestamp": "9:45.24",
+            "segment_start": 585.24,
             "word_level_detection": false
         },
         {
             "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 137.52,
-            "formatted_timestamp": "2:17.52",
-            "segment_start": 137.52,
+            "keyword": "Netflix",
+            "matched_text": "Netflix",
+            "timestamp": 635.6800000000001,
+            "formatted_timestamp": "10:35.68",
+            "segment_start": 635.6800000000001,
             "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 144.155,
-            "formatted_timestamp": "2:24.16",
-            "segment_start": 142.0,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Cassie",
-            "matched_text": "Cassie",
-            "timestamp": 156.027,
-            "formatted_timestamp": "2:36.03",
-            "segment_start": 152.32,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy",
-            "timestamp": 157.72,
-            "formatted_timestamp": "2:37.72",
-            "segment_start": 157.72,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 159.329,
-            "formatted_timestamp": "2:39.33",
-            "segment_start": 157.72,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy's",
-            "timestamp": 173.315,
-            "formatted_timestamp": "2:53.31",
-            "segment_start": 171.36,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 171.36,
-            "formatted_timestamp": "2:51.36",
-            "segment_start": 171.36,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 182.164,
-            "formatted_timestamp": "3:02.16",
-            "segment_start": 181.86,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 186.318,
-            "formatted_timestamp": "3:06.32",
-            "segment_start": 184.58,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy",
-            "timestamp": 191.625,
-            "formatted_timestamp": "3:11.62",
-            "segment_start": 188.5,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave's",
-            "timestamp": 188.923,
-            "formatted_timestamp": "3:08.92",
-            "segment_start": 188.5,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 202.926,
-            "formatted_timestamp": "3:22.93",
-            "segment_start": 199.22,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Jaguar Wright",
-            "matched_text": "Jaguar",
-            "timestamp": 200.066,
-            "formatted_timestamp": "3:20.07",
-            "segment_start": 199.22,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 208.794,
-            "formatted_timestamp": "3:28.79",
-            "segment_start": 207.14,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 207.14,
-            "formatted_timestamp": "3:27.14",
-            "segment_start": 207.14,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 217.74,
-            "formatted_timestamp": "3:37.74",
-            "segment_start": 217.74,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Katt Williams",
-            "matched_text": "Katt",
-            "timestamp": 220.887,
-            "formatted_timestamp": "3:40.89",
-            "segment_start": 217.74,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Katt Williams",
-            "matched_text": "Katt",
-            "timestamp": 224.42,
-            "formatted_timestamp": "3:44.42",
-            "segment_start": 222.38,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 226.964,
-            "formatted_timestamp": "3:46.96",
-            "segment_start": 226.38,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Katt Williams",
-            "matched_text": "Katt",
-            "timestamp": 226.38,
-            "formatted_timestamp": "3:46.38",
-            "segment_start": 226.38,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 232.224,
-            "formatted_timestamp": "3:52.22",
-            "segment_start": 231.57999999999998,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 242.86,
-            "formatted_timestamp": "4:02.86",
-            "segment_start": 242.85999999999999,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Katt Williams",
-            "matched_text": "Katt",
-            "timestamp": 247.74,
-            "formatted_timestamp": "4:07.74",
-            "segment_start": 247.74,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 253.18,
-            "formatted_timestamp": "4:13.18",
-            "segment_start": 253.18,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 258.54,
-            "formatted_timestamp": "4:18.54",
-            "segment_start": 258.54,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy",
-            "timestamp": 274.68,
-            "formatted_timestamp": "4:34.68",
-            "segment_start": 274.68,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy",
-            "timestamp": 290.7,
-            "formatted_timestamp": "4:50.70",
-            "segment_start": 290.7,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy's",
-            "timestamp": 302.588,
-            "formatted_timestamp": "5:02.59",
-            "segment_start": 299.78,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 300.083,
-            "formatted_timestamp": "5:00.08",
-            "segment_start": 299.78,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 313.717,
-            "formatted_timestamp": "5:13.72",
-            "segment_start": 312.42,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy",
-            "timestamp": 315.884,
-            "formatted_timestamp": "5:15.88",
-            "segment_start": 315.42,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 318.243,
-            "formatted_timestamp": "5:18.24",
-            "segment_start": 315.42,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Meek Mill",
-            "matched_text": "Meek",
-            "timestamp": 316.448,
-            "formatted_timestamp": "5:16.45",
-            "segment_start": 315.42,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 343.392,
-            "formatted_timestamp": "5:43.39",
-            "segment_start": 342.54,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 347.456,
-            "formatted_timestamp": "5:47.46",
-            "segment_start": 345.44,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 365.34,
-            "formatted_timestamp": "6:05.34",
-            "segment_start": 365.34,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 402.646,
-            "formatted_timestamp": "6:42.65",
-            "segment_start": 401.94,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 414.26,
-            "formatted_timestamp": "6:54.26",
-            "segment_start": 414.26,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 442.689,
-            "formatted_timestamp": "7:22.69",
-            "segment_start": 441.14,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 443.312,
-            "formatted_timestamp": "7:23.31",
-            "segment_start": 441.14,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 448.09999999999997,
-            "formatted_timestamp": "7:28.10",
-            "segment_start": 448.09999999999997,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 466.535,
-            "formatted_timestamp": "7:46.54",
-            "segment_start": 464.88,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Will Smith",
-            "matched_text": "Will",
-            "timestamp": 480.02000000000004,
-            "formatted_timestamp": "8:00.02",
-            "segment_start": 480.02000000000004,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 484.184,
-            "formatted_timestamp": "8:04.18",
-            "segment_start": 481.86,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 506.54,
-            "formatted_timestamp": "8:26.54",
-            "segment_start": 506.54,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 527.391,
-            "formatted_timestamp": "8:47.39",
-            "segment_start": 526.22,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 544.199,
-            "formatted_timestamp": "9:04.20",
-            "segment_start": 538.9200000000001,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 559.97,
-            "formatted_timestamp": "9:19.97",
-            "segment_start": 559.4,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy",
-            "timestamp": 561.68,
-            "formatted_timestamp": "9:21.68",
-            "segment_start": 561.68,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 566.185,
-            "formatted_timestamp": "9:26.18",
-            "segment_start": 565.6,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy",
-            "timestamp": 577.346,
-            "formatted_timestamp": "9:37.35",
-            "segment_start": 574.08,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 585.996,
-            "formatted_timestamp": "9:46.00",
-            "segment_start": 584.08,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Jaguar Wright",
-            "matched_text": "Jaguar",
-            "timestamp": 584.604,
-            "formatted_timestamp": "9:44.60",
-            "segment_start": 584.08,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 609.72,
-            "formatted_timestamp": "10:09.72",
-            "segment_start": 608.32,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 609.396,
-            "formatted_timestamp": "10:09.40",
-            "segment_start": 608.32,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Diddy",
-            "matched_text": "Diddy's",
-            "timestamp": 622.875,
-            "formatted_timestamp": "10:22.88",
-            "segment_start": 622.12,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Martin Lawrence",
-            "matched_text": "Martin",
-            "timestamp": 632.925,
-            "formatted_timestamp": "10:32.92",
-            "segment_start": 632.72,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Dave Chappelle",
-            "matched_text": "Dave",
-            "timestamp": 633.314,
-            "formatted_timestamp": "10:33.31",
-            "segment_start": 632.72,
-            "word_level_detection": true
         }
     ],
-    "timestamp": "2025-06-14T19:53:25.517375"
+    "timestamp": "2025-06-15T02:32:32.130621"
 }

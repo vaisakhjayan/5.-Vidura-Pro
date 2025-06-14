@@ -2,243 +2,159 @@
 CELEBRITY KEYWORD DETECTIONS SUMMARY
 ================================================================================
 
-Video Title: Martin Lawrence And Dave Chappelle FINALLY Speak On Diddy's INSANE Black Party Night
-Channel: Diddy
-Page ID: 21202cd2-c142-8042-bcca-f55f54ebd933
-Video Selected: 2025-06-14T19:50:52.525877
-Detection Generated: 2025-06-14T19:53:25.517375
+Video Title: Meghan And Harry SHOCK People With Plan To Make Kids FULL TIME Royals
+Channel: Meghan Markle
+Page ID: 21202cd2-c142-80fb-b20c-dfb7e78714ce
+Video Selected: 2025-06-15T02:31:28.814218
+Detection Generated: 2025-06-15T02:32:32.130621
 
-Total Detections: 77
+Total Detections: 36
 
 --------------------------------------------------------------------------------
 DETECTION TIMELINE (Actual Order)
 --------------------------------------------------------------------------------
 
-   1. 📍 2.48 (2.48s) - MARTIN LAWRENCE - Partial Match: "Martin"
+   1. 📍 1.45 (1.448s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   2. 📍 3.56 (3.564s) - DAVE CHAPPELLE - Partial Match: "Dave"
+   2. 📍 5.85 (5.853s) - NETFLIX - Exact Match: "Netflix"
       Type: main
-   3. 📍 4.32 (4.32s) - DIDDY - Exact Match: "Diddy"
+   3. 📍 41.04 (41.04s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   4. 📍 22.11 (22.113s) - DIDDY - Exact Match: "Diddy"
+   4. 📍 1:22.36 (82.36s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   5. 📍 24.21 (24.207s) - MARTIN LAWRENCE - Partial Match: "Martin's"
+   5. 📍 1:46.33 (106.326s) - NETFLIX - Exact Match: "Netflix"
       Type: main
-   6. 📍 25.89 (25.892s) - DIDDY - Partial Match: "Diddy's"
+   6. 📍 1:51.44 (111.44s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   7. 📍 35.65 (35.646s) - MARTIN LAWRENCE - Partial Match: "Martin"
+   7. 📍 2:01.97 (121.966s) - NETFLIX - Exact Match: "Netflix"
       Type: main
-   8. 📍 50.92 (50.921s) - MARTIN LAWRENCE - Partial Match: "Martin"
+   8. 📍 2:54.43 (174.433s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   9. 📍 57.00 (57.002s) - MARTIN LAWRENCE - Partial Match: "Martin"
+   9. 📍 3:11.54 (191.54000000000002s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   10. 📍 1:07.48 (67.48s) - MARTIN LAWRENCE - Partial Match: "Martin"
+   10. 📍 3:44.72 (224.72s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   11. 📍 1:22.46 (82.462s) - KATT WILLIAMS - Partial Match: "Katt"
+   11. 📍 3:58.60 (238.6s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   12. 📍 1:25.19 (85.187s) - MARTIN LAWRENCE - Partial Match: "Martin"
+   12. 📍 4:45.36 (285.363s) - MARTHA STEWART - Partial Match: "Martha"
       Type: main
-   13. 📍 1:30.00 (90.001s) - MARTIN LAWRENCE - Partial Match: "Martin"
+   13. 📍 4:45.89 (285.887s) - JON STEWART - Partial Match: "Stewart's"
       Type: main
-   14. 📍 1:36.04 (96.043s) - MARTIN LAWRENCE - Partial Match: "Martin"
+   14. 📍 4:58.31 (298.309s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   15. 📍 1:39.26 (99.261s) - KATT WILLIAMS - Partial Match: "Katt"
+   15. 📍 5:28.50 (328.504s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   16. 📍 1:40.61 (100.615s) - MARTIN LAWRENCE - Partial Match: "Martin"
+   16. 📍 5:35.53 (335.526s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   17. 📍 1:56.42 (116.422s) - DAVE CHAPPELLE - Partial Match: "Dave"
+   17. 📍 5:51.64 (351.64000000000004s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   18. 📍 2:10.36 (130.36s) - DAVE CHAPPELLE - Partial Match: "Dave"
+   18. 📍 6:07.00 (367.0s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   19. 📍 2:12.88 (132.88s) - OPRAH - Exact Match: "Oprah"
+   19. 📍 6:12.21 (372.215s) - NETFLIX - Exact Match: "Netflix"
       Type: main
-   20. 📍 2:17.52 (137.52s) - MARTIN LAWRENCE - Partial Match: "Martin"
+   20. 📍 6:30.73 (390.731s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   21. 📍 2:24.16 (144.155s) - DAVE CHAPPELLE - Partial Match: "Dave"
+   21. 📍 7:02.44 (422.442s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   22. 📍 2:36.03 (156.027s) - CASSIE - Exact Match: "Cassie"
+   22. 📍 7:31.80 (451.8s) - PRINCE HARRY - Partial Match: "Harry"
       Type: main
-   23. 📍 2:37.72 (157.72s) - DIDDY - Exact Match: "Diddy"
+   23. 📍 7:43.07 (463.067s) - PRINCESS DIANA - Partial Match: "Diana's"
       Type: main
-   24. 📍 2:39.33 (159.329s) - DAVE CHAPPELLE - Partial Match: "Dave"
+   24. 📍 7:49.25 (469.248s) - KING CHARLES - Partial Match: "Charles"
       Type: main
-   25. 📍 2:51.36 (171.36s) - DAVE CHAPPELLE - Partial Match: "Dave"
+   25. 📍 7:50.25 (470.255s) - PRINCESS DIANA - Partial Match: "Diana's"
       Type: main
-   26. 📍 2:53.31 (173.315s) - DIDDY - Partial Match: "Diddy's"
+   26. 📍 7:58.08 (478.08000000000004s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   27. 📍 3:02.16 (182.164s) - DAVE CHAPPELLE - Partial Match: "Dave"
+   27. 📍 7:58.08 (478.08000000000004s) - PRINCE HARRY - Partial Match: "Harry"
       Type: main
-   28. 📍 3:06.32 (186.318s) - DAVE CHAPPELLE - Partial Match: "Dave"
+   28. 📍 8:11.36 (491.36s) - PRINCE HARRY - Partial Match: "Harry"
       Type: main
-   29. 📍 3:08.92 (188.923s) - DAVE CHAPPELLE - Partial Match: "Dave's"
+   29. 📍 8:36.98 (516.984s) - PRINCE HARRY - Partial Match: "Harry"
       Type: main
-   30. 📍 3:11.62 (191.625s) - DIDDY - Exact Match: "Diddy"
+   30. 📍 8:58.99 (538.986s) - PRINCE WILLIAM - Partial Match: "William"
       Type: main
-   31. 📍 3:20.07 (200.066s) - JAGUAR WRIGHT - Partial Match: "Jaguar"
+   31. 📍 9:06.90 (546.902s) - OPRAH - Exact Match: "Oprah"
       Type: main
-   32. 📍 3:22.93 (202.926s) - DAVE CHAPPELLE - Partial Match: "Dave"
+   32. 📍 9:08.15 (548.15s) - NETFLIX - Exact Match: "Netflix"
       Type: main
-   33. 📍 3:27.14 (207.14s) - DAVE CHAPPELLE - Partial Match: "Dave"
+   33. 📍 9:09.82 (549.82s) - PRINCE HARRY - Partial Match: "Harry's"
       Type: main
-   34. 📍 3:28.79 (208.794s) - MARTIN LAWRENCE - Partial Match: "Martin"
+   34. 📍 9:35.63 (575.634s) - PRINCE HARRY - Partial Match: "Harry's"
       Type: main
-   35. 📍 3:37.74 (217.74s) - DAVE CHAPPELLE - Partial Match: "Dave"
+   35. 📍 9:45.24 (585.24s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   36. 📍 3:40.89 (220.887s) - KATT WILLIAMS - Partial Match: "Katt"
-      Type: main
-   37. 📍 3:44.42 (224.42s) - KATT WILLIAMS - Partial Match: "Katt"
-      Type: main
-   38. 📍 3:46.38 (226.38s) - KATT WILLIAMS - Partial Match: "Katt"
-      Type: main
-   39. 📍 3:46.96 (226.964s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   40. 📍 3:52.22 (232.224s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   41. 📍 4:02.86 (242.86s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   42. 📍 4:07.74 (247.74s) - KATT WILLIAMS - Partial Match: "Katt"
-      Type: main
-   43. 📍 4:13.18 (253.18s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   44. 📍 4:18.54 (258.54s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   45. 📍 4:34.68 (274.68s) - DIDDY - Exact Match: "Diddy"
-      Type: main
-   46. 📍 4:50.70 (290.7s) - DIDDY - Exact Match: "Diddy"
-      Type: main
-   47. 📍 5:00.08 (300.083s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   48. 📍 5:02.59 (302.588s) - DIDDY - Partial Match: "Diddy's"
-      Type: main
-   49. 📍 5:13.72 (313.717s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   50. 📍 5:15.88 (315.884s) - DIDDY - Exact Match: "Diddy"
-      Type: main
-   51. 📍 5:16.45 (316.448s) - MEEK MILL - Partial Match: "Meek"
-      Type: main
-   52. 📍 5:18.24 (318.243s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   53. 📍 5:43.39 (343.392s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   54. 📍 5:47.46 (347.456s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   55. 📍 6:05.34 (365.34s) - MARTIN LAWRENCE - Partial Match: "Martin"
-      Type: main
-   56. 📍 6:42.65 (402.646s) - MARTIN LAWRENCE - Partial Match: "Martin"
-      Type: main
-   57. 📍 6:54.26 (414.26s) - MARTIN LAWRENCE - Partial Match: "Martin"
-      Type: main
-   58. 📍 7:22.69 (442.689s) - MARTIN LAWRENCE - Partial Match: "Martin"
-      Type: main
-   59. 📍 7:23.31 (443.312s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   60. 📍 7:28.10 (448.09999999999997s) - MARTIN LAWRENCE - Partial Match: "Martin"
-      Type: main
-   61. 📍 7:46.54 (466.535s) - MARTIN LAWRENCE - Partial Match: "Martin"
-      Type: main
-   62. 📍 8:00.02 (480.02000000000004s) - WILL SMITH - Partial Match: "Will"
-      Type: main
-   63. 📍 8:04.18 (484.184s) - MARTIN LAWRENCE - Partial Match: "Martin"
-      Type: main
-   64. 📍 8:26.54 (506.54s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   65. 📍 8:47.39 (527.391s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   66. 📍 9:04.20 (544.199s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   67. 📍 9:19.97 (559.97s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   68. 📍 9:21.68 (561.68s) - DIDDY - Exact Match: "Diddy"
-      Type: main
-   69. 📍 9:26.18 (566.185s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   70. 📍 9:37.35 (577.346s) - DIDDY - Exact Match: "Diddy"
-      Type: main
-   71. 📍 9:44.60 (584.604s) - JAGUAR WRIGHT - Partial Match: "Jaguar"
-      Type: main
-   72. 📍 9:46.00 (585.996s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   73. 📍 10:09.40 (609.396s) - DAVE CHAPPELLE - Partial Match: "Dave"
-      Type: main
-   74. 📍 10:09.72 (609.72s) - MARTIN LAWRENCE - Partial Match: "Martin"
-      Type: main
-   75. 📍 10:22.88 (622.875s) - DIDDY - Partial Match: "Diddy's"
-      Type: main
-   76. 📍 10:32.92 (632.925s) - MARTIN LAWRENCE - Partial Match: "Martin"
-      Type: main
-   77. 📍 10:33.31 (633.314s) - DAVE CHAPPELLE - Partial Match: "Dave"
+   36. 📍 10:35.68 (635.6800000000001s) - NETFLIX - Exact Match: "Netflix"
       Type: main
 
 --------------------------------------------------------------------------------
 DETECTION STATISTICS
 --------------------------------------------------------------------------------
 
-Martin Lawrence:
-  • Total Detections: 21
-  • Match Type: Partial ("Martin")
-  • First Appearance: 2.48
-  • Last Appearance: 10:32.92
-  • Detection Span: 630.44 seconds
+Meghan Markle:
+  • Total Detections: 17
+  • Match Type: Partial ("Megan")
+  • First Appearance: 1.45
+  • Last Appearance: 9:45.24
+  • Detection Span: 583.79 seconds
 
-Dave Chappelle:
-  • Total Detections: 31
-  • Match Type: Partial ("Dave")
-  • First Appearance: 3.56
-  • Last Appearance: 10:33.31
-  • Detection Span: 629.75 seconds
-
-Diddy:
-  • Total Detections: 13
-  • Match Type: Exact
-  • First Appearance: 4.32
-  • Last Appearance: 10:22.88
-  • Detection Span: 618.55 seconds
-
-Katt Williams:
+Netflix:
   • Total Detections: 6
-  • Match Type: Partial ("Katt")
-  • First Appearance: 1:22.46
-  • Last Appearance: 4:07.74
-  • Detection Span: 165.28 seconds
+  • Match Type: Exact
+  • First Appearance: 5.85
+  • Last Appearance: 10:35.68
+  • Detection Span: 629.83 seconds
+
+Martha Stewart:
+  • Total Detections: 1
+  • Match Type: Partial ("Martha")
+  • First Appearance: 4:45.36
+
+Jon Stewart:
+  • Total Detections: 1
+  • Match Type: Partial ("Stewart's")
+  • First Appearance: 4:45.89
+
+Prince Harry:
+  • Total Detections: 6
+  • Match Type: Partial ("Harry")
+  • First Appearance: 7:31.80
+  • Last Appearance: 9:35.63
+  • Detection Span: 123.83 seconds
+
+Princess Diana:
+  • Total Detections: 2
+  • Match Type: Partial ("Diana's")
+  • First Appearance: 7:43.07
+  • Last Appearance: 7:50.25
+  • Detection Span: 7.19 seconds
+
+King Charles:
+  • Total Detections: 1
+  • Match Type: Partial ("Charles")
+  • First Appearance: 7:49.25
+
+Prince William:
+  • Total Detections: 1
+  • Match Type: Partial ("William")
+  • First Appearance: 8:58.99
 
 Oprah:
   • Total Detections: 1
   • Match Type: Exact
-  • First Appearance: 2:12.88
+  • First Appearance: 9:06.90
 
-Cassie:
-  • Total Detections: 1
-  • Match Type: Exact
-  • First Appearance: 2:36.03
-
-Jaguar Wright:
-  • Total Detections: 2
-  • Match Type: Partial ("Jaguar")
-  • First Appearance: 3:20.07
-  • Last Appearance: 9:44.60
-  • Detection Span: 384.54 seconds
-
-Meek Mill:
-  • Total Detections: 1
-  • Match Type: Partial ("Meek")
-  • First Appearance: 5:16.45
-
-Will Smith:
-  • Total Detections: 1
-  • Match Type: Partial ("Will")
-  • First Appearance: 8:00.02
-
-Total Detection Window: 633.31 seconds
-Detection Frequency: 1 every 8.22 seconds
+Total Detection Window: 635.68 seconds
+Detection Frequency: 1 every 17.66 seconds
 
 --------------------------------------------------------------------------------
 DETECTION SUMMARY
 --------------------------------------------------------------------------------
 
 ✅ 9 unique celebrities detected
-✅ 77 total keyword matches found
+✅ 36 total keyword matches found
 ✅ Mix of exact and partial matches
-✅ Detections span 633.31 seconds of content
+✅ Detections span 635.68 seconds of content
 
 ================================================================================
 End of Detection Summary
