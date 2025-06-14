@@ -2,514 +2,667 @@
 CELEBRITY CLIP PLACEMENT SUMMARY
 ================================================================================
 
-Generated: 2025-06-14 01:17:55
-Total Segments: 150
+Generated: 2025-06-14 19:54:04
+Total Segments: 169
 
 --------------------------------------------------------------------------------
 TIMELINE OVERVIEW
 --------------------------------------------------------------------------------
 
-🎬 JON STEWART
+🎬 MARTIN LAWRENCE
 ----------------------------------------
-    1. 🎥 00:05.15 → 00:08.03 (2.88s) (Video) - 16.mp4
+    1. 🎥 00:02.48 → 00:03.56 (1.08s) (Video) - 12.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
-🎬 MEGHAN MARKLE
+🎬 DAVE CHAPPELLE
 ----------------------------------------
-    2. 🎥 00:08.03 → 00:13.03 (5.00s) (Video) - 26.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    3. 🎥 00:13.03 → 00:18.03 (5.00s) (Video) - asdasdas_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    4. 🎥 00:18.03 → 00:23.03 (5.00s) (Video) - 1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    5. 🎥 00:23.03 → 00:28.03 (5.00s) (Video) - cvcxvx.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    6. 🎥 00:28.03 → 00:33.03 (5.00s) (Video) - clip_01_02_Beyond the Tabloids_ Exploring Meghan Markle’s Journey Over the Years_161345_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    7. 🎥 00:33.03 → 00:34.60 (1.57s) (Video) - clip_24_01_Prince Harry and Meghan Markle arrive at Commonwealth event_161703_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    8. 🎥 00:34.60 → 00:39.60 (5.00s) (Video) - clip_05_03_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    9. 🎥 00:39.60 → 00:44.60 (5.00s) (Video) - clip_04_02_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    10. 🎥 00:44.60 → 00:49.60 (5.00s) (Video) - 111.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    11. 🎥 00:49.60 → 00:54.60 (5.00s) (Video) - 27.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    12. 🎥 00:54.60 → 00:59.60 (5.00s) (Video) - clip_26_01_Prince Harry and Meghan Markle to Reveal All About US Move in Oprah Winfrey Interview_161717_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    13. 🎥 00:59.60 → 01:04.60 (5.00s) (Video) - clip_14_02_Meghan Markle joins the royals for Christmas service_161556_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    14. 🎥 01:04.60 → 01:09.60 (5.00s) (Video) - 8.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    15. 🎥 01:09.60 → 01:14.60 (5.00s) (Video) - clip_06_02_Meghan Markle Makes Surprise Video Call to Smart Works Client Before Interview_2_155645_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    16. 🎥 01:14.60 → 01:19.60 (5.00s) (Video) - clip_14_01_Meghan Markle joins the royals for Christmas service_161556_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    17. 🎥 01:19.60 → 01:24.60 (5.00s) (Video) - dgfdd.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    18. 🎥 01:24.60 → 01:29.60 (5.00s) (Video) - zcxzxzc.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    19. 🎥 01:29.60 → 01:29.67 (0.07s) (Video) - clip_23_04_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    20. 🎥 01:29.67 → 01:34.67 (5.00s) (Video) - clip_21_04_Meghan, Duchess of Sussex, Reveals She Suffered a Miscarriage_161636.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    21. 🎥 01:34.67 → 01:39.67 (5.00s) (Video) - sdsdf.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    22. 🎥 01:39.67 → 01:44.63 (4.96s) (Video) - 1_1_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    23. 🎥 01:44.63 → 01:45.13 (0.50s) (Video) - clip_02_01_Gleeful Meghan Markle Thanks Billie Eilish For Incredible Donation_155607_chf3_rhea1.mp4
+    2. 🎥 00:03.56 → 00:04.32 (0.76s) (Video) - placeholder.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
-🎬 PRINCE HARRY
+🎬 DIDDY
 ----------------------------------------
-    24. 🎥 01:45.13 → 01:50.13 (5.00s) (Video) - 4_chf3_rhea1.mp4
+    3. 🎥 00:04.32 → 00:09.32 (5.00s) (Video) - 69.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    25. 🎥 01:50.13 → 01:52.52 (2.39s) (Video) - 10_chf3_rhea1.mp4
+    4. 🎥 00:09.32 → 00:14.32 (5.00s) (Video) - 74.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    5. 🎥 00:14.32 → 00:19.32 (5.00s) (Video) - 43.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    6. 🎥 00:19.32 → 00:22.11 (2.79s) (Video) - 23.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    7. 🎥 00:22.11 → 00:24.21 (2.09s) (Video) - 32.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
-🎬 MEGHAN MARKLE
+🎬 MARTIN LAWRENCE
 ----------------------------------------
-    26. 🎥 01:52.52 → 01:57.52 (5.00s) (Video) - 10.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    27. 🎥 01:57.52 → 02:02.52 (5.00s) (Video) - clip_07_02_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    28. 🎥 02:02.52 → 02:07.52 (5.00s) (Video) - clip_28_01_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    29. 🎥 02:07.52 → 02:12.52 (5.00s) (Video) - clip_07_02_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    30. 🎥 02:12.52 → 02:17.52 (5.00s) (Video) - 4_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    31. 🎥 02:17.52 → 02:22.52 (5.00s) (Video) - 21.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    32. 🎥 02:22.52 → 02:27.52 (5.00s) (Video) - clip_01_01_Beyond the Tabloids_ Exploring Meghan Markle’s Journey Over the Years_161345_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    33. 🎥 02:27.52 → 02:30.36 (2.84s) (Video) - 24.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    34. 🎥 02:30.36 → 02:35.36 (5.00s) (Video) - 32.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    35. 🎥 02:35.36 → 02:40.36 (5.00s) (Video) - clip_19_01_Meghan shares a hug and dance with cute Kiwi toddler_161629_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    36. 🎥 02:40.36 → 02:43.36 (3.00s) (Video) - sfdsfds.mp4
+    8. 🎥 00:24.21 → 00:25.89 (1.68s) (Video) - 6.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
-🎬 NETFLIX
+🎬 DIDDY
 ----------------------------------------
-    37. 🎥 02:43.36 → 02:48.36 (5.00s) (Video) - 6.mp4
+    9. 🎥 00:25.89 → 00:30.89 (5.00s) (Video) - 3.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    38. 🎥 02:48.36 → 02:50.89 (2.53s) (Video) - 2.mp4
+    10. 🎥 00:30.89 → 00:35.65 (4.75s) (Video) - 61.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
-🎬 MEGHAN MARKLE
+🎬 MARTIN LAWRENCE
 ----------------------------------------
-    39. 🎥 02:50.89 → 02:51.28 (0.38s) (Video) - clip_01_02_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1.mp4
+    11. 🎥 00:35.65 → 00:40.65 (5.00s) (Video) - 23.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    12. 🎥 00:40.65 → 00:45.65 (5.00s) (Video) - 26.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    13. 🎥 00:45.65 → 00:50.65 (5.00s) (Video) - 17.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    14. 🎥 00:50.65 → 00:50.92 (0.27s) (Video) - 18.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    15. 🎥 00:50.92 → 00:55.92 (5.00s) (Video) - 22.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    16. 🎥 00:55.92 → 00:57.00 (1.08s) (Video) - 9.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    17. 🎥 00:57.00 → 01:02.00 (5.00s) (Video) - 25.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    18. 🎥 01:02.00 → 01:07.00 (5.00s) (Video) - 2.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    19. 🎥 01:07.00 → 01:07.48 (0.48s) (Video) - 24.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    20. 🎥 01:07.48 → 01:12.48 (5.00s) (Video) - 14.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    21. 🎥 01:12.48 → 01:17.48 (5.00s) (Video) - 15.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    22. 🎥 01:17.48 → 01:22.46 (4.98s) (Video) - 20.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
-🎬 PRINCE HARRY
+🎬 KATT WILLIAMS
 ----------------------------------------
-    40. 🎥 02:51.28 → 02:56.28 (5.00s) (Video) - 8_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    41. 🎥 02:56.28 → 03:01.28 (5.00s) (Video) - 14_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    42. 🎥 03:01.28 → 03:06.28 (5.00s) (Video) - 3_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    43. 🎥 03:06.28 → 03:06.59 (0.32s) (Video) - 15_chf3_rhea1.mp4
+    23. 🎥 01:22.46 → 01:25.19 (2.72s) (Video) - 8.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
-🎬 MEGHAN MARKLE
+🎬 MARTIN LAWRENCE
 ----------------------------------------
-    44. 🎥 03:06.59 → 03:11.59 (5.00s) (Video) - 12321_1_chf3_rhea1.mp4
+    24. 🎥 01:25.19 → 01:30.00 (4.81s) (Video) - 3.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    45. 🎥 03:11.59 → 03:16.59 (5.00s) (Video) - clip_07_04_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1.mp4
+    25. 🎥 01:30.00 → 01:35.00 (5.00s) (Video) - 16.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    46. 🎥 03:16.59 → 03:21.59 (5.00s) (Video) - clip_24_03_Prince Harry and Meghan Markle arrive at Commonwealth event_161703_chf3_rhea1.mp4
+    26. 🎥 01:35.00 → 01:36.04 (1.04s) (Video) - 8.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    47. 🎥 03:21.59 → 03:26.59 (5.00s) (Video) - clip_24_02_Prince Harry and Meghan Markle arrive at Commonwealth event_161703_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    48. 🎥 03:26.59 → 03:31.59 (5.00s) (Video) - clip_09_01_Harry and Meghan Make Surprise Appearance with William and Kate at Windsor_161523_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    49. 🎥 03:31.59 → 03:32.24 (0.65s) (Video) - 30.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    50. 🎥 03:32.24 → 03:37.24 (5.00s) (Video) - clip_03_03_Highlights You Missed From Harry and Meghan’s Invictus Games Trip_155616_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    51. 🎥 03:37.24 → 03:42.24 (5.00s) (Video) - 28.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    52. 🎥 03:42.24 → 03:47.24 (5.00s) (Video) - clip_07_01_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    53. 🎥 03:47.24 → 03:50.48 (3.24s) (Video) - clip_27_01_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1.mp4
+    27. 🎥 01:36.04 → 01:39.26 (3.22s) (Video) - 34.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
-🎬 JON STEWART
+🎬 KATT WILLIAMS
 ----------------------------------------
-    54. 🎥 03:50.48 → 03:55.48 (5.00s) (Video) - 2.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    55. 🎥 03:55.48 → 03:56.08 (0.60s) (Video) - 19.mp4
+    28. 🎥 01:39.26 → 01:40.61 (1.35s) (Video) - 19.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
-🎬 MEGHAN MARKLE
+🎬 MARTIN LAWRENCE
 ----------------------------------------
-    56. 🎥 03:56.08 → 04:01.08 (5.00s) (Video) - clip_07_01_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1.mp4
+    29. 🎥 01:40.61 → 01:45.61 (5.00s) (Video) - 5.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    57. 🎥 04:01.08 → 04:06.08 (5.00s) (Video) - clip_15_02_Meghan Markle laughs as pony tries to bite Prince Harry_161602_chf3_rhea1.mp4
+    30. 🎥 01:45.61 → 01:50.61 (5.00s) (Video) - 28.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    58. 🎥 04:06.08 → 04:11.08 (5.00s) (Video) - clip_27_04_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1.mp4
+    31. 🎥 01:50.61 → 01:55.61 (5.00s) (Video) - 32.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    59. 🎥 04:11.08 → 04:16.08 (5.00s) (Video) - xcvcxvcx.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    60. 🎥 04:16.08 → 04:21.08 (5.00s) (Video) - xc.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    61. 🎥 04:21.08 → 04:26.08 (5.00s) (Video) - zvz.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    62. 🎥 04:26.08 → 04:31.08 (5.00s) (Video) - clip_23_02_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    63. 🎥 04:31.08 → 04:36.08 (5.00s) (Video) - clip_27_03_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    64. 🎥 04:36.08 → 04:41.08 (5.00s) (Video) - 123.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    65. 🎥 04:41.08 → 04:46.08 (5.00s) (Video) - vc_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    66. 🎥 04:46.08 → 04:51.08 (5.00s) (Video) - clip_04_03_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    67. 🎥 04:51.08 → 04:56.08 (5.00s) (Video) - zxzzx.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    68. 🎥 04:56.08 → 04:56.32 (0.24s) (Video) - 5_1_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    69. 🎥 04:56.32 → 05:01.32 (5.00s) (Video) - clip_01_01_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    70. 🎥 05:01.32 → 05:06.32 (5.00s) (Video) - clip_15_01_Meghan Markle laughs as pony tries to bite Prince Harry_161602_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    71. 🎥 05:06.32 → 05:07.12 (0.80s) (Video) - 6.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    72. 🎥 05:07.12 → 05:12.12 (5.00s) (Video) - clip_05_02_Meghan Markle Launches ‘40x40’ Initiative to Mark 40th Birthday_155637_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    73. 🎥 05:12.12 → 05:17.12 (5.00s) (Video) - xcx.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    74. 🎥 05:17.12 → 05:22.12 (5.00s) (Video) - zcxzcz.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    75. 🎥 05:22.12 → 05:27.12 (5.00s) (Video) - sadsad_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    76. 🎥 05:27.12 → 05:32.12 (5.00s) (Video) - clip_12.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    77. 🎥 05:32.12 → 05:37.12 (5.00s) (Video) - 1234.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    78. 🎥 05:37.12 → 05:42.12 (5.00s) (Video) - 11.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    79. 🎥 05:42.12 → 05:43.14 (1.02s) (Video) - clip_13.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    80. 🎥 05:43.14 → 05:48.14 (5.00s) (Video) - sdf.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    81. 🎥 05:48.14 → 05:53.14 (5.00s) (Video) - clip_05_02_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    82. 🎥 05:53.14 → 05:58.14 (5.00s) (Video) - clip_05_01_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    83. 🎥 05:58.14 → 05:58.58 (0.44s) (Video) - clip_07_03_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1.mp4
+    32. 🎥 01:55.61 → 01:56.42 (0.81s) (Video) - 30.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
-🎬 JON STEWART
+🎬 DAVE CHAPPELLE
 ----------------------------------------
-    84. 🎥 05:58.58 → 06:00.86 (2.28s) (Video) - 23.mp4
+    33. 🎥 01:56.42 → 02:01.42 (5.00s) (Video) - placeholder.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-
-🎬 MEGHAN MARKLE
-----------------------------------------
-    85. 🎥 06:00.86 → 06:05.86 (5.00s) (Video) - 31.mp4
+    34. 🎥 02:01.42 → 02:06.42 (5.00s) (Video) - placeholder.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    86. 🎥 06:05.86 → 06:10.86 (5.00s) (Video) - clip_16_04_Meghan Markle Returns to Instagram with New Year’s Celebration Post_161610_chf3_rhea1.mp4
+    35. 🎥 02:06.42 → 02:10.36 (3.94s) (Video) - placeholder.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    87. 🎥 06:10.86 → 06:15.86 (5.00s) (Video) - zxcxzxz.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    88. 🎥 06:15.86 → 06:16.06 (0.20s) (Video) - clip_04_01_Meghan Markle Discusses Birth of Upcoming Daughter in First TV Appearance Since Oprah Interview_155628_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    89. 🎥 06:16.06 → 06:21.06 (5.00s) (Video) - clip_01_03_Beyond the Tabloids_ Exploring Meghan Markle’s Journey Over the Years_161345_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    90. 🎥 06:21.06 → 06:26.06 (5.00s) (Video) - clip_23_01_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    91. 🎥 06:26.06 → 06:31.06 (5.00s) (Video) - clip_05_01_Meghan Markle Launches ‘40x40’ Initiative to Mark 40th Birthday_155637_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    92. 🎥 06:31.06 → 06:36.06 (5.00s) (Video) - clip_08_03_Harry and Meghan Look Thrilled as Endeavour Awards Winner Proposes During Acceptance Speech_161510_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    93. 🎥 06:36.06 → 06:41.06 (5.00s) (Video) - sdfds.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    94. 🎥 06:41.06 → 06:46.06 (5.00s) (Video) - zccvcx.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    95. 🎥 06:46.06 → 06:51.06 (5.00s) (Video) - clip_21_03_Meghan, Duchess of Sussex, Reveals She Suffered a Miscarriage_161636.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    96. 🎥 06:51.06 → 06:56.06 (5.00s) (Video) - 25.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    97. 🎥 06:56.06 → 07:01.06 (5.00s) (Video) - clip_28_02_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    98. 🎥 07:01.06 → 07:06.06 (5.00s) (Video) - sfsdfsd.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    99. 🎥 07:06.06 → 07:11.06 (5.00s) (Video) - 12.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    100. 🎥 07:11.06 → 07:16.06 (5.00s) (Video) - clip_27_02_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    101. 🎥 07:16.06 → 07:16.42 (0.36s) (Video) - 4.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    102. 🎥 07:16.42 → 07:21.42 (5.00s) (Video) - clip_21_01_Meghan, Duchess of Sussex, Reveals She Suffered a Miscarriage_161636_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    103. 🎥 07:21.42 → 07:26.42 (5.00s) (Video) - clip_06_03_Meghan Markle Makes Surprise Video Call to Smart Works Client Before Interview_2_155645_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    104. 🎥 07:26.42 → 07:27.14 (0.72s) (Video) - clip_06_01_Harry and Meghan Appear at Ripple of Hope Awards_161444_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-
-🎬 JON STEWART
-----------------------------------------
-    105. 🎥 07:27.14 → 07:32.14 (5.00s) (Video) - 7.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    106. 🎥 07:32.14 → 07:37.14 (5.00s) (Video) - 6.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    107. 🎥 07:37.14 → 07:42.14 (5.00s) (Video) - 14.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    108. 🎥 07:42.14 → 07:47.14 (5.00s) (Video) - 24.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    109. 🎥 07:47.14 → 07:48.74 (1.60s) (Video) - 8.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-
-🎬 MEGHAN MARKLE
-----------------------------------------
-    110. 🎥 07:48.74 → 07:53.74 (5.00s) (Video) - zxzx_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    111. 🎥 07:53.74 → 07:58.74 (5.00s) (Video) - asd_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    112. 🎥 07:58.74 → 08:03.74 (5.00s) (Video) - clip_28_04_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    113. 🎥 08:03.74 → 08:08.74 (5.00s) (Video) - fghgvcb.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    114. 🎥 08:08.74 → 08:13.74 (5.00s) (Video) - dvfv_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    115. 🎥 08:13.74 → 08:18.74 (5.00s) (Video) - clip_06_03_Meghan Markle Makes Surprise Video Call to Smart Works Client Before Interview_2_155645_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    116. 🎥 08:18.74 → 08:23.74 (5.00s) (Video) - 1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    117. 🎥 08:23.74 → 08:28.74 (5.00s) (Video) - sdsdf.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    118. 🎥 08:28.74 → 08:33.74 (5.00s) (Video) - clip_15_02_Meghan Markle laughs as pony tries to bite Prince Harry_161602_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    119. 🎥 08:33.74 → 08:38.74 (5.00s) (Video) - sdfds.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    120. 🎥 08:38.74 → 08:38.90 (0.16s) (Video) - 32.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    121. 🎥 08:38.90 → 08:43.90 (5.00s) (Video) - clip_05_02_Meghan Markle Launches ‘40x40’ Initiative to Mark 40th Birthday_155637_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    122. 🎥 08:43.90 → 08:48.90 (5.00s) (Video) - clip_04_02_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    123. 🎥 08:48.90 → 08:53.90 (5.00s) (Video) - clip_13.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    124. 🎥 08:53.90 → 08:58.38 (4.48s) (Video) - sadsad_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    125. 🎥 08:58.38 → 09:03.38 (5.00s) (Video) - clip_28_04_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    126. 🎥 09:03.38 → 09:08.38 (5.00s) (Video) - zccvcx.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    127. 🎥 09:08.38 → 09:13.38 (5.00s) (Video) - 4.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    128. 🎥 09:13.38 → 09:18.38 (5.00s) (Video) - clip_01_01_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    129. 🎥 09:18.38 → 09:22.90 (4.52s) (Video) - sfdsfds.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-
-🎬 NETFLIX
-----------------------------------------
-    130. 🎥 09:22.90 → 09:27.90 (5.00s) (Video) - 4.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    131. 🎥 09:27.90 → 09:32.90 (5.00s) (Video) - 5.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    132. 🎥 09:32.90 → 09:34.18 (1.28s) (Video) - 3.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-
-🎬 JON STEWART
-----------------------------------------
-    133. 🎥 09:34.18 → 09:39.18 (5.00s) (Video) - 20.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    134. 🎥 09:39.18 → 09:44.18 (5.00s) (Video) - 5.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    135. 🎥 09:44.18 → 09:49.18 (5.00s) (Video) - 26.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    136. 🎥 09:49.18 → 09:54.18 (5.00s) (Video) - 4.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    137. 🎥 09:54.18 → 09:55.26 (1.08s) (Video) - 3.mp4
+    36. 🎥 02:10.36 → 02:12.88 (2.52s) (Video) - placeholder.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 OPRAH
 ----------------------------------------
-    138. 🎥 09:55.26 → 10:00.26 (5.00s) (Video) - 26.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    139. 🎥 10:00.26 → 10:05.26 (5.00s) (Video) - 12.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    140. 🎥 10:05.26 → 10:10.26 (5.00s) (Video) - 24.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    141. 🎥 10:10.26 → 10:14.82 (4.56s) (Video) - 37.mp4
+    37. 🎥 02:12.88 → 02:17.52 (4.64s) (Video) - 40.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
-🎬 MEGHAN MARKLE
+🎬 MARTIN LAWRENCE
 ----------------------------------------
-    142. 🎥 10:14.82 → 10:19.82 (5.00s) (Video) - asd_chf3_rhea1.mp4
+    38. 🎥 02:17.52 → 02:22.52 (5.00s) (Video) - 13.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    143. 🎥 10:19.82 → 10:24.82 (5.00s) (Video) - clip_04_01_Meghan Markle Discusses Birth of Upcoming Daughter in First TV Appearance Since Oprah Interview_155628_chf3_rhea1.mp4
+    39. 🎥 02:22.52 → 02:24.16 (1.63s) (Video) - 29.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    144. 🎥 10:24.82 → 10:29.82 (5.00s) (Video) - xc.mp4
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    40. 🎥 02:24.16 → 02:29.16 (5.00s) (Video) - placeholder.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    145. 🎥 10:29.82 → 10:34.82 (5.00s) (Video) - 21.mp4
+    41. 🎥 02:29.16 → 02:34.16 (5.00s) (Video) - placeholder.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    146. 🎥 10:34.82 → 10:39.82 (5.00s) (Video) - clip_01_02_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1.mp4
+    42. 🎥 02:34.16 → 02:36.03 (1.87s) (Video) - placeholder.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    147. 🎥 10:39.82 → 10:44.82 (5.00s) (Video) - asdasdas_chf3_rhea1.mp4
+
+🎬 CASSIE
+----------------------------------------
+    43. 🎥 02:36.03 → 02:37.72 (1.69s) (Video) - 9.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    148. 🎥 10:44.82 → 10:49.82 (5.00s) (Video) - fghgvcb.mp4
+
+🎬 DIDDY
+----------------------------------------
+    44. 🎥 02:37.72 → 02:39.33 (1.61s) (Video) - 48.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    149. 🎥 10:49.82 → 10:54.22 (4.40s) (Video) - clip_02_01_Gleeful Meghan Markle Thanks Billie Eilish For Incredible Donation_155607_chf3_rhea1.mp4
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    45. 🎥 02:39.33 → 02:44.33 (5.00s) (Video) - placeholder.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    150. 🎥 10:54.22 → 10:59.22 (5.00s) (Video) - clip_07_04_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1.mp4
+    46. 🎥 02:44.33 → 02:49.33 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    47. 🎥 02:49.33 → 02:51.36 (2.03s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    48. 🎥 02:51.36 → 02:53.31 (1.95s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DIDDY
+----------------------------------------
+    49. 🎥 02:53.31 → 02:58.31 (5.00s) (Video) - 8.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    50. 🎥 02:58.31 → 03:02.16 (3.85s) (Video) - 4.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    51. 🎥 03:02.16 → 03:06.32 (4.15s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    52. 🎥 03:06.32 → 03:08.92 (2.60s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    53. 🎥 03:08.92 → 03:11.62 (2.70s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DIDDY
+----------------------------------------
+    54. 🎥 03:11.62 → 03:16.62 (5.00s) (Video) - 78.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    55. 🎥 03:16.62 → 03:20.07 (3.44s) (Video) - 14.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 JAGUAR WRIGHT
+----------------------------------------
+    56. 🎥 03:20.07 → 03:22.93 (2.86s) (Video) - 21.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    57. 🎥 03:22.93 → 03:27.14 (4.21s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    58. 🎥 03:27.14 → 03:28.79 (1.65s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MARTIN LAWRENCE
+----------------------------------------
+    59. 🎥 03:28.79 → 03:33.79 (5.00s) (Video) - 31.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    60. 🎥 03:33.79 → 03:37.74 (3.95s) (Video) - 7.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    61. 🎥 03:37.74 → 03:40.89 (3.15s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 KATT WILLIAMS
+----------------------------------------
+    62. 🎥 03:40.89 → 03:44.42 (3.53s) (Video) - 11.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    63. 🎥 03:44.42 → 03:46.38 (1.96s) (Video) - 9.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    64. 🎥 03:46.38 → 03:46.96 (0.58s) (Video) - 13.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    65. 🎥 03:46.96 → 03:51.96 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    66. 🎥 03:51.96 → 03:52.22 (0.26s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    67. 🎥 03:52.22 → 03:57.22 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    68. 🎥 03:57.22 → 04:02.22 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    69. 🎥 04:02.22 → 04:02.86 (0.64s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    70. 🎥 04:02.86 → 04:07.74 (4.88s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 KATT WILLIAMS
+----------------------------------------
+    71. 🎥 04:07.74 → 04:12.74 (5.00s) (Video) - 23.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    72. 🎥 04:12.74 → 04:13.18 (0.44s) (Video) - 17.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    73. 🎥 04:13.18 → 04:18.18 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    74. 🎥 04:18.18 → 04:18.54 (0.36s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    75. 🎥 04:18.54 → 04:23.54 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    76. 🎥 04:23.54 → 04:28.54 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    77. 🎥 04:28.54 → 04:33.54 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    78. 🎥 04:33.54 → 04:34.68 (1.14s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DIDDY
+----------------------------------------
+    79. 🎥 04:34.68 → 04:39.68 (5.00s) (Video) - 39.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    80. 🎥 04:39.68 → 04:44.68 (5.00s) (Video) - 16.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    81. 🎥 04:44.68 → 04:49.68 (5.00s) (Video) - 41.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    82. 🎥 04:49.68 → 04:50.70 (1.02s) (Video) - 38.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    83. 🎥 04:50.70 → 04:55.70 (5.00s) (Video) - 55.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    84. 🎥 04:55.70 → 05:00.08 (4.38s) (Video) - 77.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    85. 🎥 05:00.08 → 05:02.59 (2.50s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DIDDY
+----------------------------------------
+    86. 🎥 05:02.59 → 05:07.59 (5.00s) (Video) - 7.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    87. 🎥 05:07.59 → 05:12.59 (5.00s) (Video) - 46.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    88. 🎥 05:12.59 → 05:13.72 (1.13s) (Video) - 44.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    89. 🎥 05:13.72 → 05:15.88 (2.17s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DIDDY
+----------------------------------------
+    90. 🎥 05:15.88 → 05:16.45 (0.56s) (Video) - 25.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MEEK MILL
+----------------------------------------
+    91. 🎥 05:16.45 → 05:18.24 (1.80s) (Video) - 30.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    92. 🎥 05:18.24 → 05:23.24 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    93. 🎥 05:23.24 → 05:28.24 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    94. 🎥 05:28.24 → 05:33.24 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    95. 🎥 05:33.24 → 05:38.24 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    96. 🎥 05:38.24 → 05:43.24 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    97. 🎥 05:43.24 → 05:43.39 (0.15s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    98. 🎥 05:43.39 → 05:47.46 (4.06s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    99. 🎥 05:47.46 → 05:52.46 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    100. 🎥 05:52.46 → 05:57.46 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    101. 🎥 05:57.46 → 06:02.46 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    102. 🎥 06:02.46 → 06:05.34 (2.88s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MARTIN LAWRENCE
+----------------------------------------
+    103. 🎥 06:05.34 → 06:10.34 (5.00s) (Video) - 19.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    104. 🎥 06:10.34 → 06:15.34 (5.00s) (Video) - 27.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    105. 🎥 06:15.34 → 06:20.34 (5.00s) (Video) - 33.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    106. 🎥 06:20.34 → 06:25.34 (5.00s) (Video) - 4.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    107. 🎥 06:25.34 → 06:30.34 (5.00s) (Video) - 1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    108. 🎥 06:30.34 → 06:35.34 (5.00s) (Video) - 21.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    109. 🎥 06:35.34 → 06:40.34 (5.00s) (Video) - 10.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    110. 🎥 06:40.34 → 06:42.65 (2.31s) (Video) - 11.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    111. 🎥 06:42.65 → 06:47.65 (5.00s) (Video) - 3.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    112. 🎥 06:47.65 → 06:52.65 (5.00s) (Video) - 33.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    113. 🎥 06:52.65 → 06:54.26 (1.61s) (Video) - 9.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    114. 🎥 06:54.26 → 06:59.26 (5.00s) (Video) - 1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    115. 🎥 06:59.26 → 07:04.26 (5.00s) (Video) - 28.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    116. 🎥 07:04.26 → 07:09.26 (5.00s) (Video) - 12.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    117. 🎥 07:09.26 → 07:14.26 (5.00s) (Video) - 27.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    118. 🎥 07:14.26 → 07:19.26 (5.00s) (Video) - 7.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    119. 🎥 07:19.26 → 07:22.69 (3.43s) (Video) - 34.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    120. 🎥 07:22.69 → 07:23.31 (0.62s) (Video) - 13.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    121. 🎥 07:23.31 → 07:28.10 (4.79s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MARTIN LAWRENCE
+----------------------------------------
+    122. 🎥 07:28.10 → 07:33.10 (5.00s) (Video) - 6.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    123. 🎥 07:33.10 → 07:38.10 (5.00s) (Video) - 31.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    124. 🎥 07:38.10 → 07:43.10 (5.00s) (Video) - 18.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    125. 🎥 07:43.10 → 07:46.54 (3.44s) (Video) - 5.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    126. 🎥 07:46.54 → 07:51.54 (5.00s) (Video) - 30.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    127. 🎥 07:51.54 → 07:56.54 (5.00s) (Video) - 10.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    128. 🎥 07:56.54 → 08:00.02 (3.49s) (Video) - 17.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 WILL SMITH
+----------------------------------------
+    129. 🎥 08:00.02 → 08:04.18 (4.16s) (Video) - 5.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MARTIN LAWRENCE
+----------------------------------------
+    130. 🎥 08:04.18 → 08:09.18 (5.00s) (Video) - 11.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    131. 🎥 08:09.18 → 08:14.18 (5.00s) (Video) - 19.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    132. 🎥 08:14.18 → 08:19.18 (5.00s) (Video) - 21.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    133. 🎥 08:19.18 → 08:24.18 (5.00s) (Video) - 29.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    134. 🎥 08:24.18 → 08:26.54 (2.36s) (Video) - 2.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    135. 🎥 08:26.54 → 08:31.54 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    136. 🎥 08:31.54 → 08:36.54 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    137. 🎥 08:36.54 → 08:41.54 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    138. 🎥 08:41.54 → 08:46.54 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    139. 🎥 08:46.54 → 08:47.39 (0.85s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    140. 🎥 08:47.39 → 08:52.39 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    141. 🎥 08:52.39 → 08:57.39 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    142. 🎥 08:57.39 → 09:02.39 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    143. 🎥 09:02.39 → 09:04.20 (1.81s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    144. 🎥 09:04.20 → 09:09.20 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    145. 🎥 09:09.20 → 09:14.20 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    146. 🎥 09:14.20 → 09:19.20 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    147. 🎥 09:19.20 → 09:19.97 (0.77s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    148. 🎥 09:19.97 → 09:21.68 (1.71s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DIDDY
+----------------------------------------
+    149. 🎥 09:21.68 → 09:26.18 (4.50s) (Video) - 57.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    150. 🎥 09:26.18 → 09:31.18 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    151. 🎥 09:31.18 → 09:36.18 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    152. 🎥 09:36.18 → 09:37.35 (1.16s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DIDDY
+----------------------------------------
+    153. 🎥 09:37.35 → 09:42.35 (5.00s) (Video) - 56.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    154. 🎥 09:42.35 → 09:44.60 (2.26s) (Video) - 36.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 JAGUAR WRIGHT
+----------------------------------------
+    155. 🎥 09:44.60 → 09:46.00 (1.39s) (Video) - 29.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    156. 🎥 09:46.00 → 09:51.00 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    157. 🎥 09:51.00 → 09:56.00 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    158. 🎥 09:56.00 → 10:01.00 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    159. 🎥 10:01.00 → 10:06.00 (5.00s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    160. 🎥 10:06.00 → 10:09.40 (3.40s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    161. 🎥 10:09.40 → 10:09.72 (0.32s) (Video) - placeholder.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MARTIN LAWRENCE
+----------------------------------------
+    162. 🎥 10:09.72 → 10:14.72 (5.00s) (Video) - 15.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    163. 🎥 10:14.72 → 10:19.72 (5.00s) (Video) - 22.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    164. 🎥 10:19.72 → 10:22.88 (3.15s) (Video) - 23.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DIDDY
+----------------------------------------
+    165. 🎥 10:22.88 → 10:27.88 (5.00s) (Video) - 62.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    166. 🎥 10:27.88 → 10:32.88 (5.00s) (Video) - 11.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    167. 🎥 10:32.88 → 10:32.92 (0.05s) (Video) - 10.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MARTIN LAWRENCE
+----------------------------------------
+    168. 🎥 10:32.92 → 10:33.31 (0.39s) (Video) - 20.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 DAVE CHAPPELLE
+----------------------------------------
+    169. 🎥 10:33.31 → 10:38.31 (5.00s) (Video) - placeholder.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
@@ -517,28 +670,44 @@ TIMELINE OVERVIEW
 SUMMARY STATISTICS
 --------------------------------------------------------------------------------
 
-Jon Stewart:
-  • Total Screen Time: 53.44 seconds (8.2%)
-  • Total Clips: 14 (14 videos, 0 images)
+Martin Lawrence:
+  • Total Screen Time: 240.84 seconds (37.9%)
+  • Total Clips: 60 (60 videos, 0 images)
 
-Meghan Markle:
-  • Total Screen Time: 539.56 seconds (82.5%)
-  • Total Clips: 121 (121 videos, 0 images)
+Dave Chappelle:
+  • Total Screen Time: 255.41 seconds (40.2%)
+  • Total Clips: 68 (68 videos, 0 images)
 
-Prince Harry:
-  • Total Screen Time: 22.70 seconds (3.5%)
-  • Total Clips: 6 (6 videos, 0 images)
+Diddy:
+  • Total Screen Time: 107.45 seconds (16.9%)
+  • Total Clips: 28 (28 videos, 0 images)
 
-Netflix:
-  • Total Screen Time: 18.81 seconds (2.9%)
-  • Total Clips: 5 (5 videos, 0 images)
+Katt Williams:
+  • Total Screen Time: 15.60 seconds (2.5%)
+  • Total Clips: 7 (7 videos, 0 images)
 
 Oprah:
-  • Total Screen Time: 19.56 seconds (3.0%)
-  • Total Clips: 4 (4 videos, 0 images)
+  • Total Screen Time: 4.64 seconds (0.7%)
+  • Total Clips: 1 (1 videos, 0 images)
 
-Total Coverage: 654.07 seconds
-Total Clips Used: 150
+Cassie:
+  • Total Screen Time: 1.69 seconds (0.3%)
+  • Total Clips: 1 (1 videos, 0 images)
+
+Jaguar Wright:
+  • Total Screen Time: 4.25 seconds (0.7%)
+  • Total Clips: 2 (2 videos, 0 images)
+
+Meek Mill:
+  • Total Screen Time: 1.80 seconds (0.3%)
+  • Total Clips: 1 (1 videos, 0 images)
+
+Will Smith:
+  • Total Screen Time: 4.16 seconds (0.7%)
+  • Total Clips: 1 (1 videos, 0 images)
+
+Total Coverage: 635.83 seconds
+Total Clips Used: 169
 
 ================================================================================
 End of Summary
