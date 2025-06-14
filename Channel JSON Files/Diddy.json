@@ -1,0 +1,108 @@
+{
+    "Diddy": {
+        "Diddy": ["Diddy", "Diddy's", "diddy", "diddy's"],
+        "Cassie": ["Cassie", "Ventura", "Cassie Ventura", "Cassie Ventura's", "cassie", "cassie's"],
+        "Usher": ["Usher", "Usher's", "usher", "usher's"],
+        "Beyonce": ["Beyonce", "Beyonce's", "Beyoncé", "Beyoncé's", "beyonce", "beyonce's"],
+        "Jay-Z": ["Jay-Z", "Jay", "Jay-Z's", "jay-z", "jay-z's"],
+        "Lori Harvey": ["Lori", "Lori's", "lori harvey", "lori harvey's"],
+        "Jamie Foxx": ["Jamie", "Jamie's", "jamie foxx", "jamie foxx's"],
+        "Dame Dash": ["Dame", "Dame's", "Dame Dash", "Dame Dash's", "Dame Dash's"],
+        "Rihanna": ["Rihanna", "Rihanna's", "rihanna", "rihanna's"],
+        "Clive Davis": ["Clive", "Clive's", "clive davis", "clive davis's"],
+        "Jada Pinkett": ["Jada", "Jada's", "jada pinkett smith", "jada pinkett smith's"],
+        "Katt Williams": ["Katt", "Katt's", "katt williams", "katt williams's"],
+        "Aaliyah": ["Aaliyah", "Aaliyah's", "aaliyah", "aaliyah's"],
+        "Denzel Washington": ["Denzel", "Denzel's", "denzel washington", "denzel washington's"],
+        "Oprah": ["Oprah", "Oprah's", "oprah winfrey", "oprah winfrey's"],
+        "Drake": ["Drake", "Drake's", "drake", "drake's"],
+        "Brittany Murphy": ["Brittany", "Brittany's", "brittany murphy", "brittany murphy's"],
+        "Ashton Kutcher": ["Ashton", "Ashton's", "ashton kutcher", "ashton kutcher's"],
+        "Mila Kunis": ["Mila", "Mila's", "mila kunis", "mila kunis's"],
+        "Wendy Williams": ["Wendy", "Wendy's", "wendy williams", "wendy williams's"],
+        "Kim Porter": ["Kim", "Kim's", "kim porter", "kim porter's"],
+        "R Kelly": ["R Kelly", "R Kelly's", "r kelly", "r kelly's", "R.Kelly"],
+        "Kevin Hart": ["Kevin", "Kevin's", "kevin hart", "kevin hart's"],
+        "50 Cent": [ "50 cent", "Fifty Cent", "50 cent's"],
+        "Keefe D": ["Keefe", "Keefe's", "keefe d", "Keith", "Keith's", "keith d", "keith d's"],
+        "Monique": ["Monique", "Monique's", "monique ", "Mo'Nique", "Mo'Nique's", "mo'nique", "mo'nique's"],
+        "TD Jakes": ["TD", "TD's", "td jakes", "td jakes's"],
+        "Al B Sure": ["Al", "Al's", "Al B. Sure", "al b sure", "Al B's", "al b sure's"],
+        "Gene Deal": ["Gene", "Jean Deal", "Jean", "Jean's", "gene deal", "gene deal's"],
+        "Suge Knight": ["Suge", "Suge's", "Shug", "Shook Knight", "suge knight", "suge knight's"],
+        "Terrence Howard": ["Terrence", "Terrence's", "terrence howard", "terrence howard's"],
+        "Justin Bieber": ["Justin", "Justin's", "justin bieber", "justin bieber's"],
+        "Jaden Smith": ["Jaden", "Jaden's", "jaden smith", "jaden smith's"],
+        "Meek Mill": ["Meek", "Meek's", "meek mill", "meek mill's"],
+        "Bryshere Gray": ["Bryshere", "Bryshere's", "bryshere gray", "bryshere gray's"],
+        "Jaguar Wright": ["Jaguar", "Jaguar's", "jaguar wright", "jaguar wright's"],
+        "Will Smith": [ "Will's", "Will", "will smith", "will smith's"]
+    },
+    "Intelligent Clip": {
+        "CCTV of Diddy Attacking Cassie": {
+            "folder": "CCTV of Diddy Attacking Cassie",
+            "description": "CCTV of Diddy attacking Cassie, diddy treating cassie bad",
+            "keywords": ["Diddy", "Cassie", "Attacking", "Cassie's", "Diddy's"]
+        },
+        "Wendy Williams Health Issues": {
+            "folder": "Wendy Williams Health Issues",
+            "description": "Wendy Williams health issues, You can show this when Wendy Williams health issues is mentioned",
+            "keywords": ["Wendy Williams", "Health", "Issues", "Wendy's"]
+        },
+        "Diddy on Wendy Williams Show": {
+            "folder": "Diddy on Wendy Williams Show",
+            "description": "Diddy on Wendy Williams Show, You can show this when Diddy on Wendy Williams Show is mentioned",
+            "keywords": ["Diddy", "Wendy Williams", "Show", "Diddy's"]
+        },
+        "Diddy Party Footages": {
+            "folder": "Diddy Party Footages",
+            "description": "Diddy party footages, you can show these footages when diddy's party is mentioned",
+            "keywords": ["Diddy", "Party", "Footages", "Diddy's"]
+        },
+        "Cassie's Lawsuit Against Diddy": {
+            "folder": "Cassie's Lawsuit Against Diddy",
+            "description": "Cassie's lawsuit against Diddy, You can show this when Cassie's lawsuit against Diddy is mentioned",
+            "keywords": ["Cassie", "Lawsuit", "Diddy", "Cassie's", "Diddy's"]
+        },
+        "Diddy's Apology Video": {
+            "folder": "Diddy's Apology Video",
+            "description": "Diddy's apology video, You can show this when Diddy's apology video is mentioned",
+            "keywords": ["Diddy", "Apology", "Video", "Diddy's"]
+        },
+        "Jay Z Controlling Beyonce": {
+            "folder": "Jay Z Controlling Beyonce",
+            "description": "Jay Z controlling Beyonce, You can show this when Jay Z controlling Beyonce is mentioned",
+            "keywords": ["Jay Z", "Beyonce", "Controlling", "Jay Z's", "Beyonce's"]
+        },
+        "Jay Z & Diddy Together": {
+            "folder": "Jay Z & Diddy Together",
+            "description": "Jay Z and Diddy together, You can show this when Jay Z and Diddy together is mentioned",
+            "keywords": ["Jay Z", "Diddy", "Together", "Jay Z's", "Diddy's"]
+        },
+        "Diddy's Home Raided by Feds": {
+            "folder": "Diddy's Home Raided by Feds",
+            "description": "Diddy's home raided by Feds, You can show this when Diddy's home raided by Feds is mentioned",
+            "keywords": ["Diddy", "Home", "Raided", "Feds", "Diddy's"]
+        },
+        "Will Smith in Fresh Prince of Bel Air": {
+            "folder": "Will Smith in Fresh Prince of Bel Air",
+            "description": "Will Smith in Fresh Prince of Bel Air, You can show this when Will Smith in Fresh Prince of Bel Air is mentioned",
+            "keywords": ["Will Smith", "Fresh Prince of Bel Air", "Will Smith's"]
+        },
+        "Will Smith Kisses Jaden on The Lips": {
+            "folder": "Will Smith Kisses Jaden on The Lips",
+            "description": "Will Smith kisses Jaden on the lips, You can show this when Will Smith kisses Jaden on the lips is mentioned",
+            "keywords": ["Will Smith", "Jaden", "Kiss", "Will Smith's", "Jaden's"]
+        },
+        "Jada Pinkett and Will Smith": {
+            "folder": "Jada Pinkett and Will Smith",
+            "description": "Jada Pinkett and Will Smith, You can show this when Jada Pinkett and Will Smith is mentioned",
+            "keywords": ["Jada Pinkett", "Will Smith", "Jada Pinkett's", "Will Smith's"]
+        },
+        "Diddy, Usher and Kevin Hart Party": {
+            "folder": "Diddy, Usher and Kevin Hart Party",
+            "description": "Diddy, Usher and Kevin Hart party together, You can show this when Diddy, Usher and Kevin Hart party together is mentioned",
+            "keywords": ["Diddy", "Usher", "Kevin Hart", "Party", "Diddy's", "Usher's", "Kevin Hart's"]
+        }
+    }
+} 

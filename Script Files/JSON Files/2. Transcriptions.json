@@ -1,0 +1,1147 @@
+{
+  "export_metadata": {
+    "total_files_processed": 1,
+    "export_timestamp": "2025-06-09T14:17:40.939086",
+    "exported_from": "Audio Transcription System",
+    "dry_run_mode": {
+      "enabled": false,
+      "duration_seconds": null,
+      "status": "FULL TRANSCRIPTION - Complete audio processed",
+      "source": "notion_database",
+      "database_id": "20302cd2c1428027bb04f1d147b50cf9"
+    },
+    "models_used": {
+      "faster_whisper": "base",
+      "whisperx_alignment": "en"
+    }
+  },
+  "transcriptions": {
+    "E:\\Celebrity Voice Overs\\Meghan Markle Secretly PLANS Rich Life After Leaving SAD Prince Harry Forever.wav": {
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 1.84,
+          "text": "It's getting harder and harder to pretend",
+          "original_transcription": "It's getting harder and harder to pretend",
+          "was_corrected": false
+        },
+        {
+          "start": 1.84,
+          "end": 4.84,
+          "text": "Megan Markle's fairytale life hasn't turned into something",
+          "original_transcription": "Megan Markle's fairytale life hasn't turned into something",
+          "was_corrected": false
+        },
+        {
+          "start": 4.84,
+          "end": 6.92,
+          "text": "out of a reality show gone wrong.",
+          "original_transcription": "out of a reality show gone wrong.",
+          "was_corrected": false
+        },
+        {
+          "start": 7.88,
+          "end": 11.44,
+          "text": "behind the designer outfits and glossy magazine covers,",
+          "original_transcription": "Behind the designer outfits and glossy magazine covers,",
+          "was_corrected": true
+        },
+        {
+          "start": 11.44,
+          "end": 14.52,
+          "text": "People are starting to see through the facade.",
+          "original_transcription": "people are starting to see through the facade.",
+          "was_corrected": true
+        },
+        {
+          "start": 14.52,
+          "end": 16.080000000000002,
+          "text": "and the latest whispers suggest",
+          "original_transcription": "And the latest whispers suggest",
+          "was_corrected": true
+        },
+        {
+          "start": 16.080000000000002,
+          "end": 19.52,
+          "text": "Megan might already be plotting her exit from Prince Harry,",
+          "original_transcription": "Megan might already be plotting her exit from Prince Harry,",
+          "was_corrected": false
+        },
+        {
+          "start": 19.52,
+          "end": 21.88,
+          "text": "the man once hailed as the most eligible bachelor",
+          "original_transcription": "the man once hailed as the most eligible bachelor",
+          "was_corrected": false
+        },
+        {
+          "start": 21.88,
+          "end": 23.68,
+          "text": "in the world.",
+          "original_transcription": "in the world.",
+          "was_corrected": false
+        },
+        {
+          "start": 23.68,
+          "end": 27.48,
+          "text": "now, he's just the depressed ginger with no friends,",
+          "original_transcription": "Now, he's just the depressed ginger with no friends,",
+          "was_corrected": true
+        },
+        {
+          "start": 27.48,
+          "end": 32.4,
+          "text": "no royal title that matters, and apparently not enough cash to keep up with her lifestyle",
+          "original_transcription": "no royal title that matters, and apparently not enough cash to keep up with her lifestyle",
+          "was_corrected": false
+        },
+        {
+          "start": 32.4,
+          "end": 40.08,
+          "text": "demands. and honestly, Megan seems over it. see, there's been talk, real talk, that",
+          "original_transcription": "demands. And honestly, Megan seems over it. See, there's been talk, real talk, that",
+          "was_corrected": true
+        },
+        {
+          "start": 40.08,
+          "end": 45.28,
+          "text": "Megan expected something different when she married Harry, like a lot different. Word",
+          "original_transcription": "Megan expected something different when she married Harry, like a lot different. Word",
+          "was_corrected": false
+        },
+        {
+          "start": 45.28,
+          "end": 50.519999999999996,
+          "text": "is, she thought she was getting a billionaire, Castles, crown jewels, servants, the whole",
+          "original_transcription": "is, she thought she was getting a billionaire, castles, crown jewels, servants, the whole",
+          "was_corrected": true
+        },
+        {
+          "start": 50.519999999999996,
+          "end": 56.78,
+          "text": "nine. Instead, she got a guy worth a few million cut off from the royal ATM, living in",
+          "original_transcription": "nine. Instead, she got a guy worth a few million cut off from the royal ATM, living in",
+          "was_corrected": false
+        },
+        {
+          "start": 56.78,
+          "end": 61.9,
+          "text": "monoceto, selling jam and doing Netflix fluff, not exactly the jackpot.",
+          "original_transcription": "monoceto, selling jam and doing Netflix fluff, not exactly the jackpot.",
+          "was_corrected": false
+        },
+        {
+          "start": 61.9,
+          "end": 66.3,
+          "text": "and According to Folks like Megan Kelly and others who've been keeping a close eye on",
+          "original_transcription": "And according to folks like Megan Kelly and others who've been keeping a close eye on",
+          "was_corrected": true
+        },
+        {
+          "start": 66.3,
+          "end": 72.06,
+          "text": "her, Megan's not just disappointed, she's recalculating her route.",
+          "original_transcription": "her, Megan's not just disappointed, she's recalculating her route.",
+          "was_corrected": false
+        },
+        {
+          "start": 72.06,
+          "end": 73.82,
+          "text": "you don't have to dig too deep to see it.",
+          "original_transcription": "You don't have to dig too deep to see it.",
+          "was_corrected": true
+        },
+        {
+          "start": 73.82,
+          "end": 78.26,
+          "text": "She's showing up in circles where billionaire's linger, putting on charm at events, smiling",
+          "original_transcription": "She's showing up in circles where billionaire's linger, putting on charm at events, smiling",
+          "was_corrected": false
+        },
+        {
+          "start": 78.26,
+          "end": 83.22,
+          "text": "just a little too hard at men who can actually fund private jets without flinching.",
+          "original_transcription": "just a little too hard at men who can actually fund private jets without flinching.",
+          "was_corrected": false
+        },
+        {
+          "start": 83.22,
+          "end": 87.62,
+          "text": "at this point, Megan Tussle feels less like a marriage and more like an extended networking",
+          "original_transcription": "At this point, Megan Tussle feels less like a marriage and more like an extended networking",
+          "was_corrected": true
+        },
+        {
+          "start": 87.62,
+          "end": 88.86,
+          "text": "campaign.",
+          "original_transcription": "campaign.",
+          "was_corrected": false
+        },
+        {
+          "start": 88.86,
+          "end": 93.58,
+          "text": "and poor Harry, he's become the plus one in a game he probably doesn't even know he's",
+          "original_transcription": "And poor Harry, he's become the plus one in a game he probably doesn't even know he's",
+          "was_corrected": true
+        },
+        {
+          "start": 93.58,
+          "end": 94.74,
+          "text": "losing.",
+          "original_transcription": "losing.",
+          "was_corrected": false
+        },
+        {
+          "start": 94.74,
+          "end": 99.66,
+          "text": "the vibe lately is that Megan has checked out emotionally, But hasn't checked out publicly.",
+          "original_transcription": "The vibe lately is that Megan has checked out emotionally, but hasn't checked out publicly.",
+          "was_corrected": true
+        },
+        {
+          "start": 99.66,
+          "end": 101.46000000000001,
+          "text": "yet, why?",
+          "original_transcription": "Yet, why?",
+          "was_corrected": true
+        },
+        {
+          "start": 101.46000000000001,
+          "end": 104.9,
+          "text": "because she's Still searching for the next big opportunity.",
+          "original_transcription": "Because she's still searching for the next big opportunity.",
+          "was_corrected": true
+        },
+        {
+          "start": 104.9,
+          "end": 108.5,
+          "text": "and let's be real, it's not easy to find a billionaire willing to sign up for a second-hand",
+          "original_transcription": "And let's be real, it's not easy to find a billionaire willing to sign up for a second-hand",
+          "was_corrected": true
+        },
+        {
+          "start": 108.5,
+          "end": 113.26,
+          "text": "in duchess, with public baggage, a Netflix flop and a trail of broken alliances.",
+          "original_transcription": "In Duchess, with public baggage, a Netflix flop and a trail of broken alliances.",
+          "was_corrected": true
+        },
+        {
+          "start": 113.26,
+          "end": 115.46,
+          "text": "But that hasn't stopped her from trying.",
+          "original_transcription": "But that hasn't stopped her from trying.",
+          "was_corrected": false
+        },
+        {
+          "start": 115.46,
+          "end": 119.7,
+          "text": "one report even claimed she openly flirts with wealthy men at events, completely unfazed",
+          "original_transcription": "One report even claimed she openly flirts with wealthy men at events, completely unfazed",
+          "was_corrected": true
+        },
+        {
+          "start": 119.7,
+          "end": 120.82,
+          "text": "by Harry's presence.",
+          "original_transcription": "by Harry's presence.",
+          "was_corrected": false
+        },
+        {
+          "start": 120.82,
+          "end": 126.74000000000001,
+          "text": "That's cold, But also kind of revealing, even her Neighbors in Manacito are reportedly gossiping",
+          "original_transcription": "That's cold, but also kind of revealing, even her neighbors in Manacito are reportedly gossiping",
+          "was_corrected": true
+        },
+        {
+          "start": 126.74000000000001,
+          "end": 131.74,
+          "text": "behind her back, laughing at how she's trying to spin this down-to-earth woman image after",
+          "original_transcription": "behind her back, laughing at how she's trying to spin this down-to-earth woman image after",
+          "was_corrected": false
+        },
+        {
+          "start": 131.74,
+          "end": 135.26,
+          "text": "failing to break through as a princess or influencer.",
+          "original_transcription": "failing to break through as a princess or influencer.",
+          "was_corrected": false
+        },
+        {
+          "start": 135.26,
+          "end": 136.58,
+          "text": "the sad part?",
+          "original_transcription": "The sad part?",
+          "was_corrected": true
+        },
+        {
+          "start": 136.58,
+          "end": 143.02,
+          "text": "They say she hasn't changed at all, that despite all her talk about empowerment and independence,",
+          "original_transcription": "They say she hasn't changed at all, that despite all her talk about empowerment and independence,",
+          "was_corrected": false
+        },
+        {
+          "start": 143.02,
+          "end": 148.58,
+          "text": "she's Still chasing status through the oldest trick in the book, marrying up.",
+          "original_transcription": "she's still chasing status through the oldest trick in the book, marrying up.",
+          "was_corrected": true
+        },
+        {
+          "start": 148.58,
+          "end": 153.06,
+          "text": "and According to a mole close to her, she genuinely believes her next chapter lies in",
+          "original_transcription": "And according to a mole close to her, she genuinely believes her next chapter lies in",
+          "was_corrected": true
+        },
+        {
+          "start": 153.06,
+          "end": 155.5,
+          "text": "landing a richer man.",
+          "original_transcription": "landing a richer man.",
+          "was_corrected": false
+        },
+        {
+          "start": 155.5,
+          "end": 158.06,
+          "text": "now here's where it gets even messier.",
+          "original_transcription": "Now here's where it gets even messier.",
+          "was_corrected": true
+        },
+        {
+          "start": 158.06,
+          "end": 161.86,
+          "text": "Megan has already squeezed What she could out of the royal identity.",
+          "original_transcription": "Megan has already squeezed what she could out of the royal identity.",
+          "was_corrected": true
+        },
+        {
+          "start": 161.86,
+          "end": 165.02,
+          "text": "she got the wedding, the titles, the global attention.",
+          "original_transcription": "She got the wedding, the titles, the global attention.",
+          "was_corrected": true
+        },
+        {
+          "start": 165.02,
+          "end": 169.74,
+          "text": "But none of that translated into the kind of financial empire she wanted.",
+          "original_transcription": "But none of that translated into the kind of financial empire she wanted.",
+          "was_corrected": false
+        },
+        {
+          "start": 169.74,
+          "end": 171.74,
+          "text": "the Spotify deal, cancelled.",
+          "original_transcription": "The Spotify deal, cancelled.",
+          "was_corrected": true
+        },
+        {
+          "start": 171.74,
+          "end": 174.22,
+          "text": "the Netflix show, a PR illusion.",
+          "original_transcription": "The Netflix show, a PR illusion.",
+          "was_corrected": true
+        },
+        {
+          "start": 174.22,
+          "end": 177.54000000000002,
+          "text": "the jam and jelly business, already drying up.",
+          "original_transcription": "The jam and jelly business, already drying up.",
+          "was_corrected": true
+        },
+        {
+          "start": 177.54000000000002,
+          "end": 181.54000000000002,
+          "text": "even her extra footage for the cooking show had People cringing.",
+          "original_transcription": "Even her extra footage for the cooking show had people cringing.",
+          "was_corrected": true
+        },
+        {
+          "start": 181.54000000000002,
+          "end": 186.34,
+          "text": "like literally cutting a pineapple the way nature intended was her big follow up.",
+          "original_transcription": "Like literally cutting a pineapple the way nature intended was her big follow up.",
+          "was_corrected": true
+        },
+        {
+          "start": 186.34,
+          "end": 190.22,
+          "text": "If that's What she's leading with, imagine what's left on the cutting room floor.",
+          "original_transcription": "If that's what she's leading with, imagine what's left on the cutting room floor.",
+          "was_corrected": true
+        },
+        {
+          "start": 190.22,
+          "end": 195.02,
+          "text": "and as her projects flopped one by one, her reputation has followed, Hollywood's A-list",
+          "original_transcription": "And as her projects flopped one by one, her reputation has followed, Hollywood's A-list",
+          "was_corrected": true
+        },
+        {
+          "start": 195.02,
+          "end": 196.78,
+          "text": "doesn't want to be seen with her.",
+          "original_transcription": "doesn't want to be seen with her.",
+          "was_corrected": false
+        },
+        {
+          "start": 196.78,
+          "end": 200.54,
+          "text": "Former allies have gone quiet and now even People like Brooke Shields, who once shared",
+          "original_transcription": "Former allies have gone quiet and now even people like Brooke Shields, who once shared",
+          "was_corrected": true
+        },
+        {
+          "start": 200.54,
+          "end": 204.98,
+          "text": "a stage with her, are openly throwing subtle shapes.",
+          "original_transcription": "a stage with her, are openly throwing subtle shapes.",
+          "was_corrected": false
+        },
+        {
+          "start": 204.98,
+          "end": 209.7,
+          "text": "Shields cracked a joke on a podcast about Meghan's infamous 11-year-old letter story, and the",
+          "original_transcription": "Shields cracked a joke on a podcast about Meghan's infamous 11-year-old letter story, and the",
+          "was_corrected": false
+        },
+        {
+          "start": 209.7,
+          "end": 211.62,
+          "text": "room erupted.",
+          "original_transcription": "room erupted.",
+          "was_corrected": false
+        },
+        {
+          "start": 211.62,
+          "end": 213.74,
+          "text": "it was funny, yes, But also telling.",
+          "original_transcription": "It was funny, yes, but also telling.",
+          "was_corrected": true
+        },
+        {
+          "start": 213.74,
+          "end": 218.38,
+          "text": "the story felt rehearsed, overplayed, and painfully self-important.",
+          "original_transcription": "The story felt rehearsed, overplayed, and painfully self-important.",
+          "was_corrected": true
+        },
+        {
+          "start": 218.38,
+          "end": 220.02,
+          "text": "That's What People are tired of.",
+          "original_transcription": "That's what people are tired of.",
+          "was_corrected": true
+        },
+        {
+          "start": 220.02,
+          "end": 225.46,
+          "text": "performance. the constant act. Megan's out here is Still trying to be the main character",
+          "original_transcription": "performance. The constant act. Megan's out here is still trying to be the main character",
+          "was_corrected": true
+        },
+        {
+          "start": 225.46,
+          "end": 230.42000000000002,
+          "text": "in a story no one's watching anymore. Except for us. and things are just starting to",
+          "original_transcription": "in a story no one's watching anymore. Except for us. And things are just starting to",
+          "was_corrected": true
+        },
+        {
+          "start": 230.42000000000002,
+          "end": 235.86,
+          "text": "heat up. behind closed doors. even Megan's own circle seems to be cracking.",
+          "original_transcription": "heat up. Behind closed doors. Even Megan's own circle seems to be cracking.",
+          "was_corrected": true
+        },
+        {
+          "start": 236.82000000000002,
+          "end": 242.5,
+          "text": "That's the latest twist. According to insider leaks, Some of the very People who once protected",
+          "original_transcription": "That's the latest twist. According to Insider Leaks, some of the very people who once protected",
+          "was_corrected": true
+        },
+        {
+          "start": 242.5,
+          "end": 247.94,
+          "text": "her narrative are now feeding stories to outlets like the Daily Mail. and we're not talking about",
+          "original_transcription": "her narrative are now feeding stories to outlets like the Daily Mail. And we're not talking about",
+          "was_corrected": true
+        },
+        {
+          "start": 247.94,
+          "end": 253.98,
+          "text": "anonymous Neighbors or distant sources. these are People who used to be on her team.",
+          "original_transcription": "anonymous neighbors or distant sources. These are people who used to be on her team.",
+          "was_corrected": true
+        },
+        {
+          "start": 253.98,
+          "end": 259.21999999999997,
+          "text": "one even admitted that Megan hasn't changed at all. She's just going back to who she",
+          "original_transcription": "One even admitted that Megan hasn't changed at all. She's just going back to who she",
+          "was_corrected": true
+        },
+        {
+          "start": 259.21999999999997,
+          "end": 263.94,
+          "text": "was before Harry picked her, an actress chasing the next big gig, the next spotlight, the",
+          "original_transcription": "was before Harry picked her, an actress chasing the next big gig, the next spotlight, the",
+          "was_corrected": false
+        },
+        {
+          "start": 263.94,
+          "end": 269.22,
+          "text": "next man with deep pockets. that kind of shift doesn't happen out of nowhere. it usually",
+          "original_transcription": "next man with deep pockets. That kind of shift doesn't happen out of nowhere. It usually",
+          "was_corrected": true
+        },
+        {
+          "start": 269.22,
+          "end": 275.54,
+          "text": "starts when People around you realize the fairy tale you sold them is wearing thin. Megan",
+          "original_transcription": "starts when people around you realize the fairy tale you sold them is wearing thin. Megan",
+          "was_corrected": true
+        },
+        {
+          "start": 275.54,
+          "end": 280.54,
+          "text": "wanted to be seen as someone who broke free from royal constraints to build her own empire.",
+          "original_transcription": "wanted to be seen as someone who broke free from royal constraints to build her own empire.",
+          "was_corrected": false
+        },
+        {
+          "start": 280.54,
+          "end": 285.18,
+          "text": "Instead, she's selling jam and cooking tips that seem ripped straight from someone else's",
+          "original_transcription": "Instead, she's selling jam and cooking tips that seem ripped straight from someone else's",
+          "was_corrected": false
+        },
+        {
+          "start": 285.18,
+          "end": 286.86,
+          "text": "Pinterest board.",
+          "original_transcription": "Pinterest board.",
+          "was_corrected": false
+        },
+        {
+          "start": 286.86,
+          "end": 288.54,
+          "text": "There's no authenticity.",
+          "original_transcription": "There's no authenticity.",
+          "was_corrected": false
+        },
+        {
+          "start": 288.54,
+          "end": 294.86,
+          "text": "even her original one-pasta recipe turned out to be a straight-up copy of Martha Stewart's.",
+          "original_transcription": "Even her original one-pasta recipe turned out to be a straight-up copy of Martha Stewart's.",
+          "was_corrected": true
+        },
+        {
+          "start": 294.86,
+          "end": 298.34000000000003,
+          "text": "and somehow she Still acts like the world owes her applause.",
+          "original_transcription": "And somehow she still acts like the world owes her applause.",
+          "was_corrected": true
+        },
+        {
+          "start": 298.34000000000003,
+          "end": 302.70000000000005,
+          "text": "Meanwhile, Harry is stuck looking like a side character in his own life.",
+          "original_transcription": "Meanwhile, Harry is stuck looking like a side character in his own life.",
+          "was_corrected": false
+        },
+        {
+          "start": 302.7,
+          "end": 306.65999999999997,
+          "text": "the guy used to be a global symbol of rebellion and charm.",
+          "original_transcription": "The guy used to be a global symbol of rebellion and charm.",
+          "was_corrected": true
+        },
+        {
+          "start": 306.65999999999997,
+          "end": 311.78,
+          "text": "now he's the Duke of Waffle House being dragged along to events and reportedly left out",
+          "original_transcription": "Now he's the Duke of Waffle House being dragged along to events and reportedly left out",
+          "was_corrected": true
+        },
+        {
+          "start": 311.78,
+          "end": 313.9,
+          "text": "of the loop half the time.",
+          "original_transcription": "of the loop half the time.",
+          "was_corrected": false
+        },
+        {
+          "start": 313.9,
+          "end": 317.78,
+          "text": "Megan's handlers are calling the shots, and Harry just nods along.",
+          "original_transcription": "Megan's handlers are calling the shots, and Harry just nods along.",
+          "was_corrected": false
+        },
+        {
+          "start": 317.78,
+          "end": 323.21999999999997,
+          "text": "that once fiery personality has turned into something closer to defeated.",
+          "original_transcription": "That once fiery personality has turned into something closer to defeated.",
+          "was_corrected": true
+        },
+        {
+          "start": 323.21999999999997,
+          "end": 327.58,
+          "text": "It's sad really, But you get the sense he doesn't even realize how far he's drifted from who",
+          "original_transcription": "It's sad really, but you get the sense he doesn't even realize how far he's drifted from who",
+          "was_corrected": true
+        },
+        {
+          "start": 327.58,
+          "end": 329.21999999999997,
+          "text": "he used to be.",
+          "original_transcription": "he used to be.",
+          "was_corrected": false
+        },
+        {
+          "start": 329.22,
+          "end": 333.02000000000004,
+          "text": "at the same time, Megan's not fooling the elite anymore.",
+          "original_transcription": "At the same time, Megan's not fooling the elite anymore.",
+          "was_corrected": true
+        },
+        {
+          "start": 333.02000000000004,
+          "end": 336.98,
+          "text": "Folks like Brooke Shields and even Some ex-royal commentators have started breaking their",
+          "original_transcription": "Folks like Brooke Shields and even some ex-royal commentators have started breaking their",
+          "was_corrected": true
+        },
+        {
+          "start": 336.98,
+          "end": 341.14000000000004,
+          "text": "silence, and they're not being cruel, they're just done pretending.",
+          "original_transcription": "silence, and they're not being cruel, they're just done pretending.",
+          "was_corrected": false
+        },
+        {
+          "start": 341.14000000000004,
+          "end": 346.14000000000004,
+          "text": "Shields, for example, cracked a simple joke on a podcast about how Megan always tells the",
+          "original_transcription": "Shields, for example, cracked a simple joke on a podcast about how Megan always tells the",
+          "was_corrected": false
+        },
+        {
+          "start": 346.14000000000004,
+          "end": 349.1,
+          "text": "same story about writing a letter at age 11.",
+          "original_transcription": "same story about writing a letter at age 11.",
+          "was_corrected": false
+        },
+        {
+          "start": 349.1,
+          "end": 350.58000000000004,
+          "text": "it landed hard.",
+          "original_transcription": "It landed hard.",
+          "was_corrected": true
+        },
+        {
+          "start": 350.58000000000004,
+          "end": 354.58000000000004,
+          "text": "not because it was mean, But because it highlighted the truth.",
+          "original_transcription": "Not because it was mean, but because it highlighted the truth.",
+          "was_corrected": true
+        },
+        {
+          "start": 354.58000000000004,
+          "end": 358.58000000000004,
+          "text": "Megan's entire narrative is built on overused talking point.",
+          "original_transcription": "Megan's entire narrative is built on overused talking point.",
+          "was_corrected": false
+        },
+        {
+          "start": 358.58,
+          "end": 366.02,
+          "text": "It's performative, Predictable, and just stale, that's the issue.",
+          "original_transcription": "It's performative, predictable, and just stale, that's the issue.",
+          "was_corrected": true
+        },
+        {
+          "start": 366.02,
+          "end": 371.14,
+          "text": "Megan Still believes she's running the show that she can control how the public perceives",
+          "original_transcription": "Megan still believes she's running the show that she can control how the public perceives",
+          "was_corrected": true
+        },
+        {
+          "start": 371.14,
+          "end": 376.74,
+          "text": "her, But the media game has changed, and her audience isn't buying the script anymore.",
+          "original_transcription": "her, but the media game has changed, and her audience isn't buying the script anymore.",
+          "was_corrected": true
+        },
+        {
+          "start": 376.74,
+          "end": 381.74,
+          "text": "Take her recent attempt to hype up cut scenes from her Netflix series, clips that were apparently",
+          "original_transcription": "Take her recent attempt to hype up cut scenes from her Netflix series, clips that were apparently",
+          "was_corrected": false
+        },
+        {
+          "start": 381.74,
+          "end": 384.53999999999996,
+          "text": "too good for the original episodes.",
+          "original_transcription": "too good for the original episodes.",
+          "was_corrected": false
+        },
+        {
+          "start": 384.53999999999996,
+          "end": 387.21999999999997,
+          "text": "one of them was just her slicing a pineapple.",
+          "original_transcription": "One of them was just her slicing a pineapple.",
+          "was_corrected": true
+        },
+        {
+          "start": 387.22,
+          "end": 388.6,
+          "text": "That's it.",
+          "original_transcription": "That's it.",
+          "was_corrected": false
+        },
+        {
+          "start": 388.6,
+          "end": 389.6,
+          "text": "no substance.",
+          "original_transcription": "No substance.",
+          "was_corrected": true
+        },
+        {
+          "start": 389.6,
+          "end": 390.6,
+          "text": "no charm.",
+          "original_transcription": "No charm.",
+          "was_corrected": true
+        },
+        {
+          "start": 390.6,
+          "end": 395.0,
+          "text": "just a painfully forced display of relatable luxury.",
+          "original_transcription": "Just a painfully forced display of relatable luxury.",
+          "was_corrected": true
+        },
+        {
+          "start": 395.0,
+          "end": 397.1,
+          "text": "like who even asked for that?",
+          "original_transcription": "Like who even asked for that?",
+          "was_corrected": true
+        },
+        {
+          "start": 397.1,
+          "end": 401.40000000000003,
+          "text": "and let's not ignore the billionaire she's supposedly chasing.",
+          "original_transcription": "And let's not ignore the billionaire she's supposedly chasing.",
+          "was_corrected": true
+        },
+        {
+          "start": 401.40000000000003,
+          "end": 407.12,
+          "text": "Reports have hinted that Meghan flirts openly at social events, sometimes even when Harry's",
+          "original_transcription": "Reports have hinted that Meghan flirts openly at social events, sometimes even when Harry's",
+          "was_corrected": false
+        },
+        {
+          "start": 407.12,
+          "end": 408.68,
+          "text": "in the same room.",
+          "original_transcription": "in the same room.",
+          "was_corrected": false
+        },
+        {
+          "start": 408.68,
+          "end": 410.44000000000005,
+          "text": "But billionaires aren't dumb.",
+          "original_transcription": "But billionaires aren't dumb.",
+          "was_corrected": false
+        },
+        {
+          "start": 410.44000000000005,
+          "end": 414.72,
+          "text": "They know when someone's searching for a lifeline Instead of love.",
+          "original_transcription": "They know when someone's searching for a lifeline instead of love.",
+          "was_corrected": true
+        },
+        {
+          "start": 414.72,
+          "end": 420.8,
+          "text": "energy screams desperation masked as ambitious. That's why, despite all her efforts, the right doors",
+          "original_transcription": "energy screams desperation masked as ambitious. That's why, despite all her efforts, the right doors",
+          "was_corrected": false
+        },
+        {
+          "start": 420.8,
+          "end": 426.88000000000005,
+          "text": "just aren't opening. There's a reason the Obama's distance themselves, a reason Oprah's gone quiet,",
+          "original_transcription": "just aren't opening. There's a reason the Obama's distance themselves, a reason Oprah's gone quiet,",
+          "was_corrected": false
+        },
+        {
+          "start": 426.88000000000005,
+          "end": 433.68,
+          "text": "in their circles association matters, and Megan's name has started to carry more risk than reward.",
+          "original_transcription": "in their circles association matters, and Megan's name has started to carry more risk than reward.",
+          "was_corrected": false
+        },
+        {
+          "start": 434.24,
+          "end": 440.32000000000005,
+          "text": "It's not just about the money, either. It's the aura. Megan brings headlines sure, But not the kind",
+          "original_transcription": "It's not just about the money, either. It's the aura. Megan brings headlines sure, but not the kind",
+          "was_corrected": true
+        },
+        {
+          "start": 440.32,
+          "end": 446.15999999999997,
+          "text": "billionaires want. every move she makes ends up in a storm of controversy, think pieces",
+          "original_transcription": "billionaires want. Every move she makes ends up in a storm of controversy, think pieces",
+          "was_corrected": true
+        },
+        {
+          "start": 446.15999999999997,
+          "end": 450.96,
+          "text": "or mockery. and now, as the inner circle leaks continue and the press grows bolder,",
+          "original_transcription": "or mockery. And now, as the inner circle leaks continue and the press grows bolder,",
+          "was_corrected": true
+        },
+        {
+          "start": 450.96,
+          "end": 456.4,
+          "text": "it's clear her grip on the narrative is slipping fast. There's a weird irony in all of this.",
+          "original_transcription": "it's clear her grip on the narrative is slipping fast. There's a weird irony in all of this.",
+          "was_corrected": false
+        },
+        {
+          "start": 457.28,
+          "end": 461.92,
+          "text": "Meghan Markle started her journey into royalty by selling the world an image of grace,",
+          "original_transcription": "Meghan Markle started her journey into royalty by selling the world an image of grace,",
+          "was_corrected": false
+        },
+        {
+          "start": 461.92,
+          "end": 467.92,
+          "text": "modernity, and empowerment. But now, the only thing empowering about her public presence",
+          "original_transcription": "modernity, and empowerment. But now, the only thing empowering about her public presence",
+          "was_corrected": false
+        },
+        {
+          "start": 467.92,
+          "end": 473.28000000000003,
+          "text": "is how confidently People are calling out the fiction. her every move feels like an attempt to",
+          "original_transcription": "is how confidently people are calling out the fiction. Her every move feels like an attempt to",
+          "was_corrected": true
+        },
+        {
+          "start": 473.28000000000003,
+          "end": 478.56,
+          "text": "manifest the success she thought marriage would bring. But Instead of delivering red carpets",
+          "original_transcription": "manifest the success she thought marriage would bring. But instead of delivering red carpets",
+          "was_corrected": true
+        },
+        {
+          "start": 478.56,
+          "end": 484.0,
+          "text": "and real influence, it's turned into a series of Instagram-level stunts that feel more desperate",
+          "original_transcription": "and real influence, it's turned into a series of Instagram-level stunts that feel more desperate",
+          "was_corrected": false
+        },
+        {
+          "start": 484.0,
+          "end": 489.68,
+          "text": "than dazzling. that recent viral moment of her explaining how to cut a pineapple was the perfect",
+          "original_transcription": "than dazzling. That recent viral moment of her explaining how to cut a pineapple was the perfect",
+          "was_corrected": true
+        },
+        {
+          "start": 489.68,
+          "end": 495.20000000000005,
+          "text": "example. it was supposed to feel effortless and charming, like Martha Stewart meets Dutchess",
+          "original_transcription": "example. It was supposed to feel effortless and charming, like Martha Stewart meets Dutchess",
+          "was_corrected": true
+        },
+        {
+          "start": 495.2,
+          "end": 500.96,
+          "text": "chic. Instead, it landed like a low-effort parody. and it wasn't just audiences cringing,",
+          "original_transcription": "chic. Instead, it landed like a low-effort parody. And it wasn't just audiences cringing,",
+          "was_corrected": true
+        },
+        {
+          "start": 500.96,
+          "end": 505.92,
+          "text": "even media hosts couldn't believe she willingly shared that clip as a highlight. one even joked,",
+          "original_transcription": "even media hosts couldn't believe she willingly shared that clip as a highlight. One even joked,",
+          "was_corrected": true
+        },
+        {
+          "start": 505.92,
+          "end": 510.24,
+          "text": "it looked like she was trying to signal to swingers given the pineapple's reputation.",
+          "original_transcription": "it looked like she was trying to signal to swingers given the pineapple's reputation.",
+          "was_corrected": false
+        },
+        {
+          "start": 510.24,
+          "end": 514.64,
+          "text": "Another said it was a clear sign she shouldn't be allowed to override her producers ever again.",
+          "original_transcription": "Another said it was a clear sign she shouldn't be allowed to override her producers ever again.",
+          "was_corrected": false
+        },
+        {
+          "start": 514.64,
+          "end": 520.64,
+          "text": "that wasn't just a flop, it was a red flag. Still, Megan keeps pushing the image. that influencer,",
+          "original_transcription": "That wasn't just a flop, it was a red flag. Still, Megan keeps pushing the image. That influencer,",
+          "was_corrected": true
+        },
+        {
+          "start": 520.64,
+          "end": 526.3199999999999,
+          "text": "TV, chef-activist hybrid she's trying to sell isn't just hard to believe. It's not translating",
+          "original_transcription": "TV, chef-activist hybrid she's trying to sell isn't just hard to believe. It's not translating",
+          "was_corrected": false
+        },
+        {
+          "start": 526.3199999999999,
+          "end": 532.88,
+          "text": "into anything real. no hit shows. no successful product lines, no meaningful partnerships,",
+          "original_transcription": "into anything real. No hit shows. No successful product lines, no meaningful partnerships,",
+          "was_corrected": true
+        },
+        {
+          "start": 532.88,
+          "end": 538.96,
+          "text": "even the Netflix deal once hyped as her crown jewel is reportedly just smoke and mirrors. her second",
+          "original_transcription": "even the Netflix deal once hyped as her crown jewel is reportedly just smoke and mirrors. Her second",
+          "was_corrected": true
+        },
+        {
+          "start": 538.96,
+          "end": 544.08,
+          "text": "season, not really a season, just leftover footage repackaged into a few episodes to give the illusion",
+          "original_transcription": "season, not really a season, just leftover footage repackaged into a few episodes to give the illusion",
+          "was_corrected": false
+        },
+        {
+          "start": 544.08,
+          "end": 550.3199999999999,
+          "text": "of momentum. behind the scenes, insiders say no one's biting anymore. Then there's the personal",
+          "original_transcription": "of momentum. Behind the scenes, insiders say no one's biting anymore. Then there's the personal",
+          "was_corrected": true
+        },
+        {
+          "start": 550.32,
+          "end": 556.08,
+          "text": "Rand erosion happening in real time. Neighbors in Manicito have reportedly started making fun of her",
+          "original_transcription": "Rand erosion happening in real time. Neighbors in Manicito have reportedly started making fun of her",
+          "was_corrected": false
+        },
+        {
+          "start": 556.08,
+          "end": 561.12,
+          "text": "behind her back. one leak claimed she's trying to rebrand as just a normal girl again, But with",
+          "original_transcription": "behind her back. One leak claimed she's trying to rebrand as just a normal girl again, but with",
+          "was_corrected": true
+        },
+        {
+          "start": 561.12,
+          "end": 566.72,
+          "text": "Megan, nothing ever really feels normal. Everything's curated, everything's a pitch, People are",
+          "original_transcription": "Megan, nothing ever really feels normal. Everything's curated, everything's a pitch, people are",
+          "was_corrected": true
+        },
+        {
+          "start": 566.72,
+          "end": 571.9200000000001,
+          "text": "catching on, and not just the press. the same friends who once rallied around her are now leaking",
+          "original_transcription": "catching on, and not just the press. The same friends who once rallied around her are now leaking",
+          "was_corrected": true
+        },
+        {
+          "start": 571.9200000000001,
+          "end": 577.12,
+          "text": "stories to journalists. even celebrities who once shared stages with her are beginning to laugh,",
+          "original_transcription": "stories to journalists. Even celebrities who once shared stages with her are beginning to laugh,",
+          "was_corrected": true
+        },
+        {
+          "start": 577.12,
+          "end": 582.72,
+          "text": "roll their eyes or distance themselves completely. and poor Harry, he's becoming collateral damage.",
+          "original_transcription": "roll their eyes or distance themselves completely. And poor Harry, he's becoming collateral damage.",
+          "was_corrected": true
+        },
+        {
+          "start": 584.16,
+          "end": 590.08,
+          "text": "the guy has gone from rebellious royal to visibly miserable mascot for a life that doesn't",
+          "original_transcription": "The guy has gone from rebellious royal to visibly miserable mascot for a life that doesn't",
+          "was_corrected": true
+        },
+        {
+          "start": 590.08,
+          "end": 595.84,
+          "text": "even look like his anymore. People joke about him now, call him the Duke of White Castle or the",
+          "original_transcription": "even look like his anymore. People joke about him now, call him the Duke of White Castle or the",
+          "was_corrected": false
+        },
+        {
+          "start": 595.84,
+          "end": 601.6800000000001,
+          "text": "Waffle House Prince. There's no dignity left in how he's portrayed, especially when he's being dragged",
+          "original_transcription": "Waffle House Prince. There's no dignity left in how he's portrayed, especially when he's being dragged",
+          "was_corrected": false
+        },
+        {
+          "start": 601.6800000000001,
+          "end": 607.0000000000001,
+          "text": "to social events, where Megan is allegedly scoping out her next step. Some even believe",
+          "original_transcription": "to social events, where Megan is allegedly scoping out her next step. Some even believe",
+          "was_corrected": false
+        },
+        {
+          "start": 607.0000000000001,
+          "end": 611.84,
+          "text": "she's already half out the door, just waiting for the right billionaire to say yes.",
+          "original_transcription": "she's already half out the door, just waiting for the right billionaire to say yes.",
+          "was_corrected": false
+        },
+        {
+          "start": 611.84,
+          "end": 616.44,
+          "text": "But here's the real kicker. the elite class, the ones Megan desperately wants to impress",
+          "original_transcription": "But here's the real kicker. The elite class, the ones Megan desperately wants to impress",
+          "was_corrected": true
+        },
+        {
+          "start": 616.44,
+          "end": 621.72,
+          "text": "are over it. She's become too high-risk, too drama-heavy, too unpredictable. Whether it's",
+          "original_transcription": "are over it. She's become too high-risk, too drama-heavy, too unpredictable. Whether it's",
+          "was_corrected": false
+        },
+        {
+          "start": 621.72,
+          "end": 626.24,
+          "text": "Oprah keeping her distance, the Obama's going quiet, or Brooke Shield's playfully exposing",
+          "original_transcription": "Oprah keeping her distance, the Obama's going quiet, or Brooke Shield's playfully exposing",
+          "was_corrected": false
+        },
+        {
+          "start": 626.24,
+          "end": 631.22,
+          "text": "her lack of depth, those subtle moves say a lot. It's not cancel culture, it's reputation",
+          "original_transcription": "her lack of depth, those subtle moves say a lot. It's not cancel culture, it's reputation",
+          "was_corrected": false
+        },
+        {
+          "start": 631.22,
+          "end": 637.24,
+          "text": "fatigue. People are exhausted by the performance and the headlines that come with it.",
+          "original_transcription": "fatigue. People are exhausted by the performance and the headlines that come with it.",
+          "was_corrected": false
+        },
+        {
+          "start": 637.24,
+          "end": 641.88,
+          "text": "What's next? That's the question everyone's asking. will Megan officially break things",
+          "original_transcription": "What's next? That's the question everyone's asking. Will Megan officially break things",
+          "was_corrected": true
+        },
+        {
+          "start": 641.88,
+          "end": 647.48,
+          "text": "off with Harry and make a bold billionaire move? will she disappear quietly and rebrand for",
+          "original_transcription": "off with Harry and make a bold billionaire move? Will she disappear quietly and rebrand for",
+          "was_corrected": true
+        },
+        {
+          "start": 647.48,
+          "end": 652.6,
+          "text": "the fifth time? or will she keep trying to hustle her way back to relevance, hoping that",
+          "original_transcription": "the fifth time? Or will she keep trying to hustle her way back to relevance, hoping that",
+          "was_corrected": true
+        },
+        {
+          "start": 652.6,
+          "end": 659.0,
+          "text": "one of these last ditch efforts finally lands. Whatever happens, the glossy image is gone.",
+          "original_transcription": "one of these last ditch efforts finally lands. Whatever happens, the glossy image is gone.",
+          "was_corrected": false
+        },
+        {
+          "start": 659.0,
+          "end": 665.48,
+          "text": "the fairy tale has cracked, and no amount of pineapple slicing, jam jars, or pre-written letters",
+          "original_transcription": "The fairy tale has cracked, and no amount of pineapple slicing, jam jars, or pre-written letters",
+          "was_corrected": true
+        },
+        {
+          "start": 665.48,
+          "end": 672.6800000000001,
+          "text": "from age 11 is going to patch it up. Megan wanted to be unforgettable, and now, for all the wrong reasons,",
+          "original_transcription": "from age 11 is going to patch it up. Megan wanted to be unforgettable, and now, for all the wrong reasons,",
+          "was_corrected": false
+        },
+        {
+          "start": 672.6800000000001,
+          "end": 673.6800000000001,
+          "text": "she is.",
+          "original_transcription": "She is.",
+          "was_corrected": true
+        }
+      ],
+      "language": "en",
+      "language_probability": 1,
+      "notion_script": {
+        "page_id": "20c02cd2-c142-8027-a505-d19a1b06b5ab",
+        "script_length": 11084,
+        "alignment_applied": true
+      },
+      "metadata": {
+        "file_path": "E:\\Celebrity Voice Overs\\Meghan Markle Secretly PLANS Rich Life After Leaving SAD Prince Harry Forever.wav",
+        "file_name": "Meghan Markle Secretly PLANS Rich Life After Leaving SAD Prince Harry Forever.wav",
+        "processing_time_seconds": 28.45310139656067,
+        "timestamp": "2025-06-09T14:17:40.939086",
+        "channel_name": "Meghan Markle",
+        "keywords_used": 0,
+        "dry_run_mode": {
+          "enabled": false,
+          "duration_seconds": null,
+          "processing_status": "FULL MODE - Complete audio transcribed",
+          "source": "notion_database",
+          "database_id": "20302cd2c1428027bb04f1d147b50cf9",
+          "note": "Full audio transcribed"
+        },
+        "composite_clips_config": {
+          "apply_interval": 3,
+          "source": "notion_database",
+          "database_id": "20302cd2c1428027bb04f1d147b50cf9",
+          "note": "Apply composite effect every 3 clips (from Notion)"
+        },
+        "notion_integration": {
+          "page_id": "20c02cd2-c142-8027-a505-d19a1b06b5ab",
+          "script_aligned": true
+        },
+        "models_used": {
+          "faster_whisper": "base",
+          "whisperx_alignment": "not_used",
+          "notion_script_integration": "enabled"
+        }
+      }
+    }
+  }
+}

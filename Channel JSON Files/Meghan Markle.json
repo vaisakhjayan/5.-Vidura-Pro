@@ -1,0 +1,95 @@
+{
+    "Meghan Markle": {
+            "Meghan Markle": ["Megan", "Megans", "Megans's", "Meghan", "Meghan's", "Markle", "Markle's", "megan markle", "megan markle's"],
+            "Prince Harry": ["Harry", "Harry's", "prince harry", "prince harry's"],
+            "Prince William": ["William", "William's", "prince william", "prince william's"],
+            "Netflix": ["Netflix", "netflix"],
+            "Thomas Markle": ["Thomas", "Thomas's", "Thomas Markle", "Dad", "thomas markle", "thomas markle's"],
+            "South Park": ["South Park", "south park"],
+            "David Beckham": ["David", "David's", "David Beckham", "Beckham", "david beckham", "david beckham's"],
+            "Martha Stewart": ["Martha", "Martha's", "Martha Stewart", "martha stewart", "martha stewart's"],
+            "Greg Peters": ["Greg", "Greg's", "Greg Peters", "Greg Peters's", "greg peters", "greg peters's"],
+            "Piers Morgan": ["Piers", "Piers's", "Peers", "Pierce", "Piers Morgan", "Piers Morgan's", "piers", "piers's"],
+            "Graham Norton": ["Graham", "Graham's", "Graham Norton", "Graham Norton's", "graham norton", "graham norton's"],
+            "Colin Jost": ["Colin", "Coleen", "Joes", "Jost", "Colin's", "colin jost", "jost", "Colin Jost's"],
+            "Tina Knowles": ["Tina", "Tina's", "tina knowles", "Knowles", "tina knowles's"],
+            "Jon Stewart": ["Jon", "Jon's", "jon stewart", "Stewart", "Stewart's", "jon stewart's"],
+            "Stephen Colbert": ["Stephen", "Stephen's", "Colbert", "Colbert's", "stephen colbert", "stephen colbert's"],
+            "Beyonce": ["Beyonce", "Beyoncé", "beyonce", "Beyoncé's"],
+            "Kevin Hart": ["Kevin", "Kevin's", "kevin hart", "kevin hart's"],
+            "Oprah": ["Oprah", "Oprah's", "oprah winfrey", "oprah winfrey's"],
+            "Candace Owens": ["Candace", "Candace's", "candace owens", "candace owens's"],
+            "Joe Rogan": ["Joe", "Joe's", "joe rogan", "joe rogan's"],
+            "Kate Middleton": ["Kate", "Kate's", "kate middleton", "kate middleton's"],
+            "King Charles": ["Charles", "Charles's", "prince charles", "prince charles's"],
+            "Princess Anne": ["Anne", "Anne's", "princess anne", "princess anne's"],
+            "Princess Diana": ["Diana", "Diana's", "diana", "diana's"]
+        },
+        "special_words": {
+            "Documentary": ["documentary", "film", "movie", "footage"],
+            "Royal": ["royal", "royalty", "palace", "crown", "monarchy"]
+        },
+        "Intelligent Clip": {
+            "With Love Meghan Clips": {
+                "folder": "With Love Meghan Clips",
+                "description": "Meghan's lifestyle series with Netflix showcasing her culinary and gardening skills and Her Netflix deal",
+                "keywords": ["lifestyle series", "Netflix", "culinary", "gardening", "cooking show", "Love Meghan"]
+            },
+            "Meghan and Harry Marriage Clips": {
+                "folder": "Meghan and Harry Marriage Clips",
+                "description": "Meghan and Harry as a couple and their marriage together",
+                "keywords": ["couple", "marriage", "relationship", "together", "life", "partnership"]
+            },
+            "Meghan Visiting Schools": {
+                "folder": "Meghan Visiting Schools",
+                "description": "Meghan Markle visiting schools and talking to children",
+                "keywords": ["schools", "children", "education", "visiting", "talking"]
+            },
+            "Meghan And Harry As Couples": {
+                "folder": "Meghan And Harry As Couples",
+                "description": "Meghan and Harry as a couple and their clips of doing things together, use this folder when discussing both of them together",
+                "keywords": ["couple", "together", "life", "partnership"]
+            },
+            "Meghan Markle Giving Speech": {
+                "folder": "Meghan Markle Giving Speech and Inspriing Everyone",
+                "description": "Meghan Markle giving a speech and inspiring everyone",
+                "keywords": ["speech", "giving", "speaking", "inspiring"]
+            },
+            "Royal Palace Guards": {
+                "folder": "Royal Palace Guards",
+                "description": "Royal Palace Guards and their clips showing exterior of Buckingham Palace",
+                "keywords": ["guards", "palace", "royal", "security"]
+            },
+ 
+            "Meghan And Harry At Elizabeth's Funeral": {
+                "folder": "Meghan And Harry At Elizabeth's Funeral",
+                "description": "Meghan and Harry at Elizabeth's funeral",
+                "keywords": ["funeral", "Elizabeth", "funeral"]
+            },
+            "Meghan Markle Oprah Interview": {
+                "folder": "Meghan Markle Oprah Interview",
+                "description": "Meghan Markle Oprah Interview",
+                "keywords": ["Oprah", "interview", "Meghan Markle", "Oprah Interview"]
+            },
+            "Meghan Markle Emotional & Sad Clips": {
+                "folder": "Meghan Markle Emotional & Sad Clips",
+                "description": "Meghan Markle emotional and sad clips",
+                "keywords": ["emotional", "sad", "tears", "crying"]
+            },
+            "Celebrities At Meghan and Harry's Wedding": {
+                "folder": "Celebrities At Meghan and Harry's Wedding",
+                "description": "Celebrities at Meghan and Harry's wedding",
+                "keywords": ["celebrities", "Royal Wedding", "celebrities at Royal Wedding"]
+            },
+            "Meghan Markle in Suits": {
+                "folder": "Meghan Markle in Suits",
+                "description": "Meghan Markle acting in the series Suits",
+                "keywords": ["Meghan Markle", "Suits", "Meghan Markle in Suits", "Meghan Markle in Suits Clips"]
+            },
+            "Megyn Kelly Criticism Clips": {
+                "folder": "Megyn Kelly Criticism Clips",
+                "description": "Megyn Kelly commenting and criticizing Meghan Markle and Megyn Kelly Hates Meghan Markle",
+                "keywords": ["Megyn Kelly", "criticizing", "Meghan Markle", "Megyn Kelly Hates Meghan Markle"]
+            }
+        }
+    } 

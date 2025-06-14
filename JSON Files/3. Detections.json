@@ -1,0 +1,299 @@
+{
+    "video": {
+        "title": "Meghan Left RED FACED After Jon Stewart Calls Her WORST Entrepreneur On TV",
+        "channel": "Meghan Markle",
+        "page_id": "21102cd2-c142-80c2-b71c-d6bcb6e550d1",
+        "selected_at": "2025-06-14T01:17:01.501959"
+    },
+    "detections": [
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 8.028,
+            "formatted_timestamp": "8.03",
+            "segment_start": 4.1,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Jon Stewart",
+            "matched_text": "Stewart",
+            "timestamp": 5.148,
+            "formatted_timestamp": "5.15",
+            "segment_start": 4.1,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 34.6,
+            "formatted_timestamp": "34.60",
+            "segment_start": 34.6,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 89.672,
+            "formatted_timestamp": "1:29.67",
+            "segment_start": 87.88,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 104.628,
+            "formatted_timestamp": "1:44.63",
+            "segment_start": 100.6,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 105.131,
+            "formatted_timestamp": "1:45.13",
+            "segment_start": 100.6,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 112.52,
+            "formatted_timestamp": "1:52.52",
+            "segment_start": 112.52,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 150.36,
+            "formatted_timestamp": "2:30.36",
+            "segment_start": 150.36,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Netflix",
+            "matched_text": "Netflix",
+            "timestamp": 163.36,
+            "formatted_timestamp": "2:43.36",
+            "segment_start": 163.36,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 170.893,
+            "formatted_timestamp": "2:50.89",
+            "segment_start": 169.44000000000003,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry's",
+            "timestamp": 171.276,
+            "formatted_timestamp": "2:51.28",
+            "segment_start": 169.44000000000003,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan's",
+            "timestamp": 186.592,
+            "formatted_timestamp": "3:06.59",
+            "segment_start": 185.04000000000002,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 212.24,
+            "formatted_timestamp": "3:32.24",
+            "segment_start": 212.24,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Jon Stewart",
+            "matched_text": "Stewart",
+            "timestamp": 230.48000000000002,
+            "formatted_timestamp": "3:50.48",
+            "segment_start": 230.48000000000002,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 236.08,
+            "formatted_timestamp": "3:56.08",
+            "segment_start": 236.08,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 296.32,
+            "formatted_timestamp": "4:56.32",
+            "segment_start": 296.32,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 307.12,
+            "formatted_timestamp": "5:07.12",
+            "segment_start": 307.12,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 343.14000000000004,
+            "formatted_timestamp": "5:43.14",
+            "segment_start": 343.14000000000004,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Jon Stewart",
+            "matched_text": "Stewart's",
+            "timestamp": 358.584,
+            "formatted_timestamp": "5:58.58",
+            "segment_start": 356.58,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 360.86,
+            "formatted_timestamp": "6:00.86",
+            "segment_start": 360.86,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 376.06,
+            "formatted_timestamp": "6:16.06",
+            "segment_start": 376.06,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 436.42,
+            "formatted_timestamp": "7:16.42",
+            "segment_start": 436.42,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Jon Stewart",
+            "matched_text": "Stewart",
+            "timestamp": 447.14000000000004,
+            "formatted_timestamp": "7:27.14",
+            "segment_start": 447.14000000000004,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 468.74,
+            "formatted_timestamp": "7:48.74",
+            "segment_start": 468.74,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 518.9,
+            "formatted_timestamp": "8:38.90",
+            "segment_start": 518.9,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 538.38,
+            "formatted_timestamp": "8:58.38",
+            "segment_start": 538.38,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Netflix",
+            "matched_text": "Netflix",
+            "timestamp": 562.9,
+            "formatted_timestamp": "9:22.90",
+            "segment_start": 562.9,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Jon Stewart",
+            "matched_text": "Stewart",
+            "timestamp": 574.1800000000001,
+            "formatted_timestamp": "9:34.18",
+            "segment_start": 574.1800000000001,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 595.26,
+            "formatted_timestamp": "9:55.26",
+            "segment_start": 595.26,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Oprah",
+            "matched_text": "Oprah",
+            "timestamp": 595.26,
+            "formatted_timestamp": "9:55.26",
+            "segment_start": 595.26,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 614.82,
+            "formatted_timestamp": "10:14.82",
+            "segment_start": 614.82,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 654.22,
+            "formatted_timestamp": "10:54.22",
+            "segment_start": 654.22,
+            "word_level_detection": false
+        }
+    ],
+    "timestamp": "2025-06-14T01:17:55.210780"
+}

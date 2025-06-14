@@ -1,0 +1,39 @@
+{
+    "video": {
+        "title": "Meghan Markle HUMILIATED After BEYONCE Makes Her Sign Her Own Mom For Show",
+        "channel": "Meghan Markle",
+        "page_id": "20402cd2-c142-8060-9762-e0cd08a55955",
+        "selected_at": "2025-05-31T19:30:38.000610"
+    },
+    "detections": [
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 3.12,
+            "formatted_timestamp": "3.12"
+        },
+        {
+            "type": "main",
+            "keyword": "Beyonce",
+            "matched_text": "Beyonce",
+            "timestamp": 19.88,
+            "formatted_timestamp": "19.88"
+        },
+        {
+            "type": "main",
+            "keyword": "Netflix",
+            "matched_text": "Netflix",
+            "timestamp": 25.0,
+            "formatted_timestamp": "25.00"
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 27.92,
+            "formatted_timestamp": "27.92"
+        }
+    ],
+    "timestamp": "2025-05-31T19:53:09.075917"
+}

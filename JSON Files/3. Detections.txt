@@ -1,0 +1,133 @@
+================================================================================
+CELEBRITY KEYWORD DETECTIONS SUMMARY
+================================================================================
+
+Video Title: Meghan Left RED FACED After Jon Stewart Calls Her WORST Entrepreneur On TV
+Channel: Meghan Markle
+Page ID: 21102cd2-c142-80c2-b71c-d6bcb6e550d1
+Video Selected: 2025-06-14T01:17:01.501959
+Detection Generated: 2025-06-14T01:17:55.210780
+
+Total Detections: 32
+
+--------------------------------------------------------------------------------
+DETECTION TIMELINE (Actual Order)
+--------------------------------------------------------------------------------
+
+   1. 📍 5.15 (5.148s) - JON STEWART - Partial Match: "Stewart"
+      Type: main
+   2. 📍 8.03 (8.028s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   3. 📍 34.60 (34.6s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   4. 📍 1:29.67 (89.672s) - MEGHAN MARKLE - Partial Match: "Meghan"
+      Type: main
+   5. 📍 1:44.63 (104.628s) - MEGHAN MARKLE - Partial Match: "Meghan"
+      Type: main
+   6. 📍 1:45.13 (105.131s) - PRINCE HARRY - Partial Match: "Harry"
+      Type: main
+   7. 📍 1:52.52 (112.52s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   8. 📍 2:30.36 (150.36s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   9. 📍 2:43.36 (163.36s) - NETFLIX - Exact Match: "Netflix"
+      Type: main
+   10. 📍 2:50.89 (170.893s) - MEGHAN MARKLE - Partial Match: "Meghan"
+      Type: main
+   11. 📍 2:51.28 (171.276s) - PRINCE HARRY - Partial Match: "Harry's"
+      Type: main
+   12. 📍 3:06.59 (186.592s) - MEGHAN MARKLE - Partial Match: "Meghan's"
+      Type: main
+   13. 📍 3:32.24 (212.24s) - MEGHAN MARKLE - Partial Match: "Meghan"
+      Type: main
+   14. 📍 3:50.48 (230.48000000000002s) - JON STEWART - Partial Match: "Stewart"
+      Type: main
+   15. 📍 3:56.08 (236.08s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   16. 📍 4:56.32 (296.32s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   17. 📍 5:07.12 (307.12s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   18. 📍 5:43.14 (343.14000000000004s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   19. 📍 5:58.58 (358.584s) - JON STEWART - Partial Match: "Stewart's"
+      Type: main
+   20. 📍 6:00.86 (360.86s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   21. 📍 6:16.06 (376.06s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   22. 📍 7:16.42 (436.42s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   23. 📍 7:27.14 (447.14000000000004s) - JON STEWART - Partial Match: "Stewart"
+      Type: main
+   24. 📍 7:48.74 (468.74s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   25. 📍 8:38.90 (518.9s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   26. 📍 8:58.38 (538.38s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   27. 📍 9:22.90 (562.9s) - NETFLIX - Exact Match: "Netflix"
+      Type: main
+   28. 📍 9:34.18 (574.1800000000001s) - JON STEWART - Partial Match: "Stewart"
+      Type: main
+   29. 📍 9:55.26 (595.26s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   30. 📍 9:55.26 (595.26s) - OPRAH - Exact Match: "Oprah"
+      Type: main
+   31. 📍 10:14.82 (614.82s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   32. 📍 10:54.22 (654.22s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+
+--------------------------------------------------------------------------------
+DETECTION STATISTICS
+--------------------------------------------------------------------------------
+
+Meghan Markle:
+  • Total Detections: 22
+  • Match Type: Partial ("Megan")
+  • First Appearance: 8.03
+  • Last Appearance: 10:54.22
+  • Detection Span: 646.19 seconds
+
+Jon Stewart:
+  • Total Detections: 5
+  • Match Type: Partial ("Stewart")
+  • First Appearance: 5.15
+  • Last Appearance: 9:34.18
+  • Detection Span: 569.03 seconds
+
+Prince Harry:
+  • Total Detections: 2
+  • Match Type: Partial ("Harry")
+  • First Appearance: 1:45.13
+  • Last Appearance: 2:51.28
+  • Detection Span: 66.15 seconds
+
+Netflix:
+  • Total Detections: 2
+  • Match Type: Exact
+  • First Appearance: 2:43.36
+  • Last Appearance: 9:22.90
+  • Detection Span: 399.54 seconds
+
+Oprah:
+  • Total Detections: 1
+  • Match Type: Exact
+  • First Appearance: 9:55.26
+
+Total Detection Window: 654.22 seconds
+Detection Frequency: 1 every 20.44 seconds
+
+--------------------------------------------------------------------------------
+DETECTION SUMMARY
+--------------------------------------------------------------------------------
+
+✅ 5 unique celebrities detected
+✅ 32 total keyword matches found
+✅ Mix of exact and partial matches
+✅ Detections span 654.22 seconds of content
+
+================================================================================
+End of Detection Summary
+================================================================================

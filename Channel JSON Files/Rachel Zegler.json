@@ -1,0 +1,33 @@
+{
+    "Rachel Zegler": {
+            "Jenna Ortega": ["Jenna", "Ortega", "Jenna's"],
+            "Rachel Zegler": ["Rachel", "Zegler", "Ziegler", "Ziegler's", "Zegler's", "Rachel Zegler", "Rachel Zegler's"],
+            "Bob Iger": ["Bob", "Iger", "Iger's", "Bob Iger", "Bob Iger's"],
+            "Francis Lawrence": ["Francis", "Lawrence", "Lawrence's", "Francis Lawrence", "Francis Lawrence's"],
+            "Brett Cooper": ["Brett", "Cooper", "Cooper's", "Cooper's", "Cooper's", "Cooper's", "Cooper's", "Cooper's", "Cooper's", "Cooper's"],
+            "Jamie Lloyd": ["Jamie", "Lloyd", "Lloyd's", "Lloyd's"],
+            "Gal Gadot": ["Gal", "Gadot", "Gadot's", "Gadot's", "Gadot's", "Gadot's", "Gadot's", "Gadot's", "Gadot's", "Gadot's"],
+            "Disney": ["Disney", "Disney's", "disney", "disney's"],
+            "Evita": ["Evita", "Evita's", "evita", "Palladium", "evita's"],
+            "Steven Spielberg": ["Steven", "Spielberg", "Spielberg's", "Spielberg's", "Spielberg's", "Spielberg's", "Spielberg's", "Spielberg's", "Spielberg's", "Spielberg's"],
+            "Family Guy": ["Family Guy", "Family Guy's", "Family Guy's", "Family Guy's"],
+            "Jared Hess": ["jared hess", "jared", "Jarde's", "hess", "hess's", "hess's", "hess's", "Hess's", "Hess's", "Hess's"],
+            "Andrew Burnap": ["andrew burnap", "andrew", "burnap", "burnap's", "burnap's", "burnap's", "Burnap's", "Burnap's", "Andrew's", "Burnap's"],
+            "Snow White": ["snow white", "snow", "white", "white's", "white's", "white's", "White's", "White's", "Snow's", "White's"],
+            "Simpsons": ["simpsons", "simpson", "simpson's", "simpson's", "simpson's", "simpson's", "Simpson's", "Simpson's", "Simpson's", "Simpson's"],
+            "Dubai": ["dubai", "dubai's", "Dubai", "Dubai's", "Dubai's", "Dubai's", "Dubai's", "Dubai's", "Dubai's", "Dubai's"]
+        },
+
+        "Words": {
+           "Deadpool" : ["Deadpool", "Deadpool's", "deadpool", "deadpool's"],
+           "Wolverine" : ["Wolverine", "Wolverine's", "wolverine", "wolverine's"],
+           "Disney": ["Disney", "Disney's", "disney", "disney's"],
+           "Israel": ["israel", "israel's", "Israel", "Israel's", "Israel's", "Israel's", "Israel's", "Israel's", "Israel's"],
+           "Dwarfs": ["dwarfs", "Seven dwarfs", "dwarf", "dwarf's", "Dwarfs", "Dwarf", "Dwarf's", "Dwarfs's", "Dwarfs's", "Dwarfs's", "Dwarfs's"],
+           "Palestine": ["palestine", "palestinian", "palestinian's", "Palestine", "Palestine's", "Palestine's", "Palestine's", "Palestine's", "Palestine's"],
+            "Dubai": ["dubai", "dubai's", "Dubai", "Dubai's"],
+            "Hollywood": ["hollywood", "hollywood movie", "hollywood movie trailer"],
+            "Police": ["police", "cop", "cops", "officer", "officers", "law enforcement", "police department"]
+        }
+    }
+

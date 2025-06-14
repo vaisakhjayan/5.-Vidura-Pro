@@ -1,0 +1,11 @@
+{
+    "Katy Perry": {
+        "Oprah": ["Oprah", "Winfrey", "Winfrey's", "Oprah Winfrey", "Oprah Winfrey's"],
+        "Gayle King": ["Gayle", "King", "King's", "Gayle King", "Gayle King's"],
+        "Jeff Bezos": ["Jeff", "Bezos", "Bezos's", "jeff bezos", "jeff bezos's"],
+        "Blue Origin": ["Blue Origin","Space", "Astronaut", "Space Travel"],
+        "Rachel Zegler": ["Rachel", "Zegler", "Zegler's", "rachel zegler", "rachel zegler's"],
+        "Katy Perry": ["katy", "Perry", "Perry's", "katies", "katies's", "katies's", "katy perry", "katy perry's"],
+        "South Park": ["South", "Park", "South Park", "South Park's", "south park", "south park's"]
+    }
+}  

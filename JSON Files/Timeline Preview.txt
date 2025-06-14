@@ -1,0 +1,982 @@
+
+========================================================================================================================
+🎬 FINAL VIDEO ASSEMBLY TIMELINE (ACTUAL OUTPUT)
+========================================================================================================================
+
+Video: Prince William Gets ROYAL Praise While Harry Is LEFT Out Once Again Harshly
+Preview Generated: 2025-06-07 14:16:41
+Output File: final_video.mp4
+Encoding: GPU (NVENC)
+Quality Preset: fast
+Assembly Method: Sequential Concatenation
+
+========================================================================================================================
+
+ACTUAL ASSEMBLY TIMELINE (Sequential Order)
+------------------------------------------------------------------------------------------------------------------------
+
+SEGMENT 1: [00:00.000 → 00:05.000] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 001_Prince_William_3_original.mp4
+    Original Audio Timing: [00:15.446 → 00:20.446]
+    💬 Prince William is walking into rooms
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 2: [00:05.000 → 00:10.000] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 002_Prince_William_5_original.mp4
+    Original Audio Timing: [00:20.446 → 00:25.446]
+    💬 Front page coverage that feels less like coincidence
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 3: [00:10.000 → 00:10.466] (0.466s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 0.466s | File: 003_Prince_William_23_composite.mp4
+    Original Audio Timing: [00:25.446 → 00:25.912]
+    💬 And more like a message.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 4: [00:10.466 → 00:15.466] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 004_Prince_Harry_16_2_chf3_rhea1_original.mp4
+    Original Audio Timing: [00:25.912 → 00:30.912]
+    💬 Meanwhile, Prince Harry is thousands of miles away,
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 5: [00:15.466 → 00:20.466] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 005_Prince_Harry_7_chf3_rhea1_original.mp4
+    Original Audio Timing: [00:30.912 → 00:35.912]
+    💬 an ex-player whose jersey is still hanging in the locker room, but whose time on the field
+    💬 is over.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 6: [00:20.466 → 00:25.466] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 006_Prince_Harry_12_chf3_rhea1_composite.mp4
+    Original Audio Timing: [00:35.912 → 00:40.912]
+    💬 now, let's be Real, This isn't just About one being better than the other. It's About
+    💬 timing,
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 7: [00:25.466 → 00:30.466] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 007_Prince_Harry_1_chf3_rhea1_original.mp4
+    Original Audio Timing: [00:40.912 → 00:45.912]
+    💬 About who stuck around when the storm hit. the royal family isn't some laid-back group
+    💬 with
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 8: [00:30.466 → 00:35.466] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 008_Prince_Harry_clip_03_01_Duchess of Sussex Reveals She's Missing Duke So Much with Events Scheduled Round Archie's Feed Times_161412_original.mp4
+    Original Audio Timing: [00:45.912 → 00:50.912]
+    💬 birthday Zoom calls And casual get-togethers. It's an institution, a brand, a machine.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 9: [00:35.466 → 00:40.466] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 009_Prince_Harry_11_chf3_rhea1_composite.mp4
+    Original Audio Timing: [00:50.912 → 00:55.912]
+    💬 And right now, it's in damage control mode. between health scares, public scrutiny,
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 10: [00:40.466 → 00:45.466] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 010_Prince_Harry_clip_1 copy_chf3_rhea1_original.mp4
+    Original Audio Timing: [00:55.912 → 01:00.912]
+    💬 an internal drama that leaks out in whispers And headlines the palace needs someone's
+    💬 solid.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 11: [00:45.466 → 00:48.334] (2.868s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 2.868s | File: 011_Prince_Harry_15_chf3_rhea1_original.mp4
+    Original Audio Timing: [01:00.912 → 01:03.780]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 12: [00:48.334 → 00:53.334] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 012_Prince_William_8_composite.mp4
+    Original Audio Timing: [01:03.780 → 01:08.780]
+    💬 someone who can show up, suit up, And shut up. in William? He's doing exactly that.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 13: [00:53.334 → 00:58.334] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 013_Prince_William_10_original.mp4
+    Original Audio Timing: [01:08.780 → 01:13.780]
+    💬 He's not pulling any wild stunts. He's not sitting for emotional interviews. He's not
+    💬 given
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 14: [00:58.334 → 01:03.334] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 014_Prince_William_clip_4_original.mp4
+    Original Audio Timing: [01:13.780 → 01:18.780]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 15: [01:03.334 → 01:08.334] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 015_Prince_William_2_composite.mp4
+    Original Audio Timing: [01:18.780 → 01:23.780]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 16: [01:08.334 → 01:13.334] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 016_Prince_William_27_original.mp4
+    Original Audio Timing: [01:23.780 → 01:28.780]
+    💬 holding the line. And whether you're a fan of the monarchy or not, you can't deny the
+    💬 optics.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 17: [01:13.334 → 01:18.334] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 017_Prince_William_clip_15_original.mp4
+    Original Audio Timing: [01:28.780 → 01:33.780]
+    💬 the man looks like a future king, Calm, present, And playing the long game. That's not
+    💬 accidental.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 18: [01:18.334 → 01:19.694] (1.360s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 1.360s | File: 018_Prince_William_clip_10_composite.mp4
+    Original Audio Timing: [01:33.780 → 01:35.140]
+    💬 That's strategy. And then there's Harry, the younger son, the rebel, the one who blew the
+    💬 whistle,
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 19: [01:19.694 → 01:24.694] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 019_Prince_Harry_clip_2 copy_chf3_rhea1_original.mp4
+    Original Audio Timing: [01:35.140 → 01:40.140]
+    💬 That's strategy. And then there's Harry, the younger son, the rebel, the one who blew the
+    💬 whistle,
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 20: [01:24.694 → 01:29.694] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 020_Prince_Harry_3_chf3_rhea1_original.mp4
+    Original Audio Timing: [01:40.140 → 01:45.140]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 21: [01:29.694 → 01:34.694] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 021_Prince_Harry_clip_06_02_Harry and Meghan Appear at Ripple of Hope Awards_161444_composite.mp4
+    Original Audio Timing: [01:45.140 → 01:50.140]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 22: [01:34.694 → 01:39.694] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 022_Prince_Harry_5_chf3_rhea1_original.mp4
+    Original Audio Timing: [01:50.140 → 01:55.140]
+    💬 system that left scars. but over time, the shine started to fade. not Because his points
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 23: [01:39.694 → 01:44.694] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 023_Prince_Harry_clip_3_chf3_rhea1_original.mp4
+    Original Audio Timing: [01:55.140 → 02:00.140]
+    💬 weren't valid, but Because the public started noticing something else. He wasn't just
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 24: [01:44.694 → 01:49.694] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 024_Prince_Harry_clip_17_chf3_rhea1_composite.mp4
+    Original Audio Timing: [02:00.140 → 02:05.140]
+    💬 breaking free, He was breaking away, And He never really looked back. the contrast between
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 25: [01:49.694 → 01:54.694] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 025_Prince_Harry_8_chf3_rhea1_original.mp4
+    Original Audio Timing: [02:05.140 → 02:10.140]
+    💬 the brothers is more than just style. the style, it's become a full-blown narrative.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 26: [01:54.694 → 01:59.694] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 026_Prince_Harry_10_chf3_rhea1_original.mp4
+    Original Audio Timing: [02:10.140 → 02:15.140]
+    💬 one stays, one leaves. one plays the game, one challenges the rules, And in a family where
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 27: [01:59.694 → 02:04.694] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 027_Prince_Harry_clip_9_chf3_rhea1_composite.mp4
+    Original Audio Timing: [02:15.140 → 02:20.140]
+    💬 silence is praised And duty is worshiped, it's clear who the palace is rallying behind.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 28: [02:04.694 → 02:06.557] (1.863s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 1.863s | File: 028_Prince_Harry_2_chf3_rhea1_original.mp4
+    Original Audio Timing: [02:20.140 → 02:22.003]
+    💬 every time William shows up to a hospital visit or charity event, it's like the royal
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 29: [02:06.557 → 02:11.557] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 029_Prince_William_7_original.mp4
+    Original Audio Timing: [02:22.003 → 02:27.003]
+    💬 every time William shows up to a hospital visit or charity event, it's like the royal
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 30: [02:11.557 → 02:16.557] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 030_Prince_William_clip_14_composite.mp4
+    Original Audio Timing: [02:27.003 → 02:32.003]
+    💬 family is saying, This is the son who stayed.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 31: [02:16.557 → 02:20.260] (3.703s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 3.703s | File: 031_Prince_William_28_original.mp4
+    Original Audio Timing: [02:32.003 → 02:35.706]
+    💬 no shade, no gossip, just a quiet public reward.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 32: [02:20.260 → 02:25.260] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 032_Prince_Harry_14_chf3_rhea1_original.mp4
+    Original Audio Timing: [02:35.706 → 02:40.706]
+    💬 that doesn't mean Harry's a villain, far from it, but in the court of royal opinion,
+    💬 absent
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 33: [02:25.260 → 02:29.734] (4.474s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 4.474s | File: 033_Prince_Harry_13_chf3_rhea1_composite.mp4
+    Original Audio Timing: [02:40.706 → 02:45.180]
+    💬 speaks louder than words. And right now, the one who's present is the one collecting
+    💬 points.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 34: [02:29.734 → 02:34.734] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 034_Prince_William_clip_3_original.mp4
+    Original Audio Timing: [02:45.180 → 02:50.180]
+    💬 William isn't just earning praise, he's becoming the face of stability,
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 35: [02:34.734 → 02:39.734] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 035_Prince_William_clip_5_original.mp4
+    Original Audio Timing: [02:50.180 → 02:55.180]
+    💬 the face of what's next for a monarchy that desperately needs a steady image.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 36: [02:39.734 → 02:44.734] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 036_Prince_William_25_composite.mp4
+    Original Audio Timing: [02:55.180 → 03:00.180]
+    💬 He's the rock, whether He asks for it or not. And you know what's wild? This isn't just
+    💬 About
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 37: [02:44.734 → 02:49.734] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 037_Prince_William_clip_7_original.mp4
+    Original Audio Timing: [03:00.180 → 03:05.180]
+    💬 the palace anymore. the public's in on it too. even people who don't follow royal news are
+    💬 starting
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 38: [02:49.734 → 02:54.734] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 038_Prince_William_12_original.mp4
+    Original Audio Timing: [03:05.180 → 03:10.180]
+    💬 to pick up on the subtle cues, the headlines, the photo placements, the tone of coverage.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 39: [02:54.734 → 02:59.734] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 039_Prince_William_clip_22_composite.mp4
+    Original Audio Timing: [03:10.180 → 03:15.180]
+    💬 There's a quiet coronation happening And it has nothing to do with the crown yet.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 40: [02:59.734 → 03:04.734] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 040_Prince_William_clip_4 copy_original.mp4
+    Original Audio Timing: [03:15.180 → 03:20.180]
+    💬 It's About presence, consistency, loyalty, And Williams got all three on lock.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 41: [03:04.734 → 03:07.362] (2.628s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 2.628s | File: 041_Prince_William_20_original.mp4
+    Original Audio Timing: [03:20.180 → 03:22.808]
+    💬 Meanwhile, Harry's writing memoirs, Launching projects, Creating space for healing.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 42: [03:07.362 → 03:12.362] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 042_Prince_Harry_9_chf3_rhea1_composite.mp4
+    Original Audio Timing: [03:22.808 → 03:27.808]
+    💬 Meanwhile, Harry's writing memoirs, Launching projects, Creating space for healing.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 43: [03:12.362 → 03:17.362] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 043_Prince_Harry_clip_6 copy_chf3_rhea1_original.mp4
+    Original Audio Timing: [03:27.808 → 03:32.808]
+    💬 Important stuff, no doubt, but it's starting to feel like He left the dinner table And the
+    💬 family
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 44: [03:17.362 → 03:22.362] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 044_Prince_Harry_6_chf3_rhea1_original.mp4
+    Original Audio Timing: [03:32.808 → 03:37.808]
+    💬 decided not to save his seat, it's strange how silence can say more than a speech ever
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 45: [03:22.362 → 03:27.362] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 045_Prince_Harry_4_chf3_rhea1_composite.mp4
+    Original Audio Timing: [03:37.808 → 03:42.808]
+    💬 could, And in the royal world, silence is currency, Williams mastered it.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 46: [03:27.362 → 03:32.362] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 046_Prince_Harry_clip_9_chf3_rhea1_original.mp4
+    Original Audio Timing: [03:42.808 → 03:47.808]
+    💬 He doesn't need to explain himself, defend his choices, or clap back at rumors.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 47: [03:32.362 → 03:37.362] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 047_Prince_Harry_clip_06_02_Harry and Meghan Appear at Ripple of Hope Awards_161444_original.mp4
+    Original Audio Timing: [03:47.808 → 03:52.808]
+    💬 He lets the image do the talking, an image of a man who stuck around, wore the weight of
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 48: [03:37.362 → 03:42.362] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 048_Prince_Harry_clip_3_chf3_rhea1_composite.mp4
+    Original Audio Timing: [03:52.808 → 03:57.808]
+    💬 the crown before it was even his, And didn't complain.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 49: [03:42.362 → 03:47.362] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 049_Prince_Harry_16_2_chf3_rhea1_original.mp4
+    Original Audio Timing: [03:57.808 → 04:02.808]
+    💬 very carefully staged event every formal appearance, it's all reinforcing one message.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 50: [03:47.362 → 03:52.362] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 050_Prince_Harry_14_chf3_rhea1_original.mp4
+    Original Audio Timing: [04:02.808 → 04:07.808]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 51: [03:52.362 → 03:57.362] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 051_Prince_Harry_clip_17_chf3_rhea1_composite.mp4
+    Original Audio Timing: [04:07.808 → 04:12.808]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 52: [03:57.362 → 04:02.362] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 052_Prince_Harry_clip_03_01_Duchess of Sussex Reveals She's Missing Duke So Much with Events Scheduled Round Archie's Feed Times_161412_original.mp4
+    Original Audio Timing: [04:12.808 → 04:17.808]
+    💬 with a monarchy facing more scrutiny than ever, they don't just need a leader, they need
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 53: [04:02.362 → 04:07.362] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 053_Prince_Harry_clip_2 copy_chf3_rhea1_original.mp4
+    Original Audio Timing: [04:17.808 → 04:22.808]
+    💬 a symbol.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 54: [04:07.362 → 04:12.362] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 054_Prince_Harry_1_chf3_rhea1_composite.mp4
+    Original Audio Timing: [04:22.808 → 04:27.808]
+    💬 Williams not just filling that space, he's owning it.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 55: [04:12.362 → 04:13.423] (1.061s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 1.061s | File: 055_Prince_Harry_7_chf3_rhea1_original.mp4
+    Original Audio Timing: [04:27.808 → 04:28.869]
+    💬 on the flip side, Harry's journey is messy, Real, but messy.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 56: [04:13.423 → 04:18.423] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 056_Prince_Harry_10_chf3_rhea1_original.mp4
+    Original Audio Timing: [04:28.869 → 04:33.869]
+    💬 on the flip side, Harry's journey is messy, Real, but messy.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 57: [04:18.423 → 04:23.423] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 057_Prince_Harry_13_chf3_rhea1_composite.mp4
+    Original Audio Timing: [04:33.869 → 04:38.869]
+    💬 He talks About mental health, trauma, identity, legacy, things that resonate on a personal
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 58: [04:23.423 → 04:28.423] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 058_Prince_Harry_15_chf3_rhea1_original.mp4
+    Original Audio Timing: [04:38.869 → 04:43.869]
+    💬 level, especially with younger audiences.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 59: [04:28.423 → 04:33.423] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 059_Prince_Harry_8_chf3_rhea1_original.mp4
+    Original Audio Timing: [04:43.869 → 04:48.869]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 60: [04:33.423 → 04:38.423] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 060_Prince_Harry_clip_6 copy_chf3_rhea1_composite.mp4
+    Original Audio Timing: [04:48.869 → 04:53.869]
+    💬 it starts to clash.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 61: [04:38.423 → 04:43.423] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 061_Prince_Harry_3_chf3_rhea1_original.mp4
+    Original Audio Timing: [04:53.869 → 04:58.869]
+    💬 who cracked it open with a microphone, or something almost Shakespearean About it.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 62: [04:43.423 → 04:48.423] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 062_Prince_Harry_9_chf3_rhea1_original.mp4
+    Original Audio Timing: [04:58.869 → 05:03.869]
+    💬 two brothers, once inseparable, now walking opposite roads. one road is paved with duty
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 63: [04:48.423 → 04:53.423] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 063_Prince_Harry_11_chf3_rhea1_composite.mp4
+    Original Audio Timing: [05:03.869 → 05:08.869]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 64: [04:53.423 → 04:55.834] (2.411s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 2.411s | File: 064_Prince_Harry_5_chf3_rhea1_original.mp4
+    Original Audio Timing: [05:08.869 → 05:11.280]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 65: [04:55.834 → 05:00.834] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 065_Prince_Harry_12_chf3_rhea1_original.mp4
+    Original Audio Timing: [05:11.280 → 05:16.280]
+    💬 steps forward. Harry's sprinting in a different direction, not always knowing where it's
+    💬 headed,
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 66: [05:00.834 → 05:05.834] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 066_Prince_Harry_6_chf3_rhea1_composite.mp4
+    Original Audio Timing: [05:16.280 → 05:21.280]
+    💬 but here's the twist. both of them think they're doing the right thing, And Maybe they
+    💬 are.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 67: [05:05.834 → 05:10.834] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 067_Prince_Harry_clip_1 copy_chf3_rhea1_original.mp4
+    Original Audio Timing: [05:21.280 → 05:26.280]
+    💬 but one version fits the crown story better, And that's the version getting the applause.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 68: [05:10.834 → 05:15.834] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 068_Prince_Harry_4_chf3_rhea1_original.mp4
+    Original Audio Timing: [05:26.280 → 05:31.280]
+    💬 behind the scenes, you can bet the palace PR machine is working overtime.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 69: [05:15.834 → 05:18.727] (2.893s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 2.893s | File: 069_Prince_Harry_2_chf3_rhea1_composite.mp4
+    Original Audio Timing: [05:31.280 → 05:34.173]
+    💬 every article that praises William's steady hand is another subtle dig at Harry's
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 70: [05:18.727 → 05:21.390] (2.663s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 2.663s | File: 070_Prince_William_22_original.mp4
+    Original Audio Timing: [05:34.173 → 05:36.836]
+    💬 every article that praises William's steady hand is another subtle dig at Harry's
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 71: [05:21.390 → 05:26.390] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 071_Prince_Harry_13_chf3_rhea1_original.mp4
+    Original Audio Timing: [05:36.836 → 05:41.836]
+    💬 Absence.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 72: [05:26.390 → 05:31.390] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 072_Prince_Harry_clip_3_chf3_rhea1_composite.mp4
+    Original Audio Timing: [05:41.836 → 05:46.836]
+    💬 the message is clear.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 73: [05:31.390 → 05:35.910] (4.520s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 4.520s | File: 073_Prince_Harry_5_chf3_rhea1_original.mp4
+    Original Audio Timing: [05:46.836 → 05:51.356]
+    💬 on your own.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 74: [05:35.910 → 05:40.910] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 074_Prince_Harry_4_chf3_rhea1_original.mp4
+    Original Audio Timing: [05:51.356 → 05:56.356]
+    💬 That's the deal.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 75: [05:40.910 → 05:45.910] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 075_Prince_Harry_3_chf3_rhea1_composite.mp4
+    Original Audio Timing: [05:56.356 → 06:01.356]
+    💬 Maybe not reacting publicly, but privately, there's no way he's not feeling the sting.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 76: [05:45.910 → 05:50.910] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 076_Prince_Harry_10_chf3_rhea1_original.mp4
+    Original Audio Timing: [06:01.356 → 06:06.356]
+    💬 not just Because of the headlines, but Because of What they represent, Approval,
+    💬 Belonging,
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 77: [05:50.910 → 05:55.910] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 077_Prince_Harry_clip_6 copy_chf3_rhea1_original.mp4
+    Original Audio Timing: [06:06.356 → 06:11.356]
+    💬 legacy.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 78: [05:55.910 → 06:00.910] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 078_Prince_Harry_16_2_chf3_rhea1_composite.mp4
+    Original Audio Timing: [06:11.356 → 06:16.356]
+    💬 It's not just About popularity or press coverage, it's About power, influence.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 79: [06:00.910 → 06:05.910] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 079_Prince_Harry_clip_17_chf3_rhea1_original.mp4
+    Original Audio Timing: [06:16.356 → 06:21.356]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 80: [06:05.910 → 06:10.910] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 080_Prince_Harry_14_chf3_rhea1_original.mp4
+    Original Audio Timing: [06:21.356 → 06:26.356]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 81: [06:10.910 → 06:15.910] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 081_Prince_Harry_1_chf3_rhea1_composite.mp4
+    Original Audio Timing: [06:26.356 → 06:31.356]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 82: [06:15.910 → 06:19.754] (3.844s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 3.844s | File: 082_Prince_Harry_6_chf3_rhea1_original.mp4
+    Original Audio Timing: [06:31.356 → 06:35.200]
+    💬 between loyalty And transparency, He made it easy for them to back him, And they're
+    💬 rewarding
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 83: [06:19.754 → 06:24.754] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 083_Prince_Harry_clip_1 copy_chf3_rhea1_original.mp4
+    Original Audio Timing: [06:35.200 → 06:40.200]
+    💬 that with a kind of praise that says more than words ever could. Meanwhile, Harry's
+    💬 building
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 84: [06:24.754 → 06:29.754] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 084_Prince_Harry_9_chf3_rhea1_composite.mp4
+    Original Audio Timing: [06:40.200 → 06:45.200]
+    💬 a life that's meaningful in its own way. He's speaking his truth, Creating a new lane,
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 85: [06:29.754 → 06:34.754] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 085_Prince_Harry_clip_06_02_Harry and Meghan Appear at Ripple of Hope Awards_161444_original.mp4
+    Original Audio Timing: [06:45.200 → 06:50.200]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 86: [06:34.754 → 06:39.754] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 086_Prince_Harry_7_chf3_rhea1_original.mp4
+    Original Audio Timing: [06:50.200 → 06:55.200]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 87: [06:39.754 → 06:44.754] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 087_Prince_Harry_12_chf3_rhea1_composite.mp4
+    Original Audio Timing: [06:55.200 → 07:00.200]
+    💬 the longer He stays gone, the more the royal family closes ranks around the sun, And
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 88: [06:44.754 → 06:49.754] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 088_Prince_Harry_11_chf3_rhea1_original.mp4
+    Original Audio Timing: [07:00.200 → 07:05.200]
+    💬 that says everything.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 89: [06:49.754 → 06:54.754] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 089_Prince_Harry_clip_03_01_Duchess of Sussex Reveals She's Missing Duke So Much with Events Scheduled Round Archie's Feed Times_161412_original.mp4
+    Original Audio Timing: [07:05.200 → 07:10.200]
+    💬 not out of jealousy, but out of recognition.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 90: [06:54.754 → 06:56.054] (1.300s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 1.300s | File: 090_Prince_Harry_2_chf3_rhea1_composite.mp4
+    Original Audio Timing: [07:10.200 → 07:11.500]
+    💬 that could have been me.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 91: [06:56.054 → 07:01.054] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 091_Prince_Harry_15_chf3_rhea1_original.mp4
+    Original Audio Timing: [07:11.500 → 07:16.500]
+    💬 that should have been me.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 92: [07:01.054 → 07:05.034] (3.980s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 3.980s | File: 092_Prince_Harry_8_chf3_rhea1_original.mp4
+    Original Audio Timing: [07:16.500 → 07:20.480]
+    💬 He can feel it.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 93: [07:05.034 → 07:08.770] (3.736s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 3.736s | File: 093_Prince_William_4_composite.mp4
+    Original Audio Timing: [07:20.480 → 07:24.216]
+    💬 William isn't just winning public favor, he's embodying the image of What Harry once
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 94: [07:08.770 → 07:13.770] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 094_Prince_Harry_clip_2 copy_chf3_rhea1_original.mp4
+    Original Audio Timing: [07:24.216 → 07:29.216]
+    💬 wrestled with, then walked away from, And that image is now thriving without him.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 95: [07:13.770 → 07:15.831] (2.061s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 2.061s | File: 095_Prince_Harry_clip_9_chf3_rhea1_original.mp4
+    Original Audio Timing: [07:29.216 → 07:31.277]
+    💬 What makes it even harder is that Harry didn't leave Because He didn't care.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 96: [07:15.831 → 07:18.094] (2.263s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 2.263s | File: 096_Prince_Harry_3_chf3_rhea1_composite.mp4
+    Original Audio Timing: [07:31.277 → 07:33.540]
+    💬 What makes it even harder is that Harry didn't leave Because He didn't care.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 97: [07:18.094 → 07:23.094] (5.000s)
+    ------------------------------------------🎥 MEGHAN MARKLE-------------------------------------------
+    Duration: 5.000s | File: 097_Meghan_Markle_111_original.mp4
+    Original Audio Timing: [07:33.540 → 07:38.540]
+    💬 He left Because He cared too much About Meghan, About his children, About the impact the
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 98: [07:23.094 → 07:28.094] (5.000s)
+    ------------------------------------------🎥 MEGHAN MARKLE-------------------------------------------
+    Duration: 5.000s | File: 098_Meghan_Markle_clip_21_01_Meghan, Duchess of Sussex, Reveals She Suffered a Miscarriage_161636_chf3_rhea1_original.mp4
+    Original Audio Timing: [07:38.540 → 07:43.540]
+    💬 institution was having on his mental health.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 99: [07:28.094 → 07:33.094] (5.000s)
+    ------------------------------------🎥 MEGHAN MARKLE (Composite)-------------------------------------
+    Duration: 5.000s | File: 099_Meghan_Markle_clip_01_02_Beyond the Tabloids_ Exploring Meghan Markle’s Journey Over the Years_161345_chf3_rhea1_composite.mp4
+    Original Audio Timing: [07:43.540 → 07:48.540]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 100: [07:33.094 → 07:38.094] (5.000s)
+    ------------------------------------------🎥 MEGHAN MARKLE-------------------------------------------
+    Duration: 5.000s | File: 100_Meghan_Markle_clip_14_02_Meghan Markle joins the royals for Christmas service_161556_chf3_rhea1_original.mp4
+    Original Audio Timing: [07:48.540 → 07:53.540]
+    💬 in the eyes of the crown, presence is loyalty, Absence is rebellion, And in that rebellion
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 101: [07:38.094 → 07:42.014] (3.920s)
+    ------------------------------------------🎥 MEGHAN MARKLE-------------------------------------------
+    Duration: 3.920s | File: 101_Meghan_Markle_clip_16_04_Meghan Markle Returns to Instagram with New Year’s Celebration Post_161610_chf3_rhea1_original.mp4
+    Original Audio Timing: [07:53.540 → 07:57.460]
+    💬 something unspoken broke, not just between Harry And the institution but between Harry And
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 102: [07:42.014 → 07:44.694] (2.680s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 2.680s | File: 102_Prince_Harry_4_chf3_rhea1_composite.mp4
+    Original Audio Timing: [07:57.460 → 08:00.140]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 103: [07:44.694 → 07:49.694] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 103_Prince_William_11_original.mp4
+    Original Audio Timing: [08:00.140 → 08:05.140]
+    💬 William.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 104: [07:49.694 → 07:54.694] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 104_Prince_William_17_original.mp4
+    Original Audio Timing: [08:05.140 → 08:10.140]
+    💬 now their relationship is filtered Through press briefings And body language.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 105: [07:54.694 → 07:59.694] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 105_Prince_William_26_composite.mp4
+    Original Audio Timing: [08:10.140 → 08:15.140]
+    💬 not arguing publicly, but the silence between them says more than any feud ever could.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 106: [07:59.694 → 08:04.694] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 106_Prince_William_clip_3 copy_original.mp4
+    Original Audio Timing: [08:15.140 → 08:20.140]
+    💬 one stayed, one left, And no matter how complex the reasons, the palace has made its
+    💬 choice.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 107: [08:04.694 → 08:06.254] (1.560s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 1.560s | File: 107_Prince_William_6_original.mp4
+    Original Audio Timing: [08:20.140 → 08:21.700]
+    💬 William didn't become the favorite overnight.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 108: [08:06.254 → 08:11.254] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 108_Prince_William_19_composite.mp4
+    Original Audio Timing: [08:21.700 → 08:26.700]
+    💬 William didn't become the favorite overnight.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 109: [08:11.254 → 08:16.254] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 109_Prince_William_9_original.mp4
+    Original Audio Timing: [08:26.700 → 08:31.700]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 110: [08:16.254 → 08:21.254] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 110_Prince_William_24_original.mp4
+    Original Audio Timing: [08:31.700 → 08:36.700]
+    💬 in a monarchy obsessed with control, that kind of predictability is gold, And now it's
+    💬 being
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 111: [08:21.254 → 08:26.254] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 111_Prince_William_14_composite.mp4
+    Original Audio Timing: [08:36.700 → 08:41.700]
+    💬 And cashed in every royal engagement, every well-timed smile, every photo op, it's all
+    💬 part
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 112: [08:26.254 → 08:31.254] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 112_Prince_William_clip_2_original.mp4
+    Original Audio Timing: [08:41.700 → 08:46.700]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 113: [08:31.254 → 08:36.254] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 113_Prince_William_clip_18_original.mp4
+    Original Audio Timing: [08:46.700 → 08:51.700]
+    💬 that character is one of restraint, of duty, of patience.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 114: [08:36.254 → 08:41.254] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 114_Prince_William_18_composite.mp4
+    Original Audio Timing: [08:51.700 → 08:56.700]
+    💬 And that patience is paying off.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 115: [08:41.254 → 08:46.254] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 115_Prince_William_clip_1 copy_original.mp4
+    Original Audio Timing: [08:56.700 → 09:01.700]
+    💬 He's being trusted As the present foundation, the one who holds the line when things get
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 116: [08:46.254 → 08:48.922] (2.668s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 2.668s | File: 116_Prince_William_1_original.mp4
+    Original Audio Timing: [09:01.700 → 09:04.368]
+    💬 shaky.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 117: [08:48.922 → 08:53.922] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 117_Prince_William_13_composite.mp4
+    Original Audio Timing: [09:04.368 → 09:09.368]
+    💬 It's not that William is perfect.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 118: [08:53.922 → 08:58.922] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 118_Prince_William_clip_1_original.mp4
+    Original Audio Timing: [09:09.368 → 09:14.368]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 119: [08:58.922 → 09:03.922] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 119_Prince_William_16_original.mp4
+    Original Audio Timing: [09:14.368 → 09:19.368]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 120: [09:03.922 → 09:08.922] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 120_Prince_William_21_composite.mp4
+    Original Audio Timing: [09:19.368 → 09:24.368]
+    💬 but on disruption.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 121: [09:08.922 → 09:13.922] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 121_Prince_William_15_original.mp4
+    Original Audio Timing: [09:24.368 → 09:29.368]
+    💬 but challenging something so old, so deeply rooted, comes at a cost.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 122: [09:13.922 → 09:18.922] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 122_Prince_William_6_original.mp4
+    Original Audio Timing: [09:29.368 → 09:34.368]
+    💬 It's a lonely path.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 123: [09:18.922 → 09:23.922] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 123_Prince_William_11_composite.mp4
+    Original Audio Timing: [09:34.368 → 09:39.368]
+    💬 how hard it is to exist in two worlds, one that values freedom And one that values
+    💬 silence.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 124: [09:23.922 → 09:28.922] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 124_Prince_William_12_original.mp4
+    Original Audio Timing: [09:39.368 → 09:44.368]
+    💬 the crown doesn't reward disruption, it rewards obedience.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 125: [09:28.922 → 09:31.877] (2.955s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 2.955s | File: 125_Prince_William_21_original.mp4
+    Original Audio Timing: [09:44.368 → 09:47.323]
+    💬 That's why the applause is louder on William's side.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 126: [09:31.877 → 09:36.877] (5.000s)
+    ------------------------------------🎥 PRINCE WILLIAM (Composite)------------------------------------
+    Duration: 5.000s | File: 126_Prince_William_23_composite.mp4
+    Original Audio Timing: [09:47.323 → 09:52.323]
+    💬 That's why the applause is louder on William's side.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 127: [09:36.877 → 09:41.877] (5.000s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 5.000s | File: 127_Prince_William_24_original.mp4
+    Original Audio Timing: [09:52.323 → 09:57.323]
+    💬 And now he's winning, not just in optics but in influence.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 128: [09:41.877 → 09:46.254] (4.377s)
+    ------------------------------------------🎥 PRINCE WILLIAM------------------------------------------
+    Duration: 4.377s | File: 128_Prince_William_20_original.mp4
+    Original Audio Timing: [09:57.323 → 10:01.700]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 129: [09:46.254 → 09:51.254] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 129_Prince_Harry_13_chf3_rhea1_composite.mp4
+    Original Audio Timing: [10:01.700 → 10:06.700]
+    💬 And Harry, despite everything he's built, is looking in from the outside.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 130: [09:51.254 → 09:56.254] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 130_Prince_Harry_2_chf3_rhea1_original.mp4
+    Original Audio Timing: [10:06.700 → 10:11.700]
+    💬 This isn't a fairy tale, it's not a rivalry where one wins And the other loses, it's
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 131: [09:56.254 → 10:01.254] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 131_Prince_Harry_clip_1 copy_chf3_rhea1_original.mp4
+    Original Audio Timing: [10:11.700 → 10:16.700]
+    💬 two brothers who made two very different choices, And now they're living with the
+    💬 consequences.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 132: [10:01.254 → 10:06.254] (5.000s)
+    -------------------------------------🎥 PRINCE HARRY (Composite)-------------------------------------
+    Duration: 5.000s | File: 132_Prince_Harry_8_chf3_rhea1_composite.mp4
+    Original Audio Timing: [10:16.700 → 10:21.700]
+    💬 one is wrapped in the institutions embrace, the other is free but alone.
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 133: [10:06.254 → 10:09.684] (3.430s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 3.430s | File: 133_Prince_Harry_12_chf3_rhea1_original.mp4
+    Original Audio Timing: [10:21.700 → 10:25.130]
+    ----------------------------------------------------------------------------------------------------
+
+SEGMENT 134: [10:09.684 → 10:14.684] (5.000s)
+    -------------------------------------------🎥 PRINCE HARRY-------------------------------------------
+    Duration: 5.000s | File: 134_Prince_Harry_clip_2 copy_chf3_rhea1_original.mp4
+    Original Audio Timing: [10:25.130 → 10:30.130]
+    💬 And no matter how much truth Harry speaks, the crown is already made up its mind.
+    ----------------------------------------------------------------------------------------------------
+
+ASSEMBLY STATISTICS
+------------------------------------------------------------------------------------------------------------------------
+
+Prince William:
+  • Screen Time: 221.116s (36.0%)
+  • Media: 49 videos, 0 images
+  • Effects Applied: 49
+
+Prince Harry:
+  • Screen Time: 369.648s (60.1%)
+  • Media: 80 videos, 0 images
+  • Effects Applied: 80
+
+Meghan Markle:
+  • Screen Time: 23.920s (3.9%)
+  • Media: 5 videos, 0 images
+  • Effects Applied: 5
+
+Total Final Video Duration: 614.684 seconds
+Total Segments: 134
+
+IMPORTANT: This timeline shows the ACTUAL final video output.
+Segments are concatenated sequentially, not placed at original audio timestamps.
+The 'Original Audio Timing' shows where this content was mentioned in the source audio.
+
+========================================================================================================================

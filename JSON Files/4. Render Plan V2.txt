@@ -1,0 +1,545 @@
+================================================================================
+CELEBRITY CLIP PLACEMENT SUMMARY
+================================================================================
+
+Generated: 2025-06-14 01:17:55
+Total Segments: 150
+
+--------------------------------------------------------------------------------
+TIMELINE OVERVIEW
+--------------------------------------------------------------------------------
+
+🎬 JON STEWART
+----------------------------------------
+    1. 🎥 00:05.15 → 00:08.03 (2.88s) (Video) - 16.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+    2. 🎥 00:08.03 → 00:13.03 (5.00s) (Video) - 26.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    3. 🎥 00:13.03 → 00:18.03 (5.00s) (Video) - asdasdas_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    4. 🎥 00:18.03 → 00:23.03 (5.00s) (Video) - 1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    5. 🎥 00:23.03 → 00:28.03 (5.00s) (Video) - cvcxvx.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    6. 🎥 00:28.03 → 00:33.03 (5.00s) (Video) - clip_01_02_Beyond the Tabloids_ Exploring Meghan Markle’s Journey Over the Years_161345_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    7. 🎥 00:33.03 → 00:34.60 (1.57s) (Video) - clip_24_01_Prince Harry and Meghan Markle arrive at Commonwealth event_161703_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    8. 🎥 00:34.60 → 00:39.60 (5.00s) (Video) - clip_05_03_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    9. 🎥 00:39.60 → 00:44.60 (5.00s) (Video) - clip_04_02_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    10. 🎥 00:44.60 → 00:49.60 (5.00s) (Video) - 111.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    11. 🎥 00:49.60 → 00:54.60 (5.00s) (Video) - 27.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    12. 🎥 00:54.60 → 00:59.60 (5.00s) (Video) - clip_26_01_Prince Harry and Meghan Markle to Reveal All About US Move in Oprah Winfrey Interview_161717_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    13. 🎥 00:59.60 → 01:04.60 (5.00s) (Video) - clip_14_02_Meghan Markle joins the royals for Christmas service_161556_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    14. 🎥 01:04.60 → 01:09.60 (5.00s) (Video) - 8.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    15. 🎥 01:09.60 → 01:14.60 (5.00s) (Video) - clip_06_02_Meghan Markle Makes Surprise Video Call to Smart Works Client Before Interview_2_155645_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    16. 🎥 01:14.60 → 01:19.60 (5.00s) (Video) - clip_14_01_Meghan Markle joins the royals for Christmas service_161556_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    17. 🎥 01:19.60 → 01:24.60 (5.00s) (Video) - dgfdd.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    18. 🎥 01:24.60 → 01:29.60 (5.00s) (Video) - zcxzxzc.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    19. 🎥 01:29.60 → 01:29.67 (0.07s) (Video) - clip_23_04_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    20. 🎥 01:29.67 → 01:34.67 (5.00s) (Video) - clip_21_04_Meghan, Duchess of Sussex, Reveals She Suffered a Miscarriage_161636.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    21. 🎥 01:34.67 → 01:39.67 (5.00s) (Video) - sdsdf.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    22. 🎥 01:39.67 → 01:44.63 (4.96s) (Video) - 1_1_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    23. 🎥 01:44.63 → 01:45.13 (0.50s) (Video) - clip_02_01_Gleeful Meghan Markle Thanks Billie Eilish For Incredible Donation_155607_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 PRINCE HARRY
+----------------------------------------
+    24. 🎥 01:45.13 → 01:50.13 (5.00s) (Video) - 4_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    25. 🎥 01:50.13 → 01:52.52 (2.39s) (Video) - 10_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+    26. 🎥 01:52.52 → 01:57.52 (5.00s) (Video) - 10.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    27. 🎥 01:57.52 → 02:02.52 (5.00s) (Video) - clip_07_02_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    28. 🎥 02:02.52 → 02:07.52 (5.00s) (Video) - clip_28_01_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    29. 🎥 02:07.52 → 02:12.52 (5.00s) (Video) - clip_07_02_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    30. 🎥 02:12.52 → 02:17.52 (5.00s) (Video) - 4_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    31. 🎥 02:17.52 → 02:22.52 (5.00s) (Video) - 21.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    32. 🎥 02:22.52 → 02:27.52 (5.00s) (Video) - clip_01_01_Beyond the Tabloids_ Exploring Meghan Markle’s Journey Over the Years_161345_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    33. 🎥 02:27.52 → 02:30.36 (2.84s) (Video) - 24.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    34. 🎥 02:30.36 → 02:35.36 (5.00s) (Video) - 32.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    35. 🎥 02:35.36 → 02:40.36 (5.00s) (Video) - clip_19_01_Meghan shares a hug and dance with cute Kiwi toddler_161629_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    36. 🎥 02:40.36 → 02:43.36 (3.00s) (Video) - sfdsfds.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 NETFLIX
+----------------------------------------
+    37. 🎥 02:43.36 → 02:48.36 (5.00s) (Video) - 6.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    38. 🎥 02:48.36 → 02:50.89 (2.53s) (Video) - 2.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+    39. 🎥 02:50.89 → 02:51.28 (0.38s) (Video) - clip_01_02_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 PRINCE HARRY
+----------------------------------------
+    40. 🎥 02:51.28 → 02:56.28 (5.00s) (Video) - 8_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    41. 🎥 02:56.28 → 03:01.28 (5.00s) (Video) - 14_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    42. 🎥 03:01.28 → 03:06.28 (5.00s) (Video) - 3_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    43. 🎥 03:06.28 → 03:06.59 (0.32s) (Video) - 15_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+    44. 🎥 03:06.59 → 03:11.59 (5.00s) (Video) - 12321_1_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    45. 🎥 03:11.59 → 03:16.59 (5.00s) (Video) - clip_07_04_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    46. 🎥 03:16.59 → 03:21.59 (5.00s) (Video) - clip_24_03_Prince Harry and Meghan Markle arrive at Commonwealth event_161703_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    47. 🎥 03:21.59 → 03:26.59 (5.00s) (Video) - clip_24_02_Prince Harry and Meghan Markle arrive at Commonwealth event_161703_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    48. 🎥 03:26.59 → 03:31.59 (5.00s) (Video) - clip_09_01_Harry and Meghan Make Surprise Appearance with William and Kate at Windsor_161523_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    49. 🎥 03:31.59 → 03:32.24 (0.65s) (Video) - 30.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    50. 🎥 03:32.24 → 03:37.24 (5.00s) (Video) - clip_03_03_Highlights You Missed From Harry and Meghan’s Invictus Games Trip_155616_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    51. 🎥 03:37.24 → 03:42.24 (5.00s) (Video) - 28.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    52. 🎥 03:42.24 → 03:47.24 (5.00s) (Video) - clip_07_01_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    53. 🎥 03:47.24 → 03:50.48 (3.24s) (Video) - clip_27_01_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 JON STEWART
+----------------------------------------
+    54. 🎥 03:50.48 → 03:55.48 (5.00s) (Video) - 2.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    55. 🎥 03:55.48 → 03:56.08 (0.60s) (Video) - 19.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+    56. 🎥 03:56.08 → 04:01.08 (5.00s) (Video) - clip_07_01_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    57. 🎥 04:01.08 → 04:06.08 (5.00s) (Video) - clip_15_02_Meghan Markle laughs as pony tries to bite Prince Harry_161602_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    58. 🎥 04:06.08 → 04:11.08 (5.00s) (Video) - clip_27_04_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    59. 🎥 04:11.08 → 04:16.08 (5.00s) (Video) - xcvcxvcx.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    60. 🎥 04:16.08 → 04:21.08 (5.00s) (Video) - xc.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    61. 🎥 04:21.08 → 04:26.08 (5.00s) (Video) - zvz.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    62. 🎥 04:26.08 → 04:31.08 (5.00s) (Video) - clip_23_02_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    63. 🎥 04:31.08 → 04:36.08 (5.00s) (Video) - clip_27_03_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    64. 🎥 04:36.08 → 04:41.08 (5.00s) (Video) - 123.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    65. 🎥 04:41.08 → 04:46.08 (5.00s) (Video) - vc_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    66. 🎥 04:46.08 → 04:51.08 (5.00s) (Video) - clip_04_03_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    67. 🎥 04:51.08 → 04:56.08 (5.00s) (Video) - zxzzx.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    68. 🎥 04:56.08 → 04:56.32 (0.24s) (Video) - 5_1_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    69. 🎥 04:56.32 → 05:01.32 (5.00s) (Video) - clip_01_01_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    70. 🎥 05:01.32 → 05:06.32 (5.00s) (Video) - clip_15_01_Meghan Markle laughs as pony tries to bite Prince Harry_161602_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    71. 🎥 05:06.32 → 05:07.12 (0.80s) (Video) - 6.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    72. 🎥 05:07.12 → 05:12.12 (5.00s) (Video) - clip_05_02_Meghan Markle Launches ‘40x40’ Initiative to Mark 40th Birthday_155637_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    73. 🎥 05:12.12 → 05:17.12 (5.00s) (Video) - xcx.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    74. 🎥 05:17.12 → 05:22.12 (5.00s) (Video) - zcxzcz.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    75. 🎥 05:22.12 → 05:27.12 (5.00s) (Video) - sadsad_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    76. 🎥 05:27.12 → 05:32.12 (5.00s) (Video) - clip_12.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    77. 🎥 05:32.12 → 05:37.12 (5.00s) (Video) - 1234.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    78. 🎥 05:37.12 → 05:42.12 (5.00s) (Video) - 11.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    79. 🎥 05:42.12 → 05:43.14 (1.02s) (Video) - clip_13.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    80. 🎥 05:43.14 → 05:48.14 (5.00s) (Video) - sdf.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    81. 🎥 05:48.14 → 05:53.14 (5.00s) (Video) - clip_05_02_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    82. 🎥 05:53.14 → 05:58.14 (5.00s) (Video) - clip_05_01_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    83. 🎥 05:58.14 → 05:58.58 (0.44s) (Video) - clip_07_03_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 JON STEWART
+----------------------------------------
+    84. 🎥 05:58.58 → 06:00.86 (2.28s) (Video) - 23.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+    85. 🎥 06:00.86 → 06:05.86 (5.00s) (Video) - 31.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    86. 🎥 06:05.86 → 06:10.86 (5.00s) (Video) - clip_16_04_Meghan Markle Returns to Instagram with New Year’s Celebration Post_161610_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    87. 🎥 06:10.86 → 06:15.86 (5.00s) (Video) - zxcxzxz.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    88. 🎥 06:15.86 → 06:16.06 (0.20s) (Video) - clip_04_01_Meghan Markle Discusses Birth of Upcoming Daughter in First TV Appearance Since Oprah Interview_155628_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    89. 🎥 06:16.06 → 06:21.06 (5.00s) (Video) - clip_01_03_Beyond the Tabloids_ Exploring Meghan Markle’s Journey Over the Years_161345_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    90. 🎥 06:21.06 → 06:26.06 (5.00s) (Video) - clip_23_01_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    91. 🎥 06:26.06 → 06:31.06 (5.00s) (Video) - clip_05_01_Meghan Markle Launches ‘40x40’ Initiative to Mark 40th Birthday_155637_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    92. 🎥 06:31.06 → 06:36.06 (5.00s) (Video) - clip_08_03_Harry and Meghan Look Thrilled as Endeavour Awards Winner Proposes During Acceptance Speech_161510_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    93. 🎥 06:36.06 → 06:41.06 (5.00s) (Video) - sdfds.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    94. 🎥 06:41.06 → 06:46.06 (5.00s) (Video) - zccvcx.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    95. 🎥 06:46.06 → 06:51.06 (5.00s) (Video) - clip_21_03_Meghan, Duchess of Sussex, Reveals She Suffered a Miscarriage_161636.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    96. 🎥 06:51.06 → 06:56.06 (5.00s) (Video) - 25.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    97. 🎥 06:56.06 → 07:01.06 (5.00s) (Video) - clip_28_02_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    98. 🎥 07:01.06 → 07:06.06 (5.00s) (Video) - sfsdfsd.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    99. 🎥 07:06.06 → 07:11.06 (5.00s) (Video) - 12.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    100. 🎥 07:11.06 → 07:16.06 (5.00s) (Video) - clip_27_02_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    101. 🎥 07:16.06 → 07:16.42 (0.36s) (Video) - 4.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    102. 🎥 07:16.42 → 07:21.42 (5.00s) (Video) - clip_21_01_Meghan, Duchess of Sussex, Reveals She Suffered a Miscarriage_161636_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    103. 🎥 07:21.42 → 07:26.42 (5.00s) (Video) - clip_06_03_Meghan Markle Makes Surprise Video Call to Smart Works Client Before Interview_2_155645_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    104. 🎥 07:26.42 → 07:27.14 (0.72s) (Video) - clip_06_01_Harry and Meghan Appear at Ripple of Hope Awards_161444_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 JON STEWART
+----------------------------------------
+    105. 🎥 07:27.14 → 07:32.14 (5.00s) (Video) - 7.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    106. 🎥 07:32.14 → 07:37.14 (5.00s) (Video) - 6.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    107. 🎥 07:37.14 → 07:42.14 (5.00s) (Video) - 14.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    108. 🎥 07:42.14 → 07:47.14 (5.00s) (Video) - 24.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    109. 🎥 07:47.14 → 07:48.74 (1.60s) (Video) - 8.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+    110. 🎥 07:48.74 → 07:53.74 (5.00s) (Video) - zxzx_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    111. 🎥 07:53.74 → 07:58.74 (5.00s) (Video) - asd_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    112. 🎥 07:58.74 → 08:03.74 (5.00s) (Video) - clip_28_04_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    113. 🎥 08:03.74 → 08:08.74 (5.00s) (Video) - fghgvcb.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    114. 🎥 08:08.74 → 08:13.74 (5.00s) (Video) - dvfv_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    115. 🎥 08:13.74 → 08:18.74 (5.00s) (Video) - clip_06_03_Meghan Markle Makes Surprise Video Call to Smart Works Client Before Interview_2_155645_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    116. 🎥 08:18.74 → 08:23.74 (5.00s) (Video) - 1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    117. 🎥 08:23.74 → 08:28.74 (5.00s) (Video) - sdsdf.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    118. 🎥 08:28.74 → 08:33.74 (5.00s) (Video) - clip_15_02_Meghan Markle laughs as pony tries to bite Prince Harry_161602_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    119. 🎥 08:33.74 → 08:38.74 (5.00s) (Video) - sdfds.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    120. 🎥 08:38.74 → 08:38.90 (0.16s) (Video) - 32.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    121. 🎥 08:38.90 → 08:43.90 (5.00s) (Video) - clip_05_02_Meghan Markle Launches ‘40x40’ Initiative to Mark 40th Birthday_155637_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    122. 🎥 08:43.90 → 08:48.90 (5.00s) (Video) - clip_04_02_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    123. 🎥 08:48.90 → 08:53.90 (5.00s) (Video) - clip_13.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    124. 🎥 08:53.90 → 08:58.38 (4.48s) (Video) - sadsad_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    125. 🎥 08:58.38 → 09:03.38 (5.00s) (Video) - clip_28_04_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    126. 🎥 09:03.38 → 09:08.38 (5.00s) (Video) - zccvcx.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    127. 🎥 09:08.38 → 09:13.38 (5.00s) (Video) - 4.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    128. 🎥 09:13.38 → 09:18.38 (5.00s) (Video) - clip_01_01_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    129. 🎥 09:18.38 → 09:22.90 (4.52s) (Video) - sfdsfds.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 NETFLIX
+----------------------------------------
+    130. 🎥 09:22.90 → 09:27.90 (5.00s) (Video) - 4.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    131. 🎥 09:27.90 → 09:32.90 (5.00s) (Video) - 5.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    132. 🎥 09:32.90 → 09:34.18 (1.28s) (Video) - 3.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 JON STEWART
+----------------------------------------
+    133. 🎥 09:34.18 → 09:39.18 (5.00s) (Video) - 20.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    134. 🎥 09:39.18 → 09:44.18 (5.00s) (Video) - 5.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    135. 🎥 09:44.18 → 09:49.18 (5.00s) (Video) - 26.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    136. 🎥 09:49.18 → 09:54.18 (5.00s) (Video) - 4.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    137. 🎥 09:54.18 → 09:55.26 (1.08s) (Video) - 3.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 OPRAH
+----------------------------------------
+    138. 🎥 09:55.26 → 10:00.26 (5.00s) (Video) - 26.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    139. 🎥 10:00.26 → 10:05.26 (5.00s) (Video) - 12.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    140. 🎥 10:05.26 → 10:10.26 (5.00s) (Video) - 24.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    141. 🎥 10:10.26 → 10:14.82 (4.56s) (Video) - 37.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+    142. 🎥 10:14.82 → 10:19.82 (5.00s) (Video) - asd_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    143. 🎥 10:19.82 → 10:24.82 (5.00s) (Video) - clip_04_01_Meghan Markle Discusses Birth of Upcoming Daughter in First TV Appearance Since Oprah Interview_155628_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    144. 🎥 10:24.82 → 10:29.82 (5.00s) (Video) - xc.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    145. 🎥 10:29.82 → 10:34.82 (5.00s) (Video) - 21.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    146. 🎥 10:34.82 → 10:39.82 (5.00s) (Video) - clip_01_02_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    147. 🎥 10:39.82 → 10:44.82 (5.00s) (Video) - asdasdas_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    148. 🎥 10:44.82 → 10:49.82 (5.00s) (Video) - fghgvcb.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    149. 🎥 10:49.82 → 10:54.22 (4.40s) (Video) - clip_02_01_Gleeful Meghan Markle Thanks Billie Eilish For Incredible Donation_155607_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    150. 🎥 10:54.22 → 10:59.22 (5.00s) (Video) - clip_07_04_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+
+Jon Stewart:
+  • Total Screen Time: 53.44 seconds (8.2%)
+  • Total Clips: 14 (14 videos, 0 images)
+
+Meghan Markle:
+  • Total Screen Time: 539.56 seconds (82.5%)
+  • Total Clips: 121 (121 videos, 0 images)
+
+Prince Harry:
+  • Total Screen Time: 22.70 seconds (3.5%)
+  • Total Clips: 6 (6 videos, 0 images)
+
+Netflix:
+  • Total Screen Time: 18.81 seconds (2.9%)
+  • Total Clips: 5 (5 videos, 0 images)
+
+Oprah:
+  • Total Screen Time: 19.56 seconds (3.0%)
+  • Total Clips: 4 (4 videos, 0 images)
+
+Total Coverage: 654.07 seconds
+Total Clips Used: 150
+
+================================================================================
+End of Summary
+================================================================================

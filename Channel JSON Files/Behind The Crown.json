@@ -1,0 +1,15 @@
+{
+    "Behind The Crown": {
+    "Princess Diana": ["Princess Diana", "Princess Diana's", "Diana", "Diana's"],
+    "Prince Harry": ["Prince Harry", "Prince Harry's", "Harry", "Harry's"],
+    "Princess Anne": ["Princess Anne", "Princess Anne's", "Anne", "Anne's"],
+    "Prince Charles": ["Prince Charles", "Prince Charles's", "Charles", "Charles's"],
+    "Prince William": ["Prince William", "Prince William's", "William", "William's"],
+    "Kate Middleton": ["Kate Middleton", "Kate Middleton's", "Kate", "Kate's"],
+    "Prince George": ["Prince George", "Prince George's", "George", "George's"],
+    "Princess Charlotte": ["Princess Charlotte", "Princess Charlotte's", "Charlotte", "Charlotte's"],
+    "Prince Louis": ["Prince Louis", "Prince Louis's", "Louis", "Louis's"],
+    "Prince Edward": ["Prince Edward", "Prince Edward's", "Edward", "Edward's"],
+    "Queen Elizabeth": ["Queen Elizabeth", "Queen Elizabeth's", "Elizabeth", "Elizabeth's"]           
+    }
+}
