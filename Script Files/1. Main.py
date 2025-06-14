@@ -3,6 +3,14 @@ import os
 import sys
 import datetime
 import time
+import importlib.util
+
+# Import whichplatform module
+script_dir = os.path.dirname(os.path.abspath(__file__))
+platform_path = os.path.join(os.path.dirname(script_dir), "Other Files", "whichplatform.py")
+spec = importlib.util.spec_from_file_location("whichplatform", platform_path)
+whichplatform = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(whichplatform)
 
 # ANSI colors for terminal output
 class Colors:
@@ -108,6 +116,7 @@ def run_pipeline_once():
     
     # Define the pipeline steps with actual file paths
     steps = [
+        (0, "Platform Check", None),  # Added platform check step
         (1, "Notion Integration", os.path.join(script_dir, "2. Notion.py")),
         (2, "Audio Transcription", os.path.join(script_dir, "3. Transcription.py")),
         (3, "Keyword Detection", os.path.join(script_dir, "4. Detection.py")),
@@ -117,6 +126,14 @@ def run_pipeline_once():
     
     # Run each step in sequence
     for step_number, step_name, module_path in steps:
+        if step_number == 0:  # Handle platform check step
+            log(f"Step {step_number}: {step_name}", "header")
+            print("=" * 50)
+            platform_info = whichplatform.get_platform()
+            log(f"Platform: {platform_info}", "info")
+            print("\n" + "=" * 50 + "\n")
+            continue
+
         if not run_step(step_number, step_name, module_path):
             if step_number == 1:
                 # Step 1 failure means no videos to edit - this is normal
