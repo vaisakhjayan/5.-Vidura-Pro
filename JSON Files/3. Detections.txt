@@ -2,93 +2,37 @@
 CELEBRITY KEYWORD DETECTIONS SUMMARY
 ================================================================================
 
-Video Title: Meghan Markle BUSTED After Huge Lies Exposed In Her New Tell-All Book
+Video Title: Test
 Channel: Meghan Markle
-Page ID: 21302cd2-c142-8041-89d2-dd80e1130913
-Video Selected: 2025-06-15T19:57:16.478407
-Detection Generated: 2025-06-15T20:01:20.477177
+Page ID: 21302cd2-c142-8018-bfbb-f16ac66a1190
+Video Selected: 2025-06-15T23:33:18.746448
+Detection Generated: 2025-06-16T00:44:29.372425
 
-Total Detections: 38
+Total Detections: 10
 
 --------------------------------------------------------------------------------
 DETECTION TIMELINE (Actual Order)
 --------------------------------------------------------------------------------
 
-   1. 📍 0.00 (0.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   1. 📍 0.00 (0.0s) - MEGHAN MARKLE - Partial Match: "Markle's"
       Type: main
-   2. 📍 42.00 (42.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   2. 📍 0.00 (0.0s) - PRINCE HARRY - Partial Match: "Harry"
       Type: main
-   3. 📍 1:29.00 (89.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   3. 📍 24.00 (24.0s) - MEGHAN MARKLE - Partial Match: "Meghan's"
       Type: main
-   4. 📍 1:54.00 (114.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   4. 📍 40.00 (40.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   5. 📍 2:24.00 (144.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   5. 📍 40.00 (40.0s) - PRINCE HARRY - Partial Match: "Harry"
       Type: main
-   6. 📍 2:37.00 (157.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   6. 📍 1:21.00 (81.0s) - PRINCE HARRY - Partial Match: "Harry"
       Type: main
-   7. 📍 2:54.00 (174.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   7. 📍 1:25.00 (85.0s) - PRINCE WILLIAM - Exact Match: "prince william"
       Type: main
-   8. 📍 3:11.00 (191.0s) - MEGHAN MARKLE - Partial Match: "Meghan's"
+   8. 📍 1:25.00 (85.0s) - KING CHARLES - Partial Match: "Charles"
       Type: main
-   9. 📍 3:41.00 (221.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   9. 📍 1:36.00 (96.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   10. 📍 4:24.00 (264.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   11. 📍 4:38.00 (278.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   12. 📍 5:21.00 (321.0s) - PRINCE HARRY - Exact Match: "prince harry"
-      Type: main
-   13. 📍 5:32.00 (332.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   14. 📍 5:41.00 (341.0s) - PRINCE HARRY - Partial Match: "Harry's"
-      Type: main
-   15. 📍 5:47.00 (347.0s) - MEGHAN MARKLE - Partial Match: "Meghan's"
-      Type: main
-   16. 📍 5:58.00 (358.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   17. 📍 5:58.00 (358.0s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   18. 📍 6:11.00 (371.0s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   19. 📍 6:29.00 (389.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   20. 📍 6:42.00 (402.0s) - PRINCE HARRY - Partial Match: "Harry's"
-      Type: main
-   21. 📍 6:59.00 (419.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   22. 📍 7:02.00 (422.0s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   23. 📍 7:12.00 (432.0s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   24. 📍 7:16.00 (436.0s) - MEGHAN MARKLE - Partial Match: "Meghan's"
-      Type: main
-   25. 📍 7:32.00 (452.0s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   26. 📍 8:00.00 (480.0s) - NETFLIX - Exact Match: "Netflix"
-      Type: main
-   27. 📍 8:00.00 (480.0s) - OPRAH - Exact Match: "Oprah"
-      Type: main
-   28. 📍 8:08.00 (488.0s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   29. 📍 8:42.00 (522.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   30. 📍 8:48.00 (528.0s) - PRINCE WILLIAM - Partial Match: "William"
-      Type: main
-   31. 📍 9:00.00 (540.0s) - PRINCE WILLIAM - Partial Match: "William's"
-      Type: main
-   32. 📍 9:15.00 (555.0s) - NETFLIX - Exact Match: "Netflix"
-      Type: main
-   33. 📍 9:18.00 (558.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   34. 📍 9:51.00 (591.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   35. 📍 9:58.00 (598.0s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   36. 📍 10:15.00 (615.0s) - MEGHAN MARKLE - Partial Match: "Meghan's"
-      Type: main
-   37. 📍 10:28.00 (628.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   38. 📍 10:31.00 (631.0s) - PRINCE HARRY - Partial Match: "Harry"
+   10. 📍 1:36.00 (96.0s) - PRINCE HARRY - Partial Match: "Harry"
       Type: main
 
 --------------------------------------------------------------------------------
@@ -96,49 +40,40 @@ DETECTION STATISTICS
 --------------------------------------------------------------------------------
 
 Meghan Markle:
-  • Total Detections: 22
-  • Match Type: Partial ("Meghan")
+  • Total Detections: 4
+  • Match Type: Partial ("Markle's")
   • First Appearance: 0.00
-  • Last Appearance: 10:28.00
-  • Detection Span: 628.00 seconds
+  • Last Appearance: 1:36.00
+  • Detection Span: 96.00 seconds
 
 Prince Harry:
-  • Total Detections: 11
-  • Match Type: Exact
-  • First Appearance: 5:21.00
-  • Last Appearance: 10:31.00
-  • Detection Span: 310.00 seconds
-
-Netflix:
-  • Total Detections: 2
-  • Match Type: Exact
-  • First Appearance: 8:00.00
-  • Last Appearance: 9:15.00
-  • Detection Span: 75.00 seconds
-
-Oprah:
-  • Total Detections: 1
-  • Match Type: Exact
-  • First Appearance: 8:00.00
+  • Total Detections: 4
+  • Match Type: Partial ("Harry")
+  • First Appearance: 0.00
+  • Last Appearance: 1:36.00
+  • Detection Span: 96.00 seconds
 
 Prince William:
-  • Total Detections: 2
-  • Match Type: Partial ("William")
-  • First Appearance: 8:48.00
-  • Last Appearance: 9:00.00
-  • Detection Span: 12.00 seconds
+  • Total Detections: 1
+  • Match Type: Exact
+  • First Appearance: 1:25.00
 
-Total Detection Window: 631.00 seconds
-Detection Frequency: 1 every 16.61 seconds
+King Charles:
+  • Total Detections: 1
+  • Match Type: Partial ("Charles")
+  • First Appearance: 1:25.00
+
+Total Detection Window: 96.00 seconds
+Detection Frequency: 1 every 9.60 seconds
 
 --------------------------------------------------------------------------------
 DETECTION SUMMARY
 --------------------------------------------------------------------------------
 
-✅ 5 unique celebrities detected
-✅ 38 total keyword matches found
+✅ 4 unique celebrities detected
+✅ 10 total keyword matches found
 ✅ Mix of exact and partial matches
-✅ Detections span 631.00 seconds of content
+✅ Detections span 96.00 seconds of content
 
 ================================================================================
 End of Detection Summary

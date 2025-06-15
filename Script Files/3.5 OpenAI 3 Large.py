@@ -7,7 +7,7 @@ import re
 
 # Set up OpenAI API key
 # Note: For security, consider using environment variables instead of hardcoding
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Alternative secure method (uncomment and use environment variable):
 # openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -57,16 +57,18 @@ class VideoClipMatcher:
                 try:
                     h, m, s = map(int, timestamp.split(':'))
                     start_time = h * 3600 + m * 60 + s
-                    # Assume each segment is roughly 3 seconds long for end time
-                    end_time = start_time + 3
+                    
+                    # For end time, look ahead to next timestamp or add default duration
+                    end_time = start_time + 10  # Default 10-second duration
+                    
+                    segments.append({
+                        'text': text,
+                        'start': start_time,
+                        'end': end_time,
+                        'timestamp': f"{start_time:.1f}s - {end_time:.1f}s"
+                    })
                 except:
                     continue
-                
-                segments.append({
-                    'text': text,
-                    'start': start_time,
-                    'end': end_time
-                })
             
             return segments
         except Exception as e:
@@ -119,25 +121,8 @@ class VideoClipMatcher:
         return dot_product / (norm1 * norm2)
     
     def create_transcription_segments(self, segments: List[Dict], segment_length: int = 3) -> List[Dict]:
-        """Group transcription segments into larger chunks for better context."""
-        grouped_segments = []
-        
-        for i in range(0, len(segments), segment_length):
-            chunk = segments[i:i + segment_length]
-            
-            # Combine text from multiple segments
-            combined_text = " ".join([seg.get('text', '') for seg in chunk])
-            start_time = chunk[0].get('start', 0)
-            end_time = chunk[-1].get('end', 0)
-            
-            grouped_segments.append({
-                'text': combined_text.strip(),
-                'start': start_time,
-                'end': end_time,
-                'timestamp': f"{start_time:.1f}s - {end_time:.1f}s"
-            })
-        
-        return grouped_segments
+        """Return segments as is - no grouping needed since they're already properly structured."""
+        return segments
     
     def prepare_clip_descriptions(self, intelligent_clips: Dict) -> List[Dict]:
         """Prepare clip descriptions with combined text for embedding."""
@@ -179,6 +164,11 @@ class VideoClipMatcher:
         for i, segment in enumerate(transcription_segments):
             print(f"Processing segment {i+1}/{len(transcription_segments)}: {segment['timestamp']}")
             
+            # Skip segments shorter than 8 seconds
+            duration = segment['end'] - segment['start']
+            if duration < 8:
+                continue
+                
             segment_embedding = self.get_embedding(segment['text'])
             if not segment_embedding:
                 continue
@@ -198,15 +188,24 @@ class VideoClipMatcher:
                 adjusted_similarity = similarity + keyword_bonus
                 
                 if adjusted_similarity > best_similarity and adjusted_similarity >= similarity_threshold:
-                    # Check for context conflicts (e.g., don't suggest funeral clips for wedding content)
+                    # Check for context conflicts
                     if not self._has_context_conflict(segment['text'], clip_data[j]):
                         best_similarity = adjusted_similarity
                         best_match = clip_data[j]
             
             # Only add if we found a good match
             if best_match and best_similarity >= similarity_threshold:
+                # Round start and end times to nearest second for cleaner segments
+                start_time = round(segment['start'])
+                end_time = start_time + 10  # Make each suggestion exactly 10 seconds
+                
                 matches.append({
-                    'segment': segment,
+                    'segment': {
+                        'text': segment['text'],
+                        'start': start_time,
+                        'end': end_time,
+                        'timestamp': f"{start_time:.1f}s - {end_time:.1f}s"
+                    },
                     'clip': best_match,
                     'similarity': best_similarity
                 })

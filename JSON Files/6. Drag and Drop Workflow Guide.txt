@@ -6,7 +6,7 @@ DRAG & DROP TIMELINE WORKFLOW GUIDE
 --------------------------------------------------
 
 Your video clips have been processed and saved to:
-📁 /Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book
+📁 /Users/superman/Desktop/Clips Assembled/Test
 
 ✨ KEY FEATURE: All files are named with sequence numbers (001, 002, 003...)
    so they will sort in PERFECT TIMELINE ORDER when you view them!
@@ -25,295 +25,59 @@ Your video clips have been processed and saved to:
 
 📋 EXACT FILE ORDER FOR YOUR TIMELINE:
 --------------------------------------------------
-001. 🎥 [00:00.00] Meghan Markle (Original) (5.00s)
-     📄 File: 001_Meghan_Markle_1234_original.mp4
-002. 🎥 [00:05.00] Meghan Markle (Original) (5.00s)
-     📄 File: 002_Meghan_Markle_sfsdfsd_original.mp4
-003. 🎬 [00:10.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 003_Meghan_Markle_32_composite.mp4
-004. 🖼️ [00:15.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 004_Meghan_Markle_clip.mp4
-005. 🎥 [00:20.00] Meghan Markle (Original) (5.00s)
-     📄 File: 005_Meghan_Markle_123_original.mp4
-006. 🎬 [00:25.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 006_Meghan_Markle_sdf_composite.mp4
-007. 🎥 [00:30.00] Meghan Markle (Original) (5.00s)
-     📄 File: 007_Meghan_Markle_clip_13_original.mp4
-008. 🖼️ [00:35.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 008_Meghan_Markle_clip.mp4
-009. 🎬 [00:40.00] Meghan Markle (Composite) (2.00s)
-     📄 File: 009_Meghan_Markle_8_composite.mp4
-010. 🎥 [00:42.00] Meghan Markle (Original) (5.00s)
-     📄 File: 010_Meghan_Markle_28_original.mp4
-011. 🎥 [00:47.00] Meghan Markle (Original) (5.00s)
-     📄 File: 011_Meghan_Markle_dgfdd_original.mp4
-012. 🖼️ [00:52.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 012_Meghan_Markle_clip.mp4
-013. 🎥 [00:57.00] Meghan Markle (Original) (5.00s)
-     📄 File: 013_Meghan_Markle_vc_chf3_rhea1_original.mp4
-014. 🎥 [01:02.00] Meghan Markle (Original) (5.00s)
-     📄 File: 014_Meghan_Markle_xcx_original.mp4
-015. 🎬 [01:07.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 015_Meghan_Markle_asdasdas_chf3_rhea1_composite.mp4
-016. 🖼️ [01:12.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 016_Meghan_Markle_clip.mp4
-017. 🎥 [01:17.00] Meghan Markle (Original) (5.00s)
-     📄 File: 017_Meghan_Markle_xc_original.mp4
-018. 🎬 [01:22.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 018_Meghan_Markle_1_1_chf3_rhea1_composite.mp4
-019. 🎥 [01:27.00] Meghan Markle (Original) (2.00s)
-     📄 File: 019_Meghan_Markle_zccvcx_original.mp4
-020. 🖼️ [01:29.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 020_Meghan_Markle_clip.mp4
-021. 🎬 [01:34.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 021_Meghan_Markle_sadsad_chf3_rhea1_composite.mp4
-022. 🎥 [01:39.00] Meghan Markle (Original) (5.00s)
-     📄 File: 022_Meghan_Markle_24_original.mp4
-023. 🎥 [01:44.00] Meghan Markle (Original) (5.00s)
-     📄 File: 023_Meghan_Markle_111_original.mp4
-024. 🖼️ [01:49.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 024_Meghan_Markle_clip.mp4
-025. 🎥 [01:54.00] Meghan Markle (Original) (5.00s)
-     📄 File: 025_Meghan_Markle_xcvcxvcx_original.mp4
-026. 🎥 [01:59.00] Meghan Markle (Original) (5.00s)
-     📄 File: 026_Meghan_Markle_zvz_original.mp4
-027. 🎬 [02:04.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 027_Meghan_Markle_31_composite.mp4
-028. 🖼️ [02:09.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 028_Meghan_Markle_clip.mp4
-029. 🎥 [02:14.00] Meghan Markle (Original) (5.00s)
-     📄 File: 029_Meghan_Markle_sdsdf_original.mp4
-030. 🎬 [02:19.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 030_Meghan_Markle_4_composite.mp4
-031. 🎥 [02:24.00] Meghan Markle (Original) (5.00s)
-     📄 File: 031_Meghan_Markle_12321_1_chf3_rhea1_original.mp4
-032. 🖼️ [02:29.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 032_Meghan_Markle_clip.mp4
-033. 🎬 [02:34.00] Meghan Markle (Composite) (3.00s)
-     📄 File: 033_Meghan_Markle_cvcxvx_composite.mp4
-034. 🎥 [02:37.00] Meghan Markle (Original) (5.00s)
-     📄 File: 034_Meghan_Markle_zxzzx_original.mp4
-035. 🎥 [02:42.00] Meghan Markle (Original) (5.00s)
-     📄 File: 035_Meghan_Markle_4_chf3_rhea1_original.mp4
-036. 🖼️ [02:47.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 036_Meghan_Markle_clip.mp4
-037. 🎥 [02:52.00] Meghan Markle (Original) (2.00s)
-     📄 File: 037_Meghan_Markle_5_1_chf3_rhea1_original.mp4
-038. 🎥 [02:54.00] Meghan Markle (Original) (5.00s)
-     📄 File: 038_Meghan_Markle_25_original.mp4
-039. 🎬 [02:59.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 039_Meghan_Markle_27_composite.mp4
-040. 🖼️ [03:04.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 040_Meghan_Markle_clip.mp4
-041. 🎥 [03:09.00] Meghan Markle (Original) (2.00s)
-     📄 File: 041_Meghan_Markle_clip_12_original.mp4
-042. 🎬 [03:11.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 042_Meghan_Markle_30_composite.mp4
-043. 🎥 [03:16.00] Meghan Markle (Original) (5.00s)
-     📄 File: 043_Meghan_Markle_fghgvcb_original.mp4
-044. 🖼️ [03:21.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 044_Meghan_Markle_clip.mp4
-045. 🎬 [03:26.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 045_Meghan_Markle_zcxzxzc_composite.mp4
-046. 🎥 [03:31.00] Meghan Markle (Original) (5.00s)
-     📄 File: 046_Meghan_Markle_10_original.mp4
-047. 🎥 [03:36.00] Meghan Markle (Original) (5.00s)
-     📄 File: 047_Meghan_Markle_21_original.mp4
-048. 🖼️ [03:41.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 048_Meghan_Markle_clip.mp4
-049. 🎥 [03:46.00] Meghan Markle (Original) (5.00s)
-     📄 File: 049_Meghan_Markle_sfdsfds_original.mp4
-050. 🎥 [03:51.00] Meghan Markle (Original) (5.00s)
-     📄 File: 050_Meghan_Markle_zcxzcz_original.mp4
-051. 🎬 [03:56.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 051_Meghan_Markle_sdfds_composite.mp4
-052. 🖼️ [04:01.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 052_Meghan_Markle_clip.mp4
-053. 🎥 [04:06.00] Meghan Markle (Original) (5.00s)
-     📄 File: 053_Meghan_Markle_zxcxzxz_original.mp4
-054. 🎬 [04:11.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 054_Meghan_Markle_1_composite.mp4
-055. 🎥 [04:16.00] Meghan Markle (Original) (5.00s)
-     📄 File: 055_Meghan_Markle_zxzx_chf3_rhea1_original.mp4
-056. 🖼️ [04:21.00] Meghan Markle (Ken Burns) (3.00s)
-     📄 File: 056_Meghan_Markle_clip.mp4
-057. 🎬 [04:24.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 057_Meghan_Markle_asd_chf3_rhea1_composite.mp4
-058. 🎥 [04:29.00] Meghan Markle (Original) (5.00s)
-     📄 File: 058_Meghan_Markle_11_original.mp4
-059. 🎥 [04:34.00] Meghan Markle (Original) (4.00s)
-     📄 File: 059_Meghan_Markle_sfdsfds_original.mp4
-060. 🖼️ [04:38.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 060_Meghan_Markle_clip.mp4
-061. 🎥 [04:43.00] Meghan Markle (Original) (5.00s)
-     📄 File: 061_Meghan_Markle_25_original.mp4
-062. 🎥 [04:48.00] Meghan Markle (Original) (5.00s)
-     📄 File: 062_Meghan_Markle_28_original.mp4
-063. 🎬 [04:53.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 063_Meghan_Markle_30_composite.mp4
-064. 🖼️ [04:58.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 064_Meghan_Markle_clip.mp4
-065. 🎥 [05:03.00] Meghan Markle (Original) (5.00s)
-     📄 File: 065_Meghan_Markle_8_original.mp4
-066. 🎬 [05:08.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 066_Meghan_Markle_4_composite.mp4
-067. 🎥 [05:13.00] Meghan Markle (Original) (5.00s)
-     📄 File: 067_Meghan_Markle_10_original.mp4
-068. 🖼️ [05:18.00] Meghan Markle (Ken Burns) (3.00s)
-     📄 File: 068_Meghan_Markle_clip.mp4
-069. 🎬 [05:21.00] Prince Harry (Composite) (5.00s)
-     📄 File: 069_Prince_Harry_clip_1 copy_composite.mp4
-070. 🎥 [05:26.00] Prince Harry (Original) (5.00s)
-     📄 File: 070_Prince_Harry_4_original.mp4
-071. 🎥 [05:31.00] Prince Harry (Original) (1.00s)
-     📄 File: 071_Prince_Harry_clip_14_original.mp4
-072. 🎬 [05:32.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 072_Meghan_Markle_cvcxvx_composite.mp4
-073. 🎥 [05:37.00] Meghan Markle (Original) (4.00s)
-     📄 File: 073_Meghan_Markle_vc_chf3_rhea1_original.mp4
-074. 🖼️ [05:41.00] Prince Harry (Ken Burns) (5.00s)
-     📄 File: 074_Prince_Harry_clip.mp4
-075. 🎬 [05:46.00] Prince Harry (Composite) (1.00s)
-     📄 File: 075_Prince_Harry_clip_4 copy_composite.mp4
-076. 🎥 [05:47.00] Meghan Markle (Original) (5.00s)
-     📄 File: 076_Meghan_Markle_fghgvcb_original.mp4
-077. 🖼️ [05:52.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 077_Meghan_Markle_clip.mp4
-078. 🎬 [05:57.00] Meghan Markle (Composite) (1.00s)
-     📄 File: 078_Meghan_Markle_24_composite.mp4
-079. 🎥 [05:58.00] Prince Harry (Original) (5.00s)
-     📄 File: 079_Prince_Harry_16_original.mp4
-080. 🎥 [06:03.00] Prince Harry (Original) (5.00s)
-     📄 File: 080_Prince_Harry_8_original.mp4
-081. 🖼️ [06:08.00] Prince Harry (Ken Burns) (3.00s)
-     📄 File: 081_Prince_Harry_clip.mp4
-082. 🎥 [06:11.00] Prince Harry (Original) (5.00s)
-     📄 File: 082_Prince_Harry_clip_9_original.mp4
-083. 🎥 [06:16.00] Prince Harry (Original) (5.00s)
-     📄 File: 083_Prince_Harry_3_original.mp4
-084. 🎬 [06:21.00] Prince Harry (Composite) (5.00s)
-     📄 File: 084_Prince_Harry_2_composite.mp4
-085. 🖼️ [06:26.00] Prince Harry (Ken Burns) (3.00s)
-     📄 File: 085_Prince_Harry_clip.mp4
-086. 🎥 [06:29.00] Meghan Markle (Original) (5.00s)
-     📄 File: 086_Meghan_Markle_123_original.mp4
-087. 🎬 [06:34.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 087_Meghan_Markle_asdasdas_chf3_rhea1_composite.mp4
-088. 🖼️ [06:39.00] Meghan Markle (Ken Burns) (3.00s)
-     📄 File: 088_Meghan_Markle_clip.mp4
-089. 🎥 [06:42.00] Prince Harry (Original) (5.00s)
-     📄 File: 089_Prince_Harry_11_original.mp4
-090. 🎬 [06:47.00] Prince Harry (Composite) (5.00s)
-     📄 File: 090_Prince_Harry_1_composite.mp4
-091. 🎥 [06:52.00] Prince Harry (Original) (5.00s)
-     📄 File: 091_Prince_Harry_clip_5_original.mp4
-092. 🖼️ [06:57.00] Prince Harry (Ken Burns) (2.00s)
-     📄 File: 092_Prince_Harry_clip.mp4
-093. 🎬 [06:59.00] Meghan Markle (Composite) (3.00s)
-     📄 File: 093_Meghan_Markle_111_composite.mp4
-094. 🎥 [07:02.00] Prince Harry (Original) (5.00s)
-     📄 File: 094_Prince_Harry_clip_3_original.mp4
-095. 🎥 [07:07.00] Prince Harry (Original) (5.00s)
-     📄 File: 095_Prince_Harry_clip_16_original.mp4
-096. 🎬 [07:12.00] Prince Harry (Composite) (4.00s)
-     📄 File: 096_Prince_Harry_9_composite.mp4
-097. 🎥 [07:16.00] Meghan Markle (Original) (5.00s)
-     📄 File: 097_Meghan_Markle_zccvcx_original.mp4
-098. 🎥 [07:21.00] Meghan Markle (Original) (5.00s)
-     📄 File: 098_Meghan_Markle_32_original.mp4
-099. 🖼️ [07:26.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 099_Meghan_Markle_clip.mp4
-100. 🎥 [07:31.00] Meghan Markle (Original) (1.00s)
-     📄 File: 100_Meghan_Markle_27_original.mp4
-101. 🖼️ [07:32.00] Prince Harry (Ken Burns) (5.00s)
-     📄 File: 101_Prince_Harry_clip.mp4
-102. 🎬 [07:37.00] Prince Harry (Composite) (5.00s)
-     📄 File: 102_Prince_Harry_13_composite.mp4
-103. 🎥 [07:42.00] Prince Harry (Original) (5.00s)
-     📄 File: 103_Prince_Harry_12_original.mp4
-104. 🎥 [07:47.00] Prince Harry (Original) (5.00s)
-     📄 File: 104_Prince_Harry_clip_2 copy_original.mp4
-105. 🖼️ [07:52.00] Prince Harry (Ken Burns) (5.00s)
-     📄 File: 105_Prince_Harry_clip.mp4
-106. 🎥 [07:57.00] Prince Harry (Original) (3.00s)
-     📄 File: 106_Prince_Harry_clip_6 copy_original.mp4
-107. 🎥 [08:00.00] Oprah (Original) (5.00s)
-     📄 File: 107_Oprah_21_original.mp4
-108. 🎬 [08:05.00] Oprah (Composite) (3.00s)
-     📄 File: 108_Oprah_19_composite.mp4
-109. 🎥 [08:08.00] Prince Harry (Original) (5.00s)
-     📄 File: 109_Prince_Harry_7_original.mp4
-110. 🎥 [08:13.00] Prince Harry (Original) (5.00s)
-     📄 File: 110_Prince_Harry_10_original.mp4
-111. 🖼️ [08:18.00] Prince Harry (Ken Burns) (5.00s)
-     📄 File: 111_Prince_Harry_clip.mp4
-112. 🎥 [08:23.00] Prince Harry (Original) (5.00s)
-     📄 File: 112_Prince_Harry_clip_13_original.mp4
-113. 🎥 [08:28.00] Prince Harry (Original) (5.00s)
-     📄 File: 113_Prince_Harry_15_original.mp4
-114. 🎬 [08:33.00] Prince Harry (Composite) (5.00s)
-     📄 File: 114_Prince_Harry_5_composite.mp4
-115. 🖼️ [08:38.00] Prince Harry (Ken Burns) (4.00s)
-     📄 File: 115_Prince_Harry_clip.mp4
-116. 🎥 [08:42.00] Meghan Markle (Original) (5.00s)
-     📄 File: 116_Meghan_Markle_sdfds_original.mp4
-117. 🎬 [08:47.00] Meghan Markle (Composite) (1.00s)
-     📄 File: 117_Meghan_Markle_sdf_composite.mp4
-118. 🎥 [08:48.00] Prince William (Original) (5.00s)
-     📄 File: 118_Prince_William_5_original.mp4
-119. 🎥 [08:53.00] Prince William (Original) (5.00s)
-     📄 File: 119_Prince_William_3_original.mp4
-120. 🎬 [08:58.00] Prince William (Composite) (2.00s)
-     📄 File: 120_Prince_William_1_composite.mp4
-121. 🎥 [09:00.00] Prince William (Original) (5.00s)
-     📄 File: 121_Prince_William_7_original.mp4
-122. 🎥 [09:05.00] Prince William (Original) (5.00s)
-     📄 File: 122_Prince_William_6_original.mp4
-123. 🎬 [09:10.00] Prince William (Composite) (5.00s)
-     📄 File: 123_Prince_William_2_composite.mp4
-124. 🎥 [09:15.00] Netflix (Original) (3.00s)
-     📄 File: 124_Netflix_1 2_original.mp4
-125. 🖼️ [09:18.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 125_Meghan_Markle_clip.mp4
-126. 🎬 [09:23.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 126_Meghan_Markle_1_composite.mp4
-127. 🎥 [09:28.00] Meghan Markle (Original) (5.00s)
-     📄 File: 127_Meghan_Markle_21_original.mp4
-128. 🎥 [09:33.00] Meghan Markle (Original) (5.00s)
-     📄 File: 128_Meghan_Markle_zxzzx_original.mp4
-129. 🖼️ [09:38.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 129_Meghan_Markle_clip.mp4
-130. 🎥 [09:43.00] Meghan Markle (Original) (5.00s)
-     📄 File: 130_Meghan_Markle_clip_12_original.mp4
-131. 🎥 [09:48.00] Meghan Markle (Original) (3.00s)
-     📄 File: 131_Meghan_Markle_12321_1_chf3_rhea1_original.mp4
-132. 🎬 [09:51.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 132_Meghan_Markle_xc_composite.mp4
-133. 🖼️ [09:56.00] Meghan Markle (Ken Burns) (2.00s)
-     📄 File: 133_Meghan_Markle_clip.mp4
-134. 🎥 [09:58.00] Prince Harry (Original) (5.00s)
-     📄 File: 134_Prince_Harry_clip_2 copy_original.mp4
-135. 🎬 [10:03.00] Prince Harry (Composite) (5.00s)
-     📄 File: 135_Prince_Harry_clip_1 copy_composite.mp4
-136. 🎥 [10:08.00] Prince Harry (Original) (5.00s)
-     📄 File: 136_Prince_Harry_4_original.mp4
-137. 🖼️ [10:13.00] Prince Harry (Ken Burns) (2.00s)
-     📄 File: 137_Prince_Harry_clip.mp4
-138. 🎬 [10:15.00] Meghan Markle (Composite) (5.00s)
-     📄 File: 138_Meghan_Markle_clip_13_composite.mp4
-139. 🎥 [10:20.00] Meghan Markle (Original) (5.00s)
-     📄 File: 139_Meghan_Markle_1_1_chf3_rhea1_original.mp4
-140. 🎥 [10:25.00] Meghan Markle (Original) (3.00s)
-     📄 File: 140_Meghan_Markle_5_1_chf3_rhea1_original.mp4
-141. 🖼️ [10:28.00] Meghan Markle (Ken Burns) (3.00s)
-     📄 File: 141_Meghan_Markle_clip.mp4
-142. 🎥 [10:31.00] Prince Harry (Original) (5.00s)
-     📄 File: 142_Prince_Harry_15_original.mp4
+001. 🎥 [00:00.00] Prince Harry (Original) (5.00s)
+     📄 File: 001_Prince_Harry_15_original.mp4
+002. 🎥 [00:05.00] Prince Harry (Original) (5.00s)
+     📄 File: 002_Prince_Harry_8_original.mp4
+003. 🎬 [00:10.00] Prince Harry (Composite) (3.00s)
+     📄 File: 003_Prince_Harry_clip_6 copy_composite.mp4
+004. 🎥 [00:13.00] Meghan Markle (Original) (5.00s)
+     📄 File: 004_Meghan_Markle_1_original.mp4
+005. 🎥 [00:18.00] Meghan Markle (Original) (5.00s)
+     📄 File: 005_Meghan_Markle_5_original.mp4
+006. 🖼️ [00:23.00] Prince Harry (Ken Burns) (1.00s)
+     📄 File: 006_Prince_Harry_clip.mp4
+007. 🎥 [00:24.00] Meghan Markle (Original) (5.00s)
+     📄 File: 007_Meghan_Markle_sdf_original.mp4
+008. 🎥 [00:29.00] Meghan Markle (Original) (5.00s)
+     📄 File: 008_Meghan_Markle_24_original.mp4
+009. 🎬 [00:34.00] Meghan Markle (Composite) (5.00s)
+     📄 File: 009_Meghan_Markle_zvz_composite.mp4
+010. 🖼️ [00:39.00] Meghan Markle (Ken Burns) (1.00s)
+     📄 File: 010_Meghan_Markle_clip.mp4
+011. 🎥 [00:40.00] Prince Harry (Original) (5.00s)
+     📄 File: 011_Prince_Harry_clip_4 copy_original.mp4
+012. 🎬 [00:45.00] Prince Harry (Composite) (5.00s)
+     📄 File: 012_Prince_Harry_clip_2 copy_composite.mp4
+013. 🎥 [00:50.00] Prince Harry (Original) (5.00s)
+     📄 File: 013_Prince_Harry_clip_14_original.mp4
+014. 🖼️ [00:55.00] Prince Harry (Ken Burns) (5.00s)
+     📄 File: 014_Prince_Harry_clip.mp4
+015. 🎬 [01:00.00] Prince Harry (Composite) (5.00s)
+     📄 File: 015_Prince_Harry_clip_9_composite.mp4
+016. 🎥 [01:05.00] Prince Harry (Original) (5.00s)
+     📄 File: 016_Prince_Harry_7_original.mp4
+017. 🎥 [01:10.00] Prince Harry (Original) (3.00s)
+     📄 File: 017_Prince_Harry_clip_5_original.mp4
+018. 🎬 [01:13.00] Meghan Markle (Composite) (5.00s)
+     📄 File: 018_Meghan_Markle_1_composite.mp4
+019. 🎥 [01:18.00] Meghan Markle (Original) (5.00s)
+     📄 File: 019_Meghan_Markle_2_original.mp4
+020. 🖼️ [01:23.00] Prince Harry (Ken Burns) (2.00s)
+     📄 File: 020_Prince_Harry_clip.mp4
+021. 🎬 [01:25.00] King Charles (Composite) (5.00s)
+     📄 File: 021_King_Charles_29_composite.mp4
+022. 🎥 [01:30.00] King Charles (Original) (5.00s)
+     📄 File: 022_King_Charles_5_original.mp4
+023. 🎥 [01:35.00] King Charles (Original) (1.00s)
+     📄 File: 023_King_Charles_24_original.mp4
+024. 🎬 [01:36.00] Prince Harry (Composite) (5.00s)
+     📄 File: 024_Prince_Harry_clip_1 copy_composite.mp4
 
 📊 SUMMARY:
-• Total Clips: 142
-• Total Duration: 636.00 seconds (10.6 minutes)
-• Output Location: /Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book
+• Total Clips: 24
+• Total Duration: 101.00 seconds (1.7 minutes)
+• Output Location: /Users/superman/Desktop/Clips Assembled/Test
 • File Naming: 001_Celebrity_filename_effect.mp4
 
 ⚡ ADVANTAGES OF THIS WORKFLOW:

@@ -5,6 +5,7 @@ import json
 import logging
 import platform
 from collections import Counter
+import re
 
 # Set up logging
 logging.basicConfig(
@@ -18,17 +19,121 @@ logger = logging.getLogger(__name__)
 SYSTEM = platform.system().lower()
 if SYSTEM == 'darwin':  # macOS
     BASE_PATH = r"/Users/superman/Desktop/Celebrity Folder"
+    INTELLIGENT_CLIPS_PATH = r"/Users/superman/Desktop/Intelligent Clip"
 else:  # Windows
     BASE_PATH = r"E:\Celebrity Folder"
+    INTELLIGENT_CLIPS_PATH = r"E:\Intelligent Clip"
 
 BLOCK_SIZE = 5.0  # Each block is 5 seconds
 VIDEO_EXTENSIONS = {'.mp4', '.avi', '.mov', '.wmv'}
 IMAGE_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.webp'}
 
+class IntelligentClipSuggestion:
+    def __init__(self, start_time, end_time, folder, description, similarity):
+        self.start_time = start_time
+        self.end_time = end_time
+        self.folder = folder
+        self.description = description
+        self.similarity = similarity
+
+def read_intelligent_suggestions(file_path="3 Large Output.txt"):
+    """Read and parse intelligent clip suggestions from the output file."""
+    suggestions = []
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+            
+        # Extract matches using regex
+        matches = re.finditer(
+            r"Timestamp: (\d+\.\d+)s - (\d+\.\d+)s.*?"
+            r"Folder: ([^\n]+).*?"
+            r"Description: ([^\n]+).*?"
+            r"Similarity Score: (\d+\.\d+)",
+            content, re.DOTALL
+        )
+        
+        for match in matches:
+            start_time = float(match.group(1))
+            end_time = float(match.group(2))
+            folder = match.group(3).strip()
+            description = match.group(4).strip()
+            similarity = float(match.group(5))
+            
+            suggestions.append(IntelligentClipSuggestion(
+                start_time=start_time,
+                end_time=end_time,
+                folder=folder,
+                description=description,
+                similarity=similarity
+            ))
+            
+        print(f"📖 Loaded {len(suggestions)} intelligent clip suggestions")
+        return suggestions
+    except Exception as e:
+        print(f"⚠️ Error reading intelligent suggestions: {e}")
+        return []
+
+def get_intelligent_clip_media(folder):
+    """Get media files from the intelligent clips folder."""
+    folder_path = os.path.join(INTELLIGENT_CLIPS_PATH, folder)
+    if not os.path.exists(folder_path):
+        logger.warning(f"Intelligent clip folder does not exist: {folder_path}")
+        print(f"⚠️  Intelligent clip folder not found: {folder_path}")
+        return None, None, None
+        
+    media_files = []
+    for file in os.listdir(folder_path):
+        if file.startswith('._') or file.startswith('.'):
+            continue
+        ext = os.path.splitext(file)[1].lower()
+        if ext in VIDEO_EXTENSIONS or ext in IMAGE_EXTENSIONS:
+            media_files.append((file, ext))
+    
+    if not media_files:
+        print(f"⚠️  No media files found in: {folder_path}")
+        return None, None, None
+        
+    # Sort files to ensure consistent selection
+    media_files.sort()
+    
+    videos = [(f, ext) for f, ext in media_files if ext in VIDEO_EXTENSIONS]
+    images = [(f, ext) for f, ext in media_files if ext in IMAGE_EXTENSIONS]
+    
+    # Try to get two different clips
+    clips = []
+    
+    # First try to get two videos
+    if len(videos) >= 2:
+        print(f"✨ Found two intelligent video clips")
+        clips = [('video', os.path.join(folder_path, videos[0][0])), 
+                ('video', os.path.join(folder_path, videos[1][0]))]
+    # Then try one video + one image
+    elif len(videos) == 1 and images:
+        print(f"✨ Found one intelligent video clip and one image")
+        clips = [('video', os.path.join(folder_path, videos[0][0])), 
+                ('image', os.path.join(folder_path, images[0][0]))]
+    # Then try two images
+    elif len(images) >= 2:
+        print(f"✨ Found two intelligent images")
+        clips = [('image', os.path.join(folder_path, images[0][0])), 
+                ('image', os.path.join(folder_path, images[1][0]))]
+    # Finally try single video or image
+    elif videos:
+        print(f"✨ Found single intelligent video clip (will be used twice)")
+        clips = [('video', os.path.join(folder_path, videos[0][0]))] * 2
+    elif images:
+        print(f"✨ Found single intelligent image (will be used twice)")
+        clips = [('image', os.path.join(folder_path, images[0][0]))] * 2
+    else:
+        return None, None, None
+        
+    return clips[0][0], clips[0][1], clips[1][1]  # Returns: type, first_file, second_file
+
 # Print configuration
 print(f"\n📂 Path Configuration:")
 print(f"   • Operating System: {SYSTEM.title()}")
 print(f"   • Base Path: {BASE_PATH}")
+print(f"   • Intelligent Clips Path: {INTELLIGENT_CLIPS_PATH}")
 print()
 
 # Global tracking for used clips per celebrity
@@ -57,9 +162,9 @@ def get_media_files(celebrity_name):
             continue
         ext = os.path.splitext(file)[1].lower()
         if ext in VIDEO_EXTENSIONS:
-            videos.append(file)
+            videos.append(os.path.join(celebrity_path, file))  # Store full path
         elif ext in IMAGE_EXTENSIONS:
-            images.append(file)
+            images.append(os.path.join(celebrity_path, file))  # Store full path
     
     logger.debug(f"Found {len(videos)} videos and {len(images)} images for {celebrity_name}")
     return videos, images
@@ -103,19 +208,19 @@ def choose_media_for_celebrity(celebrity_name):
         chosen_image = random.choice(tracker['available_images'])
         tracker['available_images'].remove(chosen_image)
         tracker['used_images'].append(chosen_image)
-        print(f"🖼️  {celebrity_name}: Using image {chosen_image} ({len(tracker['available_images'])} images left)")
+        print(f"🖼️  {celebrity_name}: Using image {os.path.basename(chosen_image)} ({len(tracker['available_images'])} images left)")
         return 'image', chosen_image
     elif tracker['available_videos']:
         chosen_video = random.choice(tracker['available_videos'])
         tracker['available_videos'].remove(chosen_video)
         tracker['used_videos'].append(chosen_video)
-        print(f"🎥 {celebrity_name}: Using video {chosen_video} ({len(tracker['available_videos'])} videos left)")
+        print(f"🎥 {celebrity_name}: Using video {os.path.basename(chosen_video)} ({len(tracker['available_videos'])} videos left)")
         return 'video', chosen_video
     elif tracker['available_images']:  # Fallback to images if no videos
         chosen_image = random.choice(tracker['available_images'])
         tracker['available_images'].remove(chosen_image)
         tracker['used_images'].append(chosen_image)
-        print(f"🖼️  {celebrity_name}: Using image {chosen_image} ({len(tracker['available_images'])} images left)")
+        print(f"🖼️  {celebrity_name}: Using image {os.path.basename(chosen_image)} ({len(tracker['available_images'])} images left)")
         return 'image', chosen_image
     else:
         # Fallback if no media files exist
@@ -156,6 +261,16 @@ def generate_render_plans_5s_blocks(detections_json, text_output_file, json_outp
     print("🚀 Starting Celebrity Clip Placement Generator...")
     logger.info("Starting render plan generation")
     
+    # Load intelligent suggestions first
+    intelligent_suggestions = read_intelligent_suggestions()
+    print(f"✨ Loaded {len(intelligent_suggestions)} intelligent clip suggestions")
+    
+    # Create a set of ranges that are reserved for intelligent clips
+    reserved_ranges = []
+    for suggestion in intelligent_suggestions:
+        reserved_ranges.append((suggestion.start_time, suggestion.end_time))
+    reserved_ranges.sort(key=lambda x: x[0])
+    
     # Check if input file exists
     if not os.path.exists(detections_json):
         error_msg = f"Input file not found: {detections_json}"
@@ -171,10 +286,7 @@ def generate_render_plans_5s_blocks(detections_json, text_output_file, json_outp
     detections = data['detections']
     video_info = data.get('video', {})
 
-    print(f"✅ Loaded {len(detections)} detections")
-    logger.info(f"Loaded {len(detections)} detections")
-
-    # Sort detections by timestamp (just in case)
+    # Sort detections by timestamp
     detections = sorted(detections, key=lambda d: d['timestamp'])
     
     # Get top celebrities and generate initial segments
@@ -182,31 +294,79 @@ def generate_render_plans_5s_blocks(detections_json, text_output_file, json_outp
     first_detection_time = detections[0]['timestamp'] if detections else 0
     initial_segments = generate_initial_segments(first_detection_time, top_celebrities)
     
-    print(f"🎭 Top celebrities for initial segments: {', '.join(top_celebrities)}")
-    print(f"⏱️ Filling gap of {first_detection_time:.2f} seconds with {len(initial_segments)} segments")
-
-    print("🔄 Building 5-second block segments...")
-    logger.info("Building segments from detections")
+    # Build segments, incorporating intelligent suggestions
+    segments = initial_segments.copy()
+    current_suggestion_idx = 0
     
-    # Build 5s block segments
-    segments = initial_segments.copy()  # Start with initial segments
+    def is_time_in_reserved_range(time_point):
+        """Check if a time point falls within any reserved range"""
+        for start, end in reserved_ranges:
+            if start <= time_point < end:
+                return True
+        return False
+    
+    def get_next_available_time(current_time):
+        """Get the next available time that's not in a reserved range"""
+        while any(start <= current_time < end for start, end in reserved_ranges):
+            # Find the range we're in and skip to its end
+            for start, end in reserved_ranges:
+                if start <= current_time < end:
+                    current_time = end
+                    break
+        return current_time
+    
+    # First, add all intelligent suggestions as segments
+    for suggestion in intelligent_suggestions:
+        segments.append((
+            suggestion.start_time,
+            suggestion.end_time,  # This will be a 10-second duration
+            detections[0]['keyword'],  # Use the first detected celebrity as default
+            suggestion
+        ))
+    
+    # Then add regular segments, skipping over reserved ranges
     for i, detection in enumerate(detections):
         start = detection['timestamp']
         celebrity = detection['keyword']
+        
+        # Skip if we're in a reserved range
+        start = get_next_available_time(start)
+        
         if i < len(detections) - 1:
             end = detections[i + 1]['timestamp']
         else:
-            end = start + BLOCK_SIZE  # Last detection: just one block
+            end = start + BLOCK_SIZE
+        
         current = start
         while current < end:
+            # Skip if we're in a reserved range
+            current = get_next_available_time(current)
+            if current >= end:
+                break
+                
             block_end = min(current + BLOCK_SIZE, end)
-            segments.append((current, block_end, celebrity))
+            # Check if this block would overlap with a reserved range
+            for r_start, r_end in reserved_ranges:
+                if current < r_start < block_end:
+                    block_end = r_start
+                    break
+            
+            if block_end > current:  # Only add if we have a valid duration
+                segments.append((current, block_end, celebrity))
             current = block_end
+
+    # Sort segments by start time and fix any overlaps
+    segments.sort(key=lambda x: x[0])
+    for i in range(len(segments)-1):
+        if segments[i][1] > segments[i+1][0]:
+            print(f"⚠️ Fixing overlap between segments at {format_timestamp(segments[i][0])} and {format_timestamp(segments[i+1][0])}")
+            # Adjust the end time of the current segment to match the start of the next
+            segments[i] = (segments[i][0], segments[i+1][0], segments[i][2], segments[i][3] if len(segments[i]) > 3 else None)
 
     total_blocks = len(segments)
     block_count = 0
 
-    print(f"📊 Generated {total_blocks} segments (including {len(initial_segments)} initial segments)")
+    print(f"📊 Generated {total_blocks} segments")
     logger.info(f"Generated {total_blocks} segments")
 
     current_time = datetime.now()
@@ -221,9 +381,6 @@ def generate_render_plans_5s_blocks(detections_json, text_output_file, json_outp
         },
         "segments": []
     }
-
-    print(f"📝 Writing text output to: {text_output_file}")
-    logger.info(f"Writing text output to {text_output_file}")
 
     # Write text format
     with open(text_output_file, 'w', encoding='utf-8') as f:
@@ -240,139 +397,181 @@ def generate_render_plans_5s_blocks(detections_json, text_output_file, json_outp
         current_celebrity = None
         celebrity_stats = {}
 
-        for i, (start, end, celebrity) in enumerate(segments):
+        for i, segment in enumerate(segments):
+            start, end = segment[0], segment[1]
+            celebrity = segment[2]
+            is_intelligent_suggestion = len(segment) > 3
+            
             if current_celebrity != celebrity:
                 if current_celebrity is not None:
                     f.write("\n")
                 current_celebrity = celebrity
                 f.write(f"🎬 {celebrity.upper()}\n")
                 f.write("-"*40 + "\n")
-                print(f"🎭 Processing celebrity: {celebrity}")
-                logger.info(f"Processing celebrity: {celebrity}")
                 
-            media_type, media_file = choose_media_for_celebrity(celebrity)
-            
-            # Set display symbols and descriptions
-            if media_type == 'video':
-                media_symbol = "🎥"
-                media_type_str = "Video"
-            else:  # image
-                media_symbol = "🖼️" 
-                media_type_str = "Ken Burns"
-            
-            duration = end - start
-            block_count += 1
-            
+            if is_intelligent_suggestion:
+                suggestion = segment[3]
+                media_type, first_file, second_file = get_intelligent_clip_media(suggestion.folder)
+                if first_file and second_file:
+                    media_symbol = "✨" if media_type == 'video' else "💫"
+                    media_type_str = "Intelligent Video" if media_type == 'video' else "Intelligent Image"
+                    
+                    # Split the 10-second segment into two 5-second parts
+                    mid_time = start + (end - start) / 2
+                    block_count += 1
+                    
+                    # First 5 seconds
+                    json_segment = {
+                        "start_time": start,
+                        "end_time": mid_time,
+                        "type": "intelligent_clip",
+                        "celebrity": celebrity,
+                        "media": {
+                            "folder": os.path.dirname(first_file),
+                            "type": media_type,
+                            "duration": 5.0,
+                            "file": os.path.basename(first_file)
+                        },
+                        "transcription_context": [suggestion.description],
+                        "similarity_score": suggestion.similarity,
+                        "intelligent_folder": suggestion.folder
+                    }
+                    json_data["segments"].append(json_segment)
+                    
+                    # Second 5 seconds
+                    json_segment = {
+                        "start_time": mid_time,
+                        "end_time": end,
+                        "type": "intelligent_clip",
+                        "celebrity": celebrity,
+                        "media": {
+                            "folder": os.path.dirname(second_file),
+                            "type": media_type,
+                            "duration": 5.0,
+                            "file": os.path.basename(second_file)
+                        },
+                        "transcription_context": [suggestion.description],
+                        "similarity_score": suggestion.similarity,
+                        "intelligent_folder": suggestion.folder
+                    }
+                    json_data["segments"].append(json_segment)
+                    
+                    # Write text segments
+                    f.write(f"    {block_count}a. {media_symbol} {format_timestamp(start)} → {format_timestamp(mid_time)} (5.00s) ({media_type_str}) - {os.path.basename(first_file)}\n")
+                    f.write(f"       📝 {suggestion.description} (Part 1)\n")
+                    f.write("       " + "-"*70 + "\n")
+                    f.write(f"    {block_count}b. {media_symbol} {format_timestamp(mid_time)} → {format_timestamp(end)} (5.00s) ({media_type_str}) - {os.path.basename(second_file)}\n")
+                    f.write(f"       📝 {suggestion.description} (Part 2)\n")
+                    f.write("       " + "-"*70 + "\n")
+                else:
+                    # Fallback to regular clip selection if intelligent clips not found
+                    media_type, media_file = choose_media_for_celebrity(celebrity)
+                    media_symbol = "🎥" if media_type == 'video' else "🖼️"
+                    media_type_str = "Video" if media_type == 'video' else "Ken Burns"
+                    block_count += 1
+                    
+                    json_segment = {
+                        "start_time": start,
+                        "end_time": end,
+                        "type": "celebrity_overlay",
+                        "celebrity": celebrity,
+                        "media": {
+                            "folder": os.path.dirname(media_file),
+                            "type": media_type,
+                            "duration": end - start,
+                            "file": os.path.basename(media_file)
+                        },
+                        "transcription_context": ["[Description placeholder]"]
+                    }
+                    json_data["segments"].append(json_segment)
+                    
+                    f.write(f"    {block_count}. {media_symbol} {format_timestamp(start)} → {format_timestamp(end)} ({end - start:.2f}s) ({media_type_str}) - {os.path.basename(media_file)}\n")
+                    f.write(f"       📝 [Description placeholder]\n")
+                    f.write("       " + "-"*70 + "\n")
+            else:
+                # Regular clip handling
+                media_type, media_file = choose_media_for_celebrity(celebrity)
+                media_symbol = "🎥" if media_type == 'video' else "🖼️"
+                media_type_str = "Video" if media_type == 'video' else "Ken Burns"
+                block_count += 1
+                
+                json_segment = {
+                    "start_time": start,
+                    "end_time": end,
+                    "type": "celebrity_overlay",
+                    "celebrity": celebrity,
+                    "media": {
+                        "folder": os.path.dirname(media_file),
+                        "type": media_type,
+                        "duration": end - start,
+                        "file": os.path.basename(media_file)
+                    },
+                    "transcription_context": ["[Description placeholder]"]
+                }
+                json_data["segments"].append(json_segment)
+                
+                f.write(f"    {block_count}. {media_symbol} {format_timestamp(start)} → {format_timestamp(end)} ({end - start:.2f}s) ({media_type_str}) - {os.path.basename(media_file)}\n")
+                f.write(f"       📝 [Description placeholder]\n")
+                f.write("       " + "-"*70 + "\n")
+
             # Update statistics
             if celebrity not in celebrity_stats:
-                celebrity_stats[celebrity] = {"time": 0, "video_clips": 0, "image_clips": 0}
-            celebrity_stats[celebrity]["time"] += duration
-            if media_type == 'video':
+                celebrity_stats[celebrity] = {"time": 0, "video_clips": 0, "image_clips": 0, "intelligent_clips": 0}
+            celebrity_stats[celebrity]["time"] += end - start
+            if is_intelligent_suggestion:
+                celebrity_stats[celebrity]["intelligent_clips"] += 1
+            elif media_type == 'video':
                 celebrity_stats[celebrity]["video_clips"] += 1
             else:
                 celebrity_stats[celebrity]["image_clips"] += 1
-
-            # Write text segment
-            f.write(f"    {block_count}. {media_symbol} {format_timestamp(start)} → {format_timestamp(end)} ({duration:.2f}s) ({media_type_str}) - {media_file}\n")
-            f.write("       📝 [Description placeholder]\n")
-            f.write("       " + "-"*70 + "\n")
-
-            # Add to JSON data
-            json_segment = {
-                "start_time": start,
-                "end_time": end,
-                "type": "celebrity_overlay",
-                "celebrity": celebrity,
-                "media": {
-                    "folder": os.path.join(BASE_PATH, celebrity),
-                    "type": media_type,  # Now properly uses 'video' or 'image'
-                    "duration": duration,
-                    "file": media_file
-                },
-                "transcription_context": [
-                    "[Description placeholder]"
-                ]
-            }
-            json_data["segments"].append(json_segment)
 
             # Progress indicator
             if block_count % 10 == 0:
                 progress = (block_count / total_blocks) * 100
                 print(f"⏳ Progress: {block_count}/{total_blocks} segments ({progress:.1f}%)")
-                logger.info(f"Progress: {block_count}/{total_blocks} segments")
 
-        print("📈 Calculating statistics...")
-        logger.info("Calculating final statistics")
-
-        # Write text statistics
+        # Write statistics
         f.write("\n" + "-"*80 + "\n")
         f.write("SUMMARY STATISTICS\n")
         f.write("-"*80 + "\n\n")
 
         total_time = 0
         for celebrity, stats in celebrity_stats.items():
-            total_clips = stats["video_clips"] + stats["image_clips"]
+            total_clips = stats["video_clips"] + stats["image_clips"] + stats["intelligent_clips"]
             percentage = (stats["time"] / sum(s["time"] for s in celebrity_stats.values())) * 100
             total_time += stats["time"]
             
             f.write(f"{celebrity}:\n")
             f.write(f"  • Total Screen Time: {stats['time']:.2f} seconds ({percentage:.1f}%)\n")
-            f.write(f"  • Total Clips: {total_clips} ({stats['video_clips']} videos, {stats['image_clips']} images)\n\n")
+            f.write(f"  • Total Clips: {total_clips}\n")
+            f.write(f"    - Intelligent Clips: {stats['intelligent_clips']}\n")
+            f.write(f"    - Regular Videos: {stats['video_clips']}\n")
+            f.write(f"    - Ken Burns Images: {stats['image_clips']}\n\n")
 
         f.write(f"Total Coverage: {total_time:.2f} seconds\n")
-        f.write(f"Total Clips Used: {sum(s['video_clips'] + s['image_clips'] for s in celebrity_stats.values())}\n\n")
+        f.write(f"Total Clips Used: {sum(s['video_clips'] + s['image_clips'] + s['intelligent_clips'] for s in celebrity_stats.values())}\n\n")
 
         f.write("="*80 + "\n")
         f.write("End of Summary\n")
         f.write("="*80 + "\n")
 
-    print(f"💾 Writing JSON output to: {json_output_file}")
-    logger.info(f"Writing JSON output to {json_output_file}")
-
-    # Write JSON format
+    # Write JSON output
     with open(json_output_file, 'w', encoding='utf-8') as f:
         json.dump(json_data, f, indent=4)
 
     print("✅ Celebrity Clip Placement Generation Complete!")
     logger.info("Render plan generation completed successfully")
     
-    # Print detailed usage summary
+    # Print summary
     print(f"\n📊 SUMMARY:")
     print(f"   • Total segments: {total_blocks}")
-    print(f"   • Celebrities processed: {len(celebrity_stats)}")
+    print(f"   • Intelligent clips used: {sum(s['intelligent_clips'] for s in celebrity_stats.values())}")
+    print(f"   • Regular clips used: {sum(s['video_clips'] + s['image_clips'] for s in celebrity_stats.values())}")
     print(f"   • Total coverage: {total_time:.2f} seconds")
-    
-    print(f"\n🎬 CLIP USAGE BREAKDOWN:")
-    for celebrity, tracker in celebrity_clip_trackers.items():
-        total_available = len(tracker['all_videos']) + len(tracker['all_images'])
-        videos_used = len(tracker['used_videos'])
-        images_used = len(tracker['used_images'])
-        videos_remaining = len(tracker['available_videos'])
-        images_remaining = len(tracker['available_images'])
-        
-        print(f"   📂 {celebrity}:")
-        print(f"      • Total clips available: {total_available}")
-        print(f"      • Videos used: {videos_used}/{len(tracker['all_videos'])} (remaining: {videos_remaining})")
-        if tracker['all_images']:
-            print(f"      • Images used: {images_used}/{len(tracker['all_images'])} (remaining: {images_remaining})")
-        else:
-            print(f"      • Images: None available (using videos only)")
-        
-        # Calculate variety percentage
-        unique_clips_used = videos_used + images_used
-        if total_available > 0:
-            variety_percent = (unique_clips_used / total_available) * 100
-            print(f"      • Variety: {variety_percent:.1f}% of available clips used")
     
     print(f"\n📄 OUTPUT FILES:")
     print(f"   • Text output: {text_output_file}")
     print(f"   • JSON output: {json_output_file}")
-    
-    print(f"\n💡 OPTIMIZATION ACHIEVED:")
-    print(f"   ✅ All clips used before repeating")
-    print(f"   ✅ Images included every 4-5 clips (when available)")
-    print(f"   ✅ Maximum variety maintained per celebrity")
-    print(f"   ✅ Automatic fallback to videos when no images exist")
 
 if __name__ == "__main__":
     print("🎬 Celebrity Clip Placement Generator")

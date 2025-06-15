@@ -2,7 +2,7 @@
 AUDIO TRANSCRIPTION REPORT
 ================================================================================
 
-Export Timestamp: 2025-06-15T18:35:48.599342
+Export Timestamp: 2025-06-15T23:33:44.027520
 Total Files Processed: 1
 Exported From: Audio Transcription System
 
@@ -21,10 +21,10 @@ TRANSCRIPTION DETAILS
 📍 PATH: /Users/superman/Desktop/Celebrity Voice Overs/Test.wav
 
 📊 PROCESSING INFO:
-   • Processing Time: 8.89 seconds
+   • Processing Time: 8.22 seconds
    • Channel: Meghan Markle
    • Keywords Used: 98
-   • Notion Script: ❌ Not aligned
+   • Notion Script: ✅ Aligned (Page ID: 21302cd2-c142-8018-bfbb-f16ac66a1190)
 
 🌐 LANGUAGE: EN (Confidence: 100.0%)
 
@@ -32,129 +32,126 @@ TRANSCRIPTION DETAILS
 TRANSCRIPTION TIMELINE
 ------------------------------------------------------------
 
-  1. [0.00 → 4.96] (4.96s)
-     Meghan Markle has been one of the most polarizing figures in modern celebrity culture.
+  1. [0.00 → 5.36] (5.36s)
+     Meghan Markle's journey From Hollywood to Buckingham Palace has been anything But ordinary.
+     📝 Original: Meghan Markle's journey from Hollywood to Buckingham Palace has been anything but ordinary.
 
-  2. [4.96 → 9.60] (4.64s)
-     From her transition into the British Royal family to her dramatic departure alongside Prince
+  2. [5.36 → 9.52] (4.16s)
+     Best known for Her role as Rachel Zane on the legal drama Suites,
+     📝 Original: Best known for her role as Rachel Zane on the legal drama Suites,
 
-  3. [9.60 → 15.30] (5.70s)
-     Harry, Meghan's journey has sparked global fascination, controversy and commentary from
+  3. [9.52 → 13.20] (3.68s)
+     Meghan carved a name for herself with elegance and ambition.
 
-  4. [15.30 → 18.28] (2.98s)
-     some of the world's most influential voices.
+  4. [13.20 → 16.24] (3.04s)
+     But everything changed when she met Prince Harry.
 
-  5. [18.28 → 23.04] (4.76s)
-     Her interview with Oprah Winfrey in 2021 was a major cultural moment.
+  5. [16.24 → 21.60] (5.36s)
+     Their 2018 wedding wasn't just a royal ceremony, it was a cultural moment.
 
-  6. [23.04 → 27.64] (4.60s)
-     Oprah's calm but pointed questions allowed Meghan to share her struggles with royal life,
+  6. [21.60 → 26.40] (4.80s)
+     Held at Windsor Castle, the event mixed royal tradition with modern flair,
 
-  7. [27.64 → 31.58] (3.94s)
-     sparking debates around mental health, race, and monarchy.
+  7. [26.40 → 30.88] (4.48s)
+     even featuring a gospel choir, Oprah Winfrey, who was In attendance later conducted the explosive
+     📝 Original: even featuring a gospel choir, Oprah Winfrey, who was in attendance later conducted the explosive
 
-  8. [31.58 → 36.90] (5.32s)
-     The interview created a ripple effect that even reached comedic corners of pop culture.
+  8. [30.88 → 33.36] (2.48s)
+     interview that rocked the monarchy.
 
-  9. [36.90 → 41.58] (4.68s)
-     One such response came from South Park, known for its ruthless satire.
+  9. [33.36 → 36.72] (3.36s)
+     Meghan's transition into royalty wasn't smooth.
 
- 10. [41.58 → 46.42] (4.84s)
-     The animated show aired a parody episode that mocked Megan and Harry's demands for privacy
+ 10. [36.72 → 41.04] (4.32s)
+     Her outspoken nature clashed with the firm's reserved traditions.
 
- 11. [46.42 → 51.86] (5.44s)
-     while simultaneously pursuing the spotlight, amplifying public skepticism toward the couple's
+ 11. [41.04 → 45.88] (4.84s)
+     the strain became evident during Queen Elizabeth II's funeral, where Meghan's appearance
+     📝 Original: The strain became evident during Queen Elizabeth II's funeral, where Meghan's appearance
 
- 12. [51.86 → 53.34] (1.48s)
-     media strategy.
+ 12. [45.88 → 49.04] (3.16s)
+     drew both sympathy and criticism.
 
- 13. [53.34 → 57.82] (4.48s)
-     In the world of music and cultural icons, Beyonce extended a public message of support to
+ 13. [49.04 → 53.56] (4.52s)
+     Some saw Her as a symbol of change, others viewed Her as disruptive.
+     📝 Original: Some saw her as a symbol of change, others viewed her as disruptive.
 
- 14. [57.82 → 1:02.06] (4.24s)
-     Megan after the Oprah interview, praising her courage and grace.
+ 14. [53.56 → 59.64] (6.08s)
+     Regardless, she remained composed during the solemn events that marked the Queen's passing.
 
- 15. [1:02.06 → 1:06.54] (4.48s)
-     This show of solidarity from one of the most powerful women in entertainment added credibility
+ 15. [59.64 → 1:05.20] (5.56s)
+     In pop culture, Megan has unexpectedly brushed shoulders with global icons.
 
- 16. [1:06.54 → 1:08.30] (1.76s)
-     to Megan's narrative.
+ 16. [1:05.20 → 1:10.00] (4.80s)
+     Beyoncé publicly supported Her after the Oprah interview, praising Her courage.
+     📝 Original: Beyoncé publicly supported her after the Oprah interview, praising her courage.
 
- 17. [1:08.30 → 1:12.66] (4.36s)
-     On the other end of the spectrum, critics like Pierce Morgan have consistently questioned
+ 17. [1:10.00 → 1:14.40] (4.40s)
+     Kevin Hart, known for his sharp humor, once joked about how intense royal life must be
 
- 18. [1:12.66 → 1:14.54] (1.88s)
-     Megan's sincerity.
+ 18. [1:14.40 → 1:18.08] (3.68s)
+     for an American actress used to Hollywood red carpets.
+     📝 Original: for an American actress used to Hollywood Red Carpets.
 
- 19. [1:14.54 → 1:18.50] (3.96s)
-     Morgan famously walked off his own show following backlash over his dismissal of her claims
+ 19. [1:18.08 → 1:22.20] (4.12s)
+     These moments show Megan's deep imprint across very different worlds.
 
- 20. [1:18.50 → 1:23.50] (5.00s)
-     during the Oprah interview, solidifying his role as one of her harshest detractor.
+ 20. [1:22.20 → 1:27.80] (5.60s)
+     royalty, celebrity and social commentary. Despite the controversies, Meghan continues
 
- 21. [1:23.50 → 1:27.50] (4.00s)
-     Meanwhile, figures like Martha Stewart have offered a more neutral stance,
+ 21. [1:27.80 → 1:34.52] (6.72s)
+     to build Her brand. From producing documentaries to exploring new media ventures, she's not backing
+     📝 Original: to build her brand. From producing documentaries to exploring new media ventures, she's not backing
 
- 22. [1:27.50 → 1:30.50] (3.00s)
-     emphasizing the importance of grace under scrutiny,
+ 22. [1:34.52 → 1:40.76] (6.24s)
+     down. Whether remembered for breaking norms or reshaping the monarchy's image, Meghan
 
- 23. [1:30.50 → 1:33.50] (3.00s)
-     without overtly siding with either narrative.
+ 23. [1:40.76 → 1:43.96] (3.20s)
+     Markle has undeniably left Her mark.
+     📝 Original: Markle has undeniably left her mark.
 
- 24. [1:33.50 → 1:37.50] (4.00s)
-     Even Kevin Hart couldn't resist bringing Meghan's situation into his stand-up,
-
- 25. [1:37.50 → 1:41.50] (4.00s)
-     using his platform to joke about the absurdity of royal drama in modern times.
-
- 26. [1:41.50 → 1:46.50] (5.00s)
-     Proving that, no matter the perspective, Meghan Markle remains a cultural lightning rod
-
- 27. [1:46.50 → 1:49.30] (2.80s)
-     cross-comedy, media, and society at large.
+ 24. [1:43.96 → 1:48.94] (4.98s)
+     Her story is still unfolding, and the world is still watching.
 
 ------------------------------------------------------------
 TRANSCRIPTION STATISTICS
 ------------------------------------------------------------
 
 📈 SUMMARY:
-   • Total Segments: 27
-   • Total Duration: 109.30 seconds
-   • Total Words: 290
-   • Average Segment Length: 4.05 seconds
-   • Words Per Minute: 159.2 WPM
-   • Words with Timestamps: 171
+   • Total Segments: 24
+   • Total Duration: 108.94 seconds
+   • Total Words: 258
+   • Average Segment Length: 4.54 seconds
+   • Words Per Minute: 142.1 WPM
+   • Segments Corrected: 9/24 (37.5%)
+   • Words with Timestamps: 124
 
 ================================================================================
 CLEAN TRANSCRIPTION (NO TIMESTAMPS)
 ================================================================================
 
-Meghan Markle has been one of the most polarizing figures in modern celebrity
-culture. From her transition into the British Royal family to her dramatic
-departure alongside Prince Harry, Meghan's journey has sparked global
-fascination, controversy and commentary from some of the world's most
-influential voices. Her interview with Oprah Winfrey in 2021 was a major
-cultural moment. Oprah's calm but pointed questions allowed Meghan to share her
-struggles with royal life, sparking debates around mental health, race, and
-monarchy. The interview created a ripple effect that even reached comedic
-corners of pop culture. One such response came from South Park, known for its
-ruthless satire. The animated show aired a parody episode that mocked Megan and
-Harry's demands for privacy while simultaneously pursuing the spotlight,
-amplifying public skepticism toward the couple's media strategy. In the world of
-music and cultural icons, Beyonce extended a public message of support to Megan
-after the Oprah interview, praising her courage and grace. This show of
-solidarity from one of the most powerful women in entertainment added
-credibility to Megan's narrative. On the other end of the spectrum, critics like
-Pierce Morgan have consistently questioned Megan's sincerity. Morgan famously
-walked off his own show following backlash over his dismissal of her claims
-during the Oprah interview, solidifying his role as one of her harshest
-detractor. Meanwhile, figures like Martha Stewart have offered a more neutral
-stance, emphasizing the importance of grace under scrutiny, without overtly
-siding with either narrative. Even Kevin Hart couldn't resist bringing Meghan's
-situation into his stand-up, using his platform to joke about the absurdity of
-royal drama in modern times. Proving that, no matter the perspective, Meghan
-Markle remains a cultural lightning rod cross-comedy, media, and society at
-large.
+Meghan Markle's journey From Hollywood to Buckingham Palace has been anything
+But ordinary. Best known for Her role as Rachel Zane on the legal drama Suites,
+Meghan carved a name for herself with elegance and ambition. But everything
+changed when she met Prince Harry. Their 2018 wedding wasn't just a royal
+ceremony, it was a cultural moment. Held at Windsor Castle, the event mixed
+royal tradition with modern flair, even featuring a gospel choir, Oprah Winfrey,
+who was In attendance later conducted the explosive interview that rocked the
+monarchy. Meghan's transition into royalty wasn't smooth. Her outspoken nature
+clashed with the firm's reserved traditions. the strain became evident during
+Queen Elizabeth II's funeral, where Meghan's appearance drew both sympathy and
+criticism. Some saw Her as a symbol of change, others viewed Her as disruptive.
+Regardless, she remained composed during the solemn events that marked the
+Queen's passing. In pop culture, Megan has unexpectedly brushed shoulders with
+global icons. Beyoncé publicly supported Her after the Oprah interview, praising
+Her courage. Kevin Hart, known for his sharp humor, once joked about how intense
+royal life must be for an American actress used to Hollywood red carpets. These
+moments show Megan's deep imprint across very different worlds. royalty,
+celebrity and social commentary. Despite the controversies, Meghan continues to
+build Her brand. From producing documentaries to exploring new media ventures,
+she's not backing down. Whether remembered for breaking norms or reshaping the
+monarchy's image, Meghan Markle has undeniably left Her mark. Her story is still
+unfolding, and the world is still watching.
 
 ================================================================================
 End of Transcription Report

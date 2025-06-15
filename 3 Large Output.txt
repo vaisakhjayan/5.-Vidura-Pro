@@ -2,47 +2,34 @@
 INTELLIGENT VIDEO CLIP SUGGESTIONS
 ================================================================================
 Channel: Meghan Markle
-Video: Meghan Markle BUSTED After Huge Lies Exposed In Her New Tell-All Book
-Total Matches Found: 3
+Video: Test
+Total Matches Found: 2
 ================================================================================
 
 MATCH #1
 ----------------------------------------
-Timestamp: 172.0s - 182.0s
+Timestamp: 13.0s - 23.0s
 Transcription Section:
-"Quickly, and then there's the wedding footage, a now viral clip of Meghan allegedly bowing her head to Princess Charlotte sparked another internet frenzy."
+"Since their wedding in 2018, the Duke and Duchess of Sussex have become household names, not"
 
 Suggested Clip: Celebrities At Meghan and Harry's Wedding
 Folder: Celebrities At Meghan and Harry's Wedding
 Description: Celebrities at Meghan and Harry's wedding
-Similarity Score: 0.680
+Similarity Score: 0.640
 
 ================================================================================
 
 MATCH #2
 ----------------------------------------
-Timestamp: 358.0s - 368.0s
+Timestamp: 73.0s - 83.0s
 Transcription Section:
-"Harry admitted to speaking harshly to Meghan during an argument. She responded by saying,"
+"of Queen Elizabeth II in September 2022."
 
-Suggested Clip: Meghan Markle Giving Speech
-Folder: Meghan Markle Giving Speech and Inspriing Everyone
-Description: Meghan Markle giving a speech and inspiring everyone
-Similarity Score: 0.630
+Suggested Clip: Meghan And Harry At Elizabeth's Funeral
+Folder: Meghan And Harry At Elizabeth's Funeral
+Description: Meghan and Harry at Elizabeth's funeral
+Similarity Score: 0.711
 
 ================================================================================
 
-MATCH #3
-----------------------------------------
-Timestamp: 478.0s - 488.0s
-Transcription Section:
-"And if she's done it once, on Oprah, on Netflix, on podcasts, she can do it again. This time with more venom and fewer constraints."
-
-Suggested Clip: Meghan Markle Oprah Interview
-Folder: Meghan Markle Oprah Interview
-Description: Meghan Markle Oprah Interview
-Similarity Score: 0.624
-
-================================================================================
-
-Average Similarity Score: 0.645
+Average Similarity Score: 0.676

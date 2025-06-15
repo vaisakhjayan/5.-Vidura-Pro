@@ -1,7 +1,7 @@
 {
   "export_metadata": {
     "total_files_processed": 1,
-    "export_timestamp": "2025-06-15T18:35:48.599342",
+    "export_timestamp": "2025-06-15T23:33:44.027520",
     "exported_from": "Audio Transcription System",
     "dry_run_mode": {
       "enabled": false,
@@ -20,1203 +20,1079 @@
       "segments": [
         {
           "start": 0.0,
-          "end": 4.96,
-          "text": " Meghan Markle has been one of the most polarizing figures in modern celebrity culture.",
+          "end": 5.36,
+          "text": "Meghan Markle's journey From Hollywood to Buckingham Palace has been anything But ordinary.",
+          "original_transcription": "Meghan Markle's journey from Hollywood to Buckingham Palace has been anything but ordinary.",
+          "was_corrected": true,
           "words": [
             {
-              "word": "Meghan",
               "start": 0.0,
-              "end": 0.302,
-              "score": 0.724
+              "end": 0.343,
+              "text": "Meghan",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Markle",
-              "start": 0.343,
-              "end": 0.706,
-              "score": 0.79
+              "start": 0.383,
+              "end": 0.746,
+              "text": "Markle's",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "has",
-              "start": 0.726,
-              "end": 0.827,
-              "score": 0.833
+              "start": 0.786,
+              "end": 1.128,
+              "text": "journey",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "been",
-              "start": 0.887,
-              "end": 1.048,
-              "score": 0.75
+              "start": 1.169,
+              "end": 1.39,
+              "text": "From",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "one",
-              "start": 1.129,
-              "end": 1.21,
-              "score": 0.977
+              "start": 1.411,
+              "end": 1.975,
+              "text": "Hollywood",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "of",
-              "start": 1.23,
-              "end": 1.29,
-              "score": 0.75
+              "start": 2.015,
+              "end": 2.096,
+              "text": "to",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "the",
-              "start": 1.311,
-              "end": 1.391,
-              "score": 0.722
+              "start": 2.136,
+              "end": 2.66,
+              "text": "Buckingham",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "most",
-              "start": 1.452,
-              "end": 1.593,
-              "score": 0.871
+              "start": 2.7,
+              "end": 3.164,
+              "text": "Palace",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "polarizing",
-              "start": 1.714,
-              "end": 2.359,
-              "score": 0.842
+              "start": 3.204,
+              "end": 3.405,
+              "text": "has",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "figures",
-              "start": 2.399,
-              "end": 2.803,
-              "score": 0.923
+              "start": 3.446,
+              "end": 3.587,
+              "text": "been",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "in",
-              "start": 2.823,
-              "end": 2.924,
-              "score": 0.748
+              "start": 3.667,
+              "end": 4.03,
+              "text": "anything",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "modern",
-              "start": 2.964,
-              "end": 3.347,
-              "score": 0.742
+              "start": 4.07,
+              "end": 4.171,
+              "text": "But",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "celebrity",
-              "start": 3.407,
-              "end": 3.811,
-              "score": 0.887
-            },
-            {
-              "word": "culture.",
-              "start": 3.851,
-              "end": 4.98,
-              "score": 0.926
+              "start": 4.272,
+              "end": 5.38,
+              "text": "ordinary.",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 4.96,
-          "end": 9.6,
-          "text": " From her transition into the British Royal family to her dramatic departure alongside Prince"
+          "start": 5.36,
+          "end": 9.52,
+          "text": "Best known for Her role as Rachel Zane on the legal drama Suites,",
+          "original_transcription": "Best known for her role as Rachel Zane on the legal drama Suites,",
+          "was_corrected": true
         },
         {
-          "start": 9.6,
-          "end": 15.3,
-          "text": " Harry, Meghan's journey has sparked global fascination, controversy and commentary from",
+          "start": 9.52,
+          "end": 13.200000000000001,
+          "text": "Meghan carved a name for herself with elegance and ambition.",
+          "original_transcription": "Meghan carved a name for herself with elegance and ambition.",
+          "was_corrected": false,
           "words": [
             {
-              "word": "Harry,",
-              "start": 9.6,
-              "end": 10.023,
-              "score": 0.725
+              "start": 9.52,
+              "end": 9.945,
+              "text": "Meghan",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Meghan's",
-              "start": 10.446,
-              "end": 10.808,
-              "score": 0.767
+              "start": 9.965,
+              "end": 10.248,
+              "text": "carved",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "journey",
-              "start": 10.869,
-              "end": 11.191,
-              "score": 0.789
+              "start": 10.309,
+              "end": 10.329,
+              "text": "a",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "has",
-              "start": 11.231,
-              "end": 11.352,
-              "score": 0.883
+              "start": 10.389,
+              "end": 10.592,
+              "text": "name",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "sparked",
-              "start": 11.413,
-              "end": 11.715,
-              "score": 0.971
+              "start": 10.652,
+              "end": 10.753,
+              "text": "for",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "global",
-              "start": 11.856,
-              "end": 12.239,
-              "score": 0.944
+              "start": 10.794,
+              "end": 11.218,
+              "text": "herself",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "fascination,",
-              "start": 12.279,
-              "end": 13.064,
-              "score": 0.958
+              "start": 11.32,
+              "end": 11.441,
+              "text": "with",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "controversy",
-              "start": 13.306,
-              "end": 14.092,
-              "score": 0.886
+              "start": 11.542,
+              "end": 11.967,
+              "text": "elegance",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "and",
-              "start": 14.293,
-              "end": 14.394,
-              "score": 0.818
+              "start": 12.047,
+              "end": 12.108,
+              "text": "and",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "commentary",
-              "start": 14.474,
-              "end": 15.159,
-              "score": 0.902
-            },
-            {
-              "word": "from",
-              "start": 15.24,
-              "end": 15.32,
-              "score": 0.087
+              "start": 12.169,
+              "end": 13.22,
+              "text": "ambition.",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 15.3,
-          "end": 18.28,
-          "text": " some of the world's most influential voices."
-        },
-        {
-          "start": 18.28,
-          "end": 23.04,
-          "text": " Her interview with Oprah Winfrey in 2021 was a major cultural moment.",
+          "start": 13.200000000000001,
+          "end": 16.240000000000002,
+          "text": "But everything changed when she met Prince Harry.",
+          "original_transcription": "But everything changed when she met Prince Harry.",
+          "was_corrected": false,
           "words": [
             {
-              "word": "Her",
-              "start": 18.28,
-              "end": 18.341,
-              "score": 0.664
+              "start": 13.2,
+              "end": 13.403,
+              "text": "But",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "interview",
-              "start": 18.421,
-              "end": 18.764,
-              "score": 0.888
+              "start": 13.504,
+              "end": 13.889,
+              "text": "everything",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "with",
-              "start": 18.804,
-              "end": 18.925,
-              "score": 0.587
+              "start": 13.95,
+              "end": 14.396,
+              "text": "changed",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Oprah",
-              "start": 19.026,
-              "end": 19.248,
-              "score": 0.639
+              "start": 14.457,
+              "end": 14.598,
+              "text": "when",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Winfrey",
-              "start": 19.268,
-              "end": 19.692,
-              "score": 0.773
+              "start": 14.639,
+              "end": 14.761,
+              "text": "she",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "in",
-              "start": 19.773,
-              "end": 19.853,
-              "score": 0.99
+              "start": 14.821,
+              "end": 14.983,
+              "text": "met",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "2021",
-              "start": 19.873,
-              "end": 20.62,
-              "score": 0.828
+              "start": 15.065,
+              "end": 15.308,
+              "text": "Prince",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "was",
-              "start": 20.721,
-              "end": 20.821,
-              "score": 0.934
-            },
-            {
-              "word": "a",
-              "start": 20.862,
-              "end": 20.902,
-              "score": 0.5
-            },
-            {
-              "word": "major",
-              "start": 21.104,
-              "end": 21.447,
-              "score": 0.8
-            },
-            {
-              "word": "cultural",
-              "start": 21.467,
-              "end": 21.83,
-              "score": 0.843
-            },
-            {
-              "word": "moment.",
-              "start": 21.89,
-              "end": 23.06,
-              "score": 0.983
+              "start": 15.348,
+              "end": 16.26,
+              "text": "Harry.",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 23.04,
-          "end": 27.64,
-          "text": " Oprah's calm but pointed questions allowed Meghan to share her struggles with royal life,",
+          "start": 16.240000000000002,
+          "end": 21.6,
+          "text": "Their 2018 wedding wasn't just a royal ceremony, it was a cultural moment.",
+          "original_transcription": "Their 2018 wedding wasn't just a royal ceremony, it was a cultural moment.",
+          "was_corrected": false
+        },
+        {
+          "start": 21.6,
+          "end": 26.400000000000002,
+          "text": "Held at Windsor Castle, the event mixed royal tradition with modern flair,",
+          "original_transcription": "Held at Windsor Castle, the event mixed royal tradition with modern flair,",
+          "was_corrected": false
+        },
+        {
+          "start": 26.400000000000002,
+          "end": 30.880000000000003,
+          "text": "even featuring a gospel choir, Oprah Winfrey, who was In attendance later conducted the explosive",
+          "original_transcription": "even featuring a gospel choir, Oprah Winfrey, who was in attendance later conducted the explosive",
+          "was_corrected": true,
           "words": [
             {
-              "word": "Oprah's",
-              "start": 23.04,
-              "end": 23.201,
-              "score": 0.358
+              "start": 26.4,
+              "end": 26.662,
+              "text": "even",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "calm",
-              "start": 23.242,
-              "end": 23.625,
-              "score": 0.998
+              "start": 26.723,
+              "end": 27.086,
+              "text": "featuring",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "but",
-              "start": 23.706,
-              "end": 23.807,
-              "score": 0.916
+              "start": 27.147,
+              "end": 27.167,
+              "text": "a",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "pointed",
-              "start": 23.887,
-              "end": 24.129,
-              "score": 0.714
+              "start": 27.227,
+              "end": 27.611,
+              "text": "gospel",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "questions",
-              "start": 24.17,
-              "end": 24.694,
-              "score": 0.865
+              "start": 27.651,
+              "end": 27.974,
+              "text": "choir,",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "allowed",
-              "start": 24.775,
-              "end": 25.037,
-              "score": 0.869
+              "start": 27.994,
+              "end": 28.216,
+              "text": "Oprah",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Meghan",
-              "start": 25.098,
-              "end": 25.38,
-              "score": 0.786
+              "start": 28.257,
+              "end": 28.64,
+              "text": "Winfrey,",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "to",
-              "start": 25.401,
-              "end": 25.461,
-              "score": 0.831
+              "start": 28.66,
+              "end": 28.761,
+              "text": "who",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "share",
-              "start": 25.522,
-              "end": 25.764,
-              "score": 0.82
+              "start": 28.801,
+              "end": 28.902,
+              "text": "was",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "her",
-              "start": 25.824,
-              "end": 25.945,
-              "score": 0.67
+              "start": 28.943,
+              "end": 28.983,
+              "text": "In",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "struggles",
-              "start": 25.986,
-              "end": 26.389,
-              "score": 0.804
+              "start": 29.044,
+              "end": 29.508,
+              "text": "attendance",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "with",
-              "start": 26.429,
-              "end": 26.53,
-              "score": 0.994
+              "start": 29.609,
+              "end": 29.851,
+              "text": "later",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "royal",
-              "start": 26.611,
-              "end": 26.853,
-              "score": 0.722
+              "start": 29.891,
+              "end": 30.254,
+              "text": "conducted",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "life,",
-              "start": 26.914,
-              "end": 27.66,
-              "score": 0.928
+              "start": 30.315,
+              "end": 30.396,
+              "text": "the",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 30.436,
+              "end": 30.9,
+              "text": "explosive",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 27.64,
-          "end": 31.580000000000002,
-          "text": " sparking debates around mental health, race, and monarchy."
+          "start": 30.880000000000003,
+          "end": 33.36,
+          "text": "interview that rocked the monarchy.",
+          "original_transcription": "interview that rocked the monarchy.",
+          "was_corrected": false
         },
         {
-          "start": 31.580000000000002,
-          "end": 36.9,
-          "text": " The interview created a ripple effect that even reached comedic corners of pop culture."
-        },
-        {
-          "start": 36.9,
-          "end": 41.58,
-          "text": " One such response came from South Park, known for its ruthless satire.",
+          "start": 33.36,
+          "end": 36.72,
+          "text": "Meghan's transition into royalty wasn't smooth.",
+          "original_transcription": "Meghan's transition into royalty wasn't smooth.",
+          "was_corrected": false,
           "words": [
             {
-              "word": "One",
-              "start": 36.9,
-              "end": 37.001,
-              "score": 0.2
+              "start": 33.36,
+              "end": 33.704,
+              "text": "Meghan's",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "such",
-              "start": 37.021,
-              "end": 37.203,
-              "score": 0.888
+              "start": 33.745,
+              "end": 34.311,
+              "text": "transition",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "response",
-              "start": 37.263,
-              "end": 37.687,
-              "score": 0.861
+              "start": 34.392,
+              "end": 34.574,
+              "text": "into",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "came",
-              "start": 37.767,
-              "end": 37.949,
-              "score": 0.872
+              "start": 34.615,
+              "end": 35.141,
+              "text": "royalty",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "from",
-              "start": 38.009,
-              "end": 38.131,
-              "score": 0.829
+              "start": 35.161,
+              "end": 35.769,
+              "text": "wasn't",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "South",
-              "start": 38.171,
-              "end": 38.514,
-              "score": 0.741
-            },
-            {
-              "word": "Park,",
-              "start": 38.554,
-              "end": 38.837,
-              "score": 0.738
-            },
-            {
-              "word": "known",
-              "start": 38.958,
-              "end": 39.2,
-              "score": 0.802
-            },
-            {
-              "word": "for",
-              "start": 39.28,
-              "end": 39.401,
-              "score": 0.979
-            },
-            {
-              "word": "its",
-              "start": 39.482,
-              "end": 39.583,
-              "score": 0.513
-            },
-            {
-              "word": "ruthless",
-              "start": 39.845,
-              "end": 40.309,
-              "score": 0.67
-            },
-            {
-              "word": "satire.",
-              "start": 40.37,
-              "end": 41.6,
-              "score": 0.945
+              "start": 35.91,
+              "end": 36.74,
+              "text": "smooth.",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 41.58,
-          "end": 46.42,
-          "text": " The animated show aired a parody episode that mocked Megan and Harry's demands for privacy",
+          "start": 36.72,
+          "end": 41.040000000000006,
+          "text": "Her outspoken nature clashed with the firm's reserved traditions.",
+          "original_transcription": "Her outspoken nature clashed with the firm's reserved traditions.",
+          "was_corrected": false
+        },
+        {
+          "start": 41.040000000000006,
+          "end": 45.88,
+          "text": "the strain became evident during Queen Elizabeth II's funeral, where Meghan's appearance",
+          "original_transcription": "The strain became evident during Queen Elizabeth II's funeral, where Meghan's appearance",
+          "was_corrected": true,
           "words": [
             {
-              "word": "The",
-              "start": 41.58,
-              "end": 41.64,
-              "score": 0.558
+              "start": 41.04,
+              "end": 41.141,
+              "text": "the",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "animated",
-              "start": 41.741,
-              "end": 42.145,
-              "score": 0.853
+              "start": 41.181,
+              "end": 41.544,
+              "text": "strain",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "show",
-              "start": 42.205,
-              "end": 42.447,
-              "score": 0.818
+              "start": 41.605,
+              "end": 41.907,
+              "text": "became",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "aired",
-              "start": 42.487,
-              "end": 42.81,
-              "score": 0.628
+              "start": 42.069,
+              "end": 42.371,
+              "text": "evident",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "a",
-              "start": 42.85,
-              "end": 42.871,
-              "score": 0.903
+              "start": 42.432,
+              "end": 42.754,
+              "text": "during",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "parody",
-              "start": 42.911,
-              "end": 43.274,
-              "score": 0.783
+              "start": 42.835,
+              "end": 43.077,
+              "text": "Queen",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "episode",
-              "start": 43.355,
-              "end": 43.798,
-              "score": 0.861
+              "start": 43.178,
+              "end": 43.642,
+              "text": "Elizabeth",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "that",
-              "start": 43.879,
-              "end": 43.98,
-              "score": 0.934
+              "start": 43.924,
+              "end": 44.085,
+              "text": "II's",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "mocked",
-              "start": 44.06,
-              "end": 44.343,
-              "score": 0.949
+              "start": 44.146,
+              "end": 44.549,
+              "text": "funeral,",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Megan",
-              "start": 44.423,
-              "end": 44.726,
-              "score": 0.794
+              "start": 44.912,
+              "end": 45.053,
+              "text": "where",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "and",
-              "start": 44.766,
-              "end": 44.827,
-              "score": 0.819
+              "start": 45.114,
+              "end": 45.457,
+              "text": "Meghan's",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Harry's",
-              "start": 44.867,
-              "end": 45.19,
-              "score": 0.893
-            },
-            {
-              "word": "demands",
-              "start": 45.23,
-              "end": 45.613,
-              "score": 0.933
-            },
-            {
-              "word": "for",
-              "start": 45.654,
-              "end": 45.755,
-              "score": 0.823
-            },
-            {
-              "word": "privacy",
-              "start": 45.815,
-              "end": 46.44,
-              "score": 0.879
+              "start": 45.497,
+              "end": 45.9,
+              "text": "appearance",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 46.42,
-          "end": 51.86,
-          "text": " while simultaneously pursuing the spotlight, amplifying public skepticism toward the couple's"
+          "start": 45.88,
+          "end": 49.040000000000006,
+          "text": "drew both sympathy and criticism.",
+          "original_transcription": "drew both sympathy and criticism.",
+          "was_corrected": false
         },
         {
-          "start": 51.86,
-          "end": 53.34,
-          "text": " media strategy."
+          "start": 49.040000000000006,
+          "end": 53.56,
+          "text": "Some saw Her as a symbol of change, others viewed Her as disruptive.",
+          "original_transcription": "Some saw her as a symbol of change, others viewed her as disruptive.",
+          "was_corrected": true
         },
         {
-          "start": 53.34,
-          "end": 57.82000000000001,
-          "text": " In the world of music and cultural icons, Beyonce extended a public message of support to",
+          "start": 53.56,
+          "end": 59.64,
+          "text": "Regardless, she remained composed during the solemn events that marked the Queen's passing.",
+          "original_transcription": "Regardless, she remained composed during the solemn events that marked the Queen's passing.",
+          "was_corrected": false
+        },
+        {
+          "start": 59.64,
+          "end": 65.2,
+          "text": "In pop culture, Megan has unexpectedly brushed shoulders with global icons.",
+          "original_transcription": "In pop culture, Megan has unexpectedly brushed shoulders with global icons.",
+          "was_corrected": false,
           "words": [
             {
-              "word": "In",
-              "start": 53.34,
-              "end": 53.38,
-              "score": 0.074
+              "start": 59.64,
+              "end": 59.7,
+              "text": "In",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "the",
-              "start": 53.401,
-              "end": 53.461,
-              "score": 0.999
+              "start": 59.721,
+              "end": 59.942,
+              "text": "pop",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "world",
-              "start": 53.501,
-              "end": 53.683,
-              "score": 0.966
+              "start": 59.982,
+              "end": 60.385,
+              "text": "culture,",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "of",
-              "start": 53.744,
-              "end": 53.784,
-              "score": 1.0
+              "start": 60.426,
+              "end": 61.393,
+              "text": "Megan",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "music",
-              "start": 53.865,
-              "end": 54.248,
-              "score": 0.876
+              "start": 61.453,
+              "end": 61.594,
+              "text": "has",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "and",
-              "start": 54.389,
-              "end": 54.45,
-              "score": 0.905
+              "start": 61.614,
+              "end": 62.601,
+              "text": "unexpectedly",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "cultural",
-              "start": 54.531,
-              "end": 54.874,
-              "score": 0.784
+              "start": 62.642,
+              "end": 62.924,
+              "text": "brushed",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "icons,",
-              "start": 55.015,
-              "end": 55.459,
-              "score": 0.881
+              "start": 62.944,
+              "end": 63.387,
+              "text": "shoulders",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Beyonce",
-              "start": 55.641,
-              "end": 56.044,
-              "score": 0.788
+              "start": 63.407,
+              "end": 63.568,
+              "text": "with",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "extended",
-              "start": 56.105,
-              "end": 56.448,
-              "score": 0.982
+              "start": 63.629,
+              "end": 63.931,
+              "text": "global",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "a",
-              "start": 56.488,
-              "end": 56.508,
-              "score": 0.983
-            },
-            {
-              "word": "public",
-              "start": 56.589,
-              "end": 56.892,
-              "score": 0.929
-            },
-            {
-              "word": "message",
-              "start": 56.952,
-              "end": 57.215,
-              "score": 0.992
-            },
-            {
-              "word": "of",
-              "start": 57.255,
-              "end": 57.295,
-              "score": 0.994
-            },
-            {
-              "word": "support",
-              "start": 57.356,
-              "end": 57.719,
-              "score": 0.913
-            },
-            {
-              "word": "to",
-              "start": 57.8,
-              "end": 57.84,
-              "score": 0.072
+              "start": 64.092,
+              "end": 65.22,
+              "text": "icons.",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 57.82000000000001,
-          "end": 62.06,
-          "text": " Megan after the Oprah interview, praising her courage and grace.",
+          "start": 65.2,
+          "end": 70.0,
+          "text": "Beyoncé publicly supported Her after the Oprah interview, praising Her courage.",
+          "original_transcription": "Beyoncé publicly supported her after the Oprah interview, praising her courage.",
+          "was_corrected": true,
           "words": [
             {
-              "word": "Megan",
-              "start": 57.82,
-              "end": 58.244,
-              "score": 0.844
+              "start": 65.2,
+              "end": 65.684,
+              "text": "Beyoncé",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "after",
-              "start": 58.365,
-              "end": 58.547,
-              "score": 0.91
+              "start": 65.805,
+              "end": 66.229,
+              "text": "publicly",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "the",
-              "start": 58.567,
-              "end": 58.648,
-              "score": 0.819
+              "start": 66.269,
+              "end": 66.692,
+              "text": "supported",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Oprah",
-              "start": 58.749,
-              "end": 58.951,
-              "score": 0.684
+              "start": 66.753,
+              "end": 66.854,
+              "text": "Her",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "interview,",
-              "start": 58.991,
-              "end": 59.354,
-              "score": 0.924
+              "start": 66.975,
+              "end": 67.156,
+              "text": "after",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "praising",
-              "start": 59.819,
-              "end": 60.142,
-              "score": 0.989
+              "start": 67.197,
+              "end": 67.297,
+              "text": "the",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "her",
-              "start": 60.182,
-              "end": 60.283,
-              "score": 0.669
+              "start": 67.439,
+              "end": 67.681,
+              "text": "Oprah",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "courage",
-              "start": 60.344,
-              "end": 60.687,
-              "score": 0.926
+              "start": 67.721,
+              "end": 68.064,
+              "text": "interview,",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "and",
-              "start": 60.788,
-              "end": 60.889,
-              "score": 0.667
+              "start": 68.205,
+              "end": 68.629,
+              "text": "praising",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "grace.",
-              "start": 60.95,
-              "end": 62.08,
-              "score": 0.925
+              "start": 68.649,
+              "end": 68.81,
+              "text": "Her",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 68.911,
+              "end": 70.02,
+              "text": "courage.",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 62.06,
-          "end": 66.54,
-          "text": " This show of solidarity from one of the most powerful women in entertainment added credibility"
-        },
-        {
-          "start": 66.54,
-          "end": 68.30000000000001,
-          "text": " to Megan's narrative.",
+          "start": 70.0,
+          "end": 74.4,
+          "text": "Kevin Hart, known for his sharp humor, once joked about how intense royal life must be",
+          "original_transcription": "Kevin Hart, known for his sharp humor, once joked about how intense royal life must be",
+          "was_corrected": false,
           "words": [
             {
-              "word": "to",
-              "start": 66.54,
-              "end": 66.765,
-              "score": 0.671
+              "start": 70.0,
+              "end": 70.242,
+              "text": "Kevin",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Megan's",
-              "start": 66.806,
-              "end": 67.133,
-              "score": 0.744
+              "start": 70.303,
+              "end": 70.585,
+              "text": "Hart,",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "narrative.",
-              "start": 67.154,
-              "end": 68.32,
-              "score": 0.828
+              "start": 70.646,
+              "end": 70.868,
+              "text": "known",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 70.888,
+              "end": 70.989,
+              "text": "for",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 71.029,
+              "end": 71.13,
+              "text": "his",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 71.171,
+              "end": 71.433,
+              "text": "sharp",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 71.494,
+              "end": 71.796,
+              "text": "humor,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 72.059,
+              "end": 72.22,
+              "text": "once",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 72.321,
+              "end": 72.563,
+              "text": "joked",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 72.624,
+              "end": 72.826,
+              "text": "about",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 72.886,
+              "end": 73.068,
+              "text": "how",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 73.128,
+              "end": 73.472,
+              "text": "intense",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 73.532,
+              "end": 73.815,
+              "text": "royal",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 73.875,
+              "end": 74.077,
+              "text": "life",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 74.158,
+              "end": 74.339,
+              "text": "must",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 74.38,
+              "end": 74.42,
+              "text": "be",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 68.30000000000001,
-          "end": 72.66,
-          "text": " On the other end of the spectrum, critics like Pierce Morgan have consistently questioned",
+          "start": 74.4,
+          "end": 78.08,
+          "text": "for an American actress used to Hollywood red carpets.",
+          "original_transcription": "for an American actress used to Hollywood Red Carpets.",
+          "was_corrected": true
+        },
+        {
+          "start": 78.08,
+          "end": 82.2,
+          "text": "These moments show Megan's deep imprint across very different worlds.",
+          "original_transcription": "These moments show Megan's deep imprint across very different worlds.",
+          "was_corrected": false,
           "words": [
             {
-              "word": "On",
-              "start": 68.3,
-              "end": 68.34,
-              "score": 0.499
+              "start": 78.08,
+              "end": 78.181,
+              "text": "These",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "the",
-              "start": 68.361,
-              "end": 68.421,
-              "score": 1.0
+              "start": 78.221,
+              "end": 78.585,
+              "text": "moments",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "other",
-              "start": 68.482,
-              "end": 68.623,
-              "score": 0.808
+              "start": 78.666,
+              "end": 78.908,
+              "text": "show",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "end",
-              "start": 68.684,
-              "end": 68.764,
-              "score": 0.78
+              "start": 78.969,
+              "end": 79.393,
+              "text": "Megan's",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "of",
-              "start": 68.805,
-              "end": 68.865,
-              "score": 0.756
+              "start": 79.453,
+              "end": 79.675,
+              "text": "deep",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "the",
-              "start": 68.885,
-              "end": 68.966,
-              "score": 0.832
+              "start": 79.797,
+              "end": 80.16,
+              "text": "imprint",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "spectrum,",
-              "start": 69.006,
-              "end": 69.511,
-              "score": 0.985
+              "start": 80.241,
+              "end": 80.544,
+              "text": "across",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "critics",
-              "start": 69.693,
-              "end": 70.036,
-              "score": 0.928
+              "start": 80.584,
+              "end": 80.907,
+              "text": "very",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "like",
-              "start": 70.117,
-              "end": 70.278,
-              "score": 0.862
+              "start": 80.948,
+              "end": 81.21,
+              "text": "different",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Pierce",
-              "start": 70.359,
-              "end": 70.641,
-              "score": 0.622
-            },
-            {
-              "word": "Morgan",
-              "start": 70.702,
-              "end": 71.086,
-              "score": 0.907
-            },
-            {
-              "word": "have",
-              "start": 71.126,
-              "end": 71.328,
-              "score": 0.947
-            },
-            {
-              "word": "consistently",
-              "start": 71.388,
-              "end": 71.954,
-              "score": 0.975
-            },
-            {
-              "word": "questioned",
-              "start": 72.095,
-              "end": 72.68,
-              "score": 0.872
+              "start": 81.231,
+              "end": 82.22,
+              "text": "worlds.",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 72.66,
-          "end": 74.54,
-          "text": " Megan's sincerity.",
+          "start": 82.2,
+          "end": 87.8,
+          "text": "royalty, celebrity and social commentary. Despite the controversies, Meghan continues",
+          "original_transcription": "royalty, celebrity and social commentary. Despite the controversies, Meghan continues",
+          "was_corrected": false,
           "words": [
             {
-              "word": "Megan's",
-              "start": 72.66,
-              "end": 73.069,
-              "score": 0.808
+              "start": 82.2,
+              "end": 82.623,
+              "text": "royalty,",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "sincerity.",
-              "start": 73.089,
-              "end": 74.56,
-              "score": 0.89
+              "start": 82.925,
+              "end": 83.469,
+              "text": "celebrity",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 83.489,
+              "end": 83.832,
+              "text": "and",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 83.872,
+              "end": 84.134,
+              "text": "social",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 84.174,
+              "end": 84.859,
+              "text": "commentary.",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 74.54,
-          "end": 78.5,
-          "text": " Morgan famously walked off his own show following backlash over his dismissal of her claims"
+          "start": 87.8,
+          "end": 94.52000000000001,
+          "text": "to build Her brand. From producing documentaries to exploring new media ventures, she's not backing",
+          "original_transcription": "to build her brand. From producing documentaries to exploring new media ventures, she's not backing",
+          "was_corrected": true
         },
         {
-          "start": 78.5,
-          "end": 83.5,
-          "text": " during the Oprah interview, solidifying his role as one of her harshest detractor.",
+          "start": 94.52000000000001,
+          "end": 100.76,
+          "text": "down. Whether remembered for breaking norms or reshaping the monarchy's image, Meghan",
+          "original_transcription": "down. Whether remembered for breaking norms or reshaping the monarchy's image, Meghan",
+          "was_corrected": false,
           "words": [
             {
-              "word": "during",
-              "start": 78.5,
-              "end": 78.802,
-              "score": 0.773
-            },
-            {
-              "word": "the",
-              "start": 78.843,
-              "end": 78.923,
-              "score": 0.994
-            },
-            {
-              "word": "Oprah",
-              "start": 79.085,
-              "end": 79.327,
-              "score": 0.795
-            },
-            {
-              "word": "interview,",
-              "start": 79.367,
-              "end": 79.77,
-              "score": 0.92
-            },
-            {
-              "word": "solidifying",
-              "start": 79.81,
-              "end": 80.778,
-              "score": 0.888
-            },
-            {
-              "word": "his",
-              "start": 80.798,
-              "end": 81.02,
-              "score": 0.866
-            },
-            {
-              "word": "role",
-              "start": 81.121,
-              "end": 81.383,
-              "score": 0.725
-            },
-            {
-              "word": "as",
-              "start": 81.423,
-              "end": 81.605,
-              "score": 0.676
-            },
-            {
-              "word": "one",
-              "start": 81.645,
-              "end": 81.806,
-              "score": 0.751
-            },
-            {
-              "word": "of",
-              "start": 81.827,
-              "end": 81.867,
-              "score": 0.5
-            },
-            {
-              "word": "her",
-              "start": 81.927,
-              "end": 82.048,
-              "score": 0.79
-            },
-            {
-              "word": "harshest",
-              "start": 82.129,
-              "end": 82.573,
-              "score": 0.799
-            },
-            {
-              "word": "detractor.",
-              "start": 82.633,
-              "end": 83.52,
-              "score": 0.95
+              "start": 94.52,
+              "end": 94.923,
+              "text": "down.",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 83.5,
-          "end": 87.5,
-          "text": " Meanwhile, figures like Martha Stewart have offered a more neutral stance,",
+          "start": 100.76,
+          "end": 103.96000000000001,
+          "text": "Markle has undeniably left Her mark.",
+          "original_transcription": "Markle has undeniably left her mark.",
+          "was_corrected": true,
           "words": [
             {
-              "word": "Meanwhile,",
-              "start": 83.5,
-              "end": 84.348,
-              "score": 0.796
+              "start": 100.76,
+              "end": 101.226,
+              "text": "Markle",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "figures",
-              "start": 84.369,
-              "end": 84.732,
-              "score": 0.802
+              "start": 101.246,
+              "end": 101.388,
+              "text": "has",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "like",
-              "start": 84.773,
-              "end": 84.914,
-              "score": 0.928
+              "start": 101.408,
+              "end": 102.34,
+              "text": "undeniably",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Martha",
-              "start": 84.975,
-              "end": 85.278,
-              "score": 0.951
+              "start": 102.36,
+              "end": 102.664,
+              "text": "left",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "Stewart",
-              "start": 85.318,
-              "end": 85.702,
-              "score": 0.818
+              "start": 102.704,
+              "end": 102.826,
+              "text": "Her",
+              "original_text": "",
+              "was_corrected": true
             },
             {
-              "word": "have",
-              "start": 85.803,
-              "end": 85.924,
-              "score": 0.966
-            },
-            {
-              "word": "offered",
-              "start": 85.985,
-              "end": 86.227,
-              "score": 0.765
-            },
-            {
-              "word": "a",
-              "start": 86.247,
-              "end": 86.288,
-              "score": 0.5
-            },
-            {
-              "word": "more",
-              "start": 86.328,
-              "end": 86.51,
-              "score": 0.762
-            },
-            {
-              "word": "neutral",
-              "start": 86.53,
-              "end": 86.975,
-              "score": 0.846
-            },
-            {
-              "word": "stance,",
-              "start": 87.015,
-              "end": 87.52,
-              "score": 0.811
+              "start": 102.887,
+              "end": 103.98,
+              "text": "mark.",
+              "original_text": "",
+              "was_corrected": true
             }
           ]
         },
         {
-          "start": 87.5,
-          "end": 90.5,
-          "text": " emphasizing the importance of grace under scrutiny,"
-        },
-        {
-          "start": 90.5,
-          "end": 93.5,
-          "text": " without overtly siding with either narrative."
-        },
-        {
-          "start": 93.5,
-          "end": 97.5,
-          "text": " Even Kevin Hart couldn't resist bringing Meghan's situation into his stand-up,",
-          "words": [
-            {
-              "word": "Even",
-              "start": 93.5,
-              "end": 93.763,
-              "score": 0.834
-            },
-            {
-              "word": "Kevin",
-              "start": 93.904,
-              "end": 94.207,
-              "score": 0.818
-            },
-            {
-              "word": "Hart",
-              "start": 94.227,
-              "end": 94.47,
-              "score": 0.698
-            },
-            {
-              "word": "couldn't",
-              "start": 94.571,
-              "end": 94.854,
-              "score": 0.885
-            },
-            {
-              "word": "resist",
-              "start": 94.955,
-              "end": 95.278,
-              "score": 0.986
-            },
-            {
-              "word": "bringing",
-              "start": 95.318,
-              "end": 95.561,
-              "score": 0.885
-            },
-            {
-              "word": "Meghan's",
-              "start": 95.641,
-              "end": 95.944,
-              "score": 0.745
-            },
-            {
-              "word": "situation",
-              "start": 95.965,
-              "end": 96.49,
-              "score": 0.875
-            },
-            {
-              "word": "into",
-              "start": 96.53,
-              "end": 96.712,
-              "score": 0.93
-            },
-            {
-              "word": "his",
-              "start": 96.773,
-              "end": 96.874,
-              "score": 0.827
-            },
-            {
-              "word": "stand-up,",
-              "start": 96.914,
-              "end": 97.52,
-              "score": 0.976
-            }
-          ]
-        },
-        {
-          "start": 97.5,
-          "end": 101.5,
-          "text": " using his platform to joke about the absurdity of royal drama in modern times."
-        },
-        {
-          "start": 101.5,
-          "end": 106.5,
-          "text": " Proving that, no matter the perspective, Meghan Markle remains a cultural lightning rod",
-          "words": [
-            {
-              "word": "Proving",
-              "start": 101.5,
-              "end": 102.327,
-              "score": 0.901
-            },
-            {
-              "word": "that,",
-              "start": 102.387,
-              "end": 102.569,
-              "score": 0.95
-            },
-            {
-              "word": "no",
-              "start": 102.649,
-              "end": 102.77,
-              "score": 0.862
-            },
-            {
-              "word": "matter",
-              "start": 102.81,
-              "end": 103.073,
-              "score": 0.958
-            },
-            {
-              "word": "the",
-              "start": 103.113,
-              "end": 103.194,
-              "score": 0.5
-            },
-            {
-              "word": "perspective,",
-              "start": 103.254,
-              "end": 103.819,
-              "score": 0.891
-            },
-            {
-              "word": "Meghan",
-              "start": 104.202,
-              "end": 104.484,
-              "score": 0.772
-            },
-            {
-              "word": "Markle",
-              "start": 104.524,
-              "end": 104.847,
-              "score": 0.776
-            },
-            {
-              "word": "remains",
-              "start": 104.887,
-              "end": 105.169,
-              "score": 0.829
-            },
-            {
-              "word": "a",
-              "start": 105.21,
-              "end": 105.29,
-              "score": 0.64
-            },
-            {
-              "word": "cultural",
-              "start": 105.391,
-              "end": 105.774,
-              "score": 0.989
-            },
-            {
-              "word": "lightning",
-              "start": 105.835,
-              "end": 106.137,
-              "score": 0.806
-            },
-            {
-              "word": "rod",
-              "start": 106.198,
-              "end": 106.52,
-              "score": 0.741
-            }
-          ]
-        },
-        {
-          "start": 106.5,
-          "end": 109.3,
-          "text": " cross-comedy, media, and society at large."
+          "start": 103.96000000000001,
+          "end": 108.94,
+          "text": "Her story is still unfolding, and the world is still watching.",
+          "original_transcription": "Her story is still unfolding, and the world is still watching.",
+          "was_corrected": false
         }
       ],
       "language": "en",
       "language_probability": 1,
+      "notion_script": {
+        "page_id": "21302cd2-c142-8018-bfbb-f16ac66a1190",
+        "script_length": 1690,
+        "alignment_applied": true
+      },
       "metadata": {
         "file_path": "/Users/superman/Desktop/Celebrity Voice Overs/Test.wav",
         "file_name": "Test.wav",
-        "processing_time_seconds": 8.888178825378418,
-        "timestamp": "2025-06-15T18:35:48.599154",
+        "processing_time_seconds": 8.219013929367065,
+        "timestamp": "2025-06-15T23:33:44.027415",
         "channel_name": "Meghan Markle",
         "keywords_used": 98,
         "dry_run_mode": {
@@ -1235,12 +1111,12 @@
         },
         "notion_integration": {
           "page_id": "21302cd2-c142-8018-bfbb-f16ac66a1190",
-          "script_aligned": false
+          "script_aligned": true
         },
         "models_used": {
           "faster_whisper": "base",
           "whisperx_alignment": "en",
-          "notion_script_integration": "disabled"
+          "notion_script_integration": "enabled"
         }
       }
     }
