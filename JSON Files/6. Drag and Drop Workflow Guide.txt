@@ -26,53 +26,89 @@ Your video clips have been processed and saved to:
 📋 EXACT FILE ORDER FOR YOUR TIMELINE:
 --------------------------------------------------
 001. 🎥 [00:00.00] Beyonce (Original) (5.00s)
-     📄 File: 001_Beyonce_44_original.mp4
-002. 🎥 [00:05.00] Beyonce (Original) (1.88s)
-     📄 File: 002_Beyonce_11_original.mp4
-003. 🎥 [00:06.87] Meghan Markle (Original) (2.24s)
-     📄 File: 003_Meghan_Markle_zcxzxzc_original.mp4
-004. 🎥 [00:09.12] Meghan Markle (Original) (5.00s)
-     📄 File: 004_Meghan_Markle_6_original.mp4
-005. 🎥 [00:14.12] Meghan Markle (Original) (0.35s)
-     📄 File: 005_Meghan_Markle_sfsdfsd_original.mp4
-006. 🎥 [00:14.46] Beyonce (Original) (5.00s)
-     📄 File: 006_Beyonce_22_composite.mp4
-007. 🖼️ [00:19.46] Beyonce (Ken Burns) (5.00s)
-     📄 File: 007_Beyonce_clip.mp4
-008. 🎥 [00:24.46] Beyonce (Original) (2.41s)
-     📄 File: 008_Beyonce_15_original.mp4
-009. 🖼️ [00:26.87] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 009_Meghan_Markle_clip.mp4
-010. 🎥 [00:31.87] Meghan Markle (Original) (5.00s)
-     📄 File: 010_Meghan_Markle_sadsad_chf3_rhea1_original.mp4
-011. 🎥 [00:36.87] Meghan Markle (Original) (5.00s)
-     📄 File: 011_Meghan_Markle_zxzzx_original.mp4
-012. 🎥 [00:41.87] Meghan Markle (Original) (0.71s)
-     📄 File: 012_Meghan_Markle_32_composite.mp4
-013. 🎥 [00:42.58] Oprah (Original) (1.73s)
-     📄 File: 013_Oprah_1_original.mp4
-014. 🖼️ [00:44.32] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 014_Meghan_Markle_clip.mp4
-015. 🎥 [00:49.32] Meghan Markle (Original) (5.00s)
-     📄 File: 015_Meghan_Markle_sfdsfds_original.mp4
-016. 🎥 [00:54.32] Meghan Markle (Original) (5.00s)
-     📄 File: 016_Meghan_Markle_1_original.mp4
-017. 🎥 [00:59.32] Meghan Markle (Original) (2.67s)
-     📄 File: 017_Meghan_Markle_zxzx_chf3_rhea1_original.mp4
-018. 🖼️ [01:01.98] Meghan Markle (Ken Burns) (0.89s)
-     📄 File: 018_Meghan_Markle_clip.mp4
-019. 🎥 [01:02.87] Prince Harry (Original) (5.00s)
-     📄 File: 019_Prince_Harry_2_original.mp4
-020. 🎥 [01:07.87] Prince Harry (Original) (0.01s)
-     📄 File: 020_Prince_Harry_5_original.mp4
-021. 🎥 [01:07.88] Beyonce (Original) (3.12s)
-     📄 File: 021_Beyonce_41_original.mp4
-022. 🎥 [01:10.99] Oprah (Original) (5.00s)
-     📄 File: 022_Oprah_26_original.mp4
+     📄 File: 001_Beyonce_28_original.mp4
+002. 🎥 [00:05.00] Beyonce (Original) (3.64s)
+     📄 File: 002_Beyonce_24_original.mp4
+003. 🎥 [00:08.63] Meghan Markle (Original) (5.00s)
+     📄 File: 003_Meghan_Markle_zxcxzxz_original.mp4
+004. 🎥 [00:13.63] Meghan Markle (Original) (0.71s)
+     📄 File: 004_Meghan_Markle_1_1_chf3_rhea1_original.mp4
+005. 🎥 [00:14.34] Meghan Markle (Original) (4.12s)
+     📄 File: 005_Meghan_Markle_1_original.mp4
+006. 🎥 [00:18.46] Beyonce (Original) (2.72s)
+     📄 File: 006_Beyonce_41_composite.mp4
+007. 🖼️ [00:21.18] Meghan Markle (Ken Burns) (5.00s)
+     📄 File: 007_Meghan_Markle_clip.mp4
+008. 🎥 [00:26.18] Meghan Markle (Original) (0.89s)
+     📄 File: 008_Meghan_Markle_111_original.mp4
+009. 🎥 [00:27.07] Meghan Markle (Original) (5.00s)
+     📄 File: 009_Meghan_Markle_12321_1_chf3_rhea1_original.mp4
+010. 🎥 [00:32.07] Meghan Markle (Original) (5.00s)
+     📄 File: 010_Meghan_Markle_21_original.mp4
+011. 🖼️ [00:37.07] Meghan Markle (Ken Burns) (1.96s)
+     📄 File: 011_Meghan_Markle_clip.mp4
+012. 🎥 [00:39.03] Meghan Markle (Original) (5.00s)
+     📄 File: 012_Meghan_Markle_4_chf3_rhea1_composite.mp4
+013. 🎥 [00:44.03] Meghan Markle (Original) (5.00s)
+     📄 File: 013_Meghan_Markle_sadsad_chf3_rhea1_original.mp4
+014. 🎥 [00:49.03] Meghan Markle (Original) (0.26s)
+     📄 File: 014_Meghan_Markle_sdsdf_original.mp4
+015. 🎥 [00:49.29] Prince William (Original) (0.55s)
+     📄 File: 015_Prince_William_1_original.mp4
+016. 🎥 [00:49.84] Kate Middleton (Original) (5.00s)
+     📄 File: 016_Kate_Middleton_14_original.mp4
+017. 🎥 [00:54.84] Kate Middleton (Original) (1.59s)
+     📄 File: 017_Kate_Middleton_1_original.mp4
+018. 🎥 [00:56.43] Prince Harry (Original) (0.10s)
+     📄 File: 018_Prince_Harry_clip_14_composite.mp4
+019. 🖼️ [00:56.54] Meghan Markle (Ken Burns) (4.84s)
+     📄 File: 019_Meghan_Markle_clip.mp4
+020. 🎥 [01:01.37] Oprah (Original) (2.54s)
+     📄 File: 020_Oprah_27_original.mp4
+021. 🎥 [01:03.92] Meghan Markle (Original) (3.85s)
+     📄 File: 021_Meghan_Markle_28_original.mp4
+022. 🎥 [01:07.77] Oprah (Original) (2.84s)
+     📄 File: 022_Oprah_23_original.mp4
+023. 🎥 [01:10.61] Meghan Markle (Original) (5.00s)
+     📄 File: 023_Meghan_Markle_clip_12_original.mp4
+024. 🎥 [01:15.61] Meghan Markle (Original) (3.61s)
+     📄 File: 024_Meghan_Markle_31_composite.mp4
+025. 🖼️ [01:19.21] Meghan Markle (Ken Burns) (5.00s)
+     📄 File: 025_Meghan_Markle_clip.mp4
+026. 🎥 [01:24.21] Meghan Markle (Original) (3.21s)
+     📄 File: 026_Meghan_Markle_cvcxvx_original.mp4
+027. 🎥 [01:27.43] Prince William (Original) (0.70s)
+     📄 File: 027_Prince_William_2_original.mp4
+028. 🎥 [01:28.13] Kate Middleton (Original) (5.00s)
+     📄 File: 028_Kate_Middleton_10_original.mp4
+029. 🖼️ [01:33.13] Kate Middleton (Ken Burns) (2.94s)
+     📄 File: 029_Kate_Middleton_clip.mp4
+030. 🎥 [01:36.07] Prince William (Original) (4.40s)
+     📄 File: 030_Prince_William_5_composite.mp4
+031. 🎥 [01:40.48] Kate Middleton (Original) (5.00s)
+     📄 File: 031_Kate_Middleton_7_original.mp4
+032. 🎥 [01:45.48] Kate Middleton (Original) (3.00s)
+     📄 File: 032_Kate_Middleton_8_original.mp4
+033. 🎥 [01:48.48] Meghan Markle (Original) (5.00s)
+     📄 File: 033_Meghan_Markle_dgfdd_original.mp4
+034. 🎥 [01:53.48] Meghan Markle (Original) (5.00s)
+     📄 File: 034_Meghan_Markle_27_original.mp4
+035. 🖼️ [01:58.48] Meghan Markle (Ken Burns) (1.20s)
+     📄 File: 035_Meghan_Markle_clip.mp4
+036. 🖼️ [01:59.68] Beyonce (Ken Burns) (0.62s)
+     📄 File: 036_Beyonce_clip.mp4
+037. 🎥 [02:00.30] Oprah (Original) (3.55s)
+     📄 File: 037_Oprah_12_original.mp4
+038. 🎥 [02:03.85] Meghan Markle (Original) (2.55s)
+     📄 File: 038_Meghan_Markle_zccvcx_original.mp4
+039. 🎥 [02:06.40] Kate Middleton (Original) (3.34s)
+     📄 File: 039_Kate_Middleton_16_original.mp4
+040. 🎥 [02:09.74] Prince William (Original) (5.00s)
+     📄 File: 040_Prince_William_8_original.mp4
 
 📊 SUMMARY:
-• Total Clips: 22
-• Total Duration: 76.00 seconds (1.3 minutes)
+• Total Clips: 40
+• Total Duration: 134.74 seconds (2.2 minutes)
 • Output Location: /Users/superman/Desktop/Clips Assembled/Meghan Test
 • File Naming: 001_Celebrity_filename_effect.mp4
 
