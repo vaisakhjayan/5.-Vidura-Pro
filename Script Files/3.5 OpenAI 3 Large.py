@@ -7,7 +7,7 @@ import re
 
 # Set up OpenAI API key
 # Note: For security, consider using environment variables instead of hardcoding
-openai.api_key = "sk-QpcXPtd6-aW4Bq2O5oNpWMUEL2ELDAoQPVUEfagGrbT3BlbkFJEDecQyTi9cCi6L0b-tOQnSSiThRWYtJ8P1BBtJpXAA"
+openai.api_key = "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"
 
 # Alternative secure method (uncomment and use environment variable):
 # openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -34,19 +34,39 @@ class VideoClipMatcher:
             print(f"Error reading selected video file: {e}")
             return {}
     
-    def read_transcription(self, file_path: str = "JSON Files/2. Transcriptions.json") -> List[Dict]:
-        """Read and extract transcription segments."""
+    def read_transcription(self, file_path: str = "Transcription Base.txt") -> List[Dict]:
+        """Read and extract transcription segments from text file."""
         try:
-            with open(file_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                
-            # Extract segments from transcription
-            transcriptions = data.get('transcriptions', {})
             segments = []
-            
-            for file_key, file_data in transcriptions.items():
-                file_segments = file_data.get('segments', [])
-                segments.extend(file_segments)
+            with open(file_path, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+                
+            for line in lines:
+                # Skip empty lines
+                if not line.strip():
+                    continue
+                    
+                # Extract timestamp and text
+                if '[' not in line or ']' not in line:
+                    continue
+                    
+                timestamp = line[line.find('[')+1:line.find(']')]
+                text = line[line.find(']')+1:].strip()
+                
+                # Convert timestamp to seconds
+                try:
+                    h, m, s = map(int, timestamp.split(':'))
+                    start_time = h * 3600 + m * 60 + s
+                    # Assume each segment is roughly 3 seconds long for end time
+                    end_time = start_time + 3
+                except:
+                    continue
+                
+                segments.append({
+                    'text': text,
+                    'start': start_time,
+                    'end': end_time
+                })
             
             return segments
         except Exception as e:

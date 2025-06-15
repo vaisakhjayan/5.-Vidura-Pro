@@ -1,8 +1,8 @@
 {
     "video_info": {
-        "title": "Test",
+        "title": "Meghan Markle BUSTED After Huge Lies Exposed In Her New Tell-All Book",
         "output_file": "final_render.mp4",
-        "generated_at": "2025-06-15 19:32:59"
+        "generated_at": "2025-06-15 20:01:41"
     },
     "segments": [
         {
@@ -11,10 +11,10 @@
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "001_Meghan_Markle_21_original.mp4"
+                "file": "001_Meghan_Markle_1234_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -26,14 +26,14 @@
         },
         {
             "start_time": 5.0,
-            "end_time": 7.0,
+            "end_time": 10.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 2.0,
-                "file": "002_Meghan_Markle_31_original.mp4"
+                "duration": 5.0,
+                "file": "002_Meghan_Markle_sfsdfsd_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -44,15 +44,15 @@
             ]
         },
         {
-            "start_time": 7.0,
-            "end_time": 10.0,
+            "start_time": 10.0,
+            "end_time": 15.0,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 3.0,
-                "file": "003_Prince_Harry_2_composite.mp4"
+                "duration": 5.0,
+                "file": "003_Meghan_Markle_32_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -63,53 +63,53 @@
             ]
         },
         {
-            "start_time": 10.0,
-            "end_time": 15.0,
+            "start_time": 15.0,
+            "end_time": 20.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "004_Meghan_Markle_fghgvcb_original.mp4"
+                "file": "004_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 4,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 15.0,
-            "end_time": 18.0,
+            "start_time": 20.0,
+            "end_time": 25.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 3.0,
-                "file": "005_Meghan_Markle_clip.mp4"
+                "duration": 5.0,
+                "file": "005_Meghan_Markle_123_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 5,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 18.0,
-            "end_time": 22.0,
+            "start_time": 25.0,
+            "end_time": 30.0,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 4.0,
-                "file": "006_Oprah_6_composite.mp4"
+                "duration": 5.0,
+                "file": "006_Meghan_Markle_sdf_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -120,15 +120,15 @@
             ]
         },
         {
-            "start_time": 22.0,
-            "end_time": 24.0,
+            "start_time": 30.0,
+            "end_time": 35.0,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 2.0,
-                "file": "007_Oprah_23_original.mp4"
+                "duration": 5.0,
+                "file": "007_Meghan_Markle_clip_13_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -139,34 +139,34 @@
             ]
         },
         {
-            "start_time": 24.0,
-            "end_time": 29.0,
+            "start_time": 35.0,
+            "end_time": 40.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "008_Meghan_Markle_asd_chf3_rhea1_original.mp4"
+                "file": "008_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 8,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 29.0,
-            "end_time": 34.0,
+            "start_time": 40.0,
+            "end_time": 42.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 5.0,
-                "file": "009_Meghan_Markle_xcvcxvcx_composite.mp4"
+                "duration": 2.0,
+                "file": "009_Meghan_Markle_8_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -177,15 +177,15 @@
             ]
         },
         {
-            "start_time": 34.0,
-            "end_time": 36.0,
+            "start_time": 42.0,
+            "end_time": 47.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 2.0,
-                "file": "010_Meghan_Markle_xcx_original.mp4"
+                "duration": 5.0,
+                "file": "010_Meghan_Markle_28_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -196,15 +196,15 @@
             ]
         },
         {
-            "start_time": 36.0,
-            "end_time": 41.0,
+            "start_time": 47.0,
+            "end_time": 52.0,
             "type": "celebrity_overlay",
-            "celebrity": "South Park",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "011_South_Park_15_original.mp4"
+                "file": "011_Meghan_Markle_dgfdd_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -215,34 +215,34 @@
             ]
         },
         {
-            "start_time": 41.0,
-            "end_time": 43.0,
+            "start_time": 52.0,
+            "end_time": 57.0,
             "type": "celebrity_overlay",
-            "celebrity": "South Park",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 2.0,
-                "file": "012_South_Park_7_composite.mp4"
+                "duration": 5.0,
+                "file": "012_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 12,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 43.0,
-            "end_time": 48.0,
+            "start_time": 57.0,
+            "end_time": 62.0,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "013_Prince_Harry_8_original.mp4"
+                "file": "013_Meghan_Markle_vc_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -253,15 +253,15 @@
             ]
         },
         {
-            "start_time": 48.0,
-            "end_time": 53.0,
+            "start_time": 62.0,
+            "end_time": 67.0,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "014_Prince_Harry_clip_14_original.mp4"
+                "file": "014_Meghan_Markle_xcx_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -272,53 +272,53 @@
             ]
         },
         {
-            "start_time": 53.0,
-            "end_time": 55.0,
+            "start_time": 67.0,
+            "end_time": 72.0,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 2.0,
-                "file": "015_Prince_Harry_clip.mp4"
+                "duration": 5.0,
+                "file": "015_Meghan_Markle_asdasdas_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 15,
             "effects_applied": [
-                "ken_burns"
+                "composite"
             ]
         },
         {
-            "start_time": 55.0,
-            "end_time": 57.0,
+            "start_time": 72.0,
+            "end_time": 77.0,
             "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 2.0,
-                "file": "016_Beyonce_48_original.mp4"
+                "duration": 5.0,
+                "file": "016_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 16,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 57.0,
-            "end_time": 62.0,
+            "start_time": 77.0,
+            "end_time": 82.0,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "017_Oprah_2_original.mp4"
+                "file": "017_Meghan_Markle_xc_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -329,72 +329,72 @@
             ]
         },
         {
-            "start_time": 62.0,
-            "end_time": 65.0,
+            "start_time": 82.0,
+            "end_time": 87.0,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 3.0,
-                "file": "018_Oprah_clip.mp4"
+                "duration": 5.0,
+                "file": "018_Meghan_Markle_1_1_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 18,
             "effects_applied": [
-                "ken_burns"
+                "composite"
             ]
         },
         {
-            "start_time": 65.0,
-            "end_time": 69.0,
+            "start_time": 87.0,
+            "end_time": 89.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 4.0,
-                "file": "019_Meghan_Markle_clip.mp4"
+                "duration": 2.0,
+                "file": "019_Meghan_Markle_zccvcx_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 19,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 69.0,
-            "end_time": 70.0,
+            "start_time": 89.0,
+            "end_time": 94.0,
             "type": "celebrity_overlay",
-            "celebrity": "Piers Morgan",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 1.0,
-                "file": "020_Piers_Morgan_3_original.mp4"
+                "duration": 5.0,
+                "file": "020_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 20,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 70.0,
-            "end_time": 75.0,
+            "start_time": 94.0,
+            "end_time": 99.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "021_Meghan_Markle_30_composite.mp4"
+                "file": "021_Meghan_Markle_sadsad_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -405,15 +405,15 @@
             ]
         },
         {
-            "start_time": 75.0,
-            "end_time": 78.0,
+            "start_time": 99.0,
+            "end_time": 104.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 3.0,
-                "file": "022_Meghan_Markle_8_original.mp4"
+                "duration": 5.0,
+                "file": "022_Meghan_Markle_24_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -424,15 +424,15 @@
             ]
         },
         {
-            "start_time": 78.0,
-            "end_time": 83.0,
+            "start_time": 104.0,
+            "end_time": 109.0,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "023_Oprah_28_original.mp4"
+                "file": "023_Meghan_Markle_111_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -443,34 +443,34 @@
             ]
         },
         {
-            "start_time": 83.0,
-            "end_time": 88.0,
+            "start_time": 109.0,
+            "end_time": 114.0,
             "type": "celebrity_overlay",
-            "celebrity": "Martha Stewart",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "024_Martha_Stewart_clip_02_04_Kelly Clarkson Can't Believe Martha Stewart Has Never Ordered Food Delivery_214102_composite.mp4"
+                "file": "024_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 24,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 88.0,
-            "end_time": 93.0,
+            "start_time": 114.0,
+            "end_time": 119.0,
             "type": "celebrity_overlay",
-            "celebrity": "Martha Stewart",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "025_Martha_Stewart_clip_12_02_Martha Stewart Spills on Her Kardashian House Tour and Her Crush on Brad Pitt _ The Tonight Show_215010_original.mp4"
+                "file": "025_Meghan_Markle_xcvcxvcx_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -481,15 +481,15 @@
             ]
         },
         {
-            "start_time": 93.0,
-            "end_time": 95.0,
+            "start_time": 119.0,
+            "end_time": 124.0,
             "type": "celebrity_overlay",
-            "celebrity": "Kevin Hart",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 2.0,
-                "file": "026_Kevin_Hart_1_original.mp4"
+                "duration": 5.0,
+                "file": "026_Meghan_Markle_zvz_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -500,15 +500,15 @@
             ]
         },
         {
-            "start_time": 95.0,
-            "end_time": 100.0,
+            "start_time": 124.0,
+            "end_time": 129.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "027_Meghan_Markle_4_composite.mp4"
+                "file": "027_Meghan_Markle_31_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -519,14 +519,14 @@
             ]
         },
         {
-            "start_time": 100.0,
-            "end_time": 104.0,
+            "start_time": 129.0,
+            "end_time": 134.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
-                "duration": 4.0,
+                "duration": 5.0,
                 "file": "028_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
@@ -538,20 +538,2167 @@
             ]
         },
         {
-            "start_time": 104.0,
-            "end_time": 109.0,
+            "start_time": 134.0,
+            "end_time": 139.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
                 "type": "video",
                 "duration": 5.0,
-                "file": "029_Meghan_Markle_zvz_original.mp4"
+                "file": "029_Meghan_Markle_sdsdf_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 29,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 139.0,
+            "end_time": 144.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "030_Meghan_Markle_4_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 30,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 144.0,
+            "end_time": 149.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "031_Meghan_Markle_12321_1_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 31,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 149.0,
+            "end_time": 154.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "032_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 32,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 154.0,
+            "end_time": 157.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "033_Meghan_Markle_cvcxvx_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 33,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 157.0,
+            "end_time": 162.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "034_Meghan_Markle_zxzzx_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 34,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 162.0,
+            "end_time": 167.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "035_Meghan_Markle_4_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 35,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 167.0,
+            "end_time": 172.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "036_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 36,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 172.0,
+            "end_time": 174.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 2.0,
+                "file": "037_Meghan_Markle_5_1_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 37,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 174.0,
+            "end_time": 179.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "038_Meghan_Markle_25_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 38,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 179.0,
+            "end_time": 184.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "039_Meghan_Markle_27_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 39,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 184.0,
+            "end_time": 189.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "040_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 40,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 189.0,
+            "end_time": 191.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 2.0,
+                "file": "041_Meghan_Markle_clip_12_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 41,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 191.0,
+            "end_time": 196.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "042_Meghan_Markle_30_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 42,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 196.0,
+            "end_time": 201.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "043_Meghan_Markle_fghgvcb_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 43,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 201.0,
+            "end_time": 206.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "044_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 44,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 206.0,
+            "end_time": 211.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "045_Meghan_Markle_zcxzxzc_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 45,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 211.0,
+            "end_time": 216.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "046_Meghan_Markle_10_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 46,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 216.0,
+            "end_time": 221.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "047_Meghan_Markle_21_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 47,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 221.0,
+            "end_time": 226.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "048_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 48,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 226.0,
+            "end_time": 231.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "049_Meghan_Markle_sfdsfds_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 49,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 231.0,
+            "end_time": 236.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "050_Meghan_Markle_zcxzcz_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 50,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 236.0,
+            "end_time": 241.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "051_Meghan_Markle_sdfds_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 51,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 241.0,
+            "end_time": 246.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "052_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 52,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 246.0,
+            "end_time": 251.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "053_Meghan_Markle_zxcxzxz_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 53,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 251.0,
+            "end_time": 256.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "054_Meghan_Markle_1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 54,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 256.0,
+            "end_time": 261.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "055_Meghan_Markle_zxzx_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 55,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "056_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 56,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 264.0,
+            "end_time": 269.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "057_Meghan_Markle_asd_chf3_rhea1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 57,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 269.0,
+            "end_time": 274.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "058_Meghan_Markle_11_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 58,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 274.0,
+            "end_time": 278.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 4.0,
+                "file": "059_Meghan_Markle_sfdsfds_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 59,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 278.0,
+            "end_time": 283.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "060_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 60,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 283.0,
+            "end_time": 288.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "061_Meghan_Markle_25_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 61,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 288.0,
+            "end_time": 293.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "062_Meghan_Markle_28_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 62,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 293.0,
+            "end_time": 298.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "063_Meghan_Markle_30_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 63,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 298.0,
+            "end_time": 303.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "064_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 64,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 303.0,
+            "end_time": 308.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "065_Meghan_Markle_8_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 65,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 308.0,
+            "end_time": 313.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "066_Meghan_Markle_4_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 66,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 313.0,
+            "end_time": 318.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "067_Meghan_Markle_10_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 67,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 318.0,
+            "end_time": 321.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "068_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 68,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 321.0,
+            "end_time": 326.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "069_Prince_Harry_clip_1 copy_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 69,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 326.0,
+            "end_time": 331.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "070_Prince_Harry_4_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 70,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 331.0,
+            "end_time": 332.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 1.0,
+                "file": "071_Prince_Harry_clip_14_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 71,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 332.0,
+            "end_time": 337.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "072_Meghan_Markle_cvcxvx_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 72,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 337.0,
+            "end_time": 341.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 4.0,
+                "file": "073_Meghan_Markle_vc_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 73,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 341.0,
+            "end_time": 346.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "074_Prince_Harry_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 74,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 346.0,
+            "end_time": 347.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 1.0,
+                "file": "075_Prince_Harry_clip_4 copy_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 75,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 347.0,
+            "end_time": 352.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "076_Meghan_Markle_fghgvcb_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 76,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 352.0,
+            "end_time": 357.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "077_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 77,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 357.0,
+            "end_time": 358.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 1.0,
+                "file": "078_Meghan_Markle_24_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 78,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 358.0,
+            "end_time": 363.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "079_Prince_Harry_16_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 79,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 363.0,
+            "end_time": 368.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "080_Prince_Harry_8_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 80,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 368.0,
+            "end_time": 371.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "081_Prince_Harry_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 81,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 371.0,
+            "end_time": 376.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "082_Prince_Harry_clip_9_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 82,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 376.0,
+            "end_time": 381.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "083_Prince_Harry_3_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 83,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 381.0,
+            "end_time": 386.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "084_Prince_Harry_2_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 84,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 386.0,
+            "end_time": 389.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "085_Prince_Harry_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 85,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 389.0,
+            "end_time": 394.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "086_Meghan_Markle_123_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 86,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 394.0,
+            "end_time": 399.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "087_Meghan_Markle_asdasdas_chf3_rhea1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 87,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "088_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 88,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 402.0,
+            "end_time": 407.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "089_Prince_Harry_11_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 89,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 407.0,
+            "end_time": 412.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "090_Prince_Harry_1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 90,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 412.0,
+            "end_time": 417.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "091_Prince_Harry_clip_5_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 91,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 417.0,
+            "end_time": 419.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 2.0,
+                "file": "092_Prince_Harry_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 92,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 419.0,
+            "end_time": 422.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "093_Meghan_Markle_111_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 93,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 422.0,
+            "end_time": 427.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "094_Prince_Harry_clip_3_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 94,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 427.0,
+            "end_time": 432.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "095_Prince_Harry_clip_16_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 95,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 432.0,
+            "end_time": 436.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 4.0,
+                "file": "096_Prince_Harry_9_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 96,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 436.0,
+            "end_time": 441.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "097_Meghan_Markle_zccvcx_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 97,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 441.0,
+            "end_time": 446.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "098_Meghan_Markle_32_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 98,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 446.0,
+            "end_time": 451.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "099_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 99,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 451.0,
+            "end_time": 452.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 1.0,
+                "file": "100_Meghan_Markle_27_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 100,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 452.0,
+            "end_time": 457.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "101_Prince_Harry_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 101,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 457.0,
+            "end_time": 462.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "102_Prince_Harry_13_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 102,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 462.0,
+            "end_time": 467.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "103_Prince_Harry_12_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 103,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 467.0,
+            "end_time": 472.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "104_Prince_Harry_clip_2 copy_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 104,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 472.0,
+            "end_time": 477.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "105_Prince_Harry_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 105,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "106_Prince_Harry_clip_6 copy_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 106,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 480.0,
+            "end_time": 485.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Oprah",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "107_Oprah_21_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 107,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 485.0,
+            "end_time": 488.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Oprah",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "108_Oprah_19_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 108,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 488.0,
+            "end_time": 493.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "109_Prince_Harry_7_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 109,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 493.0,
+            "end_time": 498.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "110_Prince_Harry_10_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 110,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 498.0,
+            "end_time": 503.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "111_Prince_Harry_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 111,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 503.0,
+            "end_time": 508.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "112_Prince_Harry_clip_13_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 112,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 508.0,
+            "end_time": 513.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "113_Prince_Harry_15_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 113,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 513.0,
+            "end_time": 518.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "114_Prince_Harry_5_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 114,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 518.0,
+            "end_time": 522.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 4.0,
+                "file": "115_Prince_Harry_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 115,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 522.0,
+            "end_time": 527.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "116_Meghan_Markle_sdfds_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 116,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 527.0,
+            "end_time": 528.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 1.0,
+                "file": "117_Meghan_Markle_sdf_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 117,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 528.0,
+            "end_time": 533.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince William",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "118_Prince_William_5_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 118,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 533.0,
+            "end_time": 538.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince William",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "119_Prince_William_3_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 119,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 538.0,
+            "end_time": 540.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince William",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 2.0,
+                "file": "120_Prince_William_1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 120,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 540.0,
+            "end_time": 545.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince William",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "121_Prince_William_7_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 121,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 545.0,
+            "end_time": 550.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince William",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "122_Prince_William_6_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 122,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 550.0,
+            "end_time": 555.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince William",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "123_Prince_William_2_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 123,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Netflix",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "124_Netflix_1 2_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 124,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 558.0,
+            "end_time": 563.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "125_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 125,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 563.0,
+            "end_time": 568.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "126_Meghan_Markle_1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 126,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 568.0,
+            "end_time": 573.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "127_Meghan_Markle_21_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 127,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 573.0,
+            "end_time": 578.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "128_Meghan_Markle_zxzzx_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 128,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 578.0,
+            "end_time": 583.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "129_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 129,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 583.0,
+            "end_time": 588.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "130_Meghan_Markle_clip_12_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 130,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 588.0,
+            "end_time": 591.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "131_Meghan_Markle_12321_1_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 131,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 591.0,
+            "end_time": 596.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "132_Meghan_Markle_xc_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 132,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 596.0,
+            "end_time": 598.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 2.0,
+                "file": "133_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 133,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 598.0,
+            "end_time": 603.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "134_Prince_Harry_clip_2 copy_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 134,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 603.0,
+            "end_time": 608.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "135_Prince_Harry_clip_1 copy_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 135,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 608.0,
+            "end_time": 613.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "136_Prince_Harry_4_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 136,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 613.0,
+            "end_time": 615.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 2.0,
+                "file": "137_Prince_Harry_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 137,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 615.0,
+            "end_time": 620.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "138_Meghan_Markle_clip_13_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 138,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 620.0,
+            "end_time": 625.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "139_Meghan_Markle_1_1_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 139,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 625.0,
+            "end_time": 628.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "140_Meghan_Markle_5_1_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 140,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 628.0,
+            "end_time": 631.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 3.0,
+                "file": "141_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 141,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 631.0,
+            "end_time": 636.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Markle Busted After Huge Lies Exposed In Her New Tell-All Book",
+                "type": "video",
+                "duration": 5.0,
+                "file": "142_Prince_Harry_15_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 142,
             "effects_applied": [
                 "trimmed"
             ]

@@ -1,0 +1,48 @@
+================================================================================
+INTELLIGENT VIDEO CLIP SUGGESTIONS
+================================================================================
+Channel: Meghan Markle
+Video: Meghan Markle BUSTED After Huge Lies Exposed In Her New Tell-All Book
+Total Matches Found: 3
+================================================================================
+
+MATCH #1
+----------------------------------------
+Timestamp: 172.0s - 182.0s
+Transcription Section:
+"Quickly, and then there's the wedding footage, a now viral clip of Meghan allegedly bowing her head to Princess Charlotte sparked another internet frenzy."
+
+Suggested Clip: Celebrities At Meghan and Harry's Wedding
+Folder: Celebrities At Meghan and Harry's Wedding
+Description: Celebrities at Meghan and Harry's wedding
+Similarity Score: 0.680
+
+================================================================================
+
+MATCH #2
+----------------------------------------
+Timestamp: 358.0s - 368.0s
+Transcription Section:
+"Harry admitted to speaking harshly to Meghan during an argument. She responded by saying,"
+
+Suggested Clip: Meghan Markle Giving Speech
+Folder: Meghan Markle Giving Speech and Inspriing Everyone
+Description: Meghan Markle giving a speech and inspiring everyone
+Similarity Score: 0.630
+
+================================================================================
+
+MATCH #3
+----------------------------------------
+Timestamp: 478.0s - 488.0s
+Transcription Section:
+"And if she's done it once, on Oprah, on Netflix, on podcasts, she can do it again. This time with more venom and fewer constraints."
+
+Suggested Clip: Meghan Markle Oprah Interview
+Folder: Meghan Markle Oprah Interview
+Description: Meghan Markle Oprah Interview
+Similarity Score: 0.624
+
+================================================================================
+
+Average Similarity Score: 0.645

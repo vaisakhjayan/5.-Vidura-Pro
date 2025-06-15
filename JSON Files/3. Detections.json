@@ -1,9 +1,9 @@
 {
     "video": {
-        "title": "Test",
+        "title": "Meghan Markle BUSTED After Huge Lies Exposed In Her New Tell-All Book",
         "channel": "Meghan Markle",
-        "page_id": "21302cd2-c142-8018-bfbb-f16ac66a1190",
-        "selected_at": "2025-06-15T18:34:48.414069"
+        "page_id": "21302cd2-c142-8041-89d2-dd80e1130913",
+        "selected_at": "2025-06-15T19:57:16.478407"
     },
     "detections": [
         {
@@ -17,176 +17,343 @@
         },
         {
             "type": "main",
-            "keyword": "Prince Harry",
-            "matched_text": "prince harry",
-            "timestamp": 7.0,
-            "formatted_timestamp": "7.00",
-            "segment_start": 7.0,
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 42.0,
+            "formatted_timestamp": "42.00",
+            "segment_start": 42.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 89.0,
+            "formatted_timestamp": "1:29.00",
+            "segment_start": 89.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 114.0,
+            "formatted_timestamp": "1:54.00",
+            "segment_start": 114.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 144.0,
+            "formatted_timestamp": "2:24.00",
+            "segment_start": 144.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 157.0,
+            "formatted_timestamp": "2:37.00",
+            "segment_start": 157.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 174.0,
+            "formatted_timestamp": "2:54.00",
+            "segment_start": 174.0,
             "word_level_detection": false
         },
         {
             "type": "main",
             "keyword": "Meghan Markle",
             "matched_text": "Meghan's",
-            "timestamp": 10.0,
-            "formatted_timestamp": "10.00",
-            "segment_start": 10.0,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Oprah",
-            "matched_text": "oprah winfrey",
-            "timestamp": 18.0,
-            "formatted_timestamp": "18.00",
-            "segment_start": 18.0,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Oprah",
-            "matched_text": "Oprah's",
-            "timestamp": 22.0,
-            "formatted_timestamp": "22.00",
-            "segment_start": 22.0,
+            "timestamp": 191.0,
+            "formatted_timestamp": "3:11.00",
+            "segment_start": 191.0,
             "word_level_detection": false
         },
         {
             "type": "main",
             "keyword": "Meghan Markle",
             "matched_text": "Meghan",
-            "timestamp": 24.0,
-            "formatted_timestamp": "24.00",
-            "segment_start": 24.0,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "South Park",
-            "matched_text": "South Park",
-            "timestamp": 36.0,
-            "formatted_timestamp": "36.00",
-            "segment_start": 36.0,
+            "timestamp": 221.0,
+            "formatted_timestamp": "3:41.00",
+            "segment_start": 221.0,
             "word_level_detection": false
         },
         {
             "type": "main",
             "keyword": "Meghan Markle",
             "matched_text": "Meghan",
-            "timestamp": 43.0,
-            "formatted_timestamp": "43.00",
-            "segment_start": 43.0,
+            "timestamp": 264.0,
+            "formatted_timestamp": "4:24.00",
+            "segment_start": 264.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 278.0,
+            "formatted_timestamp": "4:38.00",
+            "segment_start": 278.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "prince harry",
+            "timestamp": 321.0,
+            "formatted_timestamp": "5:21.00",
+            "segment_start": 321.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 332.0,
+            "formatted_timestamp": "5:32.00",
+            "segment_start": 332.0,
             "word_level_detection": false
         },
         {
             "type": "main",
             "keyword": "Prince Harry",
             "matched_text": "Harry's",
-            "timestamp": 43.0,
-            "formatted_timestamp": "43.00",
-            "segment_start": 43.0,
+            "timestamp": 341.0,
+            "formatted_timestamp": "5:41.00",
+            "segment_start": 341.0,
             "word_level_detection": false
         },
         {
             "type": "main",
-            "keyword": "Beyonce",
-            "matched_text": "Beyonce",
-            "timestamp": 55.0,
-            "formatted_timestamp": "55.00",
-            "segment_start": 55.0,
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan's",
+            "timestamp": 347.0,
+            "formatted_timestamp": "5:47.00",
+            "segment_start": 347.0,
             "word_level_detection": false
         },
         {
             "type": "main",
             "keyword": "Meghan Markle",
             "matched_text": "Meghan",
-            "timestamp": 57.0,
-            "formatted_timestamp": "57.00",
-            "segment_start": 57.0,
+            "timestamp": 358.0,
+            "formatted_timestamp": "5:58.00",
+            "segment_start": 358.0,
             "word_level_detection": false
         },
         {
             "type": "main",
-            "keyword": "Oprah",
-            "matched_text": "Oprah",
-            "timestamp": 57.0,
-            "formatted_timestamp": "57.00",
-            "segment_start": 57.0,
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 358.0,
+            "formatted_timestamp": "5:58.00",
+            "segment_start": 358.0,
             "word_level_detection": false
         },
         {
             "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Meghan's",
-            "timestamp": 65.0,
-            "formatted_timestamp": "1:05.00",
-            "segment_start": 65.0,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Piers Morgan",
-            "matched_text": "Piers Morgan",
-            "timestamp": 69.0,
-            "formatted_timestamp": "1:09.00",
-            "segment_start": 69.0,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Meghan's",
-            "timestamp": 70.0,
-            "formatted_timestamp": "1:10.00",
-            "segment_start": 70.0,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Oprah",
-            "matched_text": "Oprah",
-            "timestamp": 78.0,
-            "formatted_timestamp": "1:18.00",
-            "segment_start": 78.0,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Martha Stewart",
-            "matched_text": "Martha Stewart",
-            "timestamp": 83.0,
-            "formatted_timestamp": "1:23.00",
-            "segment_start": 83.0,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Kevin Hart",
-            "matched_text": "kevin hart",
-            "timestamp": 93.0,
-            "formatted_timestamp": "1:33.00",
-            "segment_start": 93.0,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Meghan's",
-            "timestamp": 95.0,
-            "formatted_timestamp": "1:35.00",
-            "segment_start": 95.0,
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 371.0,
+            "formatted_timestamp": "6:11.00",
+            "segment_start": 371.0,
             "word_level_detection": false
         },
         {
             "type": "main",
             "keyword": "Meghan Markle",
             "matched_text": "Meghan",
-            "timestamp": 104.0,
-            "formatted_timestamp": "1:44.00",
-            "segment_start": 104.0,
+            "timestamp": 389.0,
+            "formatted_timestamp": "6:29.00",
+            "segment_start": 389.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry's",
+            "timestamp": 402.0,
+            "formatted_timestamp": "6:42.00",
+            "segment_start": 402.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 419.0,
+            "formatted_timestamp": "6:59.00",
+            "segment_start": 419.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 422.0,
+            "formatted_timestamp": "7:02.00",
+            "segment_start": 422.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 432.0,
+            "formatted_timestamp": "7:12.00",
+            "segment_start": 432.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan's",
+            "timestamp": 436.0,
+            "formatted_timestamp": "7:16.00",
+            "segment_start": 436.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 452.0,
+            "formatted_timestamp": "7:32.00",
+            "segment_start": 452.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Netflix",
+            "matched_text": "Netflix",
+            "timestamp": 480.0,
+            "formatted_timestamp": "8:00.00",
+            "segment_start": 480.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Oprah",
+            "matched_text": "Oprah",
+            "timestamp": 480.0,
+            "formatted_timestamp": "8:00.00",
+            "segment_start": 480.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 488.0,
+            "formatted_timestamp": "8:08.00",
+            "segment_start": 488.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 522.0,
+            "formatted_timestamp": "8:42.00",
+            "segment_start": 522.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince William",
+            "matched_text": "William",
+            "timestamp": 528.0,
+            "formatted_timestamp": "8:48.00",
+            "segment_start": 528.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince William",
+            "matched_text": "William's",
+            "timestamp": 540.0,
+            "formatted_timestamp": "9:00.00",
+            "segment_start": 540.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Netflix",
+            "matched_text": "Netflix",
+            "timestamp": 555.0,
+            "formatted_timestamp": "9:15.00",
+            "segment_start": 555.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 558.0,
+            "formatted_timestamp": "9:18.00",
+            "segment_start": 558.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 591.0,
+            "formatted_timestamp": "9:51.00",
+            "segment_start": 591.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 598.0,
+            "formatted_timestamp": "9:58.00",
+            "segment_start": 598.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan's",
+            "timestamp": 615.0,
+            "formatted_timestamp": "10:15.00",
+            "segment_start": 615.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 628.0,
+            "formatted_timestamp": "10:28.00",
+            "segment_start": 628.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 631.0,
+            "formatted_timestamp": "10:31.00",
+            "segment_start": 631.0,
             "word_level_detection": false
         }
     ],
-    "timestamp": "2025-06-15T19:32:41.143158",
-    "transcription_source": "whisper_small"
+    "timestamp": "2025-06-15T20:01:20.477177",
+    "transcription_source": "whisper_small",
+    "detection_method": {
+        "type": "traditional",
+        "embedding_model": null,
+        "similarity_threshold": null
+    }
 }
