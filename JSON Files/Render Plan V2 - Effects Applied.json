@@ -1,20 +1,20 @@
 {
     "video_info": {
-        "title": "Meghan Test",
+        "title": "Meghan In TEARS After Piers Morgan DESTROYS Her LIVE On National TV Show",
         "output_file": "final_render.mp4",
-        "generated_at": "2025-06-15 12:43:12"
+        "generated_at": "2025-06-15 16:40:08"
     },
     "segments": [
         {
-            "start_time": 0.0,
-            "end_time": 5.0,
+            "start_time": 10.884,
+            "end_time": 15.884,
             "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
                 "duration": 5.0,
-                "file": "001_Beyonce_28_original.mp4"
+                "file": "001_Meghan_Markle_1234_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -25,15 +25,15 @@
             ]
         },
         {
-            "start_time": 5.0,
-            "end_time": 8.636,
+            "start_time": 15.884,
+            "end_time": 20.884,
             "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 3.6359999999999992,
-                "file": "002_Beyonce_24_original.mp4"
+                "duration": 5.0,
+                "file": "002_Meghan_Markle_xcx_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -44,15 +44,15 @@
             ]
         },
         {
-            "start_time": 8.636,
-            "end_time": 13.636,
+            "start_time": 20.884,
+            "end_time": 25.884,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
                 "duration": 5.0,
-                "file": "003_Meghan_Markle_zxcxzxz_original.mp4"
+                "file": "003_Meghan_Markle_1_1_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -63,34 +63,34 @@
             ]
         },
         {
-            "start_time": 13.636,
-            "end_time": 14.346,
+            "start_time": 25.884,
+            "end_time": 29.963,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 0.7100000000000009,
-                "file": "004_Meghan_Markle_1_1_chf3_rhea1_original.mp4"
+                "duration": 4.079000000000001,
+                "file": "004_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 4,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 14.346,
-            "end_time": 18.468,
+            "start_time": 29.963,
+            "end_time": 34.963,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 4.122,
-                "file": "005_Meghan_Markle_1_original.mp4"
+                "duration": 5.0,
+                "file": "005_Meghan_Markle_zcxzcz_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -101,15 +101,15 @@
             ]
         },
         {
-            "start_time": 18.468,
-            "end_time": 21.189,
+            "start_time": 34.963,
+            "end_time": 39.963,
             "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 2.721,
-                "file": "006_Beyonce_41_composite.mp4"
+                "duration": 5.0,
+                "file": "006_Meghan_Markle_24_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -120,53 +120,53 @@
             ]
         },
         {
-            "start_time": 21.189,
-            "end_time": 26.189,
+            "start_time": 39.963,
+            "end_time": 44.963,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
                 "duration": 5.0,
-                "file": "007_Meghan_Markle_clip.mp4"
+                "file": "007_Meghan_Markle_sdf_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 7,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 26.189,
-            "end_time": 27.08,
+            "start_time": 44.963,
+            "end_time": 49.963,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 0.8909999999999982,
-                "file": "008_Meghan_Markle_111_original.mp4"
+                "duration": 5.0,
+                "file": "008_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 8,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 27.08,
-            "end_time": 32.08,
+            "start_time": 49.963,
+            "end_time": 54.32,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 5.0,
-                "file": "009_Meghan_Markle_12321_1_chf3_rhea1_original.mp4"
+                "duration": 4.356999999999999,
+                "file": "009_Meghan_Markle_sdsdf_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -177,15 +177,15 @@
             ]
         },
         {
-            "start_time": 32.08,
-            "end_time": 37.08,
+            "start_time": 54.32,
+            "end_time": 59.32,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
                 "duration": 5.0,
-                "file": "010_Meghan_Markle_21_original.mp4"
+                "file": "010_Meghan_Markle_dgfdd_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -196,53 +196,53 @@
             ]
         },
         {
-            "start_time": 37.08,
-            "end_time": 39.037,
+            "start_time": 59.32,
+            "end_time": 64.32,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 1.9570000000000007,
-                "file": "011_Meghan_Markle_clip.mp4"
+                "duration": 4.999999999999993,
+                "file": "011_Meghan_Markle_28_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 11,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 39.037,
-            "end_time": 44.037,
+            "start_time": 64.32,
+            "end_time": 64.498,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 5.0,
-                "file": "012_Meghan_Markle_4_chf3_rhea1_composite.mp4"
+                "duration": 0.17800000000001148,
+                "file": "012_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 12,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 44.037,
-            "end_time": 49.037,
+            "start_time": 64.498,
+            "end_time": 69.498,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Piers Morgan",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
                 "duration": 5.0,
-                "file": "013_Meghan_Markle_sadsad_chf3_rhea1_original.mp4"
+                "file": "013_Piers_Morgan_4_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -253,15 +253,15 @@
             ]
         },
         {
-            "start_time": 49.037,
-            "end_time": 49.298,
+            "start_time": 69.498,
+            "end_time": 74.498,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Piers Morgan",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 0.2610000000000028,
-                "file": "014_Meghan_Markle_sdsdf_original.mp4"
+                "duration": 5.0,
+                "file": "014_Piers_Morgan_14_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -272,15 +272,15 @@
             ]
         },
         {
-            "start_time": 49.298,
-            "end_time": 49.845,
+            "start_time": 74.498,
+            "end_time": 79.498,
             "type": "celebrity_overlay",
-            "celebrity": "Prince William",
+            "celebrity": "Piers Morgan",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 0.546999999999997,
-                "file": "015_Prince_William_1_original.mp4"
+                "duration": 5.0,
+                "file": "015_Piers_Morgan_2_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -291,15 +291,15 @@
             ]
         },
         {
-            "start_time": 49.845,
-            "end_time": 54.845,
+            "start_time": 79.498,
+            "end_time": 84.498,
             "type": "celebrity_overlay",
-            "celebrity": "Kate Middleton",
+            "celebrity": "Piers Morgan",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
                 "duration": 5.0,
-                "file": "016_Kate_Middleton_14_original.mp4"
+                "file": "016_Piers_Morgan_8_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -310,15 +310,15 @@
             ]
         },
         {
-            "start_time": 54.845,
-            "end_time": 56.44,
+            "start_time": 84.498,
+            "end_time": 89.498,
             "type": "celebrity_overlay",
-            "celebrity": "Kate Middleton",
+            "celebrity": "Piers Morgan",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 1.5949999999999989,
-                "file": "017_Kate_Middleton_1_original.mp4"
+                "duration": 5.0,
+                "file": "017_Piers_Morgan_9_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -329,15 +329,15 @@
             ]
         },
         {
-            "start_time": 56.44,
-            "end_time": 56.541,
+            "start_time": 89.498,
+            "end_time": 94.498,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Piers Morgan",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 0.10099999999999909,
-                "file": "018_Prince_Harry_clip_14_composite.mp4"
+                "duration": 5.0,
+                "file": "018_Piers_Morgan_1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -348,34 +348,34 @@
             ]
         },
         {
-            "start_time": 56.541,
-            "end_time": 61.379,
+            "start_time": 94.498,
+            "end_time": 97.008,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Piers Morgan",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 4.838000000000001,
-                "file": "019_Meghan_Markle_clip.mp4"
+                "duration": 2.509999999999991,
+                "file": "019_Piers_Morgan_5_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 19,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 61.379,
-            "end_time": 63.921,
+            "start_time": 97.008,
+            "end_time": 102.008,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 2.5420000000000016,
-                "file": "020_Oprah_27_original.mp4"
+                "duration": 5.0,
+                "file": "020_Meghan_Markle_clip_12_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -386,15 +386,15 @@
             ]
         },
         {
-            "start_time": 63.921,
-            "end_time": 67.773,
+            "start_time": 102.008,
+            "end_time": 107.008,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 3.8519999999999968,
-                "file": "021_Meghan_Markle_28_original.mp4"
+                "duration": 5.0,
+                "file": "021_Meghan_Markle_123_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -405,15 +405,15 @@
             ]
         },
         {
-            "start_time": 67.773,
-            "end_time": 70.615,
+            "start_time": 107.008,
+            "end_time": 112.008,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 2.8419999999999987,
-                "file": "022_Oprah_23_original.mp4"
+                "duration": 5.0,
+                "file": "022_Meghan_Markle_dvfv_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -424,34 +424,34 @@
             ]
         },
         {
-            "start_time": 70.615,
-            "end_time": 75.615,
+            "start_time": 112.008,
+            "end_time": 117.008,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
                 "duration": 5.0,
-                "file": "023_Meghan_Markle_clip_12_original.mp4"
+                "file": "023_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 23,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 75.615,
-            "end_time": 79.22,
+            "start_time": 117.008,
+            "end_time": 122.008,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 3.605000000000004,
-                "file": "024_Meghan_Markle_31_composite.mp4"
+                "duration": 5.0,
+                "file": "024_Meghan_Markle_32_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -462,34 +462,34 @@
             ]
         },
         {
-            "start_time": 79.22,
-            "end_time": 84.22,
+            "start_time": 122.008,
+            "end_time": 127.008,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
                 "duration": 5.0,
-                "file": "025_Meghan_Markle_clip.mp4"
+                "file": "025_Meghan_Markle_11_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 25,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 84.22,
-            "end_time": 87.431,
+            "start_time": 127.008,
+            "end_time": 132.00799999999998,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 3.2109999999999985,
-                "file": "026_Meghan_Markle_cvcxvx_original.mp4"
+                "duration": 4.999999999999986,
+                "file": "026_Meghan_Markle_vc_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -500,34 +500,34 @@
             ]
         },
         {
-            "start_time": 87.431,
-            "end_time": 88.136,
+            "start_time": 132.00799999999998,
+            "end_time": 137.00799999999998,
             "type": "celebrity_overlay",
-            "celebrity": "Prince William",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 0.7049999999999983,
-                "file": "027_Prince_William_2_original.mp4"
+                "duration": 5.0,
+                "file": "027_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 27,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 88.136,
-            "end_time": 93.136,
+            "start_time": 137.00799999999998,
+            "end_time": 137.24,
             "type": "celebrity_overlay",
-            "celebrity": "Kate Middleton",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 5.0,
-                "file": "028_Kate_Middleton_10_original.mp4"
+                "duration": 0.23200000000002774,
+                "file": "028_Meghan_Markle_xcvcxvcx_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -538,34 +538,34 @@
             ]
         },
         {
-            "start_time": 93.136,
-            "end_time": 96.08,
+            "start_time": 137.24,
+            "end_time": 142.24,
             "type": "celebrity_overlay",
-            "celebrity": "Kate Middleton",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 2.9440000000000026,
-                "file": "029_Kate_Middleton_clip.mp4"
+                "duration": 5.0,
+                "file": "029_Meghan_Markle_sdfds_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 29,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 96.08,
-            "end_time": 100.481,
+            "start_time": 142.24,
+            "end_time": 147.24,
             "type": "celebrity_overlay",
-            "celebrity": "Prince William",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 4.400999999999996,
-                "file": "030_Prince_William_5_composite.mp4"
+                "duration": 5.0,
+                "file": "030_Meghan_Markle_4_chf3_rhea1_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -576,34 +576,34 @@
             ]
         },
         {
-            "start_time": 100.481,
-            "end_time": 105.481,
+            "start_time": 147.24,
+            "end_time": 152.24,
             "type": "celebrity_overlay",
-            "celebrity": "Kate Middleton",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
                 "duration": 5.0,
-                "file": "031_Kate_Middleton_7_original.mp4"
+                "file": "031_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 31,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 105.481,
-            "end_time": 108.483,
+            "start_time": 152.24,
+            "end_time": 157.24,
             "type": "celebrity_overlay",
-            "celebrity": "Kate Middleton",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 3.0020000000000095,
-                "file": "032_Kate_Middleton_8_original.mp4"
+                "duration": 5.0,
+                "file": "032_Meghan_Markle_zxzx_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -614,15 +614,15 @@
             ]
         },
         {
-            "start_time": 108.483,
-            "end_time": 113.483,
+            "start_time": 157.24,
+            "end_time": 162.24,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
                 "duration": 5.0,
-                "file": "033_Meghan_Markle_dgfdd_original.mp4"
+                "file": "033_Meghan_Markle_xc_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -633,12 +633,12 @@
             ]
         },
         {
-            "start_time": 113.483,
-            "end_time": 118.483,
+            "start_time": 162.24,
+            "end_time": 167.24,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
                 "duration": 5.0,
                 "file": "034_Meghan_Markle_27_original.mp4"
@@ -652,14 +652,14 @@
             ]
         },
         {
-            "start_time": 118.483,
-            "end_time": 119.68,
+            "start_time": 167.24,
+            "end_time": 172.24,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 1.1970000000000027,
+                "duration": 5.0,
                 "file": "035_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
@@ -671,34 +671,34 @@
             ]
         },
         {
-            "start_time": 119.68,
-            "end_time": 120.305,
+            "start_time": 172.24,
+            "end_time": 174.676,
             "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 0.625,
-                "file": "036_Beyonce_clip.mp4"
+                "duration": 2.4359999999999786,
+                "file": "036_Meghan_Markle_10_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 36,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 120.305,
-            "end_time": 123.855,
+            "start_time": 174.676,
+            "end_time": 179.676,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 3.549999999999997,
-                "file": "037_Oprah_12_original.mp4"
+                "duration": 5.0,
+                "file": "037_Meghan_Markle_26_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -709,15 +709,15 @@
             ]
         },
         {
-            "start_time": 123.855,
-            "end_time": 126.4,
+            "start_time": 179.676,
+            "end_time": 184.676,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
-                "duration": 2.5450000000000017,
-                "file": "038_Meghan_Markle_zccvcx_original.mp4"
+                "duration": 5.0,
+                "file": "038_Meghan_Markle_25_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -728,39 +728,1952 @@
             ]
         },
         {
-            "start_time": 126.4,
-            "end_time": 129.744,
+            "start_time": 184.676,
+            "end_time": 189.676,
             "type": "celebrity_overlay",
-            "celebrity": "Kate Middleton",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
-                "type": "video",
-                "duration": 3.343999999999994,
-                "file": "039_Kate_Middleton_16_original.mp4"
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 5.0,
+                "file": "meghan-markle.remini-enhanced.png"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
-            "sequence_number": 39,
-            "effects_applied": [
-                "trimmed"
-            ]
+            "sequence_number": 39
         },
         {
-            "start_time": 129.744,
-            "end_time": 134.744,
+            "start_time": 189.676,
+            "end_time": 194.676,
             "type": "celebrity_overlay",
-            "celebrity": "Prince William",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
                 "type": "video",
                 "duration": 5.0,
-                "file": "040_Prince_William_8_original.mp4"
+                "file": "040_Meghan_Markle_31_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 40,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 194.676,
+            "end_time": 199.35999999999999,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 4.6839999999999975,
+                "file": "041_Meghan_Markle_1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 41,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 199.35999999999999,
+            "end_time": 204.35999999999999,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "042_Meghan_Markle_sadsad_chf3_rhea1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 42,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 204.35999999999999,
+            "end_time": 209.35999999999999,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "043_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 43,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 209.35999999999999,
+            "end_time": 214.35999999999999,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "044_Meghan_Markle_asd_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 44,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 214.35999999999999,
+            "end_time": 219.35999999999999,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "045_Meghan_Markle_21_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 45,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 219.35999999999999,
+            "end_time": 224.35999999999999,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "046_Meghan_Markle_5_1_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 46,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 224.35999999999999,
+            "end_time": 227.252,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 2.8920000000000243,
+                "file": "047_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 47,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 227.252,
+            "end_time": 227.655,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 0.4029999999999916,
+                "file": "048_Meghan_Markle_fghgvcb_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 48,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 227.655,
+            "end_time": 232.655,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "049_Prince_Harry_14_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 49,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 232.655,
+            "end_time": 237.655,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "050_Prince_Harry_10_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 50,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 237.655,
+            "end_time": 242.655,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "051_Prince_Harry_clip_5_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 51,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 242.655,
+            "end_time": 247.655,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "052_Prince_Harry_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 52,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 247.655,
+            "end_time": 247.68,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 0.025000000000005684,
+                "file": "053_Prince_Harry_8_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 53,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 247.68,
+            "end_time": 252.68,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "054_Meghan_Markle_asdasdas_chf3_rhea1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 54,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 252.68,
+            "end_time": 257.68,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "055_Meghan_Markle_zcxzxzc_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 55,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 257.68,
+            "end_time": 262.68,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "056_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 56,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 262.68,
+            "end_time": 266.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 3.759999999999991,
+                "file": "057_Meghan_Markle_zxcxzxz_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 57,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 266.44,
+            "end_time": 271.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "058_Meghan_Markle_4_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 58,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 271.44,
+            "end_time": 276.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "059_Meghan_Markle_sfsdfsd_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 59,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 276.44,
+            "end_time": 281.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "060_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 60,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 281.44,
+            "end_time": 286.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "061_Meghan_Markle_6_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 61,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 286.44,
+            "end_time": 291.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "062_Meghan_Markle_8_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 62,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 291.44,
+            "end_time": 296.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "063_Meghan_Markle_cvcxvx_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 63,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 296.44,
+            "end_time": 301.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "064_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 64,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 301.44,
+            "end_time": 306.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "065_Meghan_Markle_111_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 65,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 306.44,
+            "end_time": 311.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "066_Meghan_Markle_30_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 66,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 311.44,
+            "end_time": 316.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "067_Meghan_Markle_zccvcx_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 67,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 316.44,
+            "end_time": 321.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "068_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 68,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 321.44,
+            "end_time": 326.44,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "069_Meghan_Markle_clip_13_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 69,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 326.44,
+            "end_time": 331.166,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 4.725999999999999,
+                "file": "070_Meghan_Markle_zxzzx_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 70,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 331.166,
+            "end_time": 336.166,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "071_Meghan_Markle_sfdsfds_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 71,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 336.166,
+            "end_time": 341.166,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "072_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 72,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 341.166,
+            "end_time": 346.166,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "073_Meghan_Markle_zvz_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 73,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 346.166,
+            "end_time": 351.166,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "074_Meghan_Markle_12321_1_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 74,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 351.166,
+            "end_time": 356.166,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "075_Meghan_Markle_sdsdf_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 75,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 356.166,
+            "end_time": 361.166,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "076_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 76,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 361.166,
+            "end_time": 361.32,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 0.15399999999999636,
+                "file": "077_Meghan_Markle_21_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 77,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 361.32,
+            "end_time": 366.32,
+            "type": "celebrity_overlay",
+            "celebrity": "South Park",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "078_South_Park_2_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 78,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 366.32,
+            "end_time": 368.748,
+            "type": "celebrity_overlay",
+            "celebrity": "South Park",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 2.4279999999999973,
+                "file": "079_South_Park_3_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 79,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 368.748,
+            "end_time": 369.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 0.4630000000000223,
+                "file": "080_Prince_Harry_clip_9_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 80,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 369.211,
+            "end_time": 374.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "081_Meghan_Markle_123_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 81,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 374.211,
+            "end_time": 379.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "082_Meghan_Markle_zcxzxzc_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 82,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 379.211,
+            "end_time": 384.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "083_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 83,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 384.211,
+            "end_time": 389.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "084_Meghan_Markle_1_1_chf3_rhea1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 84,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 389.211,
+            "end_time": 394.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "085_Meghan_Markle_sdf_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 85,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 394.211,
+            "end_time": 399.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "086_Meghan_Markle_dvfv_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 86,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 399.211,
+            "end_time": 404.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "087_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 87,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 404.211,
+            "end_time": 409.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "088_Meghan_Markle_zccvcx_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 88,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 409.211,
+            "end_time": 414.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "089_Meghan_Markle_zxzx_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 89,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 414.211,
+            "end_time": 419.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "090_Meghan_Markle_xcx_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 90,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 419.211,
+            "end_time": 424.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "091_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 91,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 424.211,
+            "end_time": 429.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "092_Meghan_Markle_clip_13_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 92,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 429.211,
+            "end_time": 434.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "093_Meghan_Markle_sadsad_chf3_rhea1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 93,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 434.211,
+            "end_time": 439.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "094_Meghan_Markle_sfdsfds_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 94,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 439.211,
+            "end_time": 444.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "095_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 95,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 444.211,
+            "end_time": 449.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "096_Meghan_Markle_sdfds_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 96,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 449.211,
+            "end_time": 454.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "097_Meghan_Markle_5_1_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 97,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 454.211,
+            "end_time": 459.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "098_Meghan_Markle_25_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 98,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 459.211,
+            "end_time": 464.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "099_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 99,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 464.211,
+            "end_time": 469.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "100_Meghan_Markle_111_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 100,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 469.211,
+            "end_time": 474.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "101_Meghan_Markle_4_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 101,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 474.211,
+            "end_time": 479.211,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "102_Meghan_Markle_24_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 102,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 479.211,
+            "end_time": 483.12,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 3.908999999999992,
+                "file": "Nigeria-Invictus-Games-4_1718089593471_1718089623487.remini-enhanced.png"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 103
+        },
+        {
+            "start_time": 483.12,
+            "end_time": 488.12,
+            "type": "celebrity_overlay",
+            "celebrity": "Netflix",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "104_Netflix_2_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 104,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 488.12,
+            "end_time": 489.723,
+            "type": "celebrity_overlay",
+            "celebrity": "Netflix",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 1.6030000000000086,
+                "file": "105_Netflix_5_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 105,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 489.723,
+            "end_time": 494.723,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "106_Meghan_Markle_10_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 106,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 494.723,
+            "end_time": 499.723,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "107_Meghan_Markle_26_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 107,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 499.723,
+            "end_time": 504.723,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "108_Meghan_Markle_zvz_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 108,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 504.723,
+            "end_time": 509.319,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 4.596000000000004,
+                "file": "109_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 109,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 509.319,
+            "end_time": 514.319,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 4.999999999999943,
+                "file": "110_Meghan_Markle_xc_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 110,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 514.319,
+            "end_time": 519.319,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "111_Meghan_Markle_31_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 111,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 519.319,
+            "end_time": 524.319,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "112_Meghan_Markle_27_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 112,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 524.319,
+            "end_time": 529.319,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "113_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 113,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 529.319,
+            "end_time": 530.022,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 0.7030000000000882,
+                "file": "114_Meghan_Markle_32_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 114,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 530.022,
+            "end_time": 535.022,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "115_Meghan_Markle_cvcxvx_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 115,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 535.022,
+            "end_time": 535.887,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 0.8649999999998954,
+                "file": "116_Meghan_Markle_xcvcxvcx_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 116,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 535.887,
+            "end_time": 540.887,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "117_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 117,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 540.887,
+            "end_time": 545.887,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "118_Meghan_Markle_12321_1_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 118,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 545.887,
+            "end_time": 550.887,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "119_Meghan_Markle_dgfdd_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 119,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 550.887,
+            "end_time": 555.887,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "120_Meghan_Markle_28_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 120,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 555.887,
+            "end_time": 560.887,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "121_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 121,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 560.887,
+            "end_time": 565.887,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "122_Meghan_Markle_8_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 122,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 565.887,
+            "end_time": 570.887,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "123_Meghan_Markle_1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 123,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 570.887,
+            "end_time": 575.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 4.113000000000056,
+                "file": "124_Meghan_Markle_asd_chf3_rhea1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 124,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 575.0,
+            "end_time": 579.24,
+            "type": "celebrity_overlay",
+            "celebrity": "Piers Morgan",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 4.240000000000009,
+                "file": "125_Piers_Morgan_6_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 125,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 579.24,
+            "end_time": 584.24,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "126_Prince_Harry_clip_6_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 126,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 584.24,
+            "end_time": 589.24,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "127_Prince_Harry_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 127,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 589.24,
+            "end_time": 592.84,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 3.6000000000000227,
+                "file": "128_Prince_Harry_clip_3_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 128,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 592.84,
+            "end_time": 595.636,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 2.7959999999999354,
+                "file": "129_Prince_Harry_5_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 129,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 595.636,
+            "end_time": 600.636,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "130_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 130,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 600.636,
+            "end_time": 605.636,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "131_Meghan_Markle_clip_12_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 131,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 605.636,
+            "end_time": 610.636,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "132_Meghan_Markle_zxzzx_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 132,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 610.636,
+            "end_time": 610.9200000000001,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 0.2840000000001055,
+                "file": "133_Meghan_Markle_30_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 133,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 610.9200000000001,
+            "end_time": 615.9200000000001,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "134_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 134,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 615.9200000000001,
+            "end_time": 620.9200000000001,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "135_Meghan_Markle_4_chf3_rhea1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 135,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 620.9200000000001,
+            "end_time": 625.9200000000001,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "136_Meghan_Markle_6_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 136,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 625.9200000000001,
+            "end_time": 630.9200000000001,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "137_Meghan_Markle_zxcxzxz_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 137,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 630.9200000000001,
+            "end_time": 635.9200000000001,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "138_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 138,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 635.9200000000001,
+            "end_time": 640.9200000000001,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "139_Meghan_Markle_sfsdfsd_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 139,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 640.9200000000001,
+            "end_time": 645.74,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 4.819999999999936,
+                "file": "140_Meghan_Markle_zcxzcz_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 140,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 645.74,
+            "end_time": 650.74,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show",
+                "type": "video",
+                "duration": 5.0,
+                "file": "141_Meghan_Markle_vc_chf3_rhea1_composite.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 141,
             "effects_applied": [
                 "trimmed"
             ]

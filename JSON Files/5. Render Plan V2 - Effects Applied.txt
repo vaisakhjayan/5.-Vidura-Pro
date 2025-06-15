@@ -2,19 +2,19 @@
 EFFECTS PROCESSING SUMMARY
 ================================================================================
 
-Video Title: Meghan Test
-Effects Applied: 2025-06-15 12:43:12
-Total Segments: 40
+Video Title: Meghan In TEARS After Piers Morgan DESTROYS Her LIVE On National TV Show
+Effects Applied: 2025-06-15 16:40:08
+Total Segments: 141
 Output Resolution: 1920x1080
 Output FPS: 24
-Composite Interval: Every 6 clips
+Composite Interval: Every 3 clips
 
 --------------------------------------------------------------------------------
 EFFECTS CONFIGURATION
 --------------------------------------------------------------------------------
 
 🎬 Composite Effect:
-   • Apply Interval: Every 6 video clips
+   • Apply Interval: Every 3 video clips
    • Scale Factor: 0.71 (71%)
    • Background: Notion-configured
    • Border Overlay: Assets/Background/Box.png
@@ -40,150 +40,323 @@ EFFECTS CONFIGURATION
 TIMELINE OVERVIEW WITH EFFECTS
 --------------------------------------------------------------------------------
 
-🎬 BEYONCE
+🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 00:00.00 → 00:05.00 (5.00s) (Original) - 001_Beyonce_28_original.mp4
+   1. 🎥 00:10.88 → 00:15.88 (5.00s) (Original) - 001_Meghan_Markle_1234_original.mp4
        Effects: trimmed
-   2. 🎥 00:05.00 → 00:08.63 (3.64s) (Original) - 002_Beyonce_24_original.mp4
+   2. 🎥 00:15.88 → 00:20.88 (5.00s) (Original) - 002_Meghan_Markle_xcx_original.mp4
+       Effects: trimmed
+   3. 🎥 00:20.88 → 00:25.88 (5.00s) (Original) - 003_Meghan_Markle_1_1_chf3_rhea1_composite.mp4
+       Effects: trimmed
+   4. 🎥 00:25.88 → 00:29.96 (4.08s) (Original) - 004_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+   5. 🎥 00:29.96 → 00:34.96 (5.00s) (Original) - 005_Meghan_Markle_zcxzcz_original.mp4
+       Effects: trimmed
+   6. 🎥 00:34.96 → 00:39.96 (5.00s) (Original) - 006_Meghan_Markle_24_composite.mp4
+       Effects: trimmed
+   7. 🎥 00:39.96 → 00:44.96 (5.00s) (Original) - 007_Meghan_Markle_sdf_original.mp4
+       Effects: trimmed
+   8. 🎥 00:44.96 → 00:49.96 (5.00s) (Original) - 008_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+   9. 🎥 00:49.96 → 00:54.32 (4.36s) (Original) - 009_Meghan_Markle_sdsdf_composite.mp4
+       Effects: trimmed
+  10. 🎥 00:54.32 → 00:59.32 (5.00s) (Original) - 010_Meghan_Markle_dgfdd_original.mp4
+       Effects: trimmed
+  11. 🎥 00:59.32 → 01:04.31 (5.00s) (Original) - 011_Meghan_Markle_28_original.mp4
+       Effects: trimmed
+  12. 🎥 01:04.31 → 01:04.49 (0.18s) (Original) - 012_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+
+🎬 PIERS MORGAN
+----------------------------------------
+   1. 🎥 01:04.49 → 01:09.49 (5.00s) (Original) - 013_Piers_Morgan_4_original.mp4
+       Effects: trimmed
+   2. 🎥 01:09.49 → 01:14.49 (5.00s) (Original) - 014_Piers_Morgan_14_original.mp4
+       Effects: trimmed
+   3. 🎥 01:14.49 → 01:19.49 (5.00s) (Original) - 015_Piers_Morgan_2_composite.mp4
+       Effects: trimmed
+   4. 🎥 01:19.49 → 01:24.49 (5.00s) (Original) - 016_Piers_Morgan_8_original.mp4
+       Effects: trimmed
+   5. 🎥 01:24.49 → 01:29.49 (5.00s) (Original) - 017_Piers_Morgan_9_original.mp4
+       Effects: trimmed
+   6. 🎥 01:29.49 → 01:34.49 (5.00s) (Original) - 018_Piers_Morgan_1_composite.mp4
+       Effects: trimmed
+   7. 🎥 01:34.49 → 01:37.00 (2.51s) (Original) - 019_Piers_Morgan_5_original.mp4
        Effects: trimmed
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 00:08.63 → 00:13.63 (5.00s) (Original) - 003_Meghan_Markle_zxcxzxz_original.mp4
+   1. 🎥 01:37.00 → 01:42.00 (5.00s) (Original) - 020_Meghan_Markle_clip_12_original.mp4
        Effects: trimmed
-   2. 🎥 00:13.63 → 00:14.34 (0.71s) (Original) - 004_Meghan_Markle_1_1_chf3_rhea1_original.mp4
+   2. 🎥 01:42.00 → 01:47.00 (5.00s) (Original) - 021_Meghan_Markle_123_composite.mp4
        Effects: trimmed
-   3. 🎥 00:14.34 → 00:18.46 (4.12s) (Original) - 005_Meghan_Markle_1_original.mp4
+   3. 🎥 01:47.00 → 01:52.00 (5.00s) (Original) - 022_Meghan_Markle_dvfv_chf3_rhea1_original.mp4
        Effects: trimmed
-
-🎬 BEYONCE
-----------------------------------------
-   1. 🎥 00:18.46 → 00:21.18 (2.72s) (Original) - 006_Beyonce_41_composite.mp4
-       Effects: trimmed
-
-🎬 MEGHAN MARKLE
-----------------------------------------
-   1. 🎥 00:21.18 → 00:26.18 (5.00s) (Original) - 007_Meghan_Markle_clip.mp4
+   4. 🎥 01:52.00 → 01:57.00 (5.00s) (Original) - 023_Meghan_Markle_clip.mp4
        Effects: ken_burns
-   2. 🎥 00:26.18 → 00:27.07 (0.89s) (Original) - 008_Meghan_Markle_111_original.mp4
+   5. 🎥 01:57.00 → 02:02.00 (5.00s) (Original) - 024_Meghan_Markle_32_composite.mp4
        Effects: trimmed
-   3. 🎥 00:27.07 → 00:32.07 (5.00s) (Original) - 009_Meghan_Markle_12321_1_chf3_rhea1_original.mp4
+   6. 🎥 02:02.00 → 02:07.00 (5.00s) (Original) - 025_Meghan_Markle_11_original.mp4
        Effects: trimmed
-   4. 🎥 00:32.07 → 00:37.07 (5.00s) (Original) - 010_Meghan_Markle_21_original.mp4
+   7. 🎥 02:07.00 → 02:12.00 (5.00s) (Original) - 026_Meghan_Markle_vc_chf3_rhea1_original.mp4
        Effects: trimmed
-   5. 🎥 00:37.07 → 00:39.03 (1.96s) (Original) - 011_Meghan_Markle_clip.mp4
+   8. 🎥 02:12.00 → 02:17.00 (5.00s) (Original) - 027_Meghan_Markle_clip.mp4
        Effects: ken_burns
-   6. 🎥 00:39.03 → 00:44.03 (5.00s) (Original) - 012_Meghan_Markle_4_chf3_rhea1_composite.mp4
+   9. 🎥 02:17.00 → 02:17.24 (0.23s) (Original) - 028_Meghan_Markle_xcvcxvcx_original.mp4
        Effects: trimmed
-   7. 🎥 00:44.03 → 00:49.03 (5.00s) (Original) - 013_Meghan_Markle_sadsad_chf3_rhea1_original.mp4
+  10. 🎥 02:17.24 → 02:22.24 (5.00s) (Original) - 029_Meghan_Markle_sdfds_original.mp4
        Effects: trimmed
-   8. 🎥 00:49.03 → 00:49.29 (0.26s) (Original) - 014_Meghan_Markle_sdsdf_original.mp4
+  11. 🎥 02:22.24 → 02:27.24 (5.00s) (Original) - 030_Meghan_Markle_4_chf3_rhea1_composite.mp4
        Effects: trimmed
-
-🎬 PRINCE WILLIAM
-----------------------------------------
-   1. 🎥 00:49.29 → 00:49.84 (0.55s) (Original) - 015_Prince_William_1_original.mp4
+  12. 🎥 02:27.24 → 02:32.24 (5.00s) (Original) - 031_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  13. 🎥 02:32.24 → 02:37.24 (5.00s) (Original) - 032_Meghan_Markle_zxzx_chf3_rhea1_original.mp4
        Effects: trimmed
-
-🎬 KATE MIDDLETON
-----------------------------------------
-   1. 🎥 00:49.84 → 00:54.84 (5.00s) (Original) - 016_Kate_Middleton_14_original.mp4
+  14. 🎥 02:37.24 → 02:42.24 (5.00s) (Original) - 033_Meghan_Markle_xc_composite.mp4
        Effects: trimmed
-   2. 🎥 00:54.84 → 00:56.43 (1.59s) (Original) - 017_Kate_Middleton_1_original.mp4
+  15. 🎥 02:42.24 → 02:47.24 (5.00s) (Original) - 034_Meghan_Markle_27_original.mp4
+       Effects: trimmed
+  16. 🎥 02:47.24 → 02:52.24 (5.00s) (Original) - 035_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  17. 🎥 02:52.24 → 02:54.67 (2.44s) (Original) - 036_Meghan_Markle_10_composite.mp4
+       Effects: trimmed
+  18. 🎥 02:54.67 → 02:59.67 (5.00s) (Original) - 037_Meghan_Markle_26_original.mp4
+       Effects: trimmed
+  19. 🎥 02:59.67 → 03:04.67 (5.00s) (Original) - 038_Meghan_Markle_25_original.mp4
+       Effects: trimmed
+  20. 🖼️ 03:04.67 → 03:09.67 (5.00s) (Ken Burns) - meghan-markle.remini-enhanced.png
+  21. 🎥 03:09.67 → 03:14.67 (5.00s) (Original) - 040_Meghan_Markle_31_original.mp4
+       Effects: trimmed
+  22. 🎥 03:14.67 → 03:19.35 (4.68s) (Original) - 041_Meghan_Markle_1_original.mp4
+       Effects: trimmed
+  23. 🎥 03:19.35 → 03:24.35 (5.00s) (Original) - 042_Meghan_Markle_sadsad_chf3_rhea1_composite.mp4
+       Effects: trimmed
+  24. 🎥 03:24.35 → 03:29.35 (5.00s) (Original) - 043_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  25. 🎥 03:29.35 → 03:34.35 (5.00s) (Original) - 044_Meghan_Markle_asd_chf3_rhea1_original.mp4
+       Effects: trimmed
+  26. 🎥 03:34.35 → 03:39.35 (5.00s) (Original) - 045_Meghan_Markle_21_composite.mp4
+       Effects: trimmed
+  27. 🎥 03:39.35 → 03:44.35 (5.00s) (Original) - 046_Meghan_Markle_5_1_chf3_rhea1_original.mp4
+       Effects: trimmed
+  28. 🎥 03:44.35 → 03:47.25 (2.89s) (Original) - 047_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  29. 🎥 03:47.25 → 03:47.65 (0.40s) (Original) - 048_Meghan_Markle_fghgvcb_composite.mp4
        Effects: trimmed
 
 🎬 PRINCE HARRY
 ----------------------------------------
-   1. 🎥 00:56.43 → 00:56.54 (0.10s) (Original) - 018_Prince_Harry_clip_14_composite.mp4
+   1. 🎥 03:47.65 → 03:52.65 (5.00s) (Original) - 049_Prince_Harry_14_original.mp4
+       Effects: trimmed
+   2. 🎥 03:52.65 → 03:57.65 (5.00s) (Original) - 050_Prince_Harry_10_original.mp4
+       Effects: trimmed
+   3. 🎥 03:57.65 → 04:02.65 (5.00s) (Original) - 051_Prince_Harry_clip_5_composite.mp4
+       Effects: trimmed
+   4. 🎥 04:02.65 → 04:07.65 (5.00s) (Original) - 052_Prince_Harry_clip.mp4
+       Effects: ken_burns
+   5. 🎥 04:07.65 → 04:07.68 (0.03s) (Original) - 053_Prince_Harry_8_original.mp4
        Effects: trimmed
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 00:56.54 → 01:01.37 (4.84s) (Original) - 019_Meghan_Markle_clip.mp4
+   1. 🎥 04:07.68 → 04:12.68 (5.00s) (Original) - 054_Meghan_Markle_asdasdas_chf3_rhea1_composite.mp4
+       Effects: trimmed
+   2. 🎥 04:12.68 → 04:17.68 (5.00s) (Original) - 055_Meghan_Markle_zcxzxzc_original.mp4
+       Effects: trimmed
+   3. 🎥 04:17.68 → 04:22.68 (5.00s) (Original) - 056_Meghan_Markle_clip.mp4
        Effects: ken_burns
+   4. 🎥 04:22.68 → 04:26.43 (3.76s) (Original) - 057_Meghan_Markle_zxcxzxz_composite.mp4
+       Effects: trimmed
+   5. 🎥 04:26.43 → 04:31.43 (5.00s) (Original) - 058_Meghan_Markle_4_original.mp4
+       Effects: trimmed
+   6. 🎥 04:31.43 → 04:36.43 (5.00s) (Original) - 059_Meghan_Markle_sfsdfsd_original.mp4
+       Effects: trimmed
+   7. 🎥 04:36.43 → 04:41.43 (5.00s) (Original) - 060_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+   8. 🎥 04:41.43 → 04:46.43 (5.00s) (Original) - 061_Meghan_Markle_6_original.mp4
+       Effects: trimmed
+   9. 🎥 04:46.43 → 04:51.43 (5.00s) (Original) - 062_Meghan_Markle_8_original.mp4
+       Effects: trimmed
+  10. 🎥 04:51.43 → 04:56.43 (5.00s) (Original) - 063_Meghan_Markle_cvcxvx_composite.mp4
+       Effects: trimmed
+  11. 🎥 04:56.43 → 05:01.43 (5.00s) (Original) - 064_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  12. 🎥 05:01.43 → 05:06.43 (5.00s) (Original) - 065_Meghan_Markle_111_original.mp4
+       Effects: trimmed
+  13. 🎥 05:06.43 → 05:11.43 (5.00s) (Original) - 066_Meghan_Markle_30_composite.mp4
+       Effects: trimmed
+  14. 🎥 05:11.43 → 05:16.43 (5.00s) (Original) - 067_Meghan_Markle_zccvcx_original.mp4
+       Effects: trimmed
+  15. 🎥 05:16.43 → 05:21.43 (5.00s) (Original) - 068_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  16. 🎥 05:21.43 → 05:26.43 (5.00s) (Original) - 069_Meghan_Markle_clip_13_composite.mp4
+       Effects: trimmed
+  17. 🎥 05:26.43 → 05:31.16 (4.73s) (Original) - 070_Meghan_Markle_zxzzx_original.mp4
+       Effects: trimmed
+  18. 🎥 05:31.16 → 05:36.16 (5.00s) (Original) - 071_Meghan_Markle_sfdsfds_original.mp4
+       Effects: trimmed
+  19. 🎥 05:36.16 → 05:41.16 (5.00s) (Original) - 072_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  20. 🎥 05:41.16 → 05:46.16 (5.00s) (Original) - 073_Meghan_Markle_zvz_original.mp4
+       Effects: trimmed
+  21. 🎥 05:46.16 → 05:51.16 (5.00s) (Original) - 074_Meghan_Markle_12321_1_chf3_rhea1_original.mp4
+       Effects: trimmed
+  22. 🎥 05:51.16 → 05:56.16 (5.00s) (Original) - 075_Meghan_Markle_sdsdf_composite.mp4
+       Effects: trimmed
+  23. 🎥 05:56.16 → 06:01.16 (5.00s) (Original) - 076_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  24. 🎥 06:01.16 → 06:01.31 (0.15s) (Original) - 077_Meghan_Markle_21_original.mp4
+       Effects: trimmed
 
-🎬 OPRAH
+🎬 SOUTH PARK
 ----------------------------------------
-   1. 🎥 01:01.37 → 01:03.92 (2.54s) (Original) - 020_Oprah_27_original.mp4
+   1. 🎥 06:01.31 → 06:06.31 (5.00s) (Original) - 078_South_Park_2_composite.mp4
+       Effects: trimmed
+   2. 🎥 06:06.31 → 06:08.74 (2.43s) (Original) - 079_South_Park_3_original.mp4
+       Effects: trimmed
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 06:08.74 → 06:09.21 (0.46s) (Original) - 080_Prince_Harry_clip_9_original.mp4
        Effects: trimmed
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 01:03.92 → 01:07.77 (3.85s) (Original) - 021_Meghan_Markle_28_original.mp4
+   1. 🎥 06:09.21 → 06:14.21 (5.00s) (Original) - 081_Meghan_Markle_123_composite.mp4
        Effects: trimmed
+   2. 🎥 06:14.21 → 06:19.21 (5.00s) (Original) - 082_Meghan_Markle_zcxzxzc_original.mp4
+       Effects: trimmed
+   3. 🎥 06:19.21 → 06:24.21 (5.00s) (Original) - 083_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+   4. 🎥 06:24.21 → 06:29.21 (5.00s) (Original) - 084_Meghan_Markle_1_1_chf3_rhea1_composite.mp4
+       Effects: trimmed
+   5. 🎥 06:29.21 → 06:34.21 (5.00s) (Original) - 085_Meghan_Markle_sdf_original.mp4
+       Effects: trimmed
+   6. 🎥 06:34.21 → 06:39.21 (5.00s) (Original) - 086_Meghan_Markle_dvfv_chf3_rhea1_original.mp4
+       Effects: trimmed
+   7. 🎥 06:39.21 → 06:44.21 (5.00s) (Original) - 087_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+   8. 🎥 06:44.21 → 06:49.21 (5.00s) (Original) - 088_Meghan_Markle_zccvcx_original.mp4
+       Effects: trimmed
+   9. 🎥 06:49.21 → 06:54.21 (5.00s) (Original) - 089_Meghan_Markle_zxzx_chf3_rhea1_original.mp4
+       Effects: trimmed
+  10. 🎥 06:54.21 → 06:59.21 (5.00s) (Original) - 090_Meghan_Markle_xcx_composite.mp4
+       Effects: trimmed
+  11. 🎥 06:59.21 → 07:04.21 (5.00s) (Original) - 091_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  12. 🎥 07:04.21 → 07:09.21 (5.00s) (Original) - 092_Meghan_Markle_clip_13_original.mp4
+       Effects: trimmed
+  13. 🎥 07:09.21 → 07:14.21 (5.00s) (Original) - 093_Meghan_Markle_sadsad_chf3_rhea1_composite.mp4
+       Effects: trimmed
+  14. 🎥 07:14.21 → 07:19.21 (5.00s) (Original) - 094_Meghan_Markle_sfdsfds_original.mp4
+       Effects: trimmed
+  15. 🎥 07:19.21 → 07:24.21 (5.00s) (Original) - 095_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  16. 🎥 07:24.21 → 07:29.21 (5.00s) (Original) - 096_Meghan_Markle_sdfds_composite.mp4
+       Effects: trimmed
+  17. 🎥 07:29.21 → 07:34.21 (5.00s) (Original) - 097_Meghan_Markle_5_1_chf3_rhea1_original.mp4
+       Effects: trimmed
+  18. 🎥 07:34.21 → 07:39.21 (5.00s) (Original) - 098_Meghan_Markle_25_original.mp4
+       Effects: trimmed
+  19. 🎥 07:39.21 → 07:44.21 (5.00s) (Original) - 099_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  20. 🎥 07:44.21 → 07:49.21 (5.00s) (Original) - 100_Meghan_Markle_111_original.mp4
+       Effects: trimmed
+  21. 🎥 07:49.21 → 07:54.21 (5.00s) (Original) - 101_Meghan_Markle_4_original.mp4
+       Effects: trimmed
+  22. 🎥 07:54.21 → 07:59.21 (5.00s) (Original) - 102_Meghan_Markle_24_composite.mp4
+       Effects: trimmed
+  23. 🖼️ 07:59.21 → 08:03.12 (3.91s) (Ken Burns) - Nigeria-Invictus-Games-4_1718089593471_1718089623487.remini-enhanced.png
 
-🎬 OPRAH
+🎬 NETFLIX
 ----------------------------------------
-   1. 🎥 01:07.77 → 01:10.61 (2.84s) (Original) - 022_Oprah_23_original.mp4
+   1. 🎥 08:03.12 → 08:08.12 (5.00s) (Original) - 104_Netflix_2_original.mp4
+       Effects: trimmed
+   2. 🎥 08:08.12 → 08:09.72 (1.60s) (Original) - 105_Netflix_5_composite.mp4
        Effects: trimmed
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 01:10.61 → 01:15.61 (5.00s) (Original) - 023_Meghan_Markle_clip_12_original.mp4
+   1. 🎥 08:09.72 → 08:14.72 (5.00s) (Original) - 106_Meghan_Markle_10_original.mp4
        Effects: trimmed
-   2. 🎥 01:15.61 → 01:19.21 (3.61s) (Original) - 024_Meghan_Markle_31_composite.mp4
+   2. 🎥 08:14.72 → 08:19.72 (5.00s) (Original) - 107_Meghan_Markle_26_original.mp4
        Effects: trimmed
-   3. 🎥 01:19.21 → 01:24.21 (5.00s) (Original) - 025_Meghan_Markle_clip.mp4
+   3. 🎥 08:19.72 → 08:24.72 (5.00s) (Original) - 108_Meghan_Markle_zvz_composite.mp4
+       Effects: trimmed
+   4. 🎥 08:24.72 → 08:29.31 (4.60s) (Original) - 109_Meghan_Markle_clip.mp4
        Effects: ken_burns
-   4. 🎥 01:24.21 → 01:27.43 (3.21s) (Original) - 026_Meghan_Markle_cvcxvx_original.mp4
+   5. 🎥 08:29.31 → 08:34.31 (5.00s) (Original) - 110_Meghan_Markle_xc_original.mp4
        Effects: trimmed
-
-🎬 PRINCE WILLIAM
-----------------------------------------
-   1. 🎥 01:27.43 → 01:28.13 (0.70s) (Original) - 027_Prince_William_2_original.mp4
+   6. 🎥 08:34.31 → 08:39.31 (5.00s) (Original) - 111_Meghan_Markle_31_composite.mp4
        Effects: trimmed
-
-🎬 KATE MIDDLETON
-----------------------------------------
-   1. 🎥 01:28.13 → 01:33.13 (5.00s) (Original) - 028_Kate_Middleton_10_original.mp4
+   7. 🎥 08:39.31 → 08:44.31 (5.00s) (Original) - 112_Meghan_Markle_27_original.mp4
        Effects: trimmed
-   2. 🎥 01:33.13 → 01:36.07 (2.94s) (Original) - 029_Kate_Middleton_clip.mp4
+   8. 🎥 08:44.31 → 08:49.31 (5.00s) (Original) - 113_Meghan_Markle_clip.mp4
        Effects: ken_burns
-
-🎬 PRINCE WILLIAM
-----------------------------------------
-   1. 🎥 01:36.07 → 01:40.48 (4.40s) (Original) - 030_Prince_William_5_composite.mp4
+   9. 🎥 08:49.31 → 08:50.02 (0.70s) (Original) - 114_Meghan_Markle_32_composite.mp4
+       Effects: trimmed
+  10. 🎥 08:50.02 → 08:55.02 (5.00s) (Original) - 115_Meghan_Markle_cvcxvx_original.mp4
+       Effects: trimmed
+  11. 🎥 08:55.02 → 08:55.88 (0.86s) (Original) - 116_Meghan_Markle_xcvcxvcx_original.mp4
+       Effects: trimmed
+  12. 🎥 08:55.88 → 09:00.88 (5.00s) (Original) - 117_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  13. 🎥 09:00.88 → 09:05.88 (5.00s) (Original) - 118_Meghan_Markle_12321_1_chf3_rhea1_original.mp4
+       Effects: trimmed
+  14. 🎥 09:05.88 → 09:10.88 (5.00s) (Original) - 119_Meghan_Markle_dgfdd_original.mp4
+       Effects: trimmed
+  15. 🎥 09:10.88 → 09:15.88 (5.00s) (Original) - 120_Meghan_Markle_28_composite.mp4
+       Effects: trimmed
+  16. 🎥 09:15.88 → 09:20.88 (5.00s) (Original) - 121_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  17. 🎥 09:20.88 → 09:25.88 (5.00s) (Original) - 122_Meghan_Markle_8_original.mp4
+       Effects: trimmed
+  18. 🎥 09:25.88 → 09:30.88 (5.00s) (Original) - 123_Meghan_Markle_1_composite.mp4
+       Effects: trimmed
+  19. 🎥 09:30.88 → 09:35.00 (4.11s) (Original) - 124_Meghan_Markle_asd_chf3_rhea1_original.mp4
        Effects: trimmed
 
-🎬 KATE MIDDLETON
+🎬 PIERS MORGAN
 ----------------------------------------
-   1. 🎥 01:40.48 → 01:45.48 (5.00s) (Original) - 031_Kate_Middleton_7_original.mp4
+   1. 🎥 09:35.00 → 09:39.24 (4.24s) (Original) - 125_Piers_Morgan_6_original.mp4
        Effects: trimmed
-   2. 🎥 01:45.48 → 01:48.48 (3.00s) (Original) - 032_Kate_Middleton_8_original.mp4
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 09:39.24 → 09:44.24 (5.00s) (Original) - 126_Prince_Harry_clip_6_composite.mp4
+       Effects: trimmed
+   2. 🎥 09:44.24 → 09:49.24 (5.00s) (Original) - 127_Prince_Harry_clip.mp4
+       Effects: ken_burns
+   3. 🎥 09:49.24 → 09:52.84 (3.60s) (Original) - 128_Prince_Harry_clip_3_original.mp4
+       Effects: trimmed
+   4. 🎥 09:52.84 → 09:55.63 (2.80s) (Original) - 129_Prince_Harry_5_composite.mp4
        Effects: trimmed
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 01:48.48 → 01:53.48 (5.00s) (Original) - 033_Meghan_Markle_dgfdd_original.mp4
-       Effects: trimmed
-   2. 🎥 01:53.48 → 01:58.48 (5.00s) (Original) - 034_Meghan_Markle_27_original.mp4
-       Effects: trimmed
-   3. 🎥 01:58.48 → 01:59.68 (1.20s) (Original) - 035_Meghan_Markle_clip.mp4
+   1. 🎥 09:55.63 → 10:00.63 (5.00s) (Original) - 130_Meghan_Markle_clip.mp4
        Effects: ken_burns
-
-🎬 BEYONCE
-----------------------------------------
-   1. 🎥 01:59.68 → 02:00.30 (0.62s) (Original) - 036_Beyonce_clip.mp4
+   2. 🎥 10:00.63 → 10:05.63 (5.00s) (Original) - 131_Meghan_Markle_clip_12_original.mp4
+       Effects: trimmed
+   3. 🎥 10:05.63 → 10:10.63 (5.00s) (Original) - 132_Meghan_Markle_zxzzx_composite.mp4
+       Effects: trimmed
+   4. 🎥 10:10.63 → 10:10.92 (0.28s) (Original) - 133_Meghan_Markle_30_original.mp4
+       Effects: trimmed
+   5. 🎥 10:10.92 → 10:15.92 (5.00s) (Original) - 134_Meghan_Markle_clip.mp4
        Effects: ken_burns
-
-🎬 OPRAH
-----------------------------------------
-   1. 🎥 02:00.30 → 02:03.85 (3.55s) (Original) - 037_Oprah_12_original.mp4
+   6. 🎥 10:15.92 → 10:20.92 (5.00s) (Original) - 135_Meghan_Markle_4_chf3_rhea1_composite.mp4
        Effects: trimmed
-
-🎬 MEGHAN MARKLE
-----------------------------------------
-   1. 🎥 02:03.85 → 02:06.40 (2.55s) (Original) - 038_Meghan_Markle_zccvcx_original.mp4
+   7. 🎥 10:20.92 → 10:25.92 (5.00s) (Original) - 136_Meghan_Markle_6_original.mp4
        Effects: trimmed
-
-🎬 KATE MIDDLETON
-----------------------------------------
-   1. 🎥 02:06.40 → 02:09.74 (3.34s) (Original) - 039_Kate_Middleton_16_original.mp4
+   8. 🎥 10:25.92 → 10:30.92 (5.00s) (Original) - 137_Meghan_Markle_zxcxzxz_original.mp4
        Effects: trimmed
-
-🎬 PRINCE WILLIAM
-----------------------------------------
-   1. 🎥 02:09.74 → 02:14.74 (5.00s) (Original) - 040_Prince_William_8_original.mp4
+   9. 🎥 10:30.92 → 10:35.92 (5.00s) (Original) - 138_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+  10. 🎥 10:35.92 → 10:40.92 (5.00s) (Original) - 139_Meghan_Markle_sfsdfsd_original.mp4
+       Effects: trimmed
+  11. 🎥 10:40.92 → 10:45.74 (4.82s) (Original) - 140_Meghan_Markle_zcxzcz_original.mp4
+       Effects: trimmed
+  12. 🎥 10:45.74 → 10:50.74 (5.00s) (Original) - 141_Meghan_Markle_vc_chf3_rhea1_composite.mp4
        Effects: trimmed
 
 --------------------------------------------------------------------------------
@@ -191,79 +364,71 @@ EFFECTS STATISTICS
 --------------------------------------------------------------------------------
 
 Overall Effects Applied:
-  🖼️  Ken Burns (Images): 7 segments
+  🖼️  Ken Burns (Images): 29 segments
   🎬 Composite (Videos): 0 segments
   📱 Split Screen (Conflicts): 0 segments
-  🎥 Original (No effects): 33 segments
-  📊 Total Segments: 40
+  🎥 Original (No effects): 112 segments
+  📊 Total Segments: 141
 
 Effects by Celebrity:
 
-Beyonce:
-  • Total Screen Time: 11.98 seconds (8.9%)
-  • Total Clips: 4
-  • Ken Burns: 1 clips
-  • Composite: 0 clips
-  • Split Screen: 0 clips
-  • Original: 3 clips
-
 Meghan Markle:
-  • Total Screen Time: 77.19 seconds (57.3%)
-  • Total Clips: 21
-  • Ken Burns: 5 clips
+  • Total Screen Time: 552.19 seconds (86.3%)
+  • Total Clips: 119
+  • Ken Burns: 27 clips
   • Composite: 0 clips
   • Split Screen: 0 clips
-  • Original: 16 clips
+  • Original: 92 clips
 
-Prince William:
-  • Total Screen Time: 10.65 seconds (7.9%)
-  • Total Clips: 4
+Piers Morgan:
+  • Total Screen Time: 36.75 seconds (5.7%)
+  • Total Clips: 8
   • Ken Burns: 0 clips
   • Composite: 0 clips
   • Split Screen: 0 clips
-  • Original: 4 clips
-
-Kate Middleton:
-  • Total Screen Time: 25.89 seconds (19.2%)
-  • Total Clips: 7
-  • Ken Burns: 1 clips
-  • Composite: 0 clips
-  • Split Screen: 0 clips
-  • Original: 6 clips
+  • Original: 8 clips
 
 Prince Harry:
-  • Total Screen Time: 0.10 seconds (0.1%)
-  • Total Clips: 1
-  • Ken Burns: 0 clips
+  • Total Screen Time: 36.88 seconds (5.8%)
+  • Total Clips: 10
+  • Ken Burns: 2 clips
   • Composite: 0 clips
   • Split Screen: 0 clips
-  • Original: 1 clips
+  • Original: 8 clips
 
-Oprah:
-  • Total Screen Time: 8.93 seconds (6.6%)
-  • Total Clips: 3
+South Park:
+  • Total Screen Time: 7.43 seconds (1.2%)
+  • Total Clips: 2
   • Ken Burns: 0 clips
   • Composite: 0 clips
   • Split Screen: 0 clips
-  • Original: 3 clips
+  • Original: 2 clips
+
+Netflix:
+  • Total Screen Time: 6.60 seconds (1.0%)
+  • Total Clips: 2
+  • Ken Burns: 0 clips
+  • Composite: 0 clips
+  • Split Screen: 0 clips
+  • Original: 2 clips
 
 --------------------------------------------------------------------------------
 PROCESSING SUMMARY
 --------------------------------------------------------------------------------
 
 📈 Processing Efficiency:
-  • Effects Applied: 7/40 segments (17.5%)
+  • Effects Applied: 29/141 segments (20.6%)
   • Conflicts Resolved: 0 overlapping segments
-  • Images Enhanced: 7 with Ken Burns effect
+  • Images Enhanced: 29 with Ken Burns effect
   • Videos Processed: 0 with composite effects
 
 💾 Output Files:
-  • Location: /Users/superman/Desktop/Clips Assembled/Meghan Test
+  • Location: /Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show
   • Naming: [original]_[effect].mp4
   • Quality: 1920x1080 @ 24 FPS
 
 🎯 Next Steps:
-  1. Review processed segments in: /Users/superman/Desktop/Clips Assembled/Meghan Test
+  1. Review processed segments in: /Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show
   2. Run Final Assembly script to combine all segments
   3. Add voice-over audio to complete the video
 

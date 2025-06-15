@@ -680,16 +680,73 @@ def resolve_conflicts_with_split_screen(segments, split_screen_module):
     
     return new_segments
 
+def find_alternative_file(original_path, celebrity):
+    """Find an alternative file in the same folder when the original fails."""
+    folder = Path(original_path).parent
+    original_filename = Path(original_path).name
+    
+    print(f"\n🔄 FALLBACK: Looking for alternative files...")
+    print(f"   ❌ Original file failed: {original_filename}")
+    print(f"   📁 Searching in: {folder}")
+    
+    # Get all files in the folder
+    try:
+        all_files = [f for f in folder.glob("*") if f.is_file() and not f.name.startswith("._")]
+        
+        # Filter files that might be related to the same celebrity
+        celebrity_keywords = celebrity.lower().split()
+        potential_matches = []
+        
+        for file in all_files:
+            # Skip the original failed file
+            if file.name == original_filename:
+                continue
+                
+            # Check if file matches celebrity name
+            filename_lower = file.name.lower()
+            score = sum(1 for keyword in celebrity_keywords if keyword in filename_lower)
+            
+            if score > 0:
+                potential_matches.append((file, score))
+        
+        # Sort by match score, highest first
+        potential_matches.sort(key=lambda x: x[1], reverse=True)
+        
+        if potential_matches:
+            best_match = potential_matches[0][0]
+            print(f"   ✅ Found alternative: {best_match.name}")
+            print(f"   💡 Using this file instead of the failed one")
+            return best_match
+        else:
+            print(f"   ❌ No suitable alternatives found")
+            return None
+            
+    except Exception as e:
+        print(f"   ❌ Error searching for alternatives: {e}")
+        return None
+
 def process_image_with_ken_burns(segment, ken_burns_exporter):
     """Process an image segment with Ken Burns effect."""
     media = segment['media']
     folder = Path(media['folder'])
     filename = media['file']
     duration = media['duration']
-    celebrity = segment['celebrity']  # Get celebrity name for unique filenames
-    sequence_number = segment.get('sequence_number', 0)  # Get sequence number for ordering
+    celebrity = segment['celebrity']
+    sequence_number = segment.get('sequence_number', 0)
     
     input_path = folder / filename
+    
+    # If original file fails, try to find an alternative
+    if not input_path.exists() or filename.startswith('._'):
+        alternative_file = find_alternative_file(input_path, celebrity)
+        if alternative_file:
+            input_path = alternative_file
+            filename = alternative_file.name
+            media['file'] = filename  # Update the media info with new file
+            print(f"   📝 Updated segment to use alternative file")
+        else:
+            print(f"\n⚠️  SKIPPING: No valid file found for {filename}")
+            return False
     
     # Create a filename that maintains order but avoids special characters
     # Format: 001_Prince_Harry_clip.mp4
@@ -813,10 +870,17 @@ def process_video_with_composite(segment, composite_effect_class, video_index):
     
     input_path = folder / filename
     
-    # Skip invalid files
-    if filename.startswith('._') or not input_path.exists():
-        print(f"\n⚠️  SKIPPING: {filename} (invalid or not found)")
-        return False
+    # If original file fails, try to find an alternative
+    if not input_path.exists() or filename.startswith('._'):
+        alternative_file = find_alternative_file(input_path, celebrity)
+        if alternative_file:
+            input_path = alternative_file
+            filename = alternative_file.name
+            media['file'] = filename  # Update the media info with new file
+            print(f"   📝 Updated segment to use alternative file")
+        else:
+            print(f"\n⚠️  SKIPPING: No valid file found for {filename}")
+            return False
         
     # Create unique filename including celebrity name
     celebrity_safe = celebrity.replace(' ', '_').replace('&', 'and')
