@@ -3,24 +3,24 @@ EFFECTS PROCESSING SUMMARY
 ================================================================================
 
 Video Title: Meghan Test
-Effects Applied: 2025-06-15 11:36:18
-Total Segments: 18
+Effects Applied: 2025-06-15 12:33:50
+Total Segments: 22
 Output Resolution: 1920x1080
 Output FPS: 24
-Composite Interval: Every 2 clips
+Composite Interval: Every 6 clips
 
 --------------------------------------------------------------------------------
 EFFECTS CONFIGURATION
 --------------------------------------------------------------------------------
 
 🎬 Composite Effect:
-   • Apply Interval: Every 2 video clips
+   • Apply Interval: Every 6 video clips
    • Scale Factor: 0.71 (71%)
    • Background: Notion-configured
    • Border Overlay: Assets/Background/Box.png
    • Duration: Trimmed to exact render plan timing
 
-��️  Ken Burns Effect:
+️  Ken Burns Effect:
    • Apply to: All image segments
    • Effect: Random zoom in/out with smooth motion
    • Duration: Matches segment duration exactly
@@ -40,65 +40,76 @@ EFFECTS CONFIGURATION
 TIMELINE OVERVIEW WITH EFFECTS
 --------------------------------------------------------------------------------
 
-🎬 MEGHAN MARKLE
+🎬 BEYONCE
 ----------------------------------------
-   1. 🎥 00:00.00 → 00:05.00 (5.00s) (Original) - 001_Meghan_Markle_1234_original.mp4
+   1. 🎥 00:00.00 → 00:05.00 (5.00s) (Original) - 001_Beyonce_44_original.mp4
        Effects: trimmed
-   2. 🎬 00:05.00 → 00:09.32 (4.32s) (Composite) - 002_Meghan_Markle_cvcxvx_composite.mp4
-       Effects: composite
-
-🎬 PRINCE HARRY
-----------------------------------------
-   1. 🎥 00:09.32 → 00:14.32 (5.00s) (Original) - 003_Prince_Harry_5_original.mp4
+   2. 🎥 00:05.00 → 00:06.87 (1.88s) (Original) - 002_Beyonce_11_original.mp4
        Effects: trimmed
-   2. 🎬 00:14.32 → 00:18.35 (4.04s) (Composite) - 004_Prince_Harry_11_composite.mp4
-       Effects: composite
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 00:18.35 → 00:23.35 (5.00s) (Original) - 005_Meghan_Markle_zvz_original.mp4
+   1. 🎥 00:06.87 → 00:09.12 (2.24s) (Original) - 003_Meghan_Markle_zcxzxzc_original.mp4
        Effects: trimmed
-   2. 🎥 00:23.35 → 00:25.98 (2.63s) (Original) - 006_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-   3. 🎥 00:25.98 → 00:26.33 (0.35s) (Original) - 007_Meghan_Markle_sfsdfsd_original.mp4
+   2. 🎥 00:09.12 → 00:14.12 (5.00s) (Original) - 004_Meghan_Markle_6_original.mp4
        Effects: trimmed
-
-🎬 PRINCE HARRY
-----------------------------------------
-   1. 🎬 00:26.33 → 00:31.33 (5.00s) (Composite) - 008_Prince_Harry_1_composite.mp4
-       Effects: composite
-   2. 🎥 00:31.33 → 00:36.33 (5.00s) (Original) - 009_Prince_Harry_clip.mp4
-       Effects: ken_burns
-   3. 🎬 00:36.33 → 00:37.60 (1.27s) (Composite) - 010_Prince_Harry_clip_14_composite.mp4
-       Effects: composite
-
-🎬 MEGHAN MARKLE
-----------------------------------------
-   1. 🎥 00:37.60 → 00:41.60 (4.00s) (Original) - 011_Meghan_Markle_zxcxzxz_original.mp4
+   3. 🎥 00:14.12 → 00:14.46 (0.35s) (Original) - 005_Meghan_Markle_sfsdfsd_original.mp4
        Effects: trimmed
 
 🎬 BEYONCE
 ----------------------------------------
-   1. 🎬 00:41.60 → 00:46.60 (5.00s) (Composite) - 012_Beyonce_7_composite.mp4
-       Effects: composite
-   2. 🎥 00:46.60 → 00:51.60 (5.00s) (Original) - 013_Beyonce_35_original.mp4
+   1. 🎥 00:14.46 → 00:19.46 (5.00s) (Original) - 006_Beyonce_22_composite.mp4
        Effects: trimmed
-   3. 🎬 00:51.60 → 00:56.60 (5.00s) (Composite) - 014_Beyonce_48_composite.mp4
-       Effects: composite
-   4. 🎥 00:56.60 → 00:57.92 (1.32s) (Original) - 015_Beyonce_clip.mp4
+   2. 🎥 00:19.46 → 00:24.46 (5.00s) (Original) - 007_Beyonce_clip.mp4
        Effects: ken_burns
+   3. 🎥 00:24.46 → 00:26.87 (2.41s) (Original) - 008_Beyonce_15_original.mp4
+       Effects: trimmed
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎬 00:57.92 → 01:02.92 (5.00s) (Composite) - 016_Meghan_Markle_26_composite.mp4
-       Effects: composite
-   2. 🎥 01:02.92 → 01:04.06 (1.15s) (Original) - 017_Meghan_Markle_clip.mp4
+   1. 🎥 00:26.87 → 00:31.87 (5.00s) (Original) - 009_Meghan_Markle_clip.mp4
        Effects: ken_burns
+   2. 🎥 00:31.87 → 00:36.87 (5.00s) (Original) - 010_Meghan_Markle_sadsad_chf3_rhea1_original.mp4
+       Effects: trimmed
+   3. 🎥 00:36.87 → 00:41.87 (5.00s) (Original) - 011_Meghan_Markle_zxzzx_original.mp4
+       Effects: trimmed
+   4. 🎥 00:41.87 → 00:42.58 (0.71s) (Original) - 012_Meghan_Markle_32_composite.mp4
+       Effects: trimmed
+
+🎬 OPRAH
+----------------------------------------
+   1. 🎥 00:42.58 → 00:44.32 (1.73s) (Original) - 013_Oprah_1_original.mp4
+       Effects: trimmed
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 00:44.32 → 00:49.32 (5.00s) (Original) - 014_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+   2. 🎥 00:49.32 → 00:54.32 (5.00s) (Original) - 015_Meghan_Markle_sfdsfds_original.mp4
+       Effects: trimmed
+   3. 🎥 00:54.32 → 00:59.32 (5.00s) (Original) - 016_Meghan_Markle_1_original.mp4
+       Effects: trimmed
+   4. 🎥 00:59.32 → 01:01.98 (2.67s) (Original) - 017_Meghan_Markle_zxzx_chf3_rhea1_original.mp4
+       Effects: trimmed
+   5. 🎥 01:01.98 → 01:02.87 (0.89s) (Original) - 018_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 01:02.87 → 01:07.87 (5.00s) (Original) - 019_Prince_Harry_2_original.mp4
+       Effects: trimmed
+   2. 🎥 01:07.87 → 01:07.88 (0.01s) (Original) - 020_Prince_Harry_5_original.mp4
+       Effects: trimmed
 
 🎬 BEYONCE
 ----------------------------------------
-   1. 🎬 01:04.06 → 01:09.06 (5.00s) (Composite) - 018_Beyonce_27_composite.mp4
-       Effects: composite
+   1. 🎥 01:07.88 → 01:10.99 (3.12s) (Original) - 021_Beyonce_41_original.mp4
+       Effects: trimmed
+
+🎬 OPRAH
+----------------------------------------
+   1. 🎥 01:10.99 → 01:15.99 (5.00s) (Original) - 022_Oprah_26_original.mp4
+       Effects: trimmed
 
 --------------------------------------------------------------------------------
 EFFECTS STATISTICS
@@ -106,46 +117,54 @@ EFFECTS STATISTICS
 
 Overall Effects Applied:
   🖼️  Ken Burns (Images): 4 segments
-  🎬 Composite (Videos): 8 segments
+  🎬 Composite (Videos): 0 segments
   📱 Split Screen (Conflicts): 0 segments
-  🎥 Original (No effects): 6 segments
-  📊 Total Segments: 18
+  🎥 Original (No effects): 18 segments
+  📊 Total Segments: 22
 
 Effects by Celebrity:
 
-Meghan Markle:
-  • Total Screen Time: 27.44 seconds (39.7%)
-  • Total Clips: 8
-  • Ken Burns: 2 clips
-  • Composite: 2 clips
+Beyonce:
+  • Total Screen Time: 22.41 seconds (29.5%)
+  • Total Clips: 6
+  • Ken Burns: 1 clips
+  • Composite: 0 clips
   • Split Screen: 0 clips
-  • Original: 4 clips
+  • Original: 5 clips
+
+Meghan Markle:
+  • Total Screen Time: 41.85 seconds (55.1%)
+  • Total Clips: 12
+  • Ken Burns: 3 clips
+  • Composite: 0 clips
+  • Split Screen: 0 clips
+  • Original: 9 clips
+
+Oprah:
+  • Total Screen Time: 6.73 seconds (8.9%)
+  • Total Clips: 2
+  • Ken Burns: 0 clips
+  • Composite: 0 clips
+  • Split Screen: 0 clips
+  • Original: 2 clips
 
 Prince Harry:
-  • Total Screen Time: 20.31 seconds (29.4%)
-  • Total Clips: 5
-  • Ken Burns: 1 clips
-  • Composite: 3 clips
+  • Total Screen Time: 5.01 seconds (6.6%)
+  • Total Clips: 2
+  • Ken Burns: 0 clips
+  • Composite: 0 clips
   • Split Screen: 0 clips
-  • Original: 1 clips
-
-Beyonce:
-  • Total Screen Time: 21.32 seconds (30.9%)
-  • Total Clips: 5
-  • Ken Burns: 1 clips
-  • Composite: 3 clips
-  • Split Screen: 0 clips
-  • Original: 1 clips
+  • Original: 2 clips
 
 --------------------------------------------------------------------------------
 PROCESSING SUMMARY
 --------------------------------------------------------------------------------
 
 📈 Processing Efficiency:
-  • Effects Applied: 12/18 segments (66.7%)
+  • Effects Applied: 4/22 segments (18.2%)
   • Conflicts Resolved: 0 overlapping segments
   • Images Enhanced: 4 with Ken Burns effect
-  • Videos Processed: 8 with composite effects
+  • Videos Processed: 0 with composite effects
 
 💾 Output Files:
   • Location: /Users/superman/Desktop/Clips Assembled/Meghan Test

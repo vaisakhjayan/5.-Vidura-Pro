@@ -8,8 +8,8 @@
     "detections": [
         {
             "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Meghan",
+            "keyword": "Beyonce",
+            "matched_text": "Beyonce",
             "timestamp": 0.0,
             "formatted_timestamp": "0.00",
             "segment_start": 0.0,
@@ -17,76 +17,103 @@
         },
         {
             "type": "main",
-            "keyword": "Prince Harry",
-            "matched_text": "prince harry",
-            "timestamp": 9.32,
-            "formatted_timestamp": "9.32",
-            "segment_start": 9.32,
-            "word_level_detection": false
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 6.878,
+            "formatted_timestamp": "6.88",
+            "segment_start": 5.28,
+            "word_level_detection": true
         },
         {
             "type": "main",
             "keyword": "Meghan Markle",
             "matched_text": "Meghan",
-            "timestamp": 18.36,
-            "formatted_timestamp": "18.36",
-            "segment_start": 18.36,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Meghan",
-            "timestamp": 25.99,
-            "formatted_timestamp": "25.99",
-            "segment_start": 24.16,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Prince Harry",
-            "matched_text": "Harry",
-            "timestamp": 26.336,
-            "formatted_timestamp": "26.34",
-            "segment_start": 24.16,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Meghan's",
-            "timestamp": 37.605,
-            "formatted_timestamp": "37.60",
-            "segment_start": 37.04,
-            "word_level_detection": true
-        },
-        {
-            "type": "main",
-            "keyword": "Beyonce",
-            "matched_text": "Beyonc\u00e9",
-            "timestamp": 41.6,
-            "formatted_timestamp": "41.60",
-            "segment_start": 41.6,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Megan",
-            "timestamp": 57.921,
-            "formatted_timestamp": "57.92",
-            "segment_start": 57.84,
+            "timestamp": 9.122,
+            "formatted_timestamp": "9.12",
+            "segment_start": 8.92,
             "word_level_detection": true
         },
         {
             "type": "main",
             "keyword": "Beyonce",
             "matched_text": "Beyonce",
-            "timestamp": 64.069,
-            "formatted_timestamp": "1:04.07",
-            "segment_start": 62.92,
+            "timestamp": 14.469,
+            "formatted_timestamp": "14.47",
+            "segment_start": 13.08,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 26.88,
+            "formatted_timestamp": "26.88",
+            "segment_start": 26.88,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Oprah",
+            "matched_text": "Oprah",
+            "timestamp": 42.585,
+            "formatted_timestamp": "42.59",
+            "segment_start": 39.84,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 44.32,
+            "formatted_timestamp": "44.32",
+            "segment_start": 44.32,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 61.986,
+            "formatted_timestamp": "1:01.99",
+            "segment_start": 61.2,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry",
+            "timestamp": 62.873,
+            "formatted_timestamp": "1:02.87",
+            "segment_start": 61.2,
+            "word_level_detection": true
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Megan",
+            "timestamp": 67.88000000000001,
+            "formatted_timestamp": "1:07.88",
+            "segment_start": 67.88000000000001,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Beyonce",
+            "matched_text": "Beyonc\u00e9",
+            "timestamp": 67.88000000000001,
+            "formatted_timestamp": "1:07.88",
+            "segment_start": 67.88000000000001,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Oprah",
+            "matched_text": "Oprah",
+            "timestamp": 70.999,
+            "formatted_timestamp": "1:11.00",
+            "segment_start": 67.88000000000001,
             "word_level_detection": true
         }
     ],
-    "timestamp": "2025-06-15T11:18:25.298221"
+    "timestamp": "2025-06-15T12:33:45.877088"
 }

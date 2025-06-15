@@ -2,19 +2,19 @@
     "video_info": {
         "title": "Meghan Test",
         "output_file": "final_render.mp4",
-        "generated_at": "2025-06-15 11:36:18"
+        "generated_at": "2025-06-15 12:33:50"
     },
     "segments": [
         {
             "start_time": 0.0,
             "end_time": 5.0,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Beyonce",
             "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Beyonce",
                 "type": "video",
                 "duration": 5.0,
-                "file": "1234.mp4"
+                "file": "44.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -22,43 +22,13 @@
         },
         {
             "start_time": 5.0,
-            "end_time": 9.32,
+            "end_time": 6.878,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Beyonce",
             "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Beyonce",
                 "type": "video",
-                "duration": 4.32,
-                "file": "cvcxvx.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 9.32,
-            "end_time": 14.32,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
-                "type": "video",
-                "duration": 5.0,
-                "file": "5.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 14.32,
-            "end_time": 18.36,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
-                "type": "video",
-                "duration": 4.039999999999999,
+                "duration": 1.8780000000000001,
                 "file": "11.mp4"
             },
             "transcription_context": [
@@ -66,44 +36,44 @@
             ]
         },
         {
-            "start_time": 18.36,
-            "end_time": 23.36,
+            "start_time": 6.878,
+            "end_time": 9.122,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 2.2439999999999998,
+                "file": "zcxzxzc.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 9.122,
+            "end_time": 14.122,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
                 "type": "video",
                 "duration": 5.0,
-                "file": "zvz.mp4"
+                "file": "6.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ]
         },
         {
-            "start_time": 23.36,
-            "end_time": 25.99,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
-                "type": "image",
-                "duration": 2.629999999999999,
-                "file": "Meghan-Markle-news-6184453.remini-enhanced.jpg"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 25.99,
-            "end_time": 26.336,
+            "start_time": 14.122,
+            "end_time": 14.469,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
                 "type": "video",
-                "duration": 0.3460000000000001,
+                "duration": 0.34699999999999953,
                 "file": "sfsdfsd.mp4"
             },
             "transcription_context": [
@@ -111,12 +81,162 @@
             ]
         },
         {
-            "start_time": 26.336,
-            "end_time": 31.336,
+            "start_time": 14.469,
+            "end_time": 19.469,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Beyonce",
             "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Beyonce",
+                "type": "video",
+                "duration": 5.000000000000002,
+                "file": "22.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 19.469,
+            "end_time": 24.469,
+            "type": "celebrity_overlay",
+            "celebrity": "Beyonce",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Beyonce",
+                "type": "image",
+                "duration": 5.0,
+                "file": "beyonce-at-grammys.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 24.469,
+            "end_time": 26.88,
+            "type": "celebrity_overlay",
+            "celebrity": "Beyonce",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Beyonce",
+                "type": "video",
+                "duration": 2.410999999999998,
+                "file": "15.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 26.88,
+            "end_time": 31.88,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 5.0,
+                "file": "602551_6488787_updates.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 31.88,
+            "end_time": 36.879999999999995,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 4.9999999999999964,
+                "file": "sadsad_chf3_rhea1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 36.879999999999995,
+            "end_time": 41.879999999999995,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "zxzzx.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 41.879999999999995,
+            "end_time": 42.585,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 0.7050000000000054,
+                "file": "32.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 42.585,
+            "end_time": 44.32,
+            "type": "celebrity_overlay",
+            "celebrity": "Oprah",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Oprah",
+                "type": "video",
+                "duration": 1.7349999999999994,
+                "file": "1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 44.32,
+            "end_time": 49.32,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 5.0,
+                "file": "prince-harry-meghan-markle.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 49.32,
+            "end_time": 54.32,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "sfdsfds.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 54.32,
+            "end_time": 59.32,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
                 "type": "video",
                 "duration": 5.0,
                 "file": "1.mp4"
@@ -126,150 +246,90 @@
             ]
         },
         {
-            "start_time": 31.336,
-            "end_time": 36.336,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
-                "type": "image",
-                "duration": 5.0,
-                "file": "Prince-Harry-and-William-Diana-Statue-GettyImages-1233751240-H-2024.remini-enhanced.jpg"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 36.336,
-            "end_time": 37.605,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
-                "type": "video",
-                "duration": 1.2689999999999984,
-                "file": "clip_14.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 37.605,
-            "end_time": 41.6,
+            "start_time": 59.32,
+            "end_time": 61.986,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
                 "type": "video",
-                "duration": 3.9950000000000045,
-                "file": "zxcxzxz.mp4"
+                "duration": 2.665999999999997,
+                "file": "zxzx_chf3_rhea1.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ]
         },
         {
-            "start_time": 41.6,
-            "end_time": 46.6,
-            "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Beyonce",
-                "type": "video",
-                "duration": 5.0,
-                "file": "7.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 46.6,
-            "end_time": 51.6,
-            "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Beyonce",
-                "type": "video",
-                "duration": 5.0,
-                "file": "35.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 51.6,
-            "end_time": 56.6,
-            "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Beyonce",
-                "type": "video",
-                "duration": 5.0,
-                "file": "48.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 56.6,
-            "end_time": 57.921,
-            "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Beyonce",
-                "type": "image",
-                "duration": 1.320999999999998,
-                "file": "72579113007-beyonce.remini-enhanced.jpg"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 57.921,
-            "end_time": 62.921,
+            "start_time": 61.986,
+            "end_time": 62.873,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 0.8870000000000005,
+                "file": "meghan-markle-the-wider-earth-gala-performance-london-052725-50d8f34a23434e36b46f06e4cfb7b6f6.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 62.873,
+            "end_time": 67.87299999999999,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 4.999999999999993,
+                "file": "2.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 67.87299999999999,
+            "end_time": 67.88000000000001,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 0.007000000000019213,
+                "file": "5.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 67.88000000000001,
+            "end_time": 70.999,
+            "type": "celebrity_overlay",
+            "celebrity": "Beyonce",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Beyonce",
+                "type": "video",
+                "duration": 3.1189999999999856,
+                "file": "41.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 70.999,
+            "end_time": 75.999,
+            "type": "celebrity_overlay",
+            "celebrity": "Oprah",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Oprah",
                 "type": "video",
                 "duration": 5.0,
                 "file": "26.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 62.921,
-            "end_time": 64.069,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
-                "type": "image",
-                "duration": 1.1480000000000032,
-                "file": "17338289612880.remini-enhanced.jpg"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 64.069,
-            "end_time": 69.069,
-            "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Beyonce",
-                "type": "video",
-                "duration": 5.0,
-                "file": "27.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"

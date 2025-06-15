@@ -8,6 +8,8 @@ import re
 import requests
 import platform
 import subprocess
+import cv2
+import numpy as np
 
 # Platform-specific configuration
 SYSTEM = platform.system().lower()
@@ -30,10 +32,11 @@ def get_ffmpeg_config():
         }
     elif SYSTEM == 'darwin':  # macOS
         return {
-            'hwaccel': 'videotoolbox',  # macOS hardware acceleration
-            'video_codec': 'h264_videotoolbox',  # macOS hardware encoder
-            'preset': 'medium',
-            'pixel_format': 'yuv420p'
+            'hwaccel': 'videotoolbox',
+            'video_codec': 'h264_videotoolbox',
+            'preset': None,  # videotoolbox doesn't use presets
+            'pixel_format': 'nv12',  # Better compatibility with videotoolbox
+            'extra_options': ['-allow_sw', '1']  # Allow software fallback if needed
         }
     else:  # Linux or other
         return {
@@ -800,255 +803,158 @@ def process_image_with_ken_burns(segment, ken_burns_exporter):
         return False
 
 def process_video_with_composite(segment, composite_effect_class, video_index):
-    """Process a video segment with optional Composite effect based on configuration."""
+    """Process a video segment with optional effects."""
     media = segment['media']
     folder = Path(media['folder'])
     filename = media['file']
     duration = media['duration']
-    celebrity = segment['celebrity']  # Get celebrity name for unique filenames
-    sequence_number = segment.get('sequence_number', video_index)  # Get sequence number for ordering
+    celebrity = segment['celebrity']
+    sequence_number = segment.get('sequence_number', video_index)
     
     input_path = folder / filename
     
-    # Check for invalid/corrupted files that should be skipped
-    if filename.startswith('._'):
-        print(f"\n⚠️  SKIPPING: {filename} (macOS metadata file - not a valid video)")
+    # Skip invalid files
+    if filename.startswith('._') or not input_path.exists():
+        print(f"\n⚠️  SKIPPING: {filename} (invalid or not found)")
         return False
-    
-    if not input_path.exists():
-        print(f"\n⚠️  SKIPPING: {filename} (file not found)")
-        return False
-    
-    # Quick validation check for video file integrity
-    try:
-        # Quick ffprobe check to see if file is valid
-        result = subprocess.run([
-            'ffprobe', '-v', 'quiet', '-print_format', 'json', 
-            '-show_format', str(input_path)
-        ], capture_output=True, timeout=5)
         
-        if result.returncode != 0:
-            print(f"\n⚠️  SKIPPING: {filename} (corrupted or invalid video file)")
-            return False
-            
-    except Exception as e:
-        print(f"\n⚠️  SKIPPING: {filename} (validation failed: {e})")
-        return False
+    # Create unique filename including celebrity name
+    celebrity_safe = celebrity.replace(' ', '_').replace('&', 'and')
+    output_filename = f"{sequence_number:03d}_{celebrity_safe}_{Path(filename).stem}_original.mp4"
+    output_path = Path(config.OUTPUT_FOLDER) / output_filename
     
-    # Check if this video should get composite effect based on configuration
+    print(f"\n📹 Processing VIDEO: {filename} (Index: {video_index})")
+    print(f"   Celebrity: {celebrity}")
+    print(f"   Sequence: {sequence_number:03d} (for timeline ordering)")
+    print(f"   Duration: {duration} seconds")
+    
+    # Check if composite effect should be applied
     should_apply_composite = (
         (video_index - config.COMPOSITE_START_INDEX) >= 0 and 
         (video_index - config.COMPOSITE_START_INDEX) % config.COMPOSITE_APPLY_INTERVAL == 0
     )
     
-    # Render to configured temp folder
-    temp_folder = Path(config.OUTPUT_FOLDER)
-    temp_folder.mkdir(exist_ok=True)
-    
-    # Create UNIQUE filename with sequence number for perfect timeline ordering
-    celebrity_safe = celebrity.replace(' ', '_').replace('&', 'and')
-    
     if should_apply_composite:
         # Apply composite effect
         output_filename = f"{sequence_number:03d}_{celebrity_safe}_{Path(filename).stem}_composite.mp4"
-        output_path = temp_folder / output_filename
+        output_path = Path(config.OUTPUT_FOLDER) / output_filename
         
-        print(f"\n🎬 Processing VIDEO: {filename} (Index: {video_index})")
-        print(f"   Celebrity: {celebrity}")
-        print(f"   Sequence: {sequence_number:03d} (for timeline ordering)")
-        print(f"   Duration: {duration} seconds")
         print(f"   🎨 COMPOSITE EFFECT: Scale + Background + Border overlay")
         print(f"   Config: Every {config.COMPOSITE_APPLY_INTERVAL} clips starting from {config.COMPOSITE_START_INDEX}")
-        print(f"   Timeline Output: {output_filename}")
-        print(f"   Output location: {temp_folder}")
         
         try:
-            # Create composite effect instance with Notion background
+            # Create composite effect instance
             composite = composite_effect_class(
                 output_width=config.OUTPUT_WIDTH,
                 output_height=config.OUTPUT_HEIGHT,
                 fps=config.OUTPUT_FPS,
                 scale_factor=config.COMPOSITE_SCALE_FACTOR,
-                notion_token="ntn_cC7520095381SElmcgTOADYsGnrABFn2ph1PrcaGSst2dv",  # Use Notion for background
-                ffmpeg_config=FFMPEG_CONFIG  # Pass platform-specific FFmpeg config
+                notion_token=config.NOTION_TOKEN,
+                ffmpeg_config=FFMPEG_CONFIG
             )
             
-            # Apply composite effect using FFmpeg (much faster)
-            try:
-                composite.create_composite_ffmpeg(
-                    main_video_path=str(input_path),
-                    output_path=str(output_path),
-                    max_duration=duration
-                )
-                method = f"FFmpeg ({FFMPEG_CONFIG['hwaccel'] or 'CPU'} accelerated)"
-            except Exception as ffmpeg_error:
-                print(f"   FFmpeg failed: {ffmpeg_error}")
-                print(f"   Trying OpenCV fallback...")
-                composite.create_composite(
-                    main_video_path=str(input_path),
-                    output_path=str(output_path),
-                    max_duration=duration
-                )
-                method = "OpenCV (CPU optimized)"
+            # Process border overlay
+            border_path = Path(current_dir).parent / "Assets" / "Background" / "Box.png"
+            if border_path.exists():
+                process_png_overlay(border_path)
             
-            print(f"   ✓ Composite effect applied successfully!")
-            print(f"   Method: {method}")
+            # Apply composite effect using FFmpeg
+            success = composite.create_composite_ffmpeg(
+                main_video_path=str(input_path),
+                output_path=str(output_path),
+                max_duration=duration
+            )
+            
+            if success:
+                print(f"   ✓ Composite effect applied successfully!")
+                segment['media']['file'] = output_filename
+                segment['media']['folder'] = str(config.OUTPUT_FOLDER)
+                segment['effects_applied'] = ['composite']
+                return True
+                
+        except Exception as e:
+            print(f"   ✗ Composite effect failed: {e}")
+            print(f"   🔄 Falling back to trimming original video")
+    
+    # If no composite effect or composite failed, trim the video
+    print(f"   🚫 NO COMPOSITE EFFECT (Config: Every {config.COMPOSITE_APPLY_INTERVAL} clips)")
+    print(f"   ✂️  Trimming to exact duration: {duration:.3f} seconds")
+    print(f"   📐 This prevents timeline drift in your video editor")
+    
+    try:
+        # Get video start time
+        probe_cmd = [
+            'ffprobe', '-v', 'quiet', '-print_format', 'json',
+            '-show_format', '-show_streams', str(input_path)
+        ]
+        probe_result = subprocess.run(probe_cmd, capture_output=True, text=True)
+        video_info = json.loads(probe_result.stdout)
+        start_time = float(video_info['format'].get('start_time', '0'))
+        
+        # Build FFmpeg command
+        ffmpeg_cmd = ['ffmpeg', '-y']
+        
+        # Add hardware acceleration if available
+        if FFMPEG_CONFIG['hwaccel']:
+            ffmpeg_cmd.extend(['-hwaccel', FFMPEG_CONFIG['hwaccel']])
+        
+        # Input file
+        ffmpeg_cmd.extend(['-i', str(input_path)])
+        
+        # Add platform-specific options after input
+        if 'extra_options' in FFMPEG_CONFIG:
+            ffmpeg_cmd.extend(FFMPEG_CONFIG['extra_options'])
+        
+        # Add trimming and encoding options
+        ffmpeg_cmd.extend([
+            '-ss', str(start_time),
+            '-t', str(duration),
+            '-c:v', FFMPEG_CONFIG['video_codec'],
+            '-c:a', 'aac'
+        ])
+        
+        # Add preset if specified
+        if FFMPEG_CONFIG['preset']:
+            ffmpeg_cmd.extend(['-preset', FFMPEG_CONFIG['preset']])
+        
+        # Add common output options
+        ffmpeg_cmd.extend([
+            '-pix_fmt', FFMPEG_CONFIG['pixel_format'],
+            '-fps_mode', 'cfr',
+            '-r', str(config.OUTPUT_FPS),
+            str(output_path)
+        ])
+        
+        # Run FFmpeg
+        result = subprocess.run(ffmpeg_cmd, capture_output=True, text=True)
+        
+        if result.returncode == 0:
+            print(f"   ✓ Video trimmed successfully to {duration:.3f}s")
+            print(f"   Timeline Output: {output_filename}")
             print(f"   Output: {output_path}")
             
-            # Update the segment to point to the new video file
             segment['media']['file'] = output_filename
-            segment['media']['folder'] = str(temp_folder)
-            segment['effects_applied'] = ['composite']  # Track applied effects
-            
+            segment['media']['folder'] = str(config.OUTPUT_FOLDER)
+            segment['effects_applied'] = ['trimmed']
             return True
+        else:
+            print(f"   ✗ FFmpeg error: {result.stderr}")
+            raise Exception("FFmpeg trimming failed")
             
-        except Exception as e:
-            print(f"   ✗ Failed to apply composite effect: {e}")
-            print(f"   📝 Suggestion: Check if {filename} is a valid video file")
-            
-            # Instead of failing completely, copy the original as fallback
-            try:
-                fallback_filename = f"{sequence_number:03d}_{celebrity_safe}_{Path(filename).stem}_original.mp4"
-                fallback_path = temp_folder / fallback_filename
-                
-                print(f"   🔄 Composite failed, trimming original to exact duration as fallback")
-                print(f"   ✂️  Trimming to: {duration:.3f} seconds")
-                
-                # Use FFmpeg to trim the original video to exact duration with platform-specific settings
-                ffmpeg_cmd = [
-                    'ffmpeg', '-y'
-                ]
-                
-                # Add hardware acceleration if available
-                if FFMPEG_CONFIG['hwaccel']:
-                    ffmpeg_cmd.extend(['-hwaccel', FFMPEG_CONFIG['hwaccel']])
-                
-                ffmpeg_cmd.extend([
-                    '-i', str(input_path),
-                    '-t', str(duration),
-                    '-c:v', FFMPEG_CONFIG['video_codec'],
-                    '-c:a', 'aac',
-                    '-preset', FFMPEG_CONFIG['preset'],
-                    '-pix_fmt', FFMPEG_CONFIG['pixel_format'],
-                    str(fallback_path)
-                ])
-                
-                result = subprocess.run(ffmpeg_cmd, capture_output=True, text=True)
-                
-                if result.returncode == 0:
-                    print(f"   ✓ Fallback: Original trimmed to {duration:.3f}s")
-                    segment['media']['file'] = fallback_filename
-                    segment['media']['folder'] = str(temp_folder)
-                    segment['effects_applied'] = ['trimmed']
-                    return True
-                else:
-                    # If trimming fails, do simple copy as last resort
-                    print(f"   ⚠️  Trimming failed, doing simple copy (may cause timeline drift)")
-                    import shutil
-                    shutil.copy2(str(input_path), str(fallback_path))
-                    segment['media']['file'] = fallback_filename
-                    segment['media']['folder'] = str(temp_folder)
-                    segment['effects_applied'] = []
-                    return True
-                
-            except Exception as copy_error:
-                print(f"   ✗ Fallback copy also failed: {copy_error}")
-                return False
-    
-    else:
-        # Skip composite effect - just copy/reference original with unique name
-        print(f"\n📹 Processing VIDEO: {filename} (Index: {video_index})")
-        print(f"   Celebrity: {celebrity}")
-        print(f"   Sequence: {sequence_number:03d} (for timeline ordering)")
-        print(f"   Duration: {duration} seconds")
-        print(f"   🚫 NO COMPOSITE EFFECT (Config: Every {config.COMPOSITE_APPLY_INTERVAL} clips)")
-        print(f"   Reason: Index {video_index} not in composite schedule")
-        
-        # Create unique filename including celebrity name
-        output_filename = f"{sequence_number:03d}_{celebrity_safe}_{Path(filename).stem}_original.mp4"
-        output_path = temp_folder / output_filename
+    except Exception as e:
+        print(f"   ✗ Error processing video: {e}")
+        print(f"   🔄 Falling back to simple copy (will cause timeline drift)")
         
         try:
-            # Trim video to exact duration using FFmpeg with platform-specific settings
-            print(f"   ✂️  Trimming to exact duration: {duration:.3f} seconds")
-            print(f"   📐 This prevents timeline drift in your video editor")
-            
-            # Use FFmpeg to trim video to exact duration
-            ffmpeg_cmd = [
-                'ffmpeg', '-y'  # -y to overwrite output file
-            ]
-            
-            # Add hardware acceleration if available
-            if FFMPEG_CONFIG['hwaccel']:
-                ffmpeg_cmd.extend(['-hwaccel', FFMPEG_CONFIG['hwaccel']])
-            
-            # Get video start time using ffprobe
-            probe_cmd = [
-                'ffprobe', '-v', 'quiet', '-print_format', 'json',
-                '-show_format', '-show_streams', str(input_path)
-            ]
-            probe_result = subprocess.run(probe_cmd, capture_output=True, text=True)
-            video_info = json.loads(probe_result.stdout)
-            
-            # Get start time and input fps
-            start_time = float(video_info['format'].get('start_time', '0'))
-            
-            # Add input with precise seeking
-            ffmpeg_cmd.extend([
-                '-i', str(input_path),  # Input file
-                '-ss', str(start_time),  # Seek to start_time
-                '-t', str(duration),     # Trim to exact duration
-                '-c:v', FFMPEG_CONFIG['video_codec'],  # Platform-specific video codec
-                '-c:a', 'aac',           # Audio codec  
-                '-preset', FFMPEG_CONFIG['preset'],  # Platform-specific preset
-                '-pix_fmt', FFMPEG_CONFIG['pixel_format'],  # Platform-specific pixel format
-                '-vsync', 'cfr',         # Force constant frame rate
-                '-r', str(config.OUTPUT_FPS),  # Force output fps
-                '-fflags', '+genpts',    # Generate presentation timestamps
-                '-avoid_negative_ts', 'make_zero',  # Fix timestamp issues
-                str(output_path)         # Output file
-            ])
-            
-            result = subprocess.run(ffmpeg_cmd, capture_output=True, text=True)
-            
-            if result.returncode == 0:
-                print(f"   ✓ Video trimmed successfully to {duration:.3f}s")
-                print(f"   Timeline Output: {output_filename}")
-                print(f"   Output: {output_path}")
-                
-                # Update the segment to point to the trimmed file
-                segment['media']['file'] = output_filename
-                segment['media']['folder'] = str(temp_folder)
-                segment['effects_applied'] = ['trimmed']  # Track that it was trimmed
-                
-                return True
-            else:
-                print(f"   ✗ FFmpeg trimming failed: {result.stderr}")
-                raise Exception(f"FFmpeg failed: {result.stderr}")
-                
-        except Exception as e:
-            print(f"   ✗ Failed to trim video with FFmpeg: {e}")
-            print(f"   🔄 Falling back to simple copy (will cause timeline drift)")
-            
-            try:
-                # Fallback: Simple copy (will cause timeline issues but at least works)
-                import shutil
-                shutil.copy2(str(input_path), str(output_path))
-                
-                print(f"   ⚠️  WARNING: Copied full-length file - may cause timeline drift")
-                print(f"   Timeline Output: {output_filename}")
-                print(f"   Output: {output_path}")
-                
-                # Update the segment to point to the copied file
-                segment['media']['file'] = output_filename
-                segment['media']['folder'] = str(temp_folder)
-                segment['effects_applied'] = []  # No effects applied
-                
-                return True
-                
-            except Exception as copy_error:
-                print(f"   ✗ Fallback copy also failed: {copy_error}")
-                return False
+            shutil.copy2(str(input_path), str(output_path))
+            print(f"   ⚠️  WARNING: Copied full-length file - may cause timeline drift")
+            segment['media']['file'] = output_filename
+            segment['media']['folder'] = str(config.OUTPUT_FOLDER)
+            segment['effects_applied'] = []
+            return True
+        except Exception as copy_error:
+            print(f"   ✗ All processing methods failed: {copy_error}")
+            return False
 
 def create_human_readable_effects_summary(render_plan):
     """Create a human-readable text summary of the effects applied to segments."""
@@ -1081,7 +987,7 @@ def create_human_readable_effects_summary(render_plan):
             f.write(f"   • Border Overlay: Assets/Background/Box.png\n")
             f.write(f"   • Duration: Trimmed to exact render plan timing\n\n")
             
-            f.write(f"��️  Ken Burns Effect:\n")
+            f.write(f"️  Ken Burns Effect:\n")
             f.write(f"   • Apply to: All image segments\n")
             f.write(f"   • Effect: Random zoom in/out with smooth motion\n")
             f.write(f"   • Duration: Matches segment duration exactly\n\n")
@@ -1469,6 +1375,44 @@ def create_drag_drop_workflow_summary(render_plan):
         
     except Exception as e:
         print(f"✗ Error creating workflow guide: {str(e)}")
+        return False
+
+def process_png_overlay(png_path):
+    """Process PNG overlay to ensure proper color profile and transparency."""
+    try:
+        # Read PNG with OpenCV
+        img = cv2.imread(str(png_path), cv2.IMREAD_UNCHANGED)
+        
+        if img is None:
+            print(f"Warning: Could not load PNG overlay: {png_path}")
+            return None
+            
+        # If image has an alpha channel
+        if img.shape[2] == 4:
+            # Split into color and alpha
+            bgr = img[:, :, :3]
+            alpha = img[:, :, 3]
+            
+            # Convert to RGB color space
+            rgb = cv2.cvtColor(bgr, cv2.COLOR_BGR2RGB)
+            
+            # Create temporary file path
+            temp_path = Path(png_path).parent / f"temp_{Path(png_path).name}"
+            
+            # Save with correct color profile
+            cv2.imwrite(
+                str(temp_path),
+                cv2.merge([rgb, alpha]),
+                [cv2.IMWRITE_PNG_COMPRESSION, 9]
+            )
+            
+            # Replace original with processed version
+            shutil.move(str(temp_path), str(png_path))
+            
+            print("✓ PNG overlay processed for correct color profile")
+            return True
+    except Exception as e:
+        print(f"Warning: Error processing PNG overlay: {e}")
         return False
 
 def main():

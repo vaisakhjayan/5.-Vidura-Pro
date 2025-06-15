@@ -1,7 +1,7 @@
 {
   "export_metadata": {
     "total_files_processed": 1,
-    "export_timestamp": "2025-06-15T11:16:37.098648",
+    "export_timestamp": "2025-06-15T12:33:41.029754",
     "exported_from": "Audio Transcription System",
     "dry_run_mode": {
       "enabled": false,
@@ -20,677 +20,966 @@
       "segments": [
         {
           "start": 0.0,
-          "end": 1.92,
-          "text": "Meghan Markle has remained a lightning rod",
-          "original_transcription": "Meghan Markle has remained a lightning rod",
+          "end": 5.28,
+          "text": "Beyonce, a global icon and symbol of empowerment, has often used her platform to uplift voices",
+          "original_transcription": "Beyonce, a global icon and symbol of empowerment, has often used her platform to uplift voices",
           "was_corrected": false,
           "words": [
             {
               "start": 0.0,
-              "end": 0.245,
-              "text": "Meghan",
+              "end": 0.504,
+              "text": "Beyonce,",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 0.266,
-              "end": 0.551,
-              "text": "Markle",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 0.572,
-              "end": 0.674,
-              "text": "has",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 0.735,
-              "end": 1.164,
-              "text": "remained",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 1.185,
-              "end": 1.205,
+              "start": 0.564,
+              "end": 0.584,
               "text": "a",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 1.226,
-              "end": 1.573,
-              "text": "lightning",
+              "start": 0.645,
+              "end": 0.967,
+              "text": "global",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 1.695,
-              "end": 1.94,
-              "text": "rod",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 1.92,
-          "end": 4.68,
-          "text": "in global media conversations, balancing fame,",
-          "original_transcription": "in global media conversations, balancing fame,",
-          "was_corrected": false
-        },
-        {
-          "start": 4.68,
-          "end": 7.4,
-          "text": "scrutiny, and the pursuit of independence.",
-          "original_transcription": "scrutiny, and the pursuit of independence.",
-          "was_corrected": false
-        },
-        {
-          "start": 7.4,
-          "end": 9.32,
-          "text": "ever since she stepped away From royal duties",
-          "original_transcription": "Ever since she stepped away from royal duties",
-          "was_corrected": true
-        },
-        {
-          "start": 9.32,
-          "end": 10.6,
-          "text": "alongside Prince Harry,",
-          "original_transcription": "alongside Prince Harry,",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 9.32,
-              "end": 9.857,
-              "text": "alongside",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 9.919,
-              "end": 10.146,
-              "text": "Prince",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 10.187,
-              "end": 10.621,
-              "text": "Harry,",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 10.6,
-          "end": 13.120000000000001,
-          "text": "the couple has faced both criticism and praise",
-          "original_transcription": "the couple has faced both criticism and praise",
-          "was_corrected": false
-        },
-        {
-          "start": 13.120000000000001,
-          "end": 14.96,
-          "text": "for carving their own path.",
-          "original_transcription": "for carving their own path.",
-          "was_corrected": false
-        },
-        {
-          "start": 14.96,
-          "end": 18.36,
-          "text": "From controversial interviews to high profile brand deals,",
-          "original_transcription": "From controversial interviews to high profile brand deals,",
-          "was_corrected": false
-        },
-        {
-          "start": 18.36,
-          "end": 20.12,
-          "text": "Meghan has redefined what it means",
-          "original_transcription": "Meghan has redefined what it means",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 18.36,
-              "end": 18.667,
-              "text": "Meghan",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 18.687,
-              "end": 18.79,
-              "text": "has",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 18.872,
-              "end": 19.527,
-              "text": "redefined",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 19.588,
-              "end": 19.711,
-              "text": "what",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 19.752,
-              "end": 19.793,
-              "text": "it",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 19.854,
-              "end": 20.14,
-              "text": "means",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 20.12,
-          "end": 21.96,
-          "text": "to be royal in the modern world.",
-          "original_transcription": "to be royal in the modern world.",
-          "was_corrected": false
-        },
-        {
-          "start": 21.96,
-          "end": 24.16,
-          "text": "Amid the chaos, one moment that stood out",
-          "original_transcription": "Amid the chaos, one moment that stood out",
-          "was_corrected": false
-        },
-        {
-          "start": 24.16,
-          "end": 26.6,
-          "text": "in its quiet solemnity was Meghan and Harry",
-          "original_transcription": "in its quiet solemnity was Meghan and Harry",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 24.16,
-              "end": 24.241,
-              "text": "in",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 24.343,
-              "end": 24.404,
-              "text": "its",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 24.485,
-              "end": 24.892,
-              "text": "quiet",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 24.953,
-              "end": 25.624,
-              "text": "solemnity",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 25.787,
-              "end": 25.97,
-              "text": "was",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 25.99,
-              "end": 26.214,
-              "text": "Meghan",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 26.234,
-              "end": 26.295,
-              "text": "and",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 26.336,
-              "end": 26.62,
-              "text": "Harry",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 26.6,
-          "end": 28.28,
-          "text": "at Elizabeth's funeral.",
-          "original_transcription": "at Elizabeth's funeral.",
-          "was_corrected": false
-        },
-        {
-          "start": 28.28,
-          "end": 33.72,
-          "text": "a rare scene of unity, grief, and dignity that reminded the world of their deep ties to",
-          "original_transcription": "a rare scene of unity, grief, and dignity that reminded the world of their deep ties to",
-          "was_corrected": false
-        },
-        {
-          "start": 33.72,
-          "end": 37.04,
-          "text": "the monarchy despite the public rift.",
-          "original_transcription": "the monarchy despite the public rift.",
-          "was_corrected": false
-        },
-        {
-          "start": 37.04,
-          "end": 41.6,
-          "text": "Recently, Meghan's name has also come up in entertainment circles through her reported",
-          "original_transcription": "Recently, Meghan's name has also come up in entertainment circles through her reported",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 37.04,
-              "end": 37.565,
-              "text": "Recently,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 37.605,
-              "end": 38.251,
-              "text": "Meghan's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 38.291,
-              "end": 38.452,
-              "text": "name",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 38.493,
-              "end": 38.614,
-              "text": "has",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 38.695,
-              "end": 38.916,
-              "text": "also",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 38.977,
-              "end": 39.118,
-              "text": "come",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 39.179,
-              "end": 39.28,
-              "text": "up",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 39.32,
-              "end": 39.36,
-              "text": "in",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 39.421,
-              "end": 40.006,
-              "text": "entertainment",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 40.046,
-              "end": 40.45,
-              "text": "circles",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 40.894,
-              "end": 41.075,
-              "text": "through",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 41.116,
-              "end": 41.196,
-              "text": "her",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 41.257,
-              "end": 41.62,
-              "text": "reported",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 41.6,
-          "end": 45.08,
-          "text": "interactions with music icon Beyoncé.",
-          "original_transcription": "interactions with music icon Beyoncé.",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 41.6,
-              "end": 42.369,
-              "text": "interactions",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 42.43,
-              "end": 42.531,
-              "text": "with",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 42.591,
-              "end": 42.976,
-              "text": "music",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 43.198,
-              "end": 43.643,
+              "start": 1.129,
+              "end": 1.431,
               "text": "icon",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 43.704,
-              "end": 45.1,
-              "text": "Beyoncé.",
+              "start": 1.491,
+              "end": 1.552,
+              "text": "and",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 1.632,
+              "end": 1.955,
+              "text": "symbol",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 1.995,
+              "end": 2.035,
+              "text": "of",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 2.056,
+              "end": 3.023,
+              "text": "empowerment,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 3.043,
+              "end": 3.184,
+              "text": "has",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 3.285,
+              "end": 3.507,
+              "text": "often",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 3.607,
+              "end": 3.748,
+              "text": "used",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 3.789,
+              "end": 3.869,
+              "text": "her",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 3.93,
+              "end": 4.434,
+              "text": "platform",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 4.494,
+              "end": 4.555,
+              "text": "to",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 4.675,
+              "end": 4.978,
+              "text": "uplift",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 5.018,
+              "end": 5.3,
+              "text": "voices",
               "original_text": "",
               "was_corrected": true
             }
           ]
         },
         {
-          "start": 45.08,
-          "end": 50.96,
-          "text": "the two powerful women, both navigating public lives with grace and fire, share more in",
-          "original_transcription": "The two powerful women, both navigating public lives with grace and fire, share more in",
-          "was_corrected": true
+          "start": 5.28,
+          "end": 8.92,
+          "text": "she believes in, and Meghan Markle is one of them.",
+          "original_transcription": "she believes in, and Meghan Markle is one of them.",
+          "was_corrected": false,
+          "words": [
+            {
+              "start": 5.28,
+              "end": 5.482,
+              "text": "she",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 5.543,
+              "end": 5.947,
+              "text": "believes",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 6.069,
+              "end": 6.15,
+              "text": "in,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 6.19,
+              "end": 6.837,
+              "text": "and",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 6.878,
+              "end": 7.14,
+              "text": "Meghan",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 7.161,
+              "end": 7.504,
+              "text": "Markle",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 7.545,
+              "end": 7.606,
+              "text": "is",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 7.686,
+              "end": 7.788,
+              "text": "one",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 7.828,
+              "end": 7.868,
+              "text": "of",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 7.929,
+              "end": 8.94,
+              "text": "them.",
+              "original_text": "",
+              "was_corrected": true
+            }
+          ]
         },
         {
-          "start": 50.96,
-          "end": 56.400000000000006,
-          "text": "common than it may seem, especially when it comes to controlling their narratives in male",
-          "original_transcription": "common than it may seem, especially when it comes to controlling their narratives in male",
-          "was_corrected": false
-        },
-        {
-          "start": 56.400000000000006,
-          "end": 57.84,
-          "text": "dominated industries.",
-          "original_transcription": "dominated industries.",
-          "was_corrected": false
-        },
-        {
-          "start": 57.84,
-          "end": 62.92,
-          "text": "As Megan continues to evolve her public persona From Duchess to media mogul, her proximity",
-          "original_transcription": "As Megan continues to evolve her public persona from Duchess to media mogul, her proximity",
+          "start": 8.92,
+          "end": 13.08,
+          "text": "when Meghan faced intense media scrutiny and public pressure during her time in the British",
+          "original_transcription": "When Meghan faced intense media scrutiny and public pressure during her time in the British",
           "was_corrected": true,
           "words": [
             {
-              "start": 57.84,
-              "end": 57.9,
-              "text": "As",
+              "start": 8.92,
+              "end": 9.102,
+              "text": "when",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 57.921,
-              "end": 58.223,
-              "text": "Megan",
+              "start": 9.122,
+              "end": 9.283,
+              "text": "Meghan",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 58.243,
-              "end": 58.646,
-              "text": "continues",
+              "start": 9.324,
+              "end": 9.607,
+              "text": "faced",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 58.667,
-              "end": 58.747,
-              "text": "to",
+              "start": 9.647,
+              "end": 10.031,
+              "text": "intense",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 58.808,
-              "end": 59.09,
-              "text": "evolve",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 59.13,
-              "end": 59.191,
-              "text": "her",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 59.231,
-              "end": 59.513,
-              "text": "public",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 59.553,
-              "end": 60.037,
-              "text": "persona",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 60.057,
-              "end": 60.38,
-              "text": "From",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 60.4,
-              "end": 61.065,
-              "text": "Duchess",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 61.106,
-              "end": 61.186,
-              "text": "to",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 61.227,
-              "end": 61.509,
+              "start": 10.111,
+              "end": 10.435,
               "text": "media",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 61.549,
-              "end": 61.973,
-              "text": "mogul,",
+              "start": 10.475,
+              "end": 10.859,
+              "text": "scrutiny",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 62.376,
-              "end": 62.456,
+              "start": 10.899,
+              "end": 11.02,
+              "text": "and",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 11.04,
+              "end": 11.343,
+              "text": "public",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 11.404,
+              "end": 11.767,
+              "text": "pressure",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 11.828,
+              "end": 12.191,
+              "text": "during",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 12.252,
+              "end": 12.333,
               "text": "her",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 62.497,
-              "end": 62.94,
-              "text": "proximity",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 62.92,
-          "end": 68.08,
-          "text": "to cultural titans like Beyonce only underscores her growing presence in the world stage.",
-          "original_transcription": "to cultural titans like Beyonce only underscores her growing presence in the world stage.",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 62.92,
-              "end": 63.101,
-              "text": "to",
+              "start": 12.393,
+              "end": 12.676,
+              "text": "time",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 63.142,
-              "end": 63.484,
-              "text": "cultural",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 63.545,
-              "end": 63.847,
-              "text": "titans",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 63.888,
-              "end": 64.029,
-              "text": "like",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 64.069,
-              "end": 64.653,
-              "text": "Beyonce",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 64.694,
-              "end": 64.956,
-              "text": "only",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 65.137,
-              "end": 65.621,
-              "text": "underscores",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 65.661,
-              "end": 65.762,
-              "text": "her",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 65.782,
-              "end": 66.024,
-              "text": "growing",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 66.064,
-              "end": 66.407,
-              "text": "presence",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 66.447,
-              "end": 66.488,
+              "start": 12.737,
+              "end": 12.777,
               "text": "in",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 66.528,
-              "end": 66.609,
+              "start": 12.838,
+              "end": 12.898,
               "text": "the",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 66.669,
-              "end": 67.032,
-              "text": "world",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 67.072,
-              "end": 68.1,
-              "text": "stage.",
+              "start": 12.918,
+              "end": 13.1,
+              "text": "British",
               "original_text": "",
               "was_corrected": true
             }
           ]
         },
         {
-          "start": 68.08,
-          "end": 71.28,
-          "text": "no longer just royal by title, But influential by impact.",
-          "original_transcription": "No longer just royal by title, but influential by impact.",
+          "start": 13.08,
+          "end": 19.6,
+          "text": "royal family, Beyonce showed public support, praising her for her courage and grace.",
+          "original_transcription": "Royal family, Beyonce showed public support, praising her for her courage and grace.",
+          "was_corrected": true,
+          "words": [
+            {
+              "start": 13.08,
+              "end": 13.402,
+              "text": "royal",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 13.442,
+              "end": 13.865,
+              "text": "family,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 14.469,
+              "end": 15.213,
+              "text": "Beyonce",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 15.334,
+              "end": 15.575,
+              "text": "showed",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 15.656,
+              "end": 15.978,
+              "text": "public",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 16.018,
+              "end": 16.481,
+              "text": "support,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 16.984,
+              "end": 17.427,
+              "text": "praising",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 17.487,
+              "end": 17.608,
+              "text": "her",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 17.688,
+              "end": 17.789,
+              "text": "for",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 17.829,
+              "end": 17.93,
+              "text": "her",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 17.99,
+              "end": 18.433,
+              "text": "courage",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 18.493,
+              "end": 18.574,
+              "text": "and",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 18.614,
+              "end": 19.62,
+              "text": "grace.",
+              "original_text": "",
+              "was_corrected": true
+            }
+          ]
+        },
+        {
+          "start": 19.6,
+          "end": 23.64,
+          "text": "the connection between the two powerful women highlighted a moment where pop culture and",
+          "original_transcription": "The connection between the two powerful women highlighted a moment where pop culture and",
           "was_corrected": true
+        },
+        {
+          "start": 23.64,
+          "end": 26.88,
+          "text": "royalty intersected in a meaningful way.",
+          "original_transcription": "royalty intersected in a meaningful way.",
+          "was_corrected": false
+        },
+        {
+          "start": 26.88,
+          "end": 31.7,
+          "text": "Meghan Markle, once a Hollywood actress and now a globally recognized public figure, has",
+          "original_transcription": "Meghan Markle, once a Hollywood actress and now a globally recognized public figure, has",
+          "was_corrected": false,
+          "words": [
+            {
+              "start": 26.88,
+              "end": 27.001,
+              "text": "Meghan",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 27.021,
+              "end": 27.384,
+              "text": "Markle,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 27.727,
+              "end": 27.888,
+              "text": "once",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 27.949,
+              "end": 27.989,
+              "text": "a",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 28.03,
+              "end": 28.372,
+              "text": "Hollywood",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 28.453,
+              "end": 28.796,
+              "text": "actress",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 28.856,
+              "end": 28.937,
+              "text": "and",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 29.018,
+              "end": 29.24,
+              "text": "now",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 29.26,
+              "end": 29.28,
+              "text": "a",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 29.482,
+              "end": 29.966,
+              "text": "globally",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 30.066,
+              "end": 30.571,
+              "text": "recognized",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 30.631,
+              "end": 30.913,
+              "text": "public",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 30.974,
+              "end": 31.276,
+              "text": "figure,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 31.66,
+              "end": 31.72,
+              "text": "has",
+              "original_text": "",
+              "was_corrected": true
+            }
+          ]
+        },
+        {
+          "start": 31.7,
+          "end": 34.76,
+          "text": "become a symbol of resilience in the face of adversity.",
+          "original_transcription": "become a symbol of resilience in the face of adversity.",
+          "was_corrected": false
+        },
+        {
+          "start": 34.76,
+          "end": 39.84,
+          "text": "her experiences within the royal family, especially the emotional toll it took on her, became",
+          "original_transcription": "Her experiences within the royal family, especially the emotional toll it took on her, became",
+          "was_corrected": true
+        },
+        {
+          "start": 39.84,
+          "end": 44.32,
+          "text": "widely known after her groundbreaking interview with Oprah Winfrey.",
+          "original_transcription": "widely known after her groundbreaking interview with Oprah Winfrey.",
+          "was_corrected": false,
+          "words": [
+            {
+              "start": 39.84,
+              "end": 40.385,
+              "text": "widely",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 40.425,
+              "end": 40.728,
+              "text": "known",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 40.768,
+              "end": 41.091,
+              "text": "after",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 41.152,
+              "end": 41.232,
+              "text": "her",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 41.293,
+              "end": 41.919,
+              "text": "groundbreaking",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 41.979,
+              "end": 42.322,
+              "text": "interview",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 42.383,
+              "end": 42.484,
+              "text": "with",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 42.585,
+              "end": 42.786,
+              "text": "Oprah",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 42.806,
+              "end": 44.34,
+              "text": "Winfrey.",
+              "original_text": "",
+              "was_corrected": true
+            }
+          ]
+        },
+        {
+          "start": 44.32,
+          "end": 49.08,
+          "text": "Meghan spoke candidly about issues of race, mental health, and institutional silence, shaking",
+          "original_transcription": "Meghan spoke candidly about issues of race, mental health, and institutional silence, shaking",
+          "was_corrected": false,
+          "words": [
+            {
+              "start": 44.32,
+              "end": 44.542,
+              "text": "Meghan",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 44.562,
+              "end": 44.784,
+              "text": "spoke",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 44.844,
+              "end": 45.248,
+              "text": "candidly",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 45.308,
+              "end": 45.49,
+              "text": "about",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 45.53,
+              "end": 45.913,
+              "text": "issues",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 45.974,
+              "end": 46.014,
+              "text": "of",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 46.115,
+              "end": 46.377,
+              "text": "race,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 46.518,
+              "end": 46.781,
+              "text": "mental",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 46.841,
+              "end": 47.103,
+              "text": "health,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 47.144,
+              "end": 47.204,
+              "text": "and",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 47.345,
+              "end": 47.93,
+              "text": "institutional",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 47.991,
+              "end": 48.414,
+              "text": "silence,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 48.838,
+              "end": 49.1,
+              "text": "shaking",
+              "original_text": "",
+              "was_corrected": true
+            }
+          ]
+        },
+        {
+          "start": 49.08,
+          "end": 53.8,
+          "text": "the foundations of royal tradition and sparking international conversations.",
+          "original_transcription": "the foundations of royal tradition and sparking international conversations.",
+          "was_corrected": false
+        },
+        {
+          "start": 53.800000000000004,
+          "end": 58.56,
+          "text": "after a win-free, a legendary media figure known for her deep and pathetic interviews provided",
+          "original_transcription": "After a win-free, a legendary media figure known for her deep and pathetic interviews provided",
+          "was_corrected": true
+        },
+        {
+          "start": 58.56,
+          "end": 61.2,
+          "text": "the platform that changed everything.",
+          "original_transcription": "the platform that changed everything.",
+          "was_corrected": false
+        },
+        {
+          "start": 61.2,
+          "end": 66.34,
+          "text": "her interview with Megan and Prince Harry exposed layers of royal life previously unseen",
+          "original_transcription": "Her interview with Megan and Prince Harry exposed layers of royal life previously unseen",
+          "was_corrected": true,
+          "words": [
+            {
+              "start": 61.2,
+              "end": 61.26,
+              "text": "her",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 61.321,
+              "end": 61.704,
+              "text": "interview",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 61.744,
+              "end": 61.865,
+              "text": "with",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 61.986,
+              "end": 62.369,
+              "text": "Megan",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 62.45,
+              "end": 62.53,
+              "text": "and",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 62.591,
+              "end": 62.833,
+              "text": "Prince",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 62.873,
+              "end": 63.175,
+              "text": "Harry",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 63.296,
+              "end": 63.699,
+              "text": "exposed",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 63.941,
+              "end": 64.344,
+              "text": "layers",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 64.445,
+              "end": 64.486,
+              "text": "of",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 64.526,
+              "end": 64.848,
+              "text": "royal",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 64.929,
+              "end": 65.171,
+              "text": "life",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 65.372,
+              "end": 65.876,
+              "text": "previously",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 65.897,
+              "end": 66.36,
+              "text": "unseen",
+              "original_text": "",
+              "was_corrected": true
+            }
+          ]
+        },
+        {
+          "start": 66.34,
+          "end": 67.88000000000001,
+          "text": "by the public.",
+          "original_transcription": "by the public.",
+          "was_corrected": false
+        },
+        {
+          "start": 67.88000000000001,
+          "end": 74.32000000000001,
+          "text": "Together, Beyoncé, Megan, and Oprah represent a trio of powerful black women, shaping",
+          "original_transcription": "Together, Beyoncé, Megan, and Oprah represent a trio of powerful black women, shaping",
+          "was_corrected": false,
+          "words": [
+            {
+              "start": 67.88,
+              "end": 68.242,
+              "text": "Together,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 68.665,
+              "end": 69.43,
+              "text": "Beyoncé,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 69.872,
+              "end": 70.335,
+              "text": "Megan,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 70.657,
+              "end": 70.778,
+              "text": "and",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 70.999,
+              "end": 71.281,
+              "text": "Oprah",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 71.342,
+              "end": 71.804,
+              "text": "represent",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 71.885,
+              "end": 71.925,
+              "text": "a",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 72.006,
+              "end": 72.368,
+              "text": "trio",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 72.428,
+              "end": 72.469,
+              "text": "of",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 72.569,
+              "end": 73.012,
+              "text": "powerful",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 73.072,
+              "end": 73.314,
+              "text": "black",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 73.354,
+              "end": 73.656,
+              "text": "women,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 74.079,
+              "end": 74.34,
+              "text": "shaping",
+              "original_text": "",
+              "was_corrected": true
+            }
+          ]
+        },
+        {
+          "start": 74.32000000000001,
+          "end": 79.72,
+          "text": "culture, challenging institutions, and encouraging honest conversations on a global scale.",
+          "original_transcription": "culture, challenging institutions, and encouraging honest conversations on a global scale.",
+          "was_corrected": false
         }
       ],
       "language": "en",
@@ -703,8 +992,8 @@
       "metadata": {
         "file_path": "/Users/superman/Desktop/Celebrity Voice Overs/Meghan Test.wav",
         "file_name": "Meghan Test.wav",
-        "processing_time_seconds": 6.107084035873413,
-        "timestamp": "2025-06-15T11:16:37.098474",
+        "processing_time_seconds": 6.330757141113281,
+        "timestamp": "2025-06-15T12:33:41.029672",
         "channel_name": "Meghan Markle",
         "keywords_used": 108,
         "dry_run_mode": {
@@ -716,10 +1005,10 @@
           "note": "Full audio transcribed"
         },
         "composite_clips_config": {
-          "apply_interval": 2,
+          "apply_interval": 6,
           "source": "notion_database",
           "database_id": "20302cd2c1428027bb04f1d147b50cf9",
-          "note": "Apply composite effect every 2 clips (from Notion)"
+          "note": "Apply composite effect every 6 clips (from Notion)"
         },
         "notion_integration": {
           "page_id": "21202cd2-c142-80fb-b20c-dfb7e78714ce",

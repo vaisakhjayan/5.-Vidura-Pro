@@ -6,69 +6,80 @@ Video Title: Meghan Test
 Channel: Meghan Markle
 Page ID: 21202cd2-c142-80fb-b20c-dfb7e78714ce
 Video Selected: 2025-06-15T02:31:28.814218
-Detection Generated: 2025-06-15T11:18:25.298221
+Detection Generated: 2025-06-15T12:33:45.877088
 
-Total Detections: 9
+Total Detections: 12
 
 --------------------------------------------------------------------------------
 DETECTION TIMELINE (Actual Order)
 --------------------------------------------------------------------------------
 
-   1. 📍 0.00 (0.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   1. 📍 0.00 (0.0s) - BEYONCE - Exact Match: "Beyonce"
       Type: main
-   2. 📍 9.32 (9.32s) - PRINCE HARRY - Exact Match: "prince harry"
+   2. 📍 6.88 (6.878s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   3. 📍 18.36 (18.36s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   3. 📍 9.12 (9.122s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   4. 📍 25.99 (25.99s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   4. 📍 14.47 (14.469s) - BEYONCE - Exact Match: "Beyonce"
       Type: main
-   5. 📍 26.34 (26.336s) - PRINCE HARRY - Partial Match: "Harry"
+   5. 📍 26.88 (26.88s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   6. 📍 37.60 (37.605s) - MEGHAN MARKLE - Partial Match: "Meghan's"
+   6. 📍 42.59 (42.585s) - OPRAH - Exact Match: "Oprah"
       Type: main
-   7. 📍 41.60 (41.6s) - BEYONCE - Partial Match: "Beyoncé"
+   7. 📍 44.32 (44.32s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   8. 📍 57.92 (57.921s) - MEGHAN MARKLE - Partial Match: "Megan"
+   8. 📍 1:01.99 (61.986s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   9. 📍 1:04.07 (64.069s) - BEYONCE - Exact Match: "Beyonce"
+   9. 📍 1:02.87 (62.873s) - PRINCE HARRY - Partial Match: "Harry"
+      Type: main
+   10. 📍 1:07.88 (67.88000000000001s) - MEGHAN MARKLE - Partial Match: "Megan"
+      Type: main
+   11. 📍 1:07.88 (67.88000000000001s) - BEYONCE - Partial Match: "Beyoncé"
+      Type: main
+   12. 📍 1:11.00 (70.999s) - OPRAH - Exact Match: "Oprah"
       Type: main
 
 --------------------------------------------------------------------------------
 DETECTION STATISTICS
 --------------------------------------------------------------------------------
 
-Meghan Markle:
-  • Total Detections: 5
-  • Match Type: Partial ("Meghan")
+Beyonce:
+  • Total Detections: 3
+  • Match Type: Exact
   • First Appearance: 0.00
-  • Last Appearance: 57.92
-  • Detection Span: 57.92 seconds
+  • Last Appearance: 1:07.88
+  • Detection Span: 67.88 seconds
 
-Prince Harry:
+Meghan Markle:
+  • Total Detections: 6
+  • Match Type: Partial ("Meghan")
+  • First Appearance: 6.88
+  • Last Appearance: 1:07.88
+  • Detection Span: 61.00 seconds
+
+Oprah:
   • Total Detections: 2
   • Match Type: Exact
-  • First Appearance: 9.32
-  • Last Appearance: 26.34
-  • Detection Span: 17.02 seconds
+  • First Appearance: 42.59
+  • Last Appearance: 1:11.00
+  • Detection Span: 28.41 seconds
 
-Beyonce:
-  • Total Detections: 2
-  • Match Type: Partial ("Beyoncé")
-  • First Appearance: 41.60
-  • Last Appearance: 1:04.07
-  • Detection Span: 22.47 seconds
+Prince Harry:
+  • Total Detections: 1
+  • Match Type: Partial ("Harry")
+  • First Appearance: 1:02.87
 
-Total Detection Window: 64.07 seconds
-Detection Frequency: 1 every 7.12 seconds
+Total Detection Window: 71.00 seconds
+Detection Frequency: 1 every 5.92 seconds
 
 --------------------------------------------------------------------------------
 DETECTION SUMMARY
 --------------------------------------------------------------------------------
 
-✅ 3 unique celebrities detected
-✅ 9 total keyword matches found
+✅ 4 unique celebrities detected
+✅ 12 total keyword matches found
 ✅ Mix of exact and partial matches
-✅ Detections span 64.07 seconds of content
+✅ Detections span 71.00 seconds of content
 
 ================================================================================
 End of Detection Summary

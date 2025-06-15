@@ -2,7 +2,7 @@
 AUDIO TRANSCRIPTION REPORT
 ================================================================================
 
-Export Timestamp: 2025-06-15T11:16:37.098648
+Export Timestamp: 2025-06-15T12:33:41.029754
 Total Files Processed: 1
 Exported From: Audio Transcription System
 
@@ -21,7 +21,7 @@ TRANSCRIPTION DETAILS
 📍 PATH: /Users/superman/Desktop/Celebrity Voice Overs/Meghan Test.wav
 
 📊 PROCESSING INFO:
-   • Processing Time: 6.11 seconds
+   • Processing Time: 6.33 seconds
    • Channel: Meghan Markle
    • Keywords Used: 108
    • Notion Script: ✅ Aligned (Page ID: 21202cd2-c142-80fb-b20c-dfb7e78714ce)
@@ -32,112 +32,101 @@ TRANSCRIPTION DETAILS
 TRANSCRIPTION TIMELINE
 ------------------------------------------------------------
 
-  1. [0.00 → 1.92] (1.92s)
-     Meghan Markle has remained a lightning rod
+  1. [0.00 → 5.28] (5.28s)
+     Beyonce, a global icon and symbol of empowerment, has often used her platform to uplift voices
 
-  2. [1.92 → 4.68] (2.76s)
-     in global media conversations, balancing fame,
+  2. [5.28 → 8.92] (3.64s)
+     she believes in, and Meghan Markle is one of them.
 
-  3. [4.68 → 7.40] (2.72s)
-     scrutiny, and the pursuit of independence.
+  3. [8.92 → 13.08] (4.16s)
+     when Meghan faced intense media scrutiny and public pressure during her time in the British
+     📝 Original: When Meghan faced intense media scrutiny and public pressure during her time in the British
 
-  4. [7.40 → 9.32] (1.92s)
-     ever since she stepped away From royal duties
-     📝 Original: Ever since she stepped away from royal duties
+  4. [13.08 → 19.60] (6.52s)
+     royal family, Beyonce showed public support, praising her for her courage and grace.
+     📝 Original: Royal family, Beyonce showed public support, praising her for her courage and grace.
 
-  5. [9.32 → 10.60] (1.28s)
-     alongside Prince Harry,
+  5. [19.60 → 23.64] (4.04s)
+     the connection between the two powerful women highlighted a moment where pop culture and
+     📝 Original: The connection between the two powerful women highlighted a moment where pop culture and
 
-  6. [10.60 → 13.12] (2.52s)
-     the couple has faced both criticism and praise
+  6. [23.64 → 26.88] (3.24s)
+     royalty intersected in a meaningful way.
 
-  7. [13.12 → 14.96] (1.84s)
-     for carving their own path.
+  7. [26.88 → 31.70] (4.82s)
+     Meghan Markle, once a Hollywood actress and now a globally recognized public figure, has
 
-  8. [14.96 → 18.36] (3.40s)
-     From controversial interviews to high profile brand deals,
+  8. [31.70 → 34.76] (3.06s)
+     become a symbol of resilience in the face of adversity.
 
-  9. [18.36 → 20.12] (1.76s)
-     Meghan has redefined what it means
+  9. [34.76 → 39.84] (5.08s)
+     her experiences within the royal family, especially the emotional toll it took on her, became
+     📝 Original: Her experiences within the royal family, especially the emotional toll it took on her, became
 
- 10. [20.12 → 21.96] (1.84s)
-     to be royal in the modern world.
+ 10. [39.84 → 44.32] (4.48s)
+     widely known after her groundbreaking interview with Oprah Winfrey.
 
- 11. [21.96 → 24.16] (2.20s)
-     Amid the chaos, one moment that stood out
+ 11. [44.32 → 49.08] (4.76s)
+     Meghan spoke candidly about issues of race, mental health, and institutional silence, shaking
 
- 12. [24.16 → 26.60] (2.44s)
-     in its quiet solemnity was Meghan and Harry
+ 12. [49.08 → 53.80] (4.72s)
+     the foundations of royal tradition and sparking international conversations.
 
- 13. [26.60 → 28.28] (1.68s)
-     at Elizabeth's funeral.
+ 13. [53.80 → 58.56] (4.76s)
+     after a win-free, a legendary media figure known for her deep and pathetic interviews provided
+     📝 Original: After a win-free, a legendary media figure known for her deep and pathetic interviews provided
 
- 14. [28.28 → 33.72] (5.44s)
-     a rare scene of unity, grief, and dignity that reminded the world of their deep ties to
+ 14. [58.56 → 1:01.20] (2.64s)
+     the platform that changed everything.
 
- 15. [33.72 → 37.04] (3.32s)
-     the monarchy despite the public rift.
+ 15. [1:01.20 → 1:06.34] (5.14s)
+     her interview with Megan and Prince Harry exposed layers of royal life previously unseen
+     📝 Original: Her interview with Megan and Prince Harry exposed layers of royal life previously unseen
 
- 16. [37.04 → 41.60] (4.56s)
-     Recently, Meghan's name has also come up in entertainment circles through her reported
+ 16. [1:06.34 → 1:07.88] (1.54s)
+     by the public.
 
- 17. [41.60 → 45.08] (3.48s)
-     interactions with music icon Beyoncé.
+ 17. [1:07.88 → 1:14.32] (6.44s)
+     Together, Beyoncé, Megan, and Oprah represent a trio of powerful black women, shaping
 
- 18. [45.08 → 50.96] (5.88s)
-     the two powerful women, both navigating public lives with grace and fire, share more in
-     📝 Original: The two powerful women, both navigating public lives with grace and fire, share more in
-
- 19. [50.96 → 56.40] (5.44s)
-     common than it may seem, especially when it comes to controlling their narratives in male
-
- 20. [56.40 → 57.84] (1.44s)
-     dominated industries.
-
- 21. [57.84 → 1:02.92] (5.08s)
-     As Megan continues to evolve her public persona From Duchess to media mogul, her proximity
-     📝 Original: As Megan continues to evolve her public persona from Duchess to media mogul, her proximity
-
- 22. [1:02.92 → 1:08.08] (5.16s)
-     to cultural titans like Beyonce only underscores her growing presence in the world stage.
-
- 23. [1:08.08 → 1:11.28] (3.20s)
-     no longer just royal by title, But influential by impact.
-     📝 Original: No longer just royal by title, but influential by impact.
+ 18. [1:14.32 → 1:19.72] (5.40s)
+     culture, challenging institutions, and encouraging honest conversations on a global scale.
 
 ------------------------------------------------------------
 TRANSCRIPTION STATISTICS
 ------------------------------------------------------------
 
 📈 SUMMARY:
-   • Total Segments: 23
-   • Total Duration: 71.28 seconds
-   • Total Words: 195
-   • Average Segment Length: 3.10 seconds
-   • Words Per Minute: 164.1 WPM
-   • Segments Corrected: 4/23 (17.4%)
-   • Words with Timestamps: 71
+   • Total Segments: 18
+   • Total Duration: 79.72 seconds
+   • Total Words: 205
+   • Average Segment Length: 4.43 seconds
+   • Words Per Minute: 154.3 WPM
+   • Segments Corrected: 6/18 (33.3%)
+   • Words with Timestamps: 117
 
 ================================================================================
 CLEAN TRANSCRIPTION (NO TIMESTAMPS)
 ================================================================================
 
-Meghan Markle has remained a lightning rod in global media conversations,
-balancing fame, scrutiny, and the pursuit of independence. ever since she
-stepped away From royal duties alongside Prince Harry, the couple has faced both
-criticism and praise for carving their own path. From controversial interviews
-to high profile brand deals, Meghan has redefined what it means to be royal in
-the modern world. Amid the chaos, one moment that stood out in its quiet
-solemnity was Meghan and Harry at Elizabeth's funeral. a rare scene of unity,
-grief, and dignity that reminded the world of their deep ties to the monarchy
-despite the public rift. Recently, Meghan's name has also come up in
-entertainment circles through her reported interactions with music icon Beyoncé.
-the two powerful women, both navigating public lives with grace and fire, share
-more in common than it may seem, especially when it comes to controlling their
-narratives in male dominated industries. As Megan continues to evolve her public
-persona From Duchess to media mogul, her proximity to cultural titans like
-Beyonce only underscores her growing presence in the world stage. no longer just
-royal by title, But influential by impact.
+Beyonce, a global icon and symbol of empowerment, has often used her platform
+to uplift voices she believes in, and Meghan Markle is one of them. when Meghan
+faced intense media scrutiny and public pressure during her time in the British
+royal family, Beyonce showed public support, praising her for her courage and
+grace. the connection between the two powerful women highlighted a moment where
+pop culture and royalty intersected in a meaningful way. Meghan Markle, once a
+Hollywood actress and now a globally recognized public figure, has become a
+symbol of resilience in the face of adversity. her experiences within the royal
+family, especially the emotional toll it took on her, became widely known after
+her groundbreaking interview with Oprah Winfrey. Meghan spoke candidly about
+issues of race, mental health, and institutional silence, shaking the
+foundations of royal tradition and sparking international conversations. after a
+win-free, a legendary media figure known for her deep and pathetic interviews
+provided the platform that changed everything. her interview with Megan and
+Prince Harry exposed layers of royal life previously unseen by the public.
+Together, Beyoncé, Megan, and Oprah represent a trio of powerful black women,
+shaping culture, challenging institutions, and encouraging honest conversations
+on a global scale.
 
 ================================================================================
 End of Transcription Report

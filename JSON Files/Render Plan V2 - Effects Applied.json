@@ -2,19 +2,19 @@
     "video_info": {
         "title": "Meghan Test",
         "output_file": "final_render.mp4",
-        "generated_at": "2025-06-15 11:36:18"
+        "generated_at": "2025-06-15 12:33:50"
     },
     "segments": [
         {
             "start_time": 0.0,
             "end_time": 5.0,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Beyonce",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "001_Meghan_Markle_1234_original.mp4"
+                "file": "001_Beyonce_44_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -26,33 +26,33 @@
         },
         {
             "start_time": 5.0,
-            "end_time": 9.32,
+            "end_time": 6.878,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Beyonce",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
-                "duration": 4.32,
-                "file": "002_Meghan_Markle_cvcxvx_composite.mp4"
+                "duration": 1.8780000000000001,
+                "file": "002_Beyonce_11_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 2,
             "effects_applied": [
-                "composite"
+                "trimmed"
             ]
         },
         {
-            "start_time": 9.32,
-            "end_time": 14.32,
+            "start_time": 6.878,
+            "end_time": 9.122,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "003_Prince_Harry_5_original.mp4"
+                "duration": 2.2439999999999998,
+                "file": "003_Meghan_Markle_zcxzxzc_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -63,34 +63,34 @@
             ]
         },
         {
-            "start_time": 14.32,
-            "end_time": 18.36,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
-                "type": "video",
-                "duration": 4.039999999999999,
-                "file": "004_Prince_Harry_11_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 4,
-            "effects_applied": [
-                "composite"
-            ]
-        },
-        {
-            "start_time": 18.36,
-            "end_time": 23.36,
+            "start_time": 9.122,
+            "end_time": 14.122,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "005_Meghan_Markle_zvz_original.mp4"
+                "file": "004_Meghan_Markle_6_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 4,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 14.122,
+            "end_time": 14.469,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "type": "video",
+                "duration": 0.34699999999999953,
+                "file": "005_Meghan_Markle_sfsdfsd_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -101,72 +101,72 @@
             ]
         },
         {
-            "start_time": 23.36,
-            "end_time": 25.99,
+            "start_time": 14.469,
+            "end_time": 19.469,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Beyonce",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
-                "duration": 2.629999999999999,
-                "file": "006_Meghan_Markle_clip.mp4"
+                "duration": 5.000000000000002,
+                "file": "006_Beyonce_22_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 6,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 25.99,
-            "end_time": 26.336,
+            "start_time": 19.469,
+            "end_time": 24.469,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Beyonce",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
-                "duration": 0.3460000000000001,
-                "file": "007_Meghan_Markle_sfsdfsd_original.mp4"
+                "duration": 5.0,
+                "file": "007_Beyonce_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 7,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 26.336,
-            "end_time": 31.336,
+            "start_time": 24.469,
+            "end_time": 26.88,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Beyonce",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "008_Prince_Harry_1_composite.mp4"
+                "duration": 2.410999999999998,
+                "file": "008_Beyonce_15_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 8,
             "effects_applied": [
-                "composite"
+                "trimmed"
             ]
         },
         {
-            "start_time": 31.336,
-            "end_time": 36.336,
+            "start_time": 26.88,
+            "end_time": 31.88,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "009_Prince_Harry_clip.mp4"
+                "file": "009_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -177,34 +177,34 @@
             ]
         },
         {
-            "start_time": 36.336,
-            "end_time": 37.605,
+            "start_time": 31.88,
+            "end_time": 36.879999999999995,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
-                "duration": 1.2689999999999984,
-                "file": "010_Prince_Harry_clip_14_composite.mp4"
+                "duration": 4.9999999999999964,
+                "file": "010_Meghan_Markle_sadsad_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 10,
             "effects_applied": [
-                "composite"
+                "trimmed"
             ]
         },
         {
-            "start_time": 37.605,
-            "end_time": 41.6,
+            "start_time": 36.879999999999995,
+            "end_time": 41.879999999999995,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
-                "duration": 3.9950000000000045,
-                "file": "011_Meghan_Markle_zxcxzxz_original.mp4"
+                "duration": 5.0,
+                "file": "011_Meghan_Markle_zxzzx_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -215,34 +215,34 @@
             ]
         },
         {
-            "start_time": 41.6,
-            "end_time": 46.6,
+            "start_time": 41.879999999999995,
+            "end_time": 42.585,
             "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "012_Beyonce_7_composite.mp4"
+                "duration": 0.7050000000000054,
+                "file": "012_Meghan_Markle_32_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 12,
             "effects_applied": [
-                "composite"
+                "trimmed"
             ]
         },
         {
-            "start_time": 46.6,
-            "end_time": 51.6,
+            "start_time": 42.585,
+            "end_time": 44.32,
             "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
+            "celebrity": "Oprah",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "013_Beyonce_35_original.mp4"
+                "duration": 1.7349999999999994,
+                "file": "013_Oprah_1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -253,98 +253,174 @@
             ]
         },
         {
-            "start_time": 51.6,
-            "end_time": 56.6,
+            "start_time": 44.32,
+            "end_time": 49.32,
             "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "014_Beyonce_48_composite.mp4"
+                "file": "014_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 14,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 56.6,
-            "end_time": 57.921,
+            "start_time": 49.32,
+            "end_time": 54.32,
             "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
-                "duration": 1.320999999999998,
-                "file": "015_Beyonce_clip.mp4"
+                "duration": 5.0,
+                "file": "015_Meghan_Markle_sfdsfds_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 15,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 57.921,
-            "end_time": 62.921,
+            "start_time": 54.32,
+            "end_time": 59.32,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "016_Meghan_Markle_26_composite.mp4"
+                "file": "016_Meghan_Markle_1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 16,
             "effects_applied": [
-                "composite"
+                "trimmed"
             ]
         },
         {
-            "start_time": 62.921,
-            "end_time": 64.069,
+            "start_time": 59.32,
+            "end_time": 61.986,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
-                "duration": 1.1480000000000032,
-                "file": "017_Meghan_Markle_clip.mp4"
+                "duration": 2.665999999999997,
+                "file": "017_Meghan_Markle_zxzx_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 17,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 64.069,
-            "end_time": 69.069,
+            "start_time": 61.986,
+            "end_time": 62.873,
             "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "018_Beyonce_27_composite.mp4"
+                "duration": 0.8870000000000005,
+                "file": "018_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 18,
             "effects_applied": [
-                "composite"
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 62.873,
+            "end_time": 67.87299999999999,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "type": "video",
+                "duration": 4.999999999999993,
+                "file": "019_Prince_Harry_2_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 19,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 67.87299999999999,
+            "end_time": 67.88000000000001,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "type": "video",
+                "duration": 0.007000000000019213,
+                "file": "020_Prince_Harry_5_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 20,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 67.88000000000001,
+            "end_time": 70.999,
+            "type": "celebrity_overlay",
+            "celebrity": "Beyonce",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "type": "video",
+                "duration": 3.1189999999999856,
+                "file": "021_Beyonce_41_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 21,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 70.999,
+            "end_time": 75.999,
+            "type": "celebrity_overlay",
+            "celebrity": "Oprah",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Meghan Test",
+                "type": "video",
+                "duration": 5.0,
+                "file": "022_Oprah_26_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 22,
+            "effects_applied": [
+                "trimmed"
             ]
         }
     ]
