@@ -1,7 +1,7 @@
 {
   "export_metadata": {
     "total_files_processed": 1,
-    "export_timestamp": "2025-06-15T02:32:31.542554",
+    "export_timestamp": "2025-06-15T11:16:37.098648",
     "exported_from": "Audio Transcription System",
     "dry_run_mode": {
       "enabled": false,
@@ -16,3581 +16,681 @@
     }
   },
   "transcriptions": {
-    "E:\\Celebrity Voice Overs\\Meghan And Harry SHOCK People With Plan To Make Kids FULL TIME Royals.wav": {
+    "/Users/superman/Desktop/Celebrity Voice Overs/Meghan Test.wav": {
       "segments": [
         {
           "start": 0.0,
-          "end": 7.2,
-          "text": "so here we are again, Megan Markle in the headlines, not for a royal drama or some Netflix revelation,",
-          "original_transcription": "So here we are again, Megan Markle in the headlines, not for a royal drama or some Netflix revelation,",
-          "was_corrected": true,
+          "end": 1.92,
+          "text": "Meghan Markle has remained a lightning rod",
+          "original_transcription": "Meghan Markle has remained a lightning rod",
+          "was_corrected": false,
           "words": [
             {
               "start": 0.0,
-              "end": 0.402,
-              "text": "so",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 0.563,
-              "end": 0.724,
-              "text": "here",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 0.784,
-              "end": 0.865,
-              "text": "we",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 0.945,
-              "end": 1.046,
-              "text": "are",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 1.106,
-              "end": 1.408,
-              "text": "again,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 1.448,
-              "end": 2.454,
-              "text": "Megan",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 2.494,
-              "end": 2.836,
-              "text": "Markle",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 2.896,
-              "end": 2.956,
-              "text": "in",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 2.997,
-              "end": 3.077,
-              "text": "the",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 3.117,
-              "end": 3.741,
-              "text": "headlines,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 3.861,
-              "end": 4.083,
-              "text": "not",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 4.163,
-              "end": 4.364,
-              "text": "for",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 4.404,
-              "end": 4.465,
-              "text": "a",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 4.505,
-              "end": 4.787,
-              "text": "royal",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 4.827,
-              "end": 5.33,
-              "text": "drama",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 5.47,
-              "end": 5.551,
-              "text": "or",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 5.611,
-              "end": 5.792,
-              "text": "some",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 5.853,
-              "end": 6.235,
-              "text": "Netflix",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 6.275,
-              "end": 7.22,
-              "text": "revelation,",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 7.2,
-          "end": 12.48,
-          "text": "But Because her latest venture is imploding in slow motion. and honestly, it's not even shocking",
-          "original_transcription": "but because her latest venture is imploding in slow motion. And honestly, it's not even shocking",
-          "was_corrected": true
-        },
-        {
-          "start": 12.48,
-          "end": 21.6,
-          "text": "at this point. the brand she's been hyping, American Riviera, Orchard turned As ever, turned",
-          "original_transcription": "at this point. The brand she's been hyping, American Riviera, orchard turned as ever, turned",
-          "was_corrected": true
-        },
-        {
-          "start": 21.6,
-          "end": 28.0,
-          "text": "who knows what is spiraling into what can only be described As lifestyle branding chaos.",
-          "original_transcription": "who knows what is spiraling into what can only be described as lifestyle branding chaos.",
-          "was_corrected": true
-        },
-        {
-          "start": 28.0,
-          "end": 32.96,
-          "text": "If you're wondering what this brand is about, join the club, no one knows.",
-          "original_transcription": "If you're wondering what this brand is about, join the club, no one knows.",
-          "was_corrected": false
-        },
-        {
-          "start": 32.96,
-          "end": 36.28,
-          "text": "not even the people she's supposedly hired to help run it.",
-          "original_transcription": "Not even the people she's supposedly hired to help run it.",
-          "was_corrected": true
-        },
-        {
-          "start": 36.28,
-          "end": 39.6,
-          "text": "Because Apparently, no one's actually running anything.",
-          "original_transcription": "Because apparently, no one's actually running anything.",
-          "was_corrected": true
-        },
-        {
-          "start": 39.6,
-          "end": 41.04,
-          "text": "Let's rewind for a second.",
-          "original_transcription": "Let's rewind for a second.",
-          "was_corrected": false
-        },
-        {
-          "start": 41.04,
-          "end": 46.28,
-          "text": "Megan's been teasing this brand for months, maybe even years, on Instagram.",
-          "original_transcription": "Megan's been teasing this brand for months, maybe even years, on Instagram.",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 41.04,
-              "end": 41.362,
-              "text": "Megan's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 41.383,
-              "end": 41.524,
-              "text": "been",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 41.564,
-              "end": 41.927,
-              "text": "teasing",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 41.967,
-              "end": 42.108,
-              "text": "this",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 42.189,
-              "end": 42.511,
-              "text": "brand",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 42.592,
-              "end": 42.733,
-              "text": "for",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 42.854,
-              "end": 43.458,
-              "text": "months,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 43.479,
-              "end": 43.7,
-              "text": "maybe",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 43.801,
-              "end": 43.962,
-              "text": "even",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 44.003,
-              "end": 44.527,
-              "text": "years,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 44.889,
-              "end": 44.93,
-              "text": "on",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 45.01,
-              "end": 46.3,
-              "text": "Instagram.",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 46.28,
-          "end": 52.08,
-          "text": "Carefully filtered photos, poetic captions, food puns that land awkwardly, and vague quotes",
-          "original_transcription": "Carefully filtered photos, poetic captions, food puns that land awkwardly, and vague quotes",
-          "was_corrected": false
-        },
-        {
-          "start": 52.08,
-          "end": 55.24,
-          "text": "about wellness or self-love.",
-          "original_transcription": "about wellness or self-love.",
-          "was_corrected": false
-        },
-        {
-          "start": 55.24,
-          "end": 57.480000000000004,
-          "text": "and it came time to actually drop a product.",
-          "original_transcription": "And it came time to actually drop a product.",
-          "was_corrected": true
-        },
-        {
-          "start": 57.480000000000004,
-          "end": 61.32,
-          "text": "it was like watching someone fumble a handoff in slow motion.",
-          "original_transcription": "It was like watching someone fumble a handoff in slow motion.",
-          "was_corrected": true
-        },
-        {
-          "start": 61.32,
-          "end": 64.16,
-          "text": "there was no build-up, no vision, no consistency.",
-          "original_transcription": "There was no build-up, no vision, no consistency.",
-          "was_corrected": true
-        },
-        {
-          "start": 64.16,
-          "end": 70.92,
-          "text": "she launched a handful of items, jam, hibiscus tea, some sort of country sheet gift set, and",
-          "original_transcription": "She launched a handful of items, jam, hibiscus tea, some sort of country sheet gift set, and",
-          "was_corrected": true
-        },
-        {
-          "start": 70.92,
-          "end": 77.72,
-          "text": "then silence, like literal radio silence, no follow-up, no tutorials, no engagement, just",
-          "original_transcription": "then silence, like literal radio silence, no follow-up, no tutorials, no engagement, just",
-          "was_corrected": false
-        },
-        {
-          "start": 77.72,
-          "end": 82.36,
-          "text": "more curated snapshots and cryptic updates like restocking soon.",
-          "original_transcription": "more curated snapshots and cryptic updates like restocking soon.",
-          "was_corrected": false
-        },
-        {
-          "start": 82.36,
-          "end": 84.24000000000001,
-          "text": "what are we restocking, Megan?",
-          "original_transcription": "What are we restocking, Megan?",
-          "was_corrected": true,
-          "words": [
-            {
-              "start": 82.36,
-              "end": 82.544,
-              "text": "what",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 82.564,
-              "end": 82.667,
-              "text": "are",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 82.728,
-              "end": 82.83,
-              "text": "we",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 82.891,
-              "end": 83.423,
-              "text": "restocking,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 83.443,
-              "end": 84.26,
-              "text": "Megan?",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 84.24,
-          "end": 91.36,
-          "text": "is As ever anyway. is it food? is it fashion? is it a hospitality brand? Because the only",
-          "original_transcription": "is as ever anyway. Is it food? Is it fashion? Is it a hospitality brand? Because the only",
-          "was_corrected": true
-        },
-        {
-          "start": 91.36,
-          "end": 95.83999999999999,
-          "text": "clear thing is that it's not clear at all. one day she's supposedly doing rosé wine,",
-          "original_transcription": "clear thing is that it's not clear at all. One day she's supposedly doing rosé wine,",
-          "was_corrected": true
-        },
-        {
-          "start": 95.83999999999999,
-          "end": 100.72,
-          "text": "then it's a hotel line. then some weird luxury pantry goods that seem like They were plucked",
-          "original_transcription": "then it's a hotel line. Then some weird luxury pantry goods that seem like they were plucked",
-          "was_corrected": true
-        },
-        {
-          "start": 100.72,
-          "end": 105.44,
-          "text": "From a gift basket at a Hampton in. It's like she threw everything into a mood board, closed her",
-          "original_transcription": "from a gift basket at a hampton in. It's like she threw everything into a mood board, closed her",
-          "was_corrected": true
-        },
-        {
-          "start": 105.44,
-          "end": 111.44,
-          "text": "eyes, and let Netflix fund whatever stuck. and yes, Netflix is bankrolling the circus. That's probably",
-          "original_transcription": "eyes, and let Netflix fund whatever stuck. And yes, Netflix is bankrolling the circus. That's probably",
-          "was_corrected": true,
-          "words": [
-            {
-              "start": 105.44,
-              "end": 105.843,
-              "text": "eyes,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 105.963,
-              "end": 106.064,
-              "text": "and",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 106.104,
-              "end": 106.286,
-              "text": "let",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 106.326,
-              "end": 106.87,
-              "text": "Netflix",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 106.93,
-              "end": 107.131,
-              "text": "fund",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 107.172,
-              "end": 107.514,
-              "text": "whatever",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 107.594,
-              "end": 107.896,
-              "text": "stuck.",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 111.44,
-          "end": 115.36,
-          "text": "the biggest revelation here. According to Insiders, Megan doesn't have a team.",
-          "original_transcription": "the biggest revelation here. According to Insiders, Megan doesn't have a team.",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 111.44,
-              "end": 111.703,
-              "text": "the",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 111.804,
-              "end": 112.107,
-              "text": "biggest",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 112.167,
-              "end": 112.652,
-              "text": "revelation",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 112.693,
-              "end": 112.854,
-              "text": "here.",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 115.92,
-          "end": 121.12,
-          "text": "not a marketing squad, not a development Crew, nothing. It's just her picking out pre-approved",
-          "original_transcription": "Not a marketing squad, not a development crew, nothing. It's just her picking out pre-approved",
-          "was_corrected": true
-        },
-        {
-          "start": 121.12,
-          "end": 126.88,
-          "text": "samples that Netflix sends over, slapping a bird-themed label on it, and calling it a luxury lifestyle",
-          "original_transcription": "samples that Netflix sends over, slapping a bird-themed label on it, and calling it a luxury lifestyle",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 121.12,
-              "end": 121.704,
-              "text": "samples",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 121.764,
-              "end": 121.885,
-              "text": "that",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 121.966,
-              "end": 122.369,
-              "text": "Netflix",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 122.409,
-              "end": 122.671,
-              "text": "sends",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 122.771,
-              "end": 122.993,
-              "text": "over,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 123.053,
-              "end": 123.738,
-              "text": "slapping",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 123.799,
-              "end": 123.819,
-              "text": "a",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 123.899,
-              "end": 124.443,
-              "text": "bird-themed",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 124.483,
-              "end": 124.886,
-              "text": "label",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 125.027,
-              "end": 125.108,
-              "text": "on",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 125.168,
-              "end": 125.249,
-              "text": "it,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 125.349,
-              "end": 125.43,
-              "text": "and",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 125.49,
-              "end": 125.772,
-              "text": "calling",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 125.833,
-              "end": 125.873,
-              "text": "it",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 125.913,
-              "end": 125.974,
-              "text": "a",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 126.054,
-              "end": 126.417,
-              "text": "luxury",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 126.477,
-              "end": 126.9,
-              "text": "lifestyle",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 126.88,
-          "end": 132.4,
-          "text": "line. It's the Flamingo Estate logo just with hummingbirds now. That's not vision. That's rebranding",
-          "original_transcription": "line. It's the flamingo estate logo just with hummingbirds now. That's not vision. That's rebranding",
-          "was_corrected": true
-        },
-        {
-          "start": 132.4,
-          "end": 138.07999999999998,
-          "text": "someone else's leftovers. even the rollout was a hot mess. Insiders say she wanted everything to",
-          "original_transcription": "someone else's leftovers. Even the rollout was a hot mess. Insiders say she wanted everything to",
-          "was_corrected": true
-        },
-        {
-          "start": 138.08,
-          "end": 141.44000000000003,
-          "text": "Sell out instantly to create the solution of high demand.",
-          "original_transcription": "sell out instantly to create the solution of high demand.",
-          "was_corrected": true
-        },
-        {
-          "start": 141.44000000000003,
-          "end": 144.36,
-          "text": "you know, the old scarcity trick, But it backfired.",
-          "original_transcription": "You know, the old scarcity trick, but it backfired.",
-          "was_corrected": true
-        },
-        {
-          "start": 144.36,
-          "end": 148.20000000000002,
-          "text": "either the batch was so small that no one noticed, or she tried to spend mediocre demand",
-          "original_transcription": "Either the batch was so small that no one noticed, or she tried to spend mediocre demand",
-          "was_corrected": true
-        },
-        {
-          "start": 148.20000000000002,
-          "end": 151.24,
-          "text": "into hype by pretending things were out of stock.",
-          "original_transcription": "into hype by pretending things were out of stock.",
-          "was_corrected": false
-        },
-        {
-          "start": 151.24,
-          "end": 155.04000000000002,
-          "text": "But If you're not following up with content, customer engagement, or even showing your product",
-          "original_transcription": "But if you're not following up with content, customer engagement, or even showing your product",
-          "was_corrected": true
-        },
-        {
-          "start": 155.04000000000002,
-          "end": 157.68,
-          "text": "in use, what's the point?",
-          "original_transcription": "in use, what's the point?",
-          "was_corrected": false
-        },
-        {
-          "start": 157.68,
-          "end": 161.8,
-          "text": "people can't get excited over a product They don't understand.",
-          "original_transcription": "People can't get excited over a product they don't understand.",
-          "was_corrected": true
-        },
-        {
-          "start": 161.8,
-          "end": 165.74,
-          "text": "you can't just post a picture of yourself running into the ocean and expect folks to",
-          "original_transcription": "You can't just post a picture of yourself running into the ocean and expect folks to",
-          "was_corrected": true
-        },
-        {
-          "start": 165.74,
-          "end": 169.26000000000002,
-          "text": "to spend $28.0 on raspberry spread.",
-          "original_transcription": "to spend $28.0 on raspberry spread.",
-          "was_corrected": false
-        },
-        {
-          "start": 169.26000000000002,
-          "end": 171.9,
-          "text": "this kind of chaotic execution wouldn't fly",
-          "original_transcription": "This kind of chaotic execution wouldn't fly",
-          "was_corrected": true
-        },
-        {
-          "start": 171.9,
-          "end": 173.62,
-          "text": "with any other founder.",
-          "original_transcription": "with any other founder.",
-          "was_corrected": false
-        },
-        {
-          "start": 173.62,
-          "end": 176.22,
-          "text": "But somehow, Megan thought she could leapfrog years",
-          "original_transcription": "But somehow, Megan thought she could leapfrog years",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 173.62,
-              "end": 173.782,
-              "text": "But",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 173.884,
-              "end": 174.29,
-              "text": "somehow,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 174.433,
-              "end": 174.656,
-              "text": "Megan",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 174.697,
-              "end": 174.879,
-              "text": "thought",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 174.94,
-              "end": 175.042,
-              "text": "she",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 175.083,
-              "end": 175.225,
-              "text": "could",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 175.286,
-              "end": 175.814,
-              "text": "leapfrog",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 175.895,
-              "end": 176.24,
-              "text": "years",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 176.22,
-          "end": 177.94,
-          "text": "of brand building and land at the top",
-          "original_transcription": "of brand building and land at the top",
-          "was_corrected": false
-        },
-        {
-          "start": 177.94,
-          "end": 180.78,
-          "text": "of the lifestyle space by just existing.",
-          "original_transcription": "of the lifestyle space by just existing.",
-          "was_corrected": false
-        },
-        {
-          "start": 180.78,
-          "end": 184.10000000000002,
-          "text": "Meanwhile, brands like Goop started As newsletters.",
-          "original_transcription": "Meanwhile, brands like Goop started as newsletters.",
-          "was_corrected": true
-        },
-        {
-          "start": 184.10000000000002,
-          "end": 186.70000000000002,
-          "text": "years of building trust, taste, and voice.",
-          "original_transcription": "Years of building trust, taste, and voice.",
-          "was_corrected": true
-        },
-        {
-          "start": 186.70000000000002,
-          "end": 189.62,
-          "text": "Wheneth Paltrow didn't just toss bath salts online",
-          "original_transcription": "Wheneth Paltrow didn't just toss bath salts online",
-          "was_corrected": false
-        },
-        {
-          "start": 189.62,
-          "end": 191.54000000000002,
-          "text": "and disappear, she hustled.",
-          "original_transcription": "and disappear, she hustled.",
-          "was_corrected": false
-        },
-        {
-          "start": 191.54000000000002,
-          "end": 192.58,
-          "text": "Megan?",
-          "original_transcription": "Megan?",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 191.54,
-              "end": 192.601,
-              "text": "Megan?",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 192.58,
-          "end": 194.74,
-          "text": "She's acting like a monocedo goddess",
-          "original_transcription": "She's acting like a monocedo goddess",
-          "was_corrected": false
-        },
-        {
-          "start": 194.74,
-          "end": 197.46,
-          "text": "who believes her name alone is enough.",
-          "original_transcription": "who believes her name alone is enough.",
-          "was_corrected": false
-        },
-        {
-          "start": 197.46,
-          "end": 198.98000000000002,
-          "text": "But news flash.",
-          "original_transcription": "But news flash.",
-          "was_corrected": false
-        },
-        {
-          "start": 198.98000000000002,
-          "end": 201.18,
-          "text": "selling J-Crew sweaters on Instagram",
-          "original_transcription": "Selling J-Crew sweaters on Instagram",
-          "was_corrected": true
-        },
-        {
-          "start": 201.18,
-          "end": 204.62,
-          "text": "doesn't mean people want to buy your mystery jam.",
-          "original_transcription": "doesn't mean people want to buy your mystery jam.",
-          "was_corrected": false
-        },
-        {
-          "start": 204.62,
-          "end": 206.86,
-          "text": "now, the left-leaning Hollywood media",
-          "original_transcription": "Now, the left-leaning Hollywood media",
-          "was_corrected": true
-        },
-        {
-          "start": 206.86,
-          "end": 210.18,
-          "text": "that used to defend her, they're starting to roast her.",
-          "original_transcription": "that used to defend her, they're starting to roast her.",
-          "was_corrected": false
-        },
-        {
-          "start": 210.18,
-          "end": 213.34,
-          "text": "Puck just ran a brutal piece calling the brand a joke.",
-          "original_transcription": "Puck just ran a brutal piece calling the brand a joke.",
-          "was_corrected": false
-        },
-        {
-          "start": 213.34,
-          "end": 216.62,
-          "text": "when even your own ideological allies turn on you,",
-          "original_transcription": "When even your own ideological allies turn on you,",
-          "was_corrected": true
-        },
-        {
-          "start": 216.62,
-          "end": 218.62,
-          "text": "it's bad, real bad.",
-          "original_transcription": "it's bad, real bad.",
-          "was_corrected": false
-        },
-        {
-          "start": 218.62,
-          "end": 220.18,
-          "text": "especially when They start calling you",
-          "original_transcription": "Especially when they start calling you",
-          "was_corrected": true
-        },
-        {
-          "start": 220.18,
-          "end": 222.82000000000002,
-          "text": "the real Housewife of Montecito behind your back.",
-          "original_transcription": "the real housewife of Montecito behind your back.",
-          "was_corrected": true
-        },
-        {
-          "start": 222.82000000000002,
-          "end": 224.72,
-          "text": "and let's not forget the real kicker.",
-          "original_transcription": "And let's not forget the real kicker.",
-          "was_corrected": true
-        },
-        {
-          "start": 224.72,
-          "end": 227.8,
-          "text": "Megan reportedly passed on investing in actual brands",
-          "original_transcription": "Megan reportedly passed on investing in actual brands",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 224.72,
-              "end": 225.004,
-              "text": "Megan",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 225.024,
-              "end": 225.49,
-              "text": "reportedly",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 225.551,
-              "end": 225.895,
-              "text": "passed",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 225.976,
-              "end": 226.037,
-              "text": "on",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 226.098,
-              "end": 226.564,
-              "text": "investing",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 226.604,
-              "end": 226.665,
-              "text": "in",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 226.868,
-              "end": 227.233,
-              "text": "actual",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 227.293,
-              "end": 227.82,
-              "text": "brands",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 227.8,
-          "end": 231.24,
-          "text": "that were doing great, Flamingo Estate, Ocasentials.",
-          "original_transcription": "that were doing great, Flamingo Estate, Ocasentials.",
-          "was_corrected": false
-        },
-        {
-          "start": 231.24,
-          "end": 233.68,
-          "text": "she could have been quietly winning, But nope,",
-          "original_transcription": "She could have been quietly winning, but nope,",
-          "was_corrected": true
-        },
-        {
-          "start": 233.68,
-          "end": 236.72,
-          "text": "she wanted all the spotlight and none of the sweat.",
-          "original_transcription": "she wanted all the spotlight and none of the sweat.",
-          "was_corrected": false
-        },
-        {
-          "start": 236.72,
-          "end": 238.6,
-          "text": "You'd think after all the flops,",
-          "original_transcription": "You'd think after all the flops,",
-          "was_corrected": false
-        },
-        {
-          "start": 238.6,
-          "end": 240.36,
-          "text": "someone in Megan's inner circle",
-          "original_transcription": "someone in Megan's inner circle",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 238.6,
-              "end": 239.009,
-              "text": "someone",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 239.071,
-              "end": 239.112,
-              "text": "in",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 239.173,
-              "end": 239.541,
-              "text": "Megan's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 239.603,
-              "end": 239.787,
-              "text": "inner",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 239.848,
-              "end": 240.38,
-              "text": "circle",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 240.36,
-          "end": 243.84,
-          "text": "would have told her to slow down, regroup and start small.",
-          "original_transcription": "would have told her to slow down, regroup and start small.",
-          "was_corrected": false
-        },
-        {
-          "start": 243.84,
-          "end": 246.12,
-          "text": "But instead, we're watching what looks like",
-          "original_transcription": "But instead, we're watching what looks like",
-          "was_corrected": false
-        },
-        {
-          "start": 246.12,
-          "end": 248.68,
-          "text": "a billion dollar fantasy crashing into a wall",
-          "original_transcription": "a billion dollar fantasy crashing into a wall",
-          "was_corrected": false
-        },
-        {
-          "start": 248.68,
-          "end": 250.68,
-          "text": "of basic business reality.",
-          "original_transcription": "of basic business reality.",
-          "was_corrected": false
-        },
-        {
-          "start": 250.68,
-          "end": 253.32,
-          "text": "and while all of this is unfolding,",
-          "original_transcription": "And while all of this is unfolding,",
-          "was_corrected": true
-        },
-        {
-          "start": 253.32,
-          "end": 255.64,
-          "text": "She's out here posting dreamy beach photos",
-          "original_transcription": "She's out here posting dreamy beach photos",
-          "was_corrected": false
-        },
-        {
-          "start": 255.64,
-          "end": 257.28,
-          "text": "and tagging her Instagram stories",
-          "original_transcription": "and tagging her Instagram stories",
-          "was_corrected": false
-        },
-        {
-          "start": 257.28,
-          "end": 260.92,
-          "text": "with vague promises of a restock later this month.",
-          "original_transcription": "with vague promises of a restock later this month.",
-          "was_corrected": false
-        },
-        {
-          "start": 260.92,
-          "end": 263.24,
-          "text": "It's like watching someone live in a Pinterest board",
-          "original_transcription": "It's like watching someone live in a Pinterest board",
-          "was_corrected": false
-        },
-        {
-          "start": 263.24,
-          "end": 265.56,
-          "text": "while the warehouse burns behind them.",
-          "original_transcription": "while the warehouse burns behind them.",
-          "was_corrected": false
-        },
-        {
-          "start": 265.56,
-          "end": 268.12,
-          "text": "the tea, literally and figuratively,",
-          "original_transcription": "The tea, literally and figuratively,",
-          "was_corrected": true
-        },
-        {
-          "start": 268.12,
-          "end": 272.03999999999996,
-          "text": "is that even the products themselves don't live up to the hype.",
-          "original_transcription": "is that even the products themselves don't live up to the hype.",
-          "was_corrected": false
-        },
-        {
-          "start": 272.03999999999996,
-          "end": 274.48,
-          "text": "people who actually got their hands on this stuff",
-          "original_transcription": "People who actually got their hands on this stuff",
-          "was_corrected": true
-        },
-        {
-          "start": 274.48,
-          "end": 279.08,
-          "text": "described it As bland, forgettable, and weirdly packaged.",
-          "original_transcription": "described it as bland, forgettable, and weirdly packaged.",
-          "was_corrected": true
-        },
-        {
-          "start": 279.08,
-          "end": 282.44,
-          "text": "one person even pointed out spelling mistakes on the label.",
-          "original_transcription": "One person even pointed out spelling mistakes on the label.",
-          "was_corrected": true
-        },
-        {
-          "start": 282.44,
-          "end": 287.6,
-          "text": "for a brand that supposedly wants to rival Goop or even Martha Stewart's empire, that's",
-          "original_transcription": "For a brand that supposedly wants to rival Goop or even Martha Stewart's empire, that's",
-          "was_corrected": true,
-          "words": [
-            {
-              "start": 282.44,
-              "end": 282.561,
-              "text": "for",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 282.601,
-              "end": 282.642,
-              "text": "a",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 282.682,
-              "end": 282.984,
-              "text": "brand",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 283.025,
-              "end": 283.166,
-              "text": "that",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 283.206,
-              "end": 283.79,
-              "text": "supposedly",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 283.831,
-              "end": 284.012,
-              "text": "wants",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 284.053,
-              "end": 284.153,
-              "text": "to",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 284.214,
-              "end": 284.556,
-              "text": "rival",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 284.677,
-              "end": 284.939,
-              "text": "Goop",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 285.0,
-              "end": 285.08,
-              "text": "or",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 285.161,
-              "end": 285.322,
-              "text": "even",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 285.363,
-              "end": 285.826,
-              "text": "Martha",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 285.887,
-              "end": 286.25,
-              "text": "Stewart's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 286.35,
-              "end": 286.814,
-              "text": "empire,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 286.854,
-              "end": 287.62,
-              "text": "that's",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 287.6,
-          "end": 289.0,
-          "text": "rookie level sloppiness.",
-          "original_transcription": "rookie level sloppiness.",
-          "was_corrected": false
-        },
-        {
-          "start": 289.0,
-          "end": 292.78,
-          "text": "It's like she wanted to skip the part where you prove yourself, and Jump straight to",
-          "original_transcription": "It's like she wanted to skip the part where you prove yourself, and jump straight to",
-          "was_corrected": true
-        },
-        {
-          "start": 292.78,
-          "end": 297.36,
-          "text": "the part where everyone calls you a genius, Except no one is.",
-          "original_transcription": "the part where everyone calls you a genius, except no one is.",
-          "was_corrected": true
-        },
-        {
-          "start": 297.36,
-          "end": 301.64,
-          "text": "What's wild is how Megan continues to speak about the brand like it's a movement.",
-          "original_transcription": "What's wild is how Megan continues to speak about the brand like it's a movement.",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 297.36,
-              "end": 297.522,
-              "text": "What's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 297.542,
-              "end": 297.945,
-              "text": "wild",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 298.006,
-              "end": 298.067,
-              "text": "is",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 298.107,
-              "end": 298.208,
-              "text": "how",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 298.309,
-              "end": 298.592,
-              "text": "Megan",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 298.632,
-              "end": 299.015,
-              "text": "continues",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 299.036,
-              "end": 299.116,
-              "text": "to",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 299.157,
-              "end": 299.399,
-              "text": "speak",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 299.439,
-              "end": 299.641,
-              "text": "about",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 299.662,
-              "end": 299.742,
-              "text": "the",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 299.783,
-              "end": 300.025,
-              "text": "brand",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 300.065,
-              "end": 300.227,
-              "text": "like",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 300.287,
-              "end": 300.408,
-              "text": "it's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 300.429,
-              "end": 300.469,
-              "text": "a",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 300.57,
-              "end": 301.66,
-              "text": "movement.",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 301.64,
-          "end": 306.06,
-          "text": "on her podcast Confessions of a Female founder, she made it sound like she was building something",
-          "original_transcription": "On her podcast Confessions of a Female Founder, she made it sound like she was building something",
-          "was_corrected": true
-        },
-        {
-          "start": 306.06,
-          "end": 309.48,
-          "text": "transformative, something soulful.",
-          "original_transcription": "transformative, something soulful.",
-          "was_corrected": false
-        },
-        {
-          "start": 309.48,
-          "end": 313.88,
-          "text": "after announcing the brand was on pause, she was already back on Instagram promising",
-          "original_transcription": "After announcing the brand was on pause, she was already back on Instagram promising",
-          "was_corrected": true
-        },
-        {
-          "start": 313.88,
-          "end": 314.88,
-          "text": "a restock.",
-          "original_transcription": "a restock.",
-          "was_corrected": false
-        },
-        {
-          "start": 314.88,
-          "end": 317.04,
-          "text": "that whiplash alone says everything.",
-          "original_transcription": "That whiplash alone says everything.",
-          "was_corrected": true
-        },
-        {
-          "start": 317.04,
-          "end": 319.20000000000005,
-          "text": "It's not a strategy.",
-          "original_transcription": "It's not a strategy.",
-          "was_corrected": false
-        },
-        {
-          "start": 319.20000000000005,
-          "end": 320.6,
-          "text": "It's confusion in real time.",
-          "original_transcription": "It's confusion in real time.",
-          "was_corrected": false
-        },
-        {
-          "start": 320.6,
-          "end": 324.12,
-          "text": "a lifestyle brand isn't supposed to feel like improv theater.",
-          "original_transcription": "A lifestyle brand isn't supposed to feel like improv theater.",
-          "was_corrected": true
-        },
-        {
-          "start": 324.12,
-          "end": 327.88,
-          "text": "and that brings us to the big hospitality twist.",
-          "original_transcription": "And that brings us to the big hospitality twist.",
-          "was_corrected": true
-        },
-        {
-          "start": 327.88,
-          "end": 334.96000000000004,
-          "text": "Apparently, Megan now wants to pivot into hotels, not a pop-up, not a curated stay experience,",
-          "original_transcription": "Apparently, Megan now wants to pivot into hotels, not a pop-up, not a curated stay experience,",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 327.88,
-              "end": 328.463,
-              "text": "Apparently,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 328.504,
-              "end": 329.127,
-              "text": "Megan",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 329.147,
-              "end": 329.389,
-              "text": "now",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 329.449,
-              "end": 329.65,
-              "text": "wants",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 329.69,
-              "end": 329.771,
-              "text": "to",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 329.831,
-              "end": 330.133,
-              "text": "pivot",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 330.193,
-              "end": 330.455,
-              "text": "into",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 330.475,
-              "end": 331.259,
-              "text": "hotels,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 331.702,
-              "end": 331.903,
-              "text": "not",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 331.963,
-              "end": 331.983,
-              "text": "a",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 332.044,
-              "end": 332.406,
-              "text": "pop-up,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 332.566,
-              "end": 332.707,
-              "text": "not",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 332.748,
-              "end": 332.768,
-              "text": "a",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 332.868,
-              "end": 333.351,
-              "text": "curated",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 333.411,
-              "end": 333.693,
-              "text": "stay",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 333.753,
-              "end": 334.98,
-              "text": "experience,",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 334.96000000000004,
-          "end": 338.6,
-          "text": "full on Meghan Markle branded resorts.",
-          "original_transcription": "full on Meghan Markle branded resorts.",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 334.96,
-              "end": 335.081,
-              "text": "full",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 335.364,
-              "end": 335.486,
-              "text": "on",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 335.526,
-              "end": 336.497,
+              "end": 0.245,
               "text": "Meghan",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 336.517,
-              "end": 336.881,
+              "start": 0.266,
+              "end": 0.551,
               "text": "Markle",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 336.922,
-              "end": 337.306,
-              "text": "branded",
+              "start": 0.572,
+              "end": 0.674,
+              "text": "has",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 337.387,
-              "end": 338.62,
-              "text": "resorts.",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 338.6,
-          "end": 343.96000000000004,
-          "text": "Imagine checking into a place where the logo matches the jam you never got to try.",
-          "original_transcription": "Imagine checking into a place where the logo matches the jam you never got to try.",
-          "was_corrected": false
-        },
-        {
-          "start": 343.96000000000004,
-          "end": 347.84000000000003,
-          "text": "hospitality is a beast of an industry, especially when you have zero background in it.",
-          "original_transcription": "Hospitality is a beast of an industry, especially when you have zero background in it.",
-          "was_corrected": true
-        },
-        {
-          "start": 347.84000000000003,
-          "end": 351.64000000000004,
-          "text": "most billion dollar hospitality brands took decades to build.",
-          "original_transcription": "Most billion dollar hospitality brands took decades to build.",
-          "was_corrected": true
-        },
-        {
-          "start": 351.64000000000004,
-          "end": 357.24,
-          "text": "Megan's struggling to Sell HiBiskus t, and now I think she's ready to run a luxury retreat.",
-          "original_transcription": "Megan's struggling to sell HiBiskus T, and now I think she's ready to run a luxury retreat.",
-          "was_corrected": true,
-          "words": [
-            {
-              "start": 351.64,
-              "end": 352.043,
-              "text": "Megan's",
+              "start": 0.735,
+              "end": 1.164,
+              "text": "remained",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 352.144,
-              "end": 352.768,
-              "text": "struggling",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 352.949,
-              "end": 353.01,
-              "text": "to",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 353.07,
-              "end": 353.231,
-              "text": "Sell",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 353.272,
-              "end": 353.896,
-              "text": "HiBiskus",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 353.997,
-              "end": 354.299,
-              "text": "t,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 354.44,
-              "end": 354.521,
-              "text": "and",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 354.662,
-              "end": 355.024,
-              "text": "now",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 355.105,
-              "end": 355.125,
-              "text": "I",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 355.145,
-              "end": 355.326,
-              "text": "think",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 355.367,
-              "end": 355.528,
-              "text": "she's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 355.568,
-              "end": 355.749,
-              "text": "ready",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 355.769,
-              "end": 355.83,
-              "text": "to",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 355.87,
-              "end": 355.991,
-              "text": "run",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 356.052,
-              "end": 356.072,
+              "start": 1.185,
+              "end": 1.205,
               "text": "a",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 356.112,
-              "end": 356.495,
-              "text": "luxury",
+              "start": 1.226,
+              "end": 1.573,
+              "text": "lightning",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 356.555,
-              "end": 357.26,
-              "text": "retreat.",
+              "start": 1.695,
+              "end": 1.94,
+              "text": "rod",
               "original_text": "",
               "was_corrected": true
             }
           ]
         },
         {
-          "start": 357.24,
-          "end": 359.32000000000005,
-          "text": "That's Delusion served on a silver tray.",
-          "original_transcription": "That's delusion served on a silver tray.",
-          "was_corrected": true
-        },
-        {
-          "start": 359.32000000000005,
-          "end": 363.64000000000004,
-          "text": "then, there's the insider gossip that really pulls back the curtain.",
-          "original_transcription": "Then, there's the insider gossip that really pulls back the curtain.",
-          "was_corrected": true
-        },
-        {
-          "start": 363.64,
-          "end": 367.0,
-          "text": "source said there's no actual infrastructure for As ever.",
-          "original_transcription": "source said there's no actual infrastructure for as ever.",
-          "was_corrected": true
-        },
-        {
-          "start": 367.0,
-          "end": 373.0,
-          "text": "no team, no clear vision, just Megan, some outsourced product picks, and Netflix pulling",
-          "original_transcription": "No team, no clear vision, just Megan, some outsourced product picks, and Netflix pulling",
-          "was_corrected": true,
-          "words": [
-            {
-              "start": 367.0,
-              "end": 367.101,
-              "text": "no",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 367.201,
-              "end": 367.664,
-              "text": "team,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 367.745,
-              "end": 367.886,
-              "text": "no",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 367.946,
-              "end": 368.148,
-              "text": "clear",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 368.228,
-              "end": 368.611,
-              "text": "vision,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 368.711,
-              "end": 368.993,
-              "text": "just",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 369.315,
-              "end": 369.819,
-              "text": "Megan,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 370.04,
-              "end": 370.221,
-              "text": "some",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 370.362,
-              "end": 370.826,
-              "text": "outsourced",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 370.966,
-              "end": 371.389,
-              "text": "product",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 371.45,
-              "end": 371.772,
-              "text": "picks,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 371.993,
-              "end": 372.094,
-              "text": "and",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 372.215,
-              "end": 372.738,
-              "text": "Netflix",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 372.779,
-              "end": 373.02,
-              "text": "pulling",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 373.0,
-          "end": 375.8,
-          "text": "strings behind the scenes.",
-          "original_transcription": "strings behind the scenes.",
+          "start": 1.92,
+          "end": 4.68,
+          "text": "in global media conversations, balancing fame,",
+          "original_transcription": "in global media conversations, balancing fame,",
           "was_corrected": false
         },
         {
-          "start": 375.8,
-          "end": 379.03999999999996,
-          "text": "She's not developing a brand she's acting in one.",
-          "original_transcription": "She's not developing a brand she's acting in one.",
+          "start": 4.68,
+          "end": 7.4,
+          "text": "scrutiny, and the pursuit of independence.",
+          "original_transcription": "scrutiny, and the pursuit of independence.",
           "was_corrected": false
         },
         {
-          "start": 379.03999999999996,
-          "end": 383.28,
-          "text": "and even then, badly, Because when the people who want to like you start asking what you",
-          "original_transcription": "And even then, badly, because when the people who want to like you start asking what you",
+          "start": 7.4,
+          "end": 9.32,
+          "text": "ever since she stepped away From royal duties",
+          "original_transcription": "Ever since she stepped away from royal duties",
           "was_corrected": true
         },
         {
-          "start": 383.28,
-          "end": 386.12,
-          "text": "actually stand for, you've lost the thread.",
-          "original_transcription": "actually stand for, you've lost the thread.",
-          "was_corrected": false
-        },
-        {
-          "start": 386.12,
-          "end": 389.36,
-          "text": "Pucks report wasn't just a critique, it was a dismantling.",
-          "original_transcription": "Pucks report wasn't just a critique, it was a dismantling.",
-          "was_corrected": false
-        },
-        {
-          "start": 389.36,
-          "end": 394.48,
-          "text": "They basically laid out how Megan borrowed her brand logo, offered no innovation, and dumped",
-          "original_transcription": "They basically laid out how Megan borrowed her brand logo, offered no innovation, and dumped",
+          "start": 9.32,
+          "end": 10.6,
+          "text": "alongside Prince Harry,",
+          "original_transcription": "alongside Prince Harry,",
           "was_corrected": false,
           "words": [
             {
-              "start": 389.36,
-              "end": 389.441,
-              "text": "They",
+              "start": 9.32,
+              "end": 9.857,
+              "text": "alongside",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 389.521,
-              "end": 390.045,
-              "text": "basically",
+              "start": 9.919,
+              "end": 10.146,
+              "text": "Prince",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 390.106,
-              "end": 390.328,
-              "text": "laid",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 390.408,
-              "end": 390.489,
-              "text": "out",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 390.549,
-              "end": 390.67,
-              "text": "how",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 390.731,
-              "end": 391.013,
-              "text": "Megan",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 391.114,
-              "end": 391.456,
-              "text": "borrowed",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 391.497,
-              "end": 391.597,
-              "text": "her",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 391.638,
-              "end": 391.92,
-              "text": "brand",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 391.96,
-              "end": 392.343,
-              "text": "logo,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 392.464,
-              "end": 392.706,
-              "text": "offered",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 392.807,
-              "end": 392.968,
-              "text": "no",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 393.069,
-              "end": 393.694,
-              "text": "innovation,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 394.097,
-              "end": 394.198,
-              "text": "and",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 394.278,
-              "end": 394.5,
-              "text": "dumped",
+              "start": 10.187,
+              "end": 10.621,
+              "text": "Harry,",
               "original_text": "",
               "was_corrected": true
             }
           ]
         },
         {
-          "start": 394.48,
-          "end": 397.68,
-          "text": "poorly planned products into the market just to check a box.",
-          "original_transcription": "poorly planned products into the market just to check a box.",
+          "start": 10.6,
+          "end": 13.120000000000001,
+          "text": "the couple has faced both criticism and praise",
+          "original_transcription": "the couple has faced both criticism and praise",
+          "was_corrected": false
+        },
+        {
+          "start": 13.120000000000001,
+          "end": 14.96,
+          "text": "for carving their own path.",
+          "original_transcription": "for carving their own path.",
+          "was_corrected": false
+        },
+        {
+          "start": 14.96,
+          "end": 18.36,
+          "text": "From controversial interviews to high profile brand deals,",
+          "original_transcription": "From controversial interviews to high profile brand deals,",
+          "was_corrected": false
+        },
+        {
+          "start": 18.36,
+          "end": 20.12,
+          "text": "Meghan has redefined what it means",
+          "original_transcription": "Meghan has redefined what it means",
           "was_corrected": false,
           "words": [
             {
-              "start": 394.48,
-              "end": 394.905,
-              "text": "poorly",
+              "start": 18.36,
+              "end": 18.667,
+              "text": "Meghan",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 394.946,
-              "end": 395.229,
-              "text": "planned",
+              "start": 18.687,
+              "end": 18.79,
+              "text": "has",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 395.27,
-              "end": 395.594,
-              "text": "products",
+              "start": 18.872,
+              "end": 19.527,
+              "text": "redefined",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 395.655,
-              "end": 395.796,
-              "text": "into",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 395.837,
-              "end": 395.918,
-              "text": "the",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 395.958,
-              "end": 396.262,
-              "text": "market",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 396.303,
-              "end": 396.465,
-              "text": "just",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 396.485,
-              "end": 396.566,
-              "text": "to",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 396.607,
-              "end": 396.789,
-              "text": "check",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 396.829,
-              "end": 396.87,
-              "text": "a",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 396.91,
-              "end": 397.7,
-              "text": "box.",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 397.68,
-          "end": 401.84000000000003,
-          "text": "and now that it's flailing, it's suddenly about new directions and future releases.",
-          "original_transcription": "And now that it's flailing, it's suddenly about new directions and future releases.",
-          "was_corrected": true
-        },
-        {
-          "start": 401.84000000000003,
-          "end": 403.84000000000003,
-          "text": "That's not expansion.",
-          "original_transcription": "That's not expansion.",
-          "was_corrected": false
-        },
-        {
-          "start": 403.84000000000003,
-          "end": 404.84000000000003,
-          "text": "That's panic.",
-          "original_transcription": "That's panic.",
-          "was_corrected": false
-        },
-        {
-          "start": 404.84000000000003,
-          "end": 409.2,
-          "text": "and don't forget how she fumbled the communication with her own audience.",
-          "original_transcription": "And don't forget how she fumbled the communication with her own audience.",
-          "was_corrected": true
-        },
-        {
-          "start": 409.2,
-          "end": 413.72,
-          "text": "the people who signed up for her email list didn't even get a heads up before the launch.",
-          "original_transcription": "The people who signed up for her email list didn't even get a heads up before the launch.",
-          "was_corrected": true
-        },
-        {
-          "start": 413.72,
-          "end": 417.28000000000003,
-          "text": "by the time the email went out, the products were already live.",
-          "original_transcription": "By the time the email went out, the products were already live.",
-          "was_corrected": true
-        },
-        {
-          "start": 417.28000000000003,
-          "end": 418.28000000000003,
-          "text": "who does that?",
-          "original_transcription": "Who does that?",
-          "was_corrected": true
-        },
-        {
-          "start": 418.28000000000003,
-          "end": 422.20000000000005,
-          "text": "even in the Etsy sellers manage better coordination than that.",
-          "original_transcription": "Even in the Etsy sellers manage better coordination than that.",
-          "was_corrected": true
-        },
-        {
-          "start": 422.20000000000005,
-          "end": 426.28000000000003,
-          "text": "It's like Megan forgot the whole point of building a loyal customer base.",
-          "original_transcription": "It's like Megan forgot the whole point of building a loyal customer base.",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 422.2,
-              "end": 422.281,
-              "text": "It's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 422.301,
-              "end": 422.382,
-              "text": "like",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 422.442,
-              "end": 422.725,
-              "text": "Megan",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 422.745,
-              "end": 423.129,
-              "text": "forgot",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 423.17,
-              "end": 423.27,
-              "text": "the",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 423.311,
-              "end": 423.472,
-              "text": "whole",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 423.573,
-              "end": 423.957,
-              "text": "point",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 423.977,
-              "end": 424.058,
-              "text": "of",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 424.099,
-              "end": 424.523,
-              "text": "building",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 424.543,
-              "end": 424.563,
-              "text": "a",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 424.684,
-              "end": 424.947,
-              "text": "loyal",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 425.008,
-              "end": 425.411,
-              "text": "customer",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 425.452,
-              "end": 426.3,
-              "text": "base.",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 426.28000000000003,
-          "end": 431.08000000000004,
-          "text": "the worst part, there's a deeper level of frustration here, even among her supporters.",
-          "original_transcription": "The worst part, there's a deeper level of frustration here, even among her supporters.",
-          "was_corrected": true
-        },
-        {
-          "start": 431.08000000000004,
-          "end": 436.32000000000005,
-          "text": "It's not just that the brand is messy, it's that it feels lazy, like she thought a few inspirational",
-          "original_transcription": "It's not just that the brand is messy, it's that it feels lazy, like she thought a few inspirational",
-          "was_corrected": false
-        },
-        {
-          "start": 436.32000000000005,
-          "end": 440.6,
-          "text": "quotes and some hummingbird logos would be enough to build an empire.",
-          "original_transcription": "quotes and some hummingbird logos would be enough to build an empire.",
-          "was_corrected": false
-        },
-        {
-          "start": 440.6,
-          "end": 447.44000000000005,
-          "text": "But lifestyle isn't just aesthetics, it's clarity, it's consistency, and it's trust.",
-          "original_transcription": "But lifestyle isn't just aesthetics, it's clarity, it's consistency, and it's trust.",
-          "was_corrected": false
-        },
-        {
-          "start": 447.44,
-          "end": 451.8,
-          "text": "three are missing, and now just when you think it couldn't get any more bizarre, Prince",
-          "original_transcription": "three are missing, and now just when you think it couldn't get any more bizarre, Prince",
-          "was_corrected": false
-        },
-        {
-          "start": 451.8,
-          "end": 456.66,
-          "text": "Harry throws his own plot twist into the mix. According to new reports, he's had serious",
-          "original_transcription": "Harry throws his own plot twist into the mix. According to new reports, he's had serious",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 451.8,
-              "end": 452.244,
-              "text": "Harry",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 452.284,
-              "end": 452.546,
-              "text": "throws",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 452.586,
-              "end": 452.687,
-              "text": "his",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 452.768,
-              "end": 452.909,
-              "text": "own",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 452.949,
-              "end": 453.212,
-              "text": "plot",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 453.252,
-              "end": 453.514,
-              "text": "twist",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 453.575,
-              "end": 453.736,
-              "text": "into",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 453.756,
-              "end": 453.817,
-              "text": "the",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 453.837,
-              "end": 454.159,
-              "text": "mix.",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 456.66,
-          "end": 462.08,
-          "text": "conversations about changing his family name to Spencer. yes, ditching Windsor completely",
-          "original_transcription": "conversations about changing his family name to Spencer. Yes, ditching Windsor completely",
-          "was_corrected": true
-        },
-        {
-          "start": 462.08,
-          "end": 468.04,
-          "text": "and embracing Diana's legacy, full on. this wasn't just pillow talk either. he allegedly",
-          "original_transcription": "and embracing Diana's legacy, full on. This wasn't just pillow talk either. He allegedly",
-          "was_corrected": true,
-          "words": [
-            {
-              "start": 462.08,
-              "end": 462.422,
-              "text": "and",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 462.503,
-              "end": 463.026,
-              "text": "embracing",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 463.067,
-              "end": 463.671,
-              "text": "Diana's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 463.711,
-              "end": 464.255,
-              "text": "legacy,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 464.275,
-              "end": 464.919,
-              "text": "full",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 465.04,
-              "end": 465.201,
-              "text": "on.",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 468.04,
-          "end": 473.84,
-          "text": "brought it up with Charles Spencer, Diana's brother and the logic. he wants to honor his mother's",
-          "original_transcription": "brought it up with Charles Spencer, Diana's brother and the logic. He wants to honor his mother's",
-          "was_corrected": true,
-          "words": [
-            {
-              "start": 468.04,
-              "end": 468.403,
-              "text": "brought",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 468.443,
-              "end": 468.483,
-              "text": "it",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 468.644,
-              "end": 468.725,
-              "text": "up",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 468.846,
-              "end": 469.067,
-              "text": "with",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 469.248,
-              "end": 469.611,
-              "text": "Charles",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 469.671,
-              "end": 470.134,
-              "text": "Spencer,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 470.255,
-              "end": 470.698,
-              "text": "Diana's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 470.759,
-              "end": 471.121,
-              "text": "brother",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 471.162,
-              "end": 471.504,
-              "text": "and",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 471.544,
-              "end": 471.605,
-              "text": "the",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 471.665,
-              "end": 472.108,
-              "text": "logic.",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 473.84000000000003,
-          "end": 478.08000000000004,
-          "text": "memory while further distancing himself From the royal institution he spent the last few years",
-          "original_transcription": "memory while further distancing himself from the royal institution he spent the last few years",
-          "was_corrected": true
-        },
-        {
-          "start": 478.08000000000004,
-          "end": 485.28000000000003,
-          "text": "torching in public. It's a move that screams identity crisis. Harry and Meghan have spent years",
-          "original_transcription": "torching in public. It's a move that screams identity crisis. Harry and Meghan have spent years",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 478.08,
-              "end": 478.603,
-              "text": "torching",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 478.643,
-              "end": 478.683,
-              "text": "in",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 478.764,
-              "end": 479.81,
-              "text": "public.",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 485.28000000000003,
-          "end": 491.36,
-          "text": "blowing up bridges, accusing the royal family of racism, leaking personal family details and",
-          "original_transcription": "blowing up bridges, accusing the royal family of racism, leaking personal family details and",
-          "was_corrected": false
-        },
-        {
-          "start": 491.36,
-          "end": 498.56000000000006,
-          "text": "documentaries, and painting themselves As misunderstood exiles. But now, Harry wants to rebrand his",
-          "original_transcription": "documentaries, and painting themselves as misunderstood exiles. But now, Harry wants to rebrand his",
-          "was_corrected": true,
-          "words": [
-            {
-              "start": 491.36,
-              "end": 492.386,
-              "text": "documentaries,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 492.446,
-              "end": 493.11,
-              "text": "and",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 493.15,
-              "end": 493.492,
-              "text": "painting",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 493.532,
-              "end": 494.135,
-              "text": "themselves",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 494.156,
-              "end": 494.377,
-              "text": "As",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 494.417,
-              "end": 495.02,
-              "text": "misunderstood",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 495.101,
-              "end": 495.583,
-              "text": "exiles.",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 498.56,
-          "end": 503.12,
-          "text": "As children, Archie and Lillibet As potential working royals someday, it's like trying",
-          "original_transcription": "As children, Archie and Lillibet as potential working royals someday, it's like trying",
-          "was_corrected": true
-        },
-        {
-          "start": 503.12,
-          "end": 508.36,
-          "text": "to un-cancel yourself after you lit the match, you can't trash the monarchy, leave the",
-          "original_transcription": "to un-cancel yourself after you lit the match, you can't trash the monarchy, leave the",
-          "was_corrected": false
-        },
-        {
-          "start": 508.36,
-          "end": 513.2,
-          "text": "firm, monetize your exit, and then expect your kids to waltz back into Buckingham Palace",
-          "original_transcription": "firm, monetize your exit, and then expect your kids to waltz back into Buckingham Palace",
-          "was_corrected": false
-        },
-        {
-          "start": 513.2,
-          "end": 516.44,
-          "text": "when They turn 21 like it's a summer internship.",
-          "original_transcription": "when they turn 21 like it's a summer internship.",
-          "was_corrected": true
-        },
-        {
-          "start": 516.44,
-          "end": 521.68,
-          "text": "Sources say Harry wanted their HRH titles added to their passports and even believes Archie",
-          "original_transcription": "Sources say Harry wanted their HRH titles added to their passports and even believes Archie",
-          "was_corrected": false,
-          "words": [
-            {
-              "start": 516.44,
-              "end": 516.662,
-              "text": "Sources",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 516.702,
-              "end": 516.944,
-              "text": "say",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 516.984,
-              "end": 517.307,
-              "text": "Harry",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 517.367,
-              "end": 517.629,
-              "text": "wanted",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 517.669,
-              "end": 517.81,
-              "text": "their",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 518.012,
-              "end": 518.496,
-              "text": "HRH",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 518.556,
-              "end": 518.979,
-              "text": "titles",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 519.181,
-              "end": 519.382,
-              "text": "added",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 519.423,
-              "end": 519.463,
-              "text": "to",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 519.524,
-              "end": 519.665,
-              "text": "their",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 519.705,
-              "end": 520.31,
-              "text": "passports",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 520.672,
-              "end": 520.753,
-              "text": "and",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 520.874,
-              "end": 521.035,
-              "text": "even",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 521.075,
-              "end": 521.378,
-              "text": "believes",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 521.519,
-              "end": 521.7,
-              "text": "Archie",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 521.68,
-          "end": 526.24,
-          "text": "and Lillibet should have the option to serve the Crown later in light.",
-          "original_transcription": "and Lillibet should have the option to serve the crown later in light.",
-          "was_corrected": true
-        },
-        {
-          "start": 526.24,
-          "end": 531.0,
-          "text": "As If royal service is a backup career in case the Spotify deals dry up.",
-          "original_transcription": "As if Royal Service is a backup career in case the Spotify deals dry up.",
-          "was_corrected": true
-        },
-        {
-          "start": 531.0,
-          "end": 532.0,
-          "text": "That's not how it works.",
-          "original_transcription": "That's not how it works.",
-          "was_corrected": false
-        },
-        {
-          "start": 532.0,
-          "end": 537.28,
-          "text": "the institution doesn't just pause and resume based on your personal whims, and let's",
-          "original_transcription": "The institution doesn't just pause and resume based on your personal whims, and let's",
-          "was_corrected": true
-        },
-        {
-          "start": 537.28,
-          "end": 538.28,
-          "text": "be real.",
-          "original_transcription": "be real.",
-          "was_corrected": false
-        },
-        {
-          "start": 538.28,
-          "end": 542.96,
-          "text": "what makes him think William the future king would entertain that idea after everything.",
-          "original_transcription": "What makes him think William the future king would entertain that idea after everything.",
-          "was_corrected": true,
-          "words": [
-            {
-              "start": 538.28,
-              "end": 538.361,
+              "start": 19.588,
+              "end": 19.711,
               "text": "what",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 538.381,
-              "end": 538.542,
-              "text": "makes",
+              "start": 19.752,
+              "end": 19.793,
+              "text": "it",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 538.583,
-              "end": 538.704,
-              "text": "him",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 538.764,
-              "end": 538.966,
-              "text": "think",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 538.986,
-              "end": 539.369,
-              "text": "William",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 539.389,
-              "end": 539.49,
-              "text": "the",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 539.531,
-              "end": 539.833,
-              "text": "future",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 539.894,
-              "end": 540.196,
-              "text": "king",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 540.277,
-              "end": 540.438,
-              "text": "would",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 540.519,
-              "end": 540.983,
-              "text": "entertain",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 541.044,
-              "end": 541.185,
-              "text": "that",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 541.266,
-              "end": 541.548,
-              "text": "idea",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 541.669,
-              "end": 541.851,
-              "text": "after",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 541.931,
-              "end": 542.98,
-              "text": "everything.",
+              "start": 19.854,
+              "end": 20.14,
+              "text": "means",
               "original_text": "",
               "was_corrected": true
             }
           ]
         },
         {
-          "start": 542.96,
-          "end": 546.58,
-          "text": "the royal family is still recovering From the fallout.",
-          "original_transcription": "The Royal Family is still recovering from the fallout.",
-          "was_corrected": true
-        },
-        {
-          "start": 546.58,
-          "end": 552.96,
-          "text": "From the Oprah interview to the Netflix docuseries to Harry's own tell all memoir Spare, it's been",
-          "original_transcription": "From the Oprah interview to the Netflix docuseries to Harry's own Tell All memoir spare, it's been",
-          "was_corrected": true,
-          "words": [
-            {
-              "start": 546.58,
-              "end": 546.661,
-              "text": "From",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 546.681,
-              "end": 546.741,
-              "text": "the",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 546.902,
-              "end": 547.144,
-              "text": "Oprah",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 547.184,
-              "end": 547.687,
-              "text": "interview",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 547.949,
-              "end": 548.049,
-              "text": "to",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 548.069,
-              "end": 548.13,
-              "text": "the",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 548.15,
-              "end": 548.673,
-              "text": "Netflix",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 548.713,
-              "end": 549.539,
-              "text": "docuseries",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 549.599,
-              "end": 549.72,
-              "text": "to",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 549.82,
-              "end": 550.223,
-              "text": "Harry's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 550.344,
-              "end": 550.484,
-              "text": "own",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 550.585,
-              "end": 550.806,
-              "text": "tell",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 550.847,
-              "end": 550.988,
-              "text": "all",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 551.028,
-              "end": 551.43,
-              "text": "memoir",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 551.491,
-              "end": 551.873,
-              "text": "Spare,",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 551.934,
-              "end": 552.578,
-              "text": "it's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 552.618,
-              "end": 552.98,
-              "text": "been",
-              "original_text": "",
-              "was_corrected": true
-            }
-          ]
-        },
-        {
-          "start": 552.96,
-          "end": 553.96,
-          "text": "a relentless onslaught.",
-          "original_transcription": "a relentless onslaught.",
+          "start": 20.12,
+          "end": 21.96,
+          "text": "to be royal in the modern world.",
+          "original_transcription": "to be royal in the modern world.",
           "was_corrected": false
         },
         {
-          "start": 553.96,
-          "end": 556.6,
-          "text": "They dragged the Queen during her final year,",
-          "original_transcription": "They dragged the Queen during her final year,",
+          "start": 21.96,
+          "end": 24.16,
+          "text": "Amid the chaos, one moment that stood out",
+          "original_transcription": "Amid the chaos, one moment that stood out",
           "was_corrected": false
         },
         {
-          "start": 556.6,
-          "end": 559.88,
-          "text": "aired dirty laundry while Prince Philip was dying,",
-          "original_transcription": "aired dirty laundry while Prince Philip was dying,",
-          "was_corrected": false
-        },
-        {
-          "start": 559.88,
-          "end": 564.36,
-          "text": "and now there's this fantasy that the next generation of Sussexes",
-          "original_transcription": "and now there's this fantasy that the next generation of Sussexes",
-          "was_corrected": false
-        },
-        {
-          "start": 564.36,
-          "end": 566.9200000000001,
-          "text": "might be accepted back into the fold?",
-          "original_transcription": "might be accepted back into the fold?",
-          "was_corrected": false
-        },
-        {
-          "start": 566.9200000000001,
-          "end": 569.32,
-          "text": "Delusion doesn't even begin to cover it.",
-          "original_transcription": "Delusion doesn't even begin to cover it.",
-          "was_corrected": false
-        },
-        {
-          "start": 569.32,
-          "end": 573.4000000000001,
-          "text": "even those once sympathetic to their story are left scratching their heads.",
-          "original_transcription": "Even those once sympathetic to their story are left scratching their heads.",
-          "was_corrected": true
-        },
-        {
-          "start": 574.2800000000001,
-          "end": 578.2800000000001,
-          "text": "There's a growing sentiment that Harry's stuck in some alternate reality,",
-          "original_transcription": "There's a growing sentiment that Harry's stuck in some alternate reality,",
+          "start": 24.16,
+          "end": 26.6,
+          "text": "in its quiet solemnity was Meghan and Harry",
+          "original_transcription": "in its quiet solemnity was Meghan and Harry",
           "was_corrected": false,
           "words": [
             {
-              "start": 574.28,
-              "end": 574.603,
-              "text": "There's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 574.644,
-              "end": 574.664,
-              "text": "a",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 574.704,
-              "end": 574.947,
-              "text": "growing",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 575.007,
-              "end": 575.411,
-              "text": "sentiment",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 575.452,
-              "end": 575.573,
-              "text": "that",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 575.634,
-              "end": 576.017,
-              "text": "Harry's",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 576.159,
-              "end": 576.462,
-              "text": "stuck",
-              "original_text": "",
-              "was_corrected": true
-            },
-            {
-              "start": 576.522,
-              "end": 576.623,
+              "start": 24.16,
+              "end": 24.241,
               "text": "in",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 576.684,
-              "end": 576.886,
-              "text": "some",
+              "start": 24.343,
+              "end": 24.404,
+              "text": "its",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 577.048,
-              "end": 577.411,
-              "text": "alternate",
+              "start": 24.485,
+              "end": 24.892,
+              "text": "quiet",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 577.432,
-              "end": 578.3,
-              "text": "reality,",
+              "start": 24.953,
+              "end": 25.624,
+              "text": "solemnity",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 25.787,
+              "end": 25.97,
+              "text": "was",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 25.99,
+              "end": 26.214,
+              "text": "Meghan",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 26.234,
+              "end": 26.295,
+              "text": "and",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 26.336,
+              "end": 26.62,
+              "text": "Harry",
               "original_text": "",
               "was_corrected": true
             }
           ]
         },
         {
-          "start": 578.2800000000001,
-          "end": 581.24,
-          "text": "one where he believes the monarchy still owes him something,",
-          "original_transcription": "one where he believes the monarchy still owes him something,",
+          "start": 26.6,
+          "end": 28.28,
+          "text": "at Elizabeth's funeral.",
+          "original_transcription": "at Elizabeth's funeral.",
           "was_corrected": false
         },
         {
-          "start": 581.24,
-          "end": 585.24,
-          "text": "or that he can rewrite the terms of exit whenever it suits him.",
-          "original_transcription": "or that he can rewrite the terms of exit whenever it suits him.",
+          "start": 28.28,
+          "end": 33.72,
+          "text": "a rare scene of unity, grief, and dignity that reminded the world of their deep ties to",
+          "original_transcription": "a rare scene of unity, grief, and dignity that reminded the world of their deep ties to",
           "was_corrected": false
         },
         {
-          "start": 585.24,
-          "end": 591.24,
-          "text": "Meanwhile, Megan's off trying to build a brand empire on vibes and Instagram filters",
-          "original_transcription": "Meanwhile, Megan's off trying to build a brand empire on vibes and Instagram filters",
+          "start": 33.72,
+          "end": 37.04,
+          "text": "the monarchy despite the public rift.",
+          "original_transcription": "the monarchy despite the public rift.",
+          "was_corrected": false
+        },
+        {
+          "start": 37.04,
+          "end": 41.6,
+          "text": "Recently, Meghan's name has also come up in entertainment circles through her reported",
+          "original_transcription": "Recently, Meghan's name has also come up in entertainment circles through her reported",
           "was_corrected": false,
           "words": [
             {
-              "start": 585.24,
-              "end": 585.904,
-              "text": "Meanwhile,",
+              "start": 37.04,
+              "end": 37.565,
+              "text": "Recently,",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 586.368,
-              "end": 586.75,
-              "text": "Megan's",
+              "start": 37.605,
+              "end": 38.251,
+              "text": "Meghan's",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 586.851,
-              "end": 586.992,
-              "text": "off",
+              "start": 38.291,
+              "end": 38.452,
+              "text": "name",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 587.032,
-              "end": 587.294,
-              "text": "trying",
+              "start": 38.493,
+              "end": 38.614,
+              "text": "has",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 587.334,
-              "end": 587.414,
+              "start": 38.695,
+              "end": 38.916,
+              "text": "also",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 38.977,
+              "end": 39.118,
+              "text": "come",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 39.179,
+              "end": 39.28,
+              "text": "up",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 39.32,
+              "end": 39.36,
+              "text": "in",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 39.421,
+              "end": 40.006,
+              "text": "entertainment",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 40.046,
+              "end": 40.45,
+              "text": "circles",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 40.894,
+              "end": 41.075,
+              "text": "through",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 41.116,
+              "end": 41.196,
+              "text": "her",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 41.257,
+              "end": 41.62,
+              "text": "reported",
+              "original_text": "",
+              "was_corrected": true
+            }
+          ]
+        },
+        {
+          "start": 41.6,
+          "end": 45.08,
+          "text": "interactions with music icon Beyoncé.",
+          "original_transcription": "interactions with music icon Beyoncé.",
+          "was_corrected": false,
+          "words": [
+            {
+              "start": 41.6,
+              "end": 42.369,
+              "text": "interactions",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 42.43,
+              "end": 42.531,
+              "text": "with",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 42.591,
+              "end": 42.976,
+              "text": "music",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 43.198,
+              "end": 43.643,
+              "text": "icon",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 43.704,
+              "end": 45.1,
+              "text": "Beyoncé.",
+              "original_text": "",
+              "was_corrected": true
+            }
+          ]
+        },
+        {
+          "start": 45.08,
+          "end": 50.96,
+          "text": "the two powerful women, both navigating public lives with grace and fire, share more in",
+          "original_transcription": "The two powerful women, both navigating public lives with grace and fire, share more in",
+          "was_corrected": true
+        },
+        {
+          "start": 50.96,
+          "end": 56.400000000000006,
+          "text": "common than it may seem, especially when it comes to controlling their narratives in male",
+          "original_transcription": "common than it may seem, especially when it comes to controlling their narratives in male",
+          "was_corrected": false
+        },
+        {
+          "start": 56.400000000000006,
+          "end": 57.84,
+          "text": "dominated industries.",
+          "original_transcription": "dominated industries.",
+          "was_corrected": false
+        },
+        {
+          "start": 57.84,
+          "end": 62.92,
+          "text": "As Megan continues to evolve her public persona From Duchess to media mogul, her proximity",
+          "original_transcription": "As Megan continues to evolve her public persona from Duchess to media mogul, her proximity",
+          "was_corrected": true,
+          "words": [
+            {
+              "start": 57.84,
+              "end": 57.9,
+              "text": "As",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 57.921,
+              "end": 58.223,
+              "text": "Megan",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 58.243,
+              "end": 58.646,
+              "text": "continues",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 58.667,
+              "end": 58.747,
               "text": "to",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 587.475,
-              "end": 587.757,
-              "text": "build",
+              "start": 58.808,
+              "end": 59.09,
+              "text": "evolve",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 587.777,
-              "end": 587.797,
-              "text": "a",
+              "start": 59.13,
+              "end": 59.191,
+              "text": "her",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 587.978,
-              "end": 588.341,
-              "text": "brand",
+              "start": 59.231,
+              "end": 59.513,
+              "text": "public",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 588.421,
-              "end": 588.884,
-              "text": "empire",
+              "start": 59.553,
+              "end": 60.037,
+              "text": "persona",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 589.005,
-              "end": 589.066,
-              "text": "on",
+              "start": 60.057,
+              "end": 60.38,
+              "text": "From",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 589.186,
-              "end": 589.71,
-              "text": "vibes",
+              "start": 60.4,
+              "end": 61.065,
+              "text": "Duchess",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 589.911,
-              "end": 590.032,
-              "text": "and",
+              "start": 61.106,
+              "end": 61.186,
+              "text": "to",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 590.052,
-              "end": 590.636,
-              "text": "Instagram",
+              "start": 61.227,
+              "end": 61.509,
+              "text": "media",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 590.676,
-              "end": 591.26,
-              "text": "filters",
+              "start": 61.549,
+              "end": 61.973,
+              "text": "mogul,",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 62.376,
+              "end": 62.456,
+              "text": "her",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 62.497,
+              "end": 62.94,
+              "text": "proximity",
               "original_text": "",
               "was_corrected": true
             }
           ]
         },
         {
-          "start": 591.24,
-          "end": 595.24,
-          "text": "while ghosting the fundamentals of leadership, business, and consistency.",
-          "original_transcription": "while ghosting the fundamentals of leadership, business, and consistency.",
-          "was_corrected": false
-        },
-        {
-          "start": 595.24,
-          "end": 598.24,
-          "text": "and through all of this, you start to see a pattern.",
-          "original_transcription": "And through all of this, you start to see a pattern.",
-          "was_corrected": true
-        },
-        {
-          "start": 598.24,
-          "end": 602.24,
-          "text": "It's not just poor planning or bad luck, it's a mindset.",
-          "original_transcription": "It's not just poor planning or bad luck, it's a mindset.",
-          "was_corrected": false
-        },
-        {
-          "start": 602.24,
-          "end": 607.24,
-          "text": "the Sussex strategy, If you can call it that, seems rooted in chaos.",
-          "original_transcription": "The Sussex strategy, if you can call it that, seems rooted in chaos.",
-          "was_corrected": true
-        },
-        {
-          "start": 607.24,
-          "end": 610.24,
-          "text": "Jump into industries with no foundation.",
-          "original_transcription": "Jump into industries with no foundation.",
-          "was_corrected": false
-        },
-        {
-          "start": 610.24,
-          "end": 612.66,
-          "text": "Sell a story without building substance.",
-          "original_transcription": "Sell a story without building substance.",
-          "was_corrected": false
-        },
-        {
-          "start": 612.66,
-          "end": 615.8,
-          "text": "Burn bridges and expect new ones to appear.",
-          "original_transcription": "Burn bridges and expect new ones to appear.",
-          "was_corrected": false
-        },
-        {
-          "start": 615.8,
-          "end": 618.96,
-          "text": "Whether it's a lifestyle brand or a royal legacy,",
-          "original_transcription": "Whether it's a lifestyle brand or a royal legacy,",
-          "was_corrected": false
-        },
-        {
-          "start": 618.96,
-          "end": 620.96,
-          "text": "their approach is always the same.",
-          "original_transcription": "their approach is always the same.",
-          "was_corrected": false
-        },
-        {
-          "start": 620.96,
-          "end": 624.5600000000001,
-          "text": "grab attention first, figure out the details later.",
-          "original_transcription": "Grab attention first, figure out the details later.",
-          "was_corrected": true
-        },
-        {
-          "start": 624.5600000000001,
-          "end": 625.76,
-          "text": "But the cracks are widening.",
-          "original_transcription": "But the cracks are widening.",
-          "was_corrected": false
-        },
-        {
-          "start": 625.76,
-          "end": 628.4,
-          "text": "Began's brand is floundering.",
-          "original_transcription": "Began's brand is floundering.",
-          "was_corrected": false
-        },
-        {
-          "start": 628.4,
-          "end": 630.6800000000001,
-          "text": "Perry's royal pipe dreams are being mocked",
-          "original_transcription": "Perry's royal pipe dreams are being mocked",
-          "was_corrected": false
-        },
-        {
-          "start": 630.6800000000001,
-          "end": 633.48,
-          "text": "even by people who once defended him.",
-          "original_transcription": "even by people who once defended him.",
-          "was_corrected": false
-        },
-        {
-          "start": 633.48,
-          "end": 635.6800000000001,
-          "text": "their Hollywood allies are turning quiet.",
-          "original_transcription": "Their Hollywood allies are turning quiet.",
-          "was_corrected": true
-        },
-        {
-          "start": 635.6800000000001,
-          "end": 638.04,
-          "text": "and Netflix, once their golden ticket",
-          "original_transcription": "And Netflix, once their golden ticket",
-          "was_corrected": true,
+          "start": 62.92,
+          "end": 68.08,
+          "text": "to cultural titans like Beyonce only underscores her growing presence in the world stage.",
+          "original_transcription": "to cultural titans like Beyonce only underscores her growing presence in the world stage.",
+          "was_corrected": false,
           "words": [
             {
-              "start": 635.68,
-              "end": 635.863,
-              "text": "and",
+              "start": 62.92,
+              "end": 63.101,
+              "text": "to",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 635.924,
-              "end": 636.514,
-              "text": "Netflix,",
+              "start": 63.142,
+              "end": 63.484,
+              "text": "cultural",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 636.657,
-              "end": 636.819,
-              "text": "once",
+              "start": 63.545,
+              "end": 63.847,
+              "text": "titans",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 636.86,
-              "end": 637.023,
-              "text": "their",
+              "start": 63.888,
+              "end": 64.029,
+              "text": "like",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 637.084,
-              "end": 637.389,
-              "text": "golden",
+              "start": 64.069,
+              "end": 64.653,
+              "text": "Beyonce",
               "original_text": "",
               "was_corrected": true
             },
             {
-              "start": 637.45,
-              "end": 638.06,
-              "text": "ticket",
+              "start": 64.694,
+              "end": 64.956,
+              "text": "only",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 65.137,
+              "end": 65.621,
+              "text": "underscores",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 65.661,
+              "end": 65.762,
+              "text": "her",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 65.782,
+              "end": 66.024,
+              "text": "growing",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 66.064,
+              "end": 66.407,
+              "text": "presence",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 66.447,
+              "end": 66.488,
+              "text": "in",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 66.528,
+              "end": 66.609,
+              "text": "the",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 66.669,
+              "end": 67.032,
+              "text": "world",
+              "original_text": "",
+              "was_corrected": true
+            },
+            {
+              "start": 67.072,
+              "end": 68.1,
+              "text": "stage.",
               "original_text": "",
               "was_corrected": true
             }
           ]
         },
         {
-          "start": 638.04,
-          "end": 642.78,
-          "text": "is reportedly doing most of the heavy lifting behind the scenes while Meg in place founder.",
-          "original_transcription": "is reportedly doing most of the heavy lifting behind the scenes while Meg in place founder.",
-          "was_corrected": false
-        },
-        {
-          "start": 642.78,
-          "end": 648.02,
-          "text": "If there was ever a time to pause and recalibrate, it's now Because without a real plan, without",
-          "original_transcription": "If there was ever a time to pause and recalibrate, it's now because without a real plan, without",
+          "start": 68.08,
+          "end": 71.28,
+          "text": "no longer just royal by title, But influential by impact.",
+          "original_transcription": "No longer just royal by title, but influential by impact.",
           "was_corrected": true
-        },
-        {
-          "start": 648.02,
-          "end": 653.8199999999999,
-          "text": "a clear purpose, and without humility, both the brand and the legacy are headed nowhere",
-          "original_transcription": "a clear purpose, and without humility, both the brand and the legacy are headed nowhere",
-          "was_corrected": false
-        },
-        {
-          "start": 653.8199999999999,
-          "end": 654.8199999999999,
-          "text": "fast.",
-          "original_transcription": "fast.",
-          "was_corrected": false
-        },
-        {
-          "start": 654.8199999999999,
-          "end": 659.5,
-          "text": "It's not just about a failed product line, or a tone-deaf royal fantasy.",
-          "original_transcription": "It's not just about a failed product line, or a tone-deaf royal fantasy.",
-          "was_corrected": false
-        },
-        {
-          "start": 659.5,
-          "end": 665.62,
-          "text": "It's about two people who still don't seem to understand that influence without direction",
-          "original_transcription": "It's about two people who still don't seem to understand that influence without direction",
-          "was_corrected": false
-        },
-        {
-          "start": 665.62,
-          "end": 667.62,
-          "text": "collapses under its own weight.",
-          "original_transcription": "collapses under its own weight.",
-          "was_corrected": false
         }
       ],
       "language": "en",
@@ -3601,10 +701,10 @@
         "alignment_applied": true
       },
       "metadata": {
-        "file_path": "E:\\Celebrity Voice Overs\\Meghan And Harry SHOCK People With Plan To Make Kids FULL TIME Royals.wav",
-        "file_name": "Meghan And Harry SHOCK People With Plan To Make Kids FULL TIME Royals.wav",
-        "processing_time_seconds": 39.13251495361328,
-        "timestamp": "2025-06-15T02:32:31.541552",
+        "file_path": "/Users/superman/Desktop/Celebrity Voice Overs/Meghan Test.wav",
+        "file_name": "Meghan Test.wav",
+        "processing_time_seconds": 6.107084035873413,
+        "timestamp": "2025-06-15T11:16:37.098474",
         "channel_name": "Meghan Markle",
         "keywords_used": 108,
         "dry_run_mode": {

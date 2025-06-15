@@ -2,7 +2,7 @@
 AUDIO TRANSCRIPTION REPORT
 ================================================================================
 
-Export Timestamp: 2025-06-15T02:32:31.542554
+Export Timestamp: 2025-06-15T11:16:37.098648
 Total Files Processed: 1
 Exported From: Audio Transcription System
 
@@ -17,11 +17,11 @@ Exported From: Audio Transcription System
 TRANSCRIPTION DETAILS
 --------------------------------------------------------------------------------
 
-📁 FILE: Meghan And Harry SHOCK People With Plan To Make Kids FULL TIME Royals.wav
-📍 PATH: E:\Celebrity Voice Overs\Meghan And Harry SHOCK People With Plan To Make Kids FULL TIME Royals.wav
+📁 FILE: Meghan Test.wav
+📍 PATH: /Users/superman/Desktop/Celebrity Voice Overs/Meghan Test.wav
 
 📊 PROCESSING INFO:
-   • Processing Time: 39.13 seconds
+   • Processing Time: 6.11 seconds
    • Channel: Meghan Markle
    • Keywords Used: 108
    • Notion Script: ✅ Aligned (Page ID: 21202cd2-c142-80fb-b20c-dfb7e78714ce)
@@ -32,790 +32,112 @@ TRANSCRIPTION DETAILS
 TRANSCRIPTION TIMELINE
 ------------------------------------------------------------
 
-  1. [0.00 → 7.20] (7.20s)
-     so here we are again, Megan Markle in the headlines, not for a royal drama or some Netflix revelation,
-     📝 Original: So here we are again, Megan Markle in the headlines, not for a royal drama or some Netflix revelation,
+  1. [0.00 → 1.92] (1.92s)
+     Meghan Markle has remained a lightning rod
 
-  2. [7.20 → 12.48] (5.28s)
-     But Because her latest venture is imploding in slow motion. and honestly, it's not even shocking
-     📝 Original: but because her latest venture is imploding in slow motion. And honestly, it's not even shocking
+  2. [1.92 → 4.68] (2.76s)
+     in global media conversations, balancing fame,
 
-  3. [12.48 → 21.60] (9.12s)
-     at this point. the brand she's been hyping, American Riviera, Orchard turned As ever, turned
-     📝 Original: at this point. The brand she's been hyping, American Riviera, orchard turned as ever, turned
+  3. [4.68 → 7.40] (2.72s)
+     scrutiny, and the pursuit of independence.
 
-  4. [21.60 → 28.00] (6.40s)
-     who knows what is spiraling into what can only be described As lifestyle branding chaos.
-     📝 Original: who knows what is spiraling into what can only be described as lifestyle branding chaos.
+  4. [7.40 → 9.32] (1.92s)
+     ever since she stepped away From royal duties
+     📝 Original: Ever since she stepped away from royal duties
 
-  5. [28.00 → 32.96] (4.96s)
-     If you're wondering what this brand is about, join the club, no one knows.
+  5. [9.32 → 10.60] (1.28s)
+     alongside Prince Harry,
 
-  6. [32.96 → 36.28] (3.32s)
-     not even the people she's supposedly hired to help run it.
-     📝 Original: Not even the people she's supposedly hired to help run it.
+  6. [10.60 → 13.12] (2.52s)
+     the couple has faced both criticism and praise
 
-  7. [36.28 → 39.60] (3.32s)
-     Because Apparently, no one's actually running anything.
-     📝 Original: Because apparently, no one's actually running anything.
+  7. [13.12 → 14.96] (1.84s)
+     for carving their own path.
 
-  8. [39.60 → 41.04] (1.44s)
-     Let's rewind for a second.
+  8. [14.96 → 18.36] (3.40s)
+     From controversial interviews to high profile brand deals,
 
-  9. [41.04 → 46.28] (5.24s)
-     Megan's been teasing this brand for months, maybe even years, on Instagram.
+  9. [18.36 → 20.12] (1.76s)
+     Meghan has redefined what it means
 
- 10. [46.28 → 52.08] (5.80s)
-     Carefully filtered photos, poetic captions, food puns that land awkwardly, and vague quotes
+ 10. [20.12 → 21.96] (1.84s)
+     to be royal in the modern world.
 
- 11. [52.08 → 55.24] (3.16s)
-     about wellness or self-love.
+ 11. [21.96 → 24.16] (2.20s)
+     Amid the chaos, one moment that stood out
 
- 12. [55.24 → 57.48] (2.24s)
-     and it came time to actually drop a product.
-     📝 Original: And it came time to actually drop a product.
+ 12. [24.16 → 26.60] (2.44s)
+     in its quiet solemnity was Meghan and Harry
 
- 13. [57.48 → 1:01.32] (3.84s)
-     it was like watching someone fumble a handoff in slow motion.
-     📝 Original: It was like watching someone fumble a handoff in slow motion.
+ 13. [26.60 → 28.28] (1.68s)
+     at Elizabeth's funeral.
 
- 14. [1:01.32 → 1:04.16] (2.84s)
-     there was no build-up, no vision, no consistency.
-     📝 Original: There was no build-up, no vision, no consistency.
+ 14. [28.28 → 33.72] (5.44s)
+     a rare scene of unity, grief, and dignity that reminded the world of their deep ties to
 
- 15. [1:04.16 → 1:10.92] (6.76s)
-     she launched a handful of items, jam, hibiscus tea, some sort of country sheet gift set, and
-     📝 Original: She launched a handful of items, jam, hibiscus tea, some sort of country sheet gift set, and
+ 15. [33.72 → 37.04] (3.32s)
+     the monarchy despite the public rift.
 
- 16. [1:10.92 → 1:17.72] (6.80s)
-     then silence, like literal radio silence, no follow-up, no tutorials, no engagement, just
+ 16. [37.04 → 41.60] (4.56s)
+     Recently, Meghan's name has also come up in entertainment circles through her reported
 
- 17. [1:17.72 → 1:22.36] (4.64s)
-     more curated snapshots and cryptic updates like restocking soon.
+ 17. [41.60 → 45.08] (3.48s)
+     interactions with music icon Beyoncé.
 
- 18. [1:22.36 → 1:24.24] (1.88s)
-     what are we restocking, Megan?
-     📝 Original: What are we restocking, Megan?
+ 18. [45.08 → 50.96] (5.88s)
+     the two powerful women, both navigating public lives with grace and fire, share more in
+     📝 Original: The two powerful women, both navigating public lives with grace and fire, share more in
 
- 19. [1:24.24 → 1:31.36] (7.12s)
-     is As ever anyway. is it food? is it fashion? is it a hospitality brand? Because the only
-     📝 Original: is as ever anyway. Is it food? Is it fashion? Is it a hospitality brand? Because the only
+ 19. [50.96 → 56.40] (5.44s)
+     common than it may seem, especially when it comes to controlling their narratives in male
 
- 20. [1:31.36 → 1:35.84] (4.48s)
-     clear thing is that it's not clear at all. one day she's supposedly doing rosé wine,
-     📝 Original: clear thing is that it's not clear at all. One day she's supposedly doing rosé wine,
+ 20. [56.40 → 57.84] (1.44s)
+     dominated industries.
 
- 21. [1:35.84 → 1:40.72] (4.88s)
-     then it's a hotel line. then some weird luxury pantry goods that seem like They were plucked
-     📝 Original: then it's a hotel line. Then some weird luxury pantry goods that seem like they were plucked
+ 21. [57.84 → 1:02.92] (5.08s)
+     As Megan continues to evolve her public persona From Duchess to media mogul, her proximity
+     📝 Original: As Megan continues to evolve her public persona from Duchess to media mogul, her proximity
 
- 22. [1:40.72 → 1:45.44] (4.72s)
-     From a gift basket at a Hampton in. It's like she threw everything into a mood board, closed her
-     📝 Original: from a gift basket at a hampton in. It's like she threw everything into a mood board, closed her
+ 22. [1:02.92 → 1:08.08] (5.16s)
+     to cultural titans like Beyonce only underscores her growing presence in the world stage.
 
- 23. [1:45.44 → 1:51.44] (6.00s)
-     eyes, and let Netflix fund whatever stuck. and yes, Netflix is bankrolling the circus. That's probably
-     📝 Original: eyes, and let Netflix fund whatever stuck. And yes, Netflix is bankrolling the circus. That's probably
-
- 24. [1:51.44 → 1:55.36] (3.92s)
-     the biggest revelation here. According to Insiders, Megan doesn't have a team.
-
- 25. [1:55.92 → 2:01.12] (5.20s)
-     not a marketing squad, not a development Crew, nothing. It's just her picking out pre-approved
-     📝 Original: Not a marketing squad, not a development crew, nothing. It's just her picking out pre-approved
-
- 26. [2:01.12 → 2:06.88] (5.76s)
-     samples that Netflix sends over, slapping a bird-themed label on it, and calling it a luxury lifestyle
-
- 27. [2:06.88 → 2:12.40] (5.52s)
-     line. It's the Flamingo Estate logo just with hummingbirds now. That's not vision. That's rebranding
-     📝 Original: line. It's the flamingo estate logo just with hummingbirds now. That's not vision. That's rebranding
-
- 28. [2:12.40 → 2:18.08] (5.68s)
-     someone else's leftovers. even the rollout was a hot mess. Insiders say she wanted everything to
-     📝 Original: someone else's leftovers. Even the rollout was a hot mess. Insiders say she wanted everything to
-
- 29. [2:18.08 → 2:21.44] (3.36s)
-     Sell out instantly to create the solution of high demand.
-     📝 Original: sell out instantly to create the solution of high demand.
-
- 30. [2:21.44 → 2:24.36] (2.92s)
-     you know, the old scarcity trick, But it backfired.
-     📝 Original: You know, the old scarcity trick, but it backfired.
-
- 31. [2:24.36 → 2:28.20] (3.84s)
-     either the batch was so small that no one noticed, or she tried to spend mediocre demand
-     📝 Original: Either the batch was so small that no one noticed, or she tried to spend mediocre demand
-
- 32. [2:28.20 → 2:31.24] (3.04s)
-     into hype by pretending things were out of stock.
-
- 33. [2:31.24 → 2:35.04] (3.80s)
-     But If you're not following up with content, customer engagement, or even showing your product
-     📝 Original: But if you're not following up with content, customer engagement, or even showing your product
-
- 34. [2:35.04 → 2:37.68] (2.64s)
-     in use, what's the point?
-
- 35. [2:37.68 → 2:41.80] (4.12s)
-     people can't get excited over a product They don't understand.
-     📝 Original: People can't get excited over a product they don't understand.
-
- 36. [2:41.80 → 2:45.74] (3.94s)
-     you can't just post a picture of yourself running into the ocean and expect folks to
-     📝 Original: You can't just post a picture of yourself running into the ocean and expect folks to
-
- 37. [2:45.74 → 2:49.26] (3.52s)
-     to spend $28.0 on raspberry spread.
-
- 38. [2:49.26 → 2:51.90] (2.64s)
-     this kind of chaotic execution wouldn't fly
-     📝 Original: This kind of chaotic execution wouldn't fly
-
- 39. [2:51.90 → 2:53.62] (1.72s)
-     with any other founder.
-
- 40. [2:53.62 → 2:56.22] (2.60s)
-     But somehow, Megan thought she could leapfrog years
-
- 41. [2:56.22 → 2:57.94] (1.72s)
-     of brand building and land at the top
-
- 42. [2:57.94 → 3:00.78] (2.84s)
-     of the lifestyle space by just existing.
-
- 43. [3:00.78 → 3:04.10] (3.32s)
-     Meanwhile, brands like Goop started As newsletters.
-     📝 Original: Meanwhile, brands like Goop started as newsletters.
-
- 44. [3:04.10 → 3:06.70] (2.60s)
-     years of building trust, taste, and voice.
-     📝 Original: Years of building trust, taste, and voice.
-
- 45. [3:06.70 → 3:09.62] (2.92s)
-     Wheneth Paltrow didn't just toss bath salts online
-
- 46. [3:09.62 → 3:11.54] (1.92s)
-     and disappear, she hustled.
-
- 47. [3:11.54 → 3:12.58] (1.04s)
-     Megan?
-
- 48. [3:12.58 → 3:14.74] (2.16s)
-     She's acting like a monocedo goddess
-
- 49. [3:14.74 → 3:17.46] (2.72s)
-     who believes her name alone is enough.
-
- 50. [3:17.46 → 3:18.98] (1.52s)
-     But news flash.
-
- 51. [3:18.98 → 3:21.18] (2.20s)
-     selling J-Crew sweaters on Instagram
-     📝 Original: Selling J-Crew sweaters on Instagram
-
- 52. [3:21.18 → 3:24.62] (3.44s)
-     doesn't mean people want to buy your mystery jam.
-
- 53. [3:24.62 → 3:26.86] (2.24s)
-     now, the left-leaning Hollywood media
-     📝 Original: Now, the left-leaning Hollywood media
-
- 54. [3:26.86 → 3:30.18] (3.32s)
-     that used to defend her, they're starting to roast her.
-
- 55. [3:30.18 → 3:33.34] (3.16s)
-     Puck just ran a brutal piece calling the brand a joke.
-
- 56. [3:33.34 → 3:36.62] (3.28s)
-     when even your own ideological allies turn on you,
-     📝 Original: When even your own ideological allies turn on you,
-
- 57. [3:36.62 → 3:38.62] (2.00s)
-     it's bad, real bad.
-
- 58. [3:38.62 → 3:40.18] (1.56s)
-     especially when They start calling you
-     📝 Original: Especially when they start calling you
-
- 59. [3:40.18 → 3:42.82] (2.64s)
-     the real Housewife of Montecito behind your back.
-     📝 Original: the real housewife of Montecito behind your back.
-
- 60. [3:42.82 → 3:44.72] (1.90s)
-     and let's not forget the real kicker.
-     📝 Original: And let's not forget the real kicker.
-
- 61. [3:44.72 → 3:47.80] (3.08s)
-     Megan reportedly passed on investing in actual brands
-
- 62. [3:47.80 → 3:51.24] (3.44s)
-     that were doing great, Flamingo Estate, Ocasentials.
-
- 63. [3:51.24 → 3:53.68] (2.44s)
-     she could have been quietly winning, But nope,
-     📝 Original: She could have been quietly winning, but nope,
-
- 64. [3:53.68 → 3:56.72] (3.04s)
-     she wanted all the spotlight and none of the sweat.
-
- 65. [3:56.72 → 3:58.60] (1.88s)
-     You'd think after all the flops,
-
- 66. [3:58.60 → 4:00.36] (1.76s)
-     someone in Megan's inner circle
-
- 67. [4:00.36 → 4:03.84] (3.48s)
-     would have told her to slow down, regroup and start small.
-
- 68. [4:03.84 → 4:06.12] (2.28s)
-     But instead, we're watching what looks like
-
- 69. [4:06.12 → 4:08.68] (2.56s)
-     a billion dollar fantasy crashing into a wall
-
- 70. [4:08.68 → 4:10.68] (2.00s)
-     of basic business reality.
-
- 71. [4:10.68 → 4:13.32] (2.64s)
-     and while all of this is unfolding,
-     📝 Original: And while all of this is unfolding,
-
- 72. [4:13.32 → 4:15.64] (2.32s)
-     She's out here posting dreamy beach photos
-
- 73. [4:15.64 → 4:17.28] (1.64s)
-     and tagging her Instagram stories
-
- 74. [4:17.28 → 4:20.92] (3.64s)
-     with vague promises of a restock later this month.
-
- 75. [4:20.92 → 4:23.24] (2.32s)
-     It's like watching someone live in a Pinterest board
-
- 76. [4:23.24 → 4:25.56] (2.32s)
-     while the warehouse burns behind them.
-
- 77. [4:25.56 → 4:28.12] (2.56s)
-     the tea, literally and figuratively,
-     📝 Original: The tea, literally and figuratively,
-
- 78. [4:28.12 → 4:32.04] (3.92s)
-     is that even the products themselves don't live up to the hype.
-
- 79. [4:32.04 → 4:34.48] (2.44s)
-     people who actually got their hands on this stuff
-     📝 Original: People who actually got their hands on this stuff
-
- 80. [4:34.48 → 4:39.08] (4.60s)
-     described it As bland, forgettable, and weirdly packaged.
-     📝 Original: described it as bland, forgettable, and weirdly packaged.
-
- 81. [4:39.08 → 4:42.44] (3.36s)
-     one person even pointed out spelling mistakes on the label.
-     📝 Original: One person even pointed out spelling mistakes on the label.
-
- 82. [4:42.44 → 4:47.60] (5.16s)
-     for a brand that supposedly wants to rival Goop or even Martha Stewart's empire, that's
-     📝 Original: For a brand that supposedly wants to rival Goop or even Martha Stewart's empire, that's
-
- 83. [4:47.60 → 4:49.00] (1.40s)
-     rookie level sloppiness.
-
- 84. [4:49.00 → 4:52.78] (3.78s)
-     It's like she wanted to skip the part where you prove yourself, and Jump straight to
-     📝 Original: It's like she wanted to skip the part where you prove yourself, and jump straight to
-
- 85. [4:52.78 → 4:57.36] (4.58s)
-     the part where everyone calls you a genius, Except no one is.
-     📝 Original: the part where everyone calls you a genius, except no one is.
-
- 86. [4:57.36 → 5:01.64] (4.28s)
-     What's wild is how Megan continues to speak about the brand like it's a movement.
-
- 87. [5:01.64 → 5:06.06] (4.42s)
-     on her podcast Confessions of a Female founder, she made it sound like she was building something
-     📝 Original: On her podcast Confessions of a Female Founder, she made it sound like she was building something
-
- 88. [5:06.06 → 5:09.48] (3.42s)
-     transformative, something soulful.
-
- 89. [5:09.48 → 5:13.88] (4.40s)
-     after announcing the brand was on pause, she was already back on Instagram promising
-     📝 Original: After announcing the brand was on pause, she was already back on Instagram promising
-
- 90. [5:13.88 → 5:14.88] (1.00s)
-     a restock.
-
- 91. [5:14.88 → 5:17.04] (2.16s)
-     that whiplash alone says everything.
-     📝 Original: That whiplash alone says everything.
-
- 92. [5:17.04 → 5:19.20] (2.16s)
-     It's not a strategy.
-
- 93. [5:19.20 → 5:20.60] (1.40s)
-     It's confusion in real time.
-
- 94. [5:20.60 → 5:24.12] (3.52s)
-     a lifestyle brand isn't supposed to feel like improv theater.
-     📝 Original: A lifestyle brand isn't supposed to feel like improv theater.
-
- 95. [5:24.12 → 5:27.88] (3.76s)
-     and that brings us to the big hospitality twist.
-     📝 Original: And that brings us to the big hospitality twist.
-
- 96. [5:27.88 → 5:34.96] (7.08s)
-     Apparently, Megan now wants to pivot into hotels, not a pop-up, not a curated stay experience,
-
- 97. [5:34.96 → 5:38.60] (3.64s)
-     full on Meghan Markle branded resorts.
-
- 98. [5:38.60 → 5:43.96] (5.36s)
-     Imagine checking into a place where the logo matches the jam you never got to try.
-
- 99. [5:43.96 → 5:47.84] (3.88s)
-     hospitality is a beast of an industry, especially when you have zero background in it.
-     📝 Original: Hospitality is a beast of an industry, especially when you have zero background in it.
-
-100. [5:47.84 → 5:51.64] (3.80s)
-     most billion dollar hospitality brands took decades to build.
-     📝 Original: Most billion dollar hospitality brands took decades to build.
-
-101. [5:51.64 → 5:57.24] (5.60s)
-     Megan's struggling to Sell HiBiskus t, and now I think she's ready to run a luxury retreat.
-     📝 Original: Megan's struggling to sell HiBiskus T, and now I think she's ready to run a luxury retreat.
-
-102. [5:57.24 → 5:59.32] (2.08s)
-     That's Delusion served on a silver tray.
-     📝 Original: That's delusion served on a silver tray.
-
-103. [5:59.32 → 6:03.64] (4.32s)
-     then, there's the insider gossip that really pulls back the curtain.
-     📝 Original: Then, there's the insider gossip that really pulls back the curtain.
-
-104. [6:03.64 → 6:07.00] (3.36s)
-     source said there's no actual infrastructure for As ever.
-     📝 Original: source said there's no actual infrastructure for as ever.
-
-105. [6:07.00 → 6:13.00] (6.00s)
-     no team, no clear vision, just Megan, some outsourced product picks, and Netflix pulling
-     📝 Original: No team, no clear vision, just Megan, some outsourced product picks, and Netflix pulling
-
-106. [6:13.00 → 6:15.80] (2.80s)
-     strings behind the scenes.
-
-107. [6:15.80 → 6:19.04] (3.24s)
-     She's not developing a brand she's acting in one.
-
-108. [6:19.04 → 6:23.28] (4.24s)
-     and even then, badly, Because when the people who want to like you start asking what you
-     📝 Original: And even then, badly, because when the people who want to like you start asking what you
-
-109. [6:23.28 → 6:26.12] (2.84s)
-     actually stand for, you've lost the thread.
-
-110. [6:26.12 → 6:29.36] (3.24s)
-     Pucks report wasn't just a critique, it was a dismantling.
-
-111. [6:29.36 → 6:34.48] (5.12s)
-     They basically laid out how Megan borrowed her brand logo, offered no innovation, and dumped
-
-112. [6:34.48 → 6:37.68] (3.20s)
-     poorly planned products into the market just to check a box.
-
-113. [6:37.68 → 6:41.84] (4.16s)
-     and now that it's flailing, it's suddenly about new directions and future releases.
-     📝 Original: And now that it's flailing, it's suddenly about new directions and future releases.
-
-114. [6:41.84 → 6:43.84] (2.00s)
-     That's not expansion.
-
-115. [6:43.84 → 6:44.84] (1.00s)
-     That's panic.
-
-116. [6:44.84 → 6:49.20] (4.36s)
-     and don't forget how she fumbled the communication with her own audience.
-     📝 Original: And don't forget how she fumbled the communication with her own audience.
-
-117. [6:49.20 → 6:53.72] (4.52s)
-     the people who signed up for her email list didn't even get a heads up before the launch.
-     📝 Original: The people who signed up for her email list didn't even get a heads up before the launch.
-
-118. [6:53.72 → 6:57.28] (3.56s)
-     by the time the email went out, the products were already live.
-     📝 Original: By the time the email went out, the products were already live.
-
-119. [6:57.28 → 6:58.28] (1.00s)
-     who does that?
-     📝 Original: Who does that?
-
-120. [6:58.28 → 7:02.20] (3.92s)
-     even in the Etsy sellers manage better coordination than that.
-     📝 Original: Even in the Etsy sellers manage better coordination than that.
-
-121. [7:02.20 → 7:06.28] (4.08s)
-     It's like Megan forgot the whole point of building a loyal customer base.
-
-122. [7:06.28 → 7:11.08] (4.80s)
-     the worst part, there's a deeper level of frustration here, even among her supporters.
-     📝 Original: The worst part, there's a deeper level of frustration here, even among her supporters.
-
-123. [7:11.08 → 7:16.32] (5.24s)
-     It's not just that the brand is messy, it's that it feels lazy, like she thought a few inspirational
-
-124. [7:16.32 → 7:20.60] (4.28s)
-     quotes and some hummingbird logos would be enough to build an empire.
-
-125. [7:20.60 → 7:27.44] (6.84s)
-     But lifestyle isn't just aesthetics, it's clarity, it's consistency, and it's trust.
-
-126. [7:27.44 → 7:31.80] (4.36s)
-     three are missing, and now just when you think it couldn't get any more bizarre, Prince
-
-127. [7:31.80 → 7:36.66] (4.86s)
-     Harry throws his own plot twist into the mix. According to new reports, he's had serious
-
-128. [7:36.66 → 7:42.08] (5.42s)
-     conversations about changing his family name to Spencer. yes, ditching Windsor completely
-     📝 Original: conversations about changing his family name to Spencer. Yes, ditching Windsor completely
-
-129. [7:42.08 → 7:48.04] (5.96s)
-     and embracing Diana's legacy, full on. this wasn't just pillow talk either. he allegedly
-     📝 Original: and embracing Diana's legacy, full on. This wasn't just pillow talk either. He allegedly
-
-130. [7:48.04 → 7:53.84] (5.80s)
-     brought it up with Charles Spencer, Diana's brother and the logic. he wants to honor his mother's
-     📝 Original: brought it up with Charles Spencer, Diana's brother and the logic. He wants to honor his mother's
-
-131. [7:53.84 → 7:58.08] (4.24s)
-     memory while further distancing himself From the royal institution he spent the last few years
-     📝 Original: memory while further distancing himself from the royal institution he spent the last few years
-
-132. [7:58.08 → 8:05.28] (7.20s)
-     torching in public. It's a move that screams identity crisis. Harry and Meghan have spent years
-
-133. [8:05.28 → 8:11.36] (6.08s)
-     blowing up bridges, accusing the royal family of racism, leaking personal family details and
-
-134. [8:11.36 → 8:18.56] (7.20s)
-     documentaries, and painting themselves As misunderstood exiles. But now, Harry wants to rebrand his
-     📝 Original: documentaries, and painting themselves as misunderstood exiles. But now, Harry wants to rebrand his
-
-135. [8:18.56 → 8:23.12] (4.56s)
-     As children, Archie and Lillibet As potential working royals someday, it's like trying
-     📝 Original: As children, Archie and Lillibet as potential working royals someday, it's like trying
-
-136. [8:23.12 → 8:28.36] (5.24s)
-     to un-cancel yourself after you lit the match, you can't trash the monarchy, leave the
-
-137. [8:28.36 → 8:33.20] (4.84s)
-     firm, monetize your exit, and then expect your kids to waltz back into Buckingham Palace
-
-138. [8:33.20 → 8:36.44] (3.24s)
-     when They turn 21 like it's a summer internship.
-     📝 Original: when they turn 21 like it's a summer internship.
-
-139. [8:36.44 → 8:41.68] (5.24s)
-     Sources say Harry wanted their HRH titles added to their passports and even believes Archie
-
-140. [8:41.68 → 8:46.24] (4.56s)
-     and Lillibet should have the option to serve the Crown later in light.
-     📝 Original: and Lillibet should have the option to serve the crown later in light.
-
-141. [8:46.24 → 8:51.00] (4.76s)
-     As If royal service is a backup career in case the Spotify deals dry up.
-     📝 Original: As if Royal Service is a backup career in case the Spotify deals dry up.
-
-142. [8:51.00 → 8:52.00] (1.00s)
-     That's not how it works.
-
-143. [8:52.00 → 8:57.28] (5.28s)
-     the institution doesn't just pause and resume based on your personal whims, and let's
-     📝 Original: The institution doesn't just pause and resume based on your personal whims, and let's
-
-144. [8:57.28 → 8:58.28] (1.00s)
-     be real.
-
-145. [8:58.28 → 9:02.96] (4.68s)
-     what makes him think William the future king would entertain that idea after everything.
-     📝 Original: What makes him think William the future king would entertain that idea after everything.
-
-146. [9:02.96 → 9:06.58] (3.62s)
-     the royal family is still recovering From the fallout.
-     📝 Original: The Royal Family is still recovering from the fallout.
-
-147. [9:06.58 → 9:12.96] (6.38s)
-     From the Oprah interview to the Netflix docuseries to Harry's own tell all memoir Spare, it's been
-     📝 Original: From the Oprah interview to the Netflix docuseries to Harry's own Tell All memoir spare, it's been
-
-148. [9:12.96 → 9:13.96] (1.00s)
-     a relentless onslaught.
-
-149. [9:13.96 → 9:16.60] (2.64s)
-     They dragged the Queen during her final year,
-
-150. [9:16.60 → 9:19.88] (3.28s)
-     aired dirty laundry while Prince Philip was dying,
-
-151. [9:19.88 → 9:24.36] (4.48s)
-     and now there's this fantasy that the next generation of Sussexes
-
-152. [9:24.36 → 9:26.92] (2.56s)
-     might be accepted back into the fold?
-
-153. [9:26.92 → 9:29.32] (2.40s)
-     Delusion doesn't even begin to cover it.
-
-154. [9:29.32 → 9:33.40] (4.08s)
-     even those once sympathetic to their story are left scratching their heads.
-     📝 Original: Even those once sympathetic to their story are left scratching their heads.
-
-155. [9:34.28 → 9:38.28] (4.00s)
-     There's a growing sentiment that Harry's stuck in some alternate reality,
-
-156. [9:38.28 → 9:41.24] (2.96s)
-     one where he believes the monarchy still owes him something,
-
-157. [9:41.24 → 9:45.24] (4.00s)
-     or that he can rewrite the terms of exit whenever it suits him.
-
-158. [9:45.24 → 9:51.24] (6.00s)
-     Meanwhile, Megan's off trying to build a brand empire on vibes and Instagram filters
-
-159. [9:51.24 → 9:55.24] (4.00s)
-     while ghosting the fundamentals of leadership, business, and consistency.
-
-160. [9:55.24 → 9:58.24] (3.00s)
-     and through all of this, you start to see a pattern.
-     📝 Original: And through all of this, you start to see a pattern.
-
-161. [9:58.24 → 10:02.24] (4.00s)
-     It's not just poor planning or bad luck, it's a mindset.
-
-162. [10:02.24 → 10:07.24] (5.00s)
-     the Sussex strategy, If you can call it that, seems rooted in chaos.
-     📝 Original: The Sussex strategy, if you can call it that, seems rooted in chaos.
-
-163. [10:07.24 → 10:10.24] (3.00s)
-     Jump into industries with no foundation.
-
-164. [10:10.24 → 10:12.66] (2.42s)
-     Sell a story without building substance.
-
-165. [10:12.66 → 10:15.80] (3.14s)
-     Burn bridges and expect new ones to appear.
-
-166. [10:15.80 → 10:18.96] (3.16s)
-     Whether it's a lifestyle brand or a royal legacy,
-
-167. [10:18.96 → 10:20.96] (2.00s)
-     their approach is always the same.
-
-168. [10:20.96 → 10:24.56] (3.60s)
-     grab attention first, figure out the details later.
-     📝 Original: Grab attention first, figure out the details later.
-
-169. [10:24.56 → 10:25.76] (1.20s)
-     But the cracks are widening.
-
-170. [10:25.76 → 10:28.40] (2.64s)
-     Began's brand is floundering.
-
-171. [10:28.40 → 10:30.68] (2.28s)
-     Perry's royal pipe dreams are being mocked
-
-172. [10:30.68 → 10:33.48] (2.80s)
-     even by people who once defended him.
-
-173. [10:33.48 → 10:35.68] (2.20s)
-     their Hollywood allies are turning quiet.
-     📝 Original: Their Hollywood allies are turning quiet.
-
-174. [10:35.68 → 10:38.04] (2.36s)
-     and Netflix, once their golden ticket
-     📝 Original: And Netflix, once their golden ticket
-
-175. [10:38.04 → 10:42.78] (4.74s)
-     is reportedly doing most of the heavy lifting behind the scenes while Meg in place founder.
-
-176. [10:42.78 → 10:48.02] (5.24s)
-     If there was ever a time to pause and recalibrate, it's now Because without a real plan, without
-     📝 Original: If there was ever a time to pause and recalibrate, it's now because without a real plan, without
-
-177. [10:48.02 → 10:53.82] (5.80s)
-     a clear purpose, and without humility, both the brand and the legacy are headed nowhere
-
-178. [10:53.82 → 10:54.82] (1.00s)
-     fast.
-
-179. [10:54.82 → 10:59.50] (4.68s)
-     It's not just about a failed product line, or a tone-deaf royal fantasy.
-
-180. [10:59.50 → 11:05.62] (6.12s)
-     It's about two people who still don't seem to understand that influence without direction
-
-181. [11:05.62 → 11:07.62] (2.00s)
-     collapses under its own weight.
+ 23. [1:08.08 → 1:11.28] (3.20s)
+     no longer just royal by title, But influential by impact.
+     📝 Original: No longer just royal by title, but influential by impact.
 
 ------------------------------------------------------------
 TRANSCRIPTION STATISTICS
 ------------------------------------------------------------
 
 📈 SUMMARY:
-   • Total Segments: 181
-   • Total Duration: 666.18 seconds
-   • Total Words: 1837
-   • Average Segment Length: 3.68 seconds
-   • Words Per Minute: 165.5 WPM
-   • Segments Corrected: 83/181 (45.9%)
-   • Words with Timestamps: 321
+   • Total Segments: 23
+   • Total Duration: 71.28 seconds
+   • Total Words: 195
+   • Average Segment Length: 3.10 seconds
+   • Words Per Minute: 164.1 WPM
+   • Segments Corrected: 4/23 (17.4%)
+   • Words with Timestamps: 71
 
 ================================================================================
 CLEAN TRANSCRIPTION (NO TIMESTAMPS)
 ================================================================================
 
-so here we are again, Megan Markle in the headlines, not for a royal drama or
-some Netflix revelation, But Because her latest venture is imploding in slow
-motion. and honestly, it's not even shocking at this point. the brand she's been
-hyping, American Riviera, Orchard turned As ever, turned who knows what is
-spiraling into what can only be described As lifestyle branding chaos. If you're
-wondering what this brand is about, join the club, no one knows. not even the
-people she's supposedly hired to help run it. Because Apparently, no one's
-actually running anything. Let's rewind for a second. Megan's been teasing this
-brand for months, maybe even years, on Instagram. Carefully filtered photos,
-poetic captions, food puns that land awkwardly, and vague quotes about wellness
-or self-love. and it came time to actually drop a product. it was like watching
-someone fumble a handoff in slow motion. there was no build-up, no vision, no
-consistency. she launched a handful of items, jam, hibiscus tea, some sort of
-country sheet gift set, and then silence, like literal radio silence, no
-follow-up, no tutorials, no engagement, just more curated snapshots and cryptic
-updates like restocking soon. what are we restocking, Megan? is As ever anyway.
-is it food? is it fashion? is it a hospitality brand? Because the only clear
-thing is that it's not clear at all. one day she's supposedly doing rosé wine,
-then it's a hotel line. then some weird luxury pantry goods that seem like They
-were plucked From a gift basket at a Hampton in. It's like she threw everything
-into a mood board, closed her eyes, and let Netflix fund whatever stuck. and
-yes, Netflix is bankrolling the circus. That's probably the biggest revelation
-here. According to Insiders, Megan doesn't have a team. not a marketing squad,
-not a development Crew, nothing. It's just her picking out pre-approved samples
-that Netflix sends over, slapping a bird-themed label on it, and calling it a
-luxury lifestyle line. It's the Flamingo Estate logo just with hummingbirds now.
-That's not vision. That's rebranding someone else's leftovers. even the rollout
-was a hot mess. Insiders say she wanted everything to Sell out instantly to
-create the solution of high demand. you know, the old scarcity trick, But it
-backfired. either the batch was so small that no one noticed, or she tried to
-spend mediocre demand into hype by pretending things were out of stock. But If
-you're not following up with content, customer engagement, or even showing your
-product in use, what's the point? people can't get excited over a product They
-don't understand. you can't just post a picture of yourself running into the
-ocean and expect folks to to spend $28.0 on raspberry spread. this kind of
-chaotic execution wouldn't fly with any other founder. But somehow, Megan
-thought she could leapfrog years of brand building and land at the top of the
-lifestyle space by just existing. Meanwhile, brands like Goop started As
-newsletters. years of building trust, taste, and voice. Wheneth Paltrow didn't
-just toss bath salts online and disappear, she hustled. Megan? She's acting like
-a monocedo goddess who believes her name alone is enough. But news flash.
-selling J-Crew sweaters on Instagram doesn't mean people want to buy your
-mystery jam. now, the left-leaning Hollywood media that used to defend her,
-they're starting to roast her. Puck just ran a brutal piece calling the brand a
-joke. when even your own ideological allies turn on you, it's bad, real bad.
-especially when They start calling you the real Housewife of Montecito behind
-your back. and let's not forget the real kicker. Megan reportedly passed on
-investing in actual brands that were doing great, Flamingo Estate, Ocasentials.
-she could have been quietly winning, But nope, she wanted all the spotlight and
-none of the sweat. You'd think after all the flops, someone in Megan's inner
-circle would have told her to slow down, regroup and start small. But instead,
-we're watching what looks like a billion dollar fantasy crashing into a wall of
-basic business reality. and while all of this is unfolding, She's out here
-posting dreamy beach photos and tagging her Instagram stories with vague
-promises of a restock later this month. It's like watching someone live in a
-Pinterest board while the warehouse burns behind them. the tea, literally and
-figuratively, is that even the products themselves don't live up to the hype.
-people who actually got their hands on this stuff described it As bland,
-forgettable, and weirdly packaged. one person even pointed out spelling mistakes
-on the label. for a brand that supposedly wants to rival Goop or even Martha
-Stewart's empire, that's rookie level sloppiness. It's like she wanted to skip
-the part where you prove yourself, and Jump straight to the part where everyone
-calls you a genius, Except no one is. What's wild is how Megan continues to
-speak about the brand like it's a movement. on her podcast Confessions of a
-Female founder, she made it sound like she was building something
-transformative, something soulful. after announcing the brand was on pause, she
-was already back on Instagram promising a restock. that whiplash alone says
-everything. It's not a strategy. It's confusion in real time. a lifestyle brand
-isn't supposed to feel like improv theater. and that brings us to the big
-hospitality twist. Apparently, Megan now wants to pivot into hotels, not a
-pop-up, not a curated stay experience, full on Meghan Markle branded resorts.
-Imagine checking into a place where the logo matches the jam you never got to
-try. hospitality is a beast of an industry, especially when you have zero
-background in it. most billion dollar hospitality brands took decades to build.
-Megan's struggling to Sell HiBiskus t, and now I think she's ready to run a
-luxury retreat. That's Delusion served on a silver tray. then, there's the
-insider gossip that really pulls back the curtain. source said there's no actual
-infrastructure for As ever. no team, no clear vision, just Megan, some
-outsourced product picks, and Netflix pulling strings behind the scenes. She's
-not developing a brand she's acting in one. and even then, badly, Because when
-the people who want to like you start asking what you actually stand for, you've
-lost the thread. Pucks report wasn't just a critique, it was a dismantling. They
-basically laid out how Megan borrowed her brand logo, offered no innovation, and
-dumped poorly planned products into the market just to check a box. and now that
-it's flailing, it's suddenly about new directions and future releases. That's
-not expansion. That's panic. and don't forget how she fumbled the communication
-with her own audience. the people who signed up for her email list didn't even
-get a heads up before the launch. by the time the email went out, the products
-were already live. who does that? even in the Etsy sellers manage better
-coordination than that. It's like Megan forgot the whole point of building a
-loyal customer base. the worst part, there's a deeper level of frustration here,
-even among her supporters. It's not just that the brand is messy, it's that it
-feels lazy, like she thought a few inspirational quotes and some hummingbird
-logos would be enough to build an empire. But lifestyle isn't just aesthetics,
-it's clarity, it's consistency, and it's trust. three are missing, and now just
-when you think it couldn't get any more bizarre, Prince Harry throws his own
-plot twist into the mix. According to new reports, he's had serious
-conversations about changing his family name to Spencer. yes, ditching Windsor
-completely and embracing Diana's legacy, full on. this wasn't just pillow talk
-either. he allegedly brought it up with Charles Spencer, Diana's brother and the
-logic. he wants to honor his mother's memory while further distancing himself
-From the royal institution he spent the last few years torching in public. It's
-a move that screams identity crisis. Harry and Meghan have spent years blowing
-up bridges, accusing the royal family of racism, leaking personal family details
-and documentaries, and painting themselves As misunderstood exiles. But now,
-Harry wants to rebrand his As children, Archie and Lillibet As potential working
-royals someday, it's like trying to un-cancel yourself after you lit the match,
-you can't trash the monarchy, leave the firm, monetize your exit, and then
-expect your kids to waltz back into Buckingham Palace when They turn 21 like
-it's a summer internship. Sources say Harry wanted their HRH titles added to
-their passports and even believes Archie and Lillibet should have the option to
-serve the Crown later in light. As If royal service is a backup career in case
-the Spotify deals dry up. That's not how it works. the institution doesn't just
-pause and resume based on your personal whims, and let's be real. what makes him
-think William the future king would entertain that idea after everything. the
-royal family is still recovering From the fallout. From the Oprah interview to
-the Netflix docuseries to Harry's own tell all memoir Spare, it's been a
-relentless onslaught. They dragged the Queen during her final year, aired dirty
-laundry while Prince Philip was dying, and now there's this fantasy that the
-next generation of Sussexes might be accepted back into the fold? Delusion
-doesn't even begin to cover it. even those once sympathetic to their story are
-left scratching their heads. There's a growing sentiment that Harry's stuck in
-some alternate reality, one where he believes the monarchy still owes him
-something, or that he can rewrite the terms of exit whenever it suits him.
-Meanwhile, Megan's off trying to build a brand empire on vibes and Instagram
-filters while ghosting the fundamentals of leadership, business, and
-consistency. and through all of this, you start to see a pattern. It's not just
-poor planning or bad luck, it's a mindset. the Sussex strategy, If you can call
-it that, seems rooted in chaos. Jump into industries with no foundation. Sell a
-story without building substance. Burn bridges and expect new ones to appear.
-Whether it's a lifestyle brand or a royal legacy, their approach is always the
-same. grab attention first, figure out the details later. But the cracks are
-widening. Began's brand is floundering. Perry's royal pipe dreams are being
-mocked even by people who once defended him. their Hollywood allies are turning
-quiet. and Netflix, once their golden ticket is reportedly doing most of the
-heavy lifting behind the scenes while Meg in place founder. If there was ever a
-time to pause and recalibrate, it's now Because without a real plan, without a
-clear purpose, and without humility, both the brand and the legacy are headed
-nowhere fast. It's not just about a failed product line, or a tone-deaf royal
-fantasy. It's about two people who still don't seem to understand that influence
-without direction collapses under its own weight.
+Meghan Markle has remained a lightning rod in global media conversations,
+balancing fame, scrutiny, and the pursuit of independence. ever since she
+stepped away From royal duties alongside Prince Harry, the couple has faced both
+criticism and praise for carving their own path. From controversial interviews
+to high profile brand deals, Meghan has redefined what it means to be royal in
+the modern world. Amid the chaos, one moment that stood out in its quiet
+solemnity was Meghan and Harry at Elizabeth's funeral. a rare scene of unity,
+grief, and dignity that reminded the world of their deep ties to the monarchy
+despite the public rift. Recently, Meghan's name has also come up in
+entertainment circles through her reported interactions with music icon Beyoncé.
+the two powerful women, both navigating public lives with grace and fire, share
+more in common than it may seem, especially when it comes to controlling their
+narratives in male dominated industries. As Megan continues to evolve her public
+persona From Duchess to media mogul, her proximity to cultural titans like
+Beyonce only underscores her growing presence in the world stage. no longer just
+royal by title, But influential by impact.
 
 ================================================================================
 End of Transcription Report

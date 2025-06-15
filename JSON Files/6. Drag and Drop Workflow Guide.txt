@@ -6,7 +6,7 @@ DRAG & DROP TIMELINE WORKFLOW GUIDE
 --------------------------------------------------
 
 Your video clips have been processed and saved to:
-📁 E:\Temp\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals
+📁 /Users/superman/Desktop/Clips Assembled/Meghan Test
 
 ✨ KEY FEATURE: All files are named with sequence numbers (001, 002, 003...)
    so they will sort in PERFECT TIMELINE ORDER when you view them!
@@ -25,309 +25,47 @@ Your video clips have been processed and saved to:
 
 📋 EXACT FILE ORDER FOR YOUR TIMELINE:
 --------------------------------------------------
-001. 🎥 [00:01.44] Meghan Markle (Original) (4.40s)
-     📄 File: 001_Meghan_Markle_27_original.mp4
-002. 🎬 [00:05.85] Netflix (Composite) (5.00s)
-     📄 File: 002_Netflix_1 2_composite.mp4
-003. 🎥 [00:10.85] Netflix (Original) (5.00s)
-     📄 File: 003_Netflix_5_original.mp4
-004. 🎬 [00:15.85] Netflix (Composite) (5.00s)
-     📄 File: 004_Netflix_3_composite.mp4
-005. 🖼️ [00:20.85] Netflix (Ken Burns) (5.00s)
-     📄 File: 005_Netflix_clip.mp4
-006. 🎬 [00:25.85] Netflix (Composite) (5.00s)
-     📄 File: 006_Netflix_1_composite.mp4
-007. 🎥 [00:30.85] Netflix (Original) (5.00s)
-     📄 File: 007_Netflix_4_original.mp4
-008. 🎬 [00:35.85] Netflix (Composite) (5.00s)
-     📄 File: 008_Netflix_8_composite.mp4
-009. 🖼️ [00:40.85] Netflix (Ken Burns) (0.19s)
-     📄 File: 009_Netflix_clip.mp4
-010. 🎬 [00:41.03] Meghan Markle (Composite) (5.00s)
-     📄 File: 010_Meghan_Markle_zxcxzxz_composite.mp4
-011. 🎥 [00:46.03] Meghan Markle (Original) (5.00s)
-     📄 File: 011_Meghan_Markle_4_original.mp4
-012. 🖼️ [00:51.03] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 012_Meghan_Markle_clip.mp4
-013. 🎥 [00:56.03] Meghan Markle (Original) (5.00s)
-     📄 File: 013_Meghan_Markle_zxzx_chf3_rhea1_original.mp4
-014. 🎬 [01:01.03] Meghan Markle (Composite) (5.00s)
-     📄 File: 014_Meghan_Markle_clip_24_02_Prince Harry and Meghan Markle arrive at Commonwealth event_161703_chf3_rhea1_composite.mp4
-015. 🎥 [01:06.03] Meghan Markle (Original) (5.00s)
-     📄 File: 015_Meghan_Markle_zcxzxzc_original.mp4
-016. 🖼️ [01:11.03] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 016_Meghan_Markle_clip.mp4
-017. 🎥 [01:16.03] Meghan Markle (Original) (5.00s)
-     📄 File: 017_Meghan_Markle_clip_23_01_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1_original.mp4
-018. 🎬 [01:21.03] Meghan Markle (Composite) (1.32s)
-     📄 File: 018_Meghan_Markle_clip_04_03_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1_composite.mp4
-019. 🎥 [01:22.35] Meghan Markle (Original) (5.00s)
-     📄 File: 019_Meghan_Markle_clip_23_02_Prince Harry and Meghan Keep the Mood Light and Chat to Ross Kemp_161652_chf3_rhea1_original.mp4
-020. 🖼️ [01:27.35] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 020_Meghan_Markle_clip.mp4
-021. 🎥 [01:32.35] Meghan Markle (Original) (5.00s)
-     📄 File: 021_Meghan_Markle_xcx_original.mp4
-022. 🎬 [01:37.35] Meghan Markle (Composite) (5.00s)
-     📄 File: 022_Meghan_Markle_30_composite.mp4
-023. 🎥 [01:42.35] Meghan Markle (Original) (3.97s)
-     📄 File: 023_Meghan_Markle_clip_01_02_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1_original.mp4
-024. 🎬 [01:46.32] Netflix (Composite) (5.00s)
-     📄 File: 024_Netflix_6_composite.mp4
-025. 🎥 [01:51.32] Netflix (Original) (0.11s)
-     📄 File: 025_Netflix_2_original.mp4
-026. 🖼️ [01:51.43] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 026_Meghan_Markle_clip.mp4
-027. 🎥 [01:56.43] Meghan Markle (Original) (5.00s)
-     📄 File: 027_Meghan_Markle_clip_07_04_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1_original.mp4
-028. 🎬 [02:01.43] Meghan Markle (Composite) (0.53s)
-     📄 File: 028_Meghan_Markle_sfdsfds_composite.mp4
-029. 🎥 [02:01.96] Netflix (Original) (5.00s)
-     📄 File: 029_Netflix_7_original.mp4
-030. 🖼️ [02:06.96] Netflix (Ken Burns) (5.00s)
-     📄 File: 030_Netflix_clip.mp4
-031. 🎥 [02:11.96] Netflix (Original) (5.00s)
-     📄 File: 031_Netflix_1 2_original.mp4
-032. 🎬 [02:16.96] Netflix (Composite) (5.00s)
-     📄 File: 032_Netflix_1_composite.mp4
-033. 🎥 [02:21.96] Netflix (Original) (5.00s)
-     📄 File: 033_Netflix_7_original.mp4
-034. 🖼️ [02:26.96] Netflix (Ken Burns) (5.00s)
-     📄 File: 034_Netflix_clip.mp4
-035. 🎥 [02:31.96] Netflix (Original) (5.00s)
-     📄 File: 035_Netflix_3_original.mp4
-036. 🎬 [02:36.96] Netflix (Composite) (5.00s)
-     📄 File: 036_Netflix_2_composite.mp4
-037. 🎥 [02:41.96] Netflix (Original) (5.00s)
-     📄 File: 037_Netflix_5_original.mp4
-038. 🖼️ [02:46.96] Netflix (Ken Burns) (5.00s)
-     📄 File: 038_Netflix_clip.mp4
-039. 🎥 [02:51.96] Netflix (Original) (2.47s)
-     📄 File: 039_Netflix_6_original.mp4
-040. 🎬 [02:54.43] Meghan Markle (Composite) (5.00s)
-     📄 File: 040_Meghan_Markle_26_composite.mp4
-041. 🖼️ [02:59.43] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 041_Meghan_Markle_clip.mp4
-042. 🎬 [03:04.43] Meghan Markle (Composite) (5.00s)
-     📄 File: 042_Meghan_Markle_clip_28_02_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1_composite.mp4
-043. 🎥 [03:09.43] Meghan Markle (Original) (2.11s)
-     📄 File: 043_Meghan_Markle_clip_07_02_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1_original.mp4
-044. 🎬 [03:11.54] Meghan Markle (Composite) (5.00s)
-     📄 File: 044_Meghan_Markle_12_composite.mp4
-045. 🖼️ [03:16.54] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 045_Meghan_Markle_clip.mp4
-046. 🎬 [03:21.54] Meghan Markle (Composite) (5.00s)
-     📄 File: 046_Meghan_Markle_dgfdd_composite.mp4
-047. 🎥 [03:26.54] Meghan Markle (Original) (5.00s)
-     📄 File: 047_Meghan_Markle_clip_05_01_Meghan Markle Launches ‘40x40’ Initiative to Mark 40th Birthday_155637_chf3_rhea1_original.mp4
-048. 🎬 [03:31.54] Meghan Markle (Composite) (5.00s)
-     📄 File: 048_Meghan_Markle_1234_composite.mp4
-049. 🖼️ [03:36.54] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 049_Meghan_Markle_clip.mp4
-050. 🎬 [03:41.54] Meghan Markle (Composite) (3.18s)
-     📄 File: 050_Meghan_Markle_clip_06_03_Meghan Markle Makes Surprise Video Call to Smart Works Client Before Interview_2_155645_chf3_rhea1_composite.mp4
-051. 🎥 [03:44.71] Meghan Markle (Original) (5.00s)
-     📄 File: 051_Meghan_Markle_12321_1_chf3_rhea1_original.mp4
-052. 🎬 [03:49.71] Meghan Markle (Composite) (5.00s)
-     📄 File: 052_Meghan_Markle_123_composite.mp4
-053. 🖼️ [03:54.71] Meghan Markle (Ken Burns) (3.88s)
-     📄 File: 053_Meghan_Markle_clip.mp4
-054. 🎬 [03:58.59] Meghan Markle (Composite) (5.00s)
-     📄 File: 054_Meghan_Markle_clip_07_01_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1_composite.mp4
-055. 🎥 [04:03.59] Meghan Markle (Original) (5.00s)
-     📄 File: 055_Meghan_Markle_28_original.mp4
-056. 🎬 [04:08.59] Meghan Markle (Composite) (5.00s)
-     📄 File: 056_Meghan_Markle_clip_01_01_First interview with Meghan Markle's wedding dress designer_155557_chf3_rhea1_composite.mp4
-057. 🖼️ [04:13.59] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 057_Meghan_Markle_clip.mp4
-058. 🎬 [04:18.60] Meghan Markle (Composite) (5.00s)
-     📄 File: 058_Meghan_Markle_111_composite.mp4
-059. 🎥 [04:23.60] Meghan Markle (Original) (5.00s)
-     📄 File: 059_Meghan_Markle_clip_27_01_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1_original.mp4
-060. 🎬 [04:28.60] Meghan Markle (Composite) (5.00s)
-     📄 File: 060_Meghan_Markle_asdasdas_chf3_rhea1_composite.mp4
-061. 🖼️ [04:33.60] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 061_Meghan_Markle_clip.mp4
-062. 🎬 [04:38.60] Meghan Markle (Composite) (5.00s)
-     📄 File: 062_Meghan_Markle_clip_05_01_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1_composite.mp4
-063. 🎥 [04:43.60] Meghan Markle (Original) (1.76s)
-     📄 File: 063_Meghan_Markle_clip_05_02_Meghan Markle Launches ‘40x40’ Initiative to Mark 40th Birthday_155637_chf3_rhea1_original.mp4
-064. 🎬 [04:45.36] Martha Stewart (Composite) (0.52s)
-     📄 File: 064_Martha_Stewart_clip_09_04_Martha Stewart Reacts to Big Surprise from New Jersey Hometown - The Drew Barrymore Show_214900_composite.mp4
-065. 🎥 [04:45.88] Jon Stewart (Original) (5.00s)
-     📄 File: 065_Jon_Stewart_14_original.mp4
-066. 🎬 [04:50.88] Jon Stewart (Composite) (5.00s)
-     📄 File: 066_Jon_Stewart_17_composite.mp4
-067. 🎥 [04:55.88] Jon Stewart (Original) (2.42s)
-     📄 File: 067_Jon_Stewart_23_original.mp4
-068. 🎬 [04:58.30] Meghan Markle (Composite) (5.00s)
-     📄 File: 068_Meghan_Markle_clip_14_02_Meghan Markle joins the royals for Christmas service_161556_chf3_rhea1_composite.mp4
-069. 🖼️ [05:03.30] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 069_Meghan_Markle_clip.mp4
-070. 🎬 [05:08.30] Meghan Markle (Composite) (5.00s)
-     📄 File: 070_Meghan_Markle_clip_02_01_Gleeful Meghan Markle Thanks Billie Eilish For Incredible Donation_155607_chf3_rhea1_composite.mp4
-071. 🎥 [05:13.30] Meghan Markle (Original) (5.00s)
-     📄 File: 071_Meghan_Markle_10_original.mp4
-072. 🎬 [05:18.30] Meghan Markle (Composite) (5.00s)
-     📄 File: 072_Meghan_Markle_clip_05_02_Duke and Duchess of Sussex meet NY Yankees and Boston Red Sox_161436_chf3_rhea1_composite.mp4
-073. 🖼️ [05:23.30] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 073_Meghan_Markle_clip.mp4
-074. 🎬 [05:28.30] Meghan Markle (Composite) (0.19s)
-     📄 File: 074_Meghan_Markle_xcvcxvcx_composite.mp4
-075. 🎥 [05:28.50] Meghan Markle (Original) (5.00s)
-     📄 File: 075_Meghan_Markle_zxzzx_original.mp4
-076. 🎬 [05:33.50] Meghan Markle (Composite) (2.02s)
-     📄 File: 076_Meghan_Markle_clip_27_03_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1_composite.mp4
-077. 🖼️ [05:35.52] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 077_Meghan_Markle_clip.mp4
-078. 🎬 [05:40.52] Meghan Markle (Composite) (5.00s)
-     📄 File: 078_Meghan_Markle_clip_04_01_Meghan Markle Discusses Birth of Upcoming Daughter in First TV Appearance Since Oprah Interview_155628_chf3_rhea1_composite.mp4
-079. 🎥 [05:45.52] Meghan Markle (Original) (5.00s)
-     📄 File: 079_Meghan_Markle_zcxzcz_original.mp4
-080. 🎬 [05:50.52] Meghan Markle (Composite) (1.11s)
-     📄 File: 080_Meghan_Markle_21_composite.mp4
-081. 🖼️ [05:51.64] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 081_Meghan_Markle_clip.mp4
-082. 🎬 [05:56.64] Meghan Markle (Composite) (5.00s)
-     📄 File: 082_Meghan_Markle_cvcxvx_composite.mp4
-083. 🎥 [06:01.64] Meghan Markle (Original) (5.00s)
-     📄 File: 083_Meghan_Markle_1_original.mp4
-084. 🎬 [06:06.64] Meghan Markle (Composite) (0.36s)
-     📄 File: 084_Meghan_Markle_clip_27_02_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1_composite.mp4
-085. 🖼️ [06:07.00] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 085_Meghan_Markle_clip.mp4
-086. 🎬 [06:12.00] Meghan Markle (Composite) (0.21s)
-     📄 File: 086_Meghan_Markle_8_composite.mp4
-087. 🎥 [06:12.21] Netflix (Original) (5.00s)
-     📄 File: 087_Netflix_8_original.mp4
-088. 🎬 [06:17.21] Netflix (Composite) (5.00s)
-     📄 File: 088_Netflix_4_composite.mp4
-089. 🖼️ [06:22.21] Netflix (Ken Burns) (5.00s)
-     📄 File: 089_Netflix_clip.mp4
-090. 🎬 [06:27.21] Netflix (Composite) (3.52s)
-     📄 File: 090_Netflix_4_composite.mp4
-091. 🎥 [06:30.73] Meghan Markle (Original) (5.00s)
-     📄 File: 091_Meghan_Markle_clip_27_04_Prince Harry throws a ball in front of Meghan Markle at seated volleyball trials_161728_chf3_rhea1_original.mp4
-092. 🎬 [06:35.73] Meghan Markle (Composite) (5.00s)
-     📄 File: 092_Meghan_Markle_clip_01_01_Beyond the Tabloids_ Exploring Meghan Markle’s Journey Over the Years_161345_chf3_rhea1_composite.mp4
-093. 🖼️ [06:40.73] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 093_Meghan_Markle_clip.mp4
-094. 🎬 [06:45.73] Meghan Markle (Composite) (5.00s)
-     📄 File: 094_Meghan_Markle_clip_16_04_Meghan Markle Returns to Instagram with New Year’s Celebration Post_161610_chf3_rhea1_composite.mp4
-095. 🎥 [06:50.73] Meghan Markle (Original) (5.00s)
-     📄 File: 095_Meghan_Markle_clip_21_04_Meghan, Duchess of Sussex, Reveals She Suffered a Miscarriage_161636_original.mp4
-096. 🎬 [06:55.73] Meghan Markle (Composite) (5.00s)
-     📄 File: 096_Meghan_Markle_24_composite.mp4
-097. 🖼️ [07:00.73] Meghan Markle (Ken Burns) (1.71s)
-     📄 File: 097_Meghan_Markle_clip.mp4
-098. 🎬 [07:02.44] Meghan Markle (Composite) (5.00s)
-     📄 File: 098_Meghan_Markle_clip_28_04_Standing Ovation for Prince Harry and Meghan as they Complete Last Few Engagements_2_161740_chf3_rhea1_composite.mp4
-099. 🎥 [07:07.44] Meghan Markle (Original) (5.00s)
-     📄 File: 099_Meghan_Markle_clip_15_01_Meghan Markle laughs as pony tries to bite Prince Harry_161602_chf3_rhea1_original.mp4
-100. 🎬 [07:12.44] Meghan Markle (Composite) (5.00s)
-     📄 File: 100_Meghan_Markle_4_chf3_rhea1_composite.mp4
-101. 🖼️ [07:17.44] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 101_Meghan_Markle_clip.mp4
-102. 🎬 [07:22.44] Meghan Markle (Composite) (5.00s)
-     📄 File: 102_Meghan_Markle_clip_26_01_Prince Harry and Meghan Markle to Reveal All About US Move in Oprah Winfrey Interview_161717_chf3_rhea1_composite.mp4
-103. 🎥 [07:27.44] Meghan Markle (Original) (4.36s)
-     📄 File: 103_Meghan_Markle_clip_13_original.mp4
-104. 🎬 [07:31.80] Prince Harry (Composite) (5.00s)
-     📄 File: 104_Prince_Harry_14_chf3_rhea1_composite.mp4
-105. 🎥 [07:36.80] Prince Harry (Original) (5.00s)
-     📄 File: 105_Prince_Harry_5_chf3_rhea1_original.mp4
-106. 🎬 [07:41.80] Prince Harry (Composite) (1.27s)
-     📄 File: 106_Prince_Harry_6_chf3_rhea1_composite.mp4
-107. 🎥 [07:43.06] Princess Diana (Original) (5.00s)
-     📄 File: 107_Princess_Diana_3_original.mp4
-108. 🎬 [07:48.06] Princess Diana (Composite) (1.18s)
-     📄 File: 108_Princess_Diana_Video Editor_18_composite.mp4
-109. 🎥 [07:49.24] King Charles (Original) (1.01s)
-     📄 File: 109_King_Charles_1_original.mp4
-110. 🎬 [07:50.25] Princess Diana (Composite) (5.00s)
-     📄 File: 110_Princess_Diana_Video Editor_30_composite.mp4
-111. 🖼️ [07:55.25] Princess Diana (Ken Burns) (2.83s)
-     📄 File: 111_Princess_Diana_clip.mp4
-112. 🖼️ [07:58.08] Prince Harry (Ken Burns) (5.00s)
-     📄 File: 112_Prince_Harry_clip.mp4
-113. 🎥 [08:03.08] Prince Harry (Original) (5.00s)
-     📄 File: 113_Prince_Harry_1_chf3_rhea1_original.mp4
-114. 🎬 [08:08.08] Prince Harry (Composite) (3.28s)
-     📄 File: 114_Prince_Harry_11_chf3_rhea1_composite.mp4
-115. 🎥 [08:11.36] Prince Harry (Original) (5.00s)
-     📄 File: 115_Prince_Harry_16_2_chf3_rhea1_original.mp4
-116. 🖼️ [08:16.36] Prince Harry (Ken Burns) (5.00s)
-     📄 File: 116_Prince_Harry_clip.mp4
-117. 🎥 [08:21.36] Prince Harry (Original) (5.00s)
-     📄 File: 117_Prince_Harry_clip_6 copy_chf3_rhea1_original.mp4
-118. 🎬 [08:26.36] Prince Harry (Composite) (5.00s)
-     📄 File: 118_Prince_Harry_clip_1 copy_chf3_rhea1_composite.mp4
-119. 🎥 [08:31.36] Prince Harry (Original) (5.00s)
-     📄 File: 119_Prince_Harry_13_chf3_rhea1_original.mp4
-120. 🖼️ [08:36.36] Prince Harry (Ken Burns) (0.62s)
-     📄 File: 120_Prince_Harry_clip.mp4
-121. 🎥 [08:36.98] Prince Harry (Original) (5.00s)
-     📄 File: 121_Prince_Harry_9_chf3_rhea1_original.mp4
-122. 🎬 [08:41.98] Prince Harry (Composite) (5.00s)
-     📄 File: 122_Prince_Harry_clip_17_chf3_rhea1_composite.mp4
-123. 🎥 [08:46.98] Prince Harry (Original) (5.00s)
-     📄 File: 123_Prince_Harry_3_chf3_rhea1_original.mp4
-124. 🖼️ [08:51.98] Prince Harry (Ken Burns) (5.00s)
-     📄 File: 124_Prince_Harry_clip.mp4
-125. 🎥 [08:56.98] Prince Harry (Original) (2.00s)
-     📄 File: 125_Prince_Harry_12_chf3_rhea1_original.mp4
-126. 🎬 [08:58.98] Prince William (Composite) (5.00s)
-     📄 File: 126_Prince_William_17_composite.mp4
-127. 🎥 [09:03.98] Prince William (Original) (2.92s)
-     📄 File: 127_Prince_William_4_original.mp4
-128. 🎬 [09:06.90] Oprah (Composite) (1.25s)
-     📄 File: 128_Oprah_24_composite.mp4
-129. 🎥 [09:08.14] Netflix (Original) (1.67s)
-     📄 File: 129_Netflix_1 2_original.mp4
-130. 🎬 [09:09.82] Prince Harry (Composite) (5.00s)
-     📄 File: 130_Prince_Harry_clip_03_01_Duchess of Sussex Reveals She's Missing Duke So Much with Events Scheduled Round Archie's Feed Times_161412_composite.mp4
-131. 🎥 [09:14.82] Prince Harry (Original) (5.00s)
-     📄 File: 131_Prince_Harry_7_chf3_rhea1_original.mp4
-132. 🖼️ [09:19.82] Prince Harry (Ken Burns) (5.00s)
-     📄 File: 132_Prince_Harry_clip.mp4
-133. 🎥 [09:24.82] Prince Harry (Original) (5.00s)
-     📄 File: 133_Prince_Harry_15_chf3_rhea1_original.mp4
-134. 🎬 [09:29.82] Prince Harry (Composite) (5.00s)
-     📄 File: 134_Prince_Harry_2_chf3_rhea1_composite.mp4
-135. 🎥 [09:34.82] Prince Harry (Original) (0.81s)
-     📄 File: 135_Prince_Harry_clip_9_chf3_rhea1_original.mp4
-136. 🖼️ [09:35.63] Prince Harry (Ken Burns) (5.00s)
-     📄 File: 136_Prince_Harry_clip.mp4
-137. 🎥 [09:40.63] Prince Harry (Original) (4.61s)
-     📄 File: 137_Prince_Harry_10_chf3_rhea1_original.mp4
-138. 🎬 [09:45.24] Meghan Markle (Composite) (5.00s)
-     📄 File: 138_Meghan_Markle_25_composite.mp4
-139. 🖼️ [09:50.24] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 139_Meghan_Markle_clip.mp4
-140. 🎬 [09:55.24] Meghan Markle (Composite) (5.00s)
-     📄 File: 140_Meghan_Markle_clip_07_02_Harry and Meghan awed by adorable kiwi chicks_161453_chf3_rhea1_composite.mp4
-141. 🎥 [10:00.24] Meghan Markle (Original) (5.00s)
-     📄 File: 141_Meghan_Markle_sadsad_chf3_rhea1_original.mp4
-142. 🎬 [10:05.24] Meghan Markle (Composite) (5.00s)
-     📄 File: 142_Meghan_Markle_vc_chf3_rhea1_composite.mp4
-143. 🖼️ [10:10.24] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 143_Meghan_Markle_clip.mp4
-144. 🎬 [10:15.24] Meghan Markle (Composite) (5.00s)
-     📄 File: 144_Meghan_Markle_clip_04_02_Duchess of Sussex shocked at 'staggering' diversity figures at London's City University_161421_chf3_rhea1_composite.mp4
-145. 🎥 [10:20.24] Meghan Markle (Original) (5.00s)
-     📄 File: 145_Meghan_Markle_sdfds_original.mp4
-146. 🎬 [10:25.24] Meghan Markle (Composite) (5.00s)
-     📄 File: 146_Meghan_Markle_clip_07_03_Meghan Markle's best fashion moments of 2018_2_155654_chf3_rhea1_composite.mp4
-147. 🖼️ [10:30.24] Meghan Markle (Ken Burns) (5.00s)
-     📄 File: 147_Meghan_Markle_clip.mp4
-148. 🎬 [10:35.24] Meghan Markle (Composite) (0.44s)
-     📄 File: 148_Meghan_Markle_11_composite.mp4
-149. 🎥 [10:35.68] Netflix (Original) (5.00s)
-     📄 File: 149_Netflix_5_original.mp4
+001. 🎥 [00:00.00] Meghan Markle (Original) (5.00s)
+     📄 File: 001_Meghan_Markle_1234_original.mp4
+002. 🎬 [00:05.00] Meghan Markle (Composite) (4.32s)
+     📄 File: 002_Meghan_Markle_cvcxvx_composite.mp4
+003. 🎥 [00:09.32] Prince Harry (Original) (5.00s)
+     📄 File: 003_Prince_Harry_5_original.mp4
+004. 🎬 [00:14.32] Prince Harry (Composite) (4.04s)
+     📄 File: 004_Prince_Harry_11_composite.mp4
+005. 🎥 [00:18.35] Meghan Markle (Original) (5.00s)
+     📄 File: 005_Meghan_Markle_zvz_original.mp4
+006. 🖼️ [00:23.35] Meghan Markle (Ken Burns) (2.63s)
+     📄 File: 006_Meghan_Markle_clip.mp4
+007. 🎥 [00:25.98] Meghan Markle (Original) (0.35s)
+     📄 File: 007_Meghan_Markle_sfsdfsd_original.mp4
+008. 🎬 [00:26.33] Prince Harry (Composite) (5.00s)
+     📄 File: 008_Prince_Harry_1_composite.mp4
+009. 🖼️ [00:31.33] Prince Harry (Ken Burns) (5.00s)
+     📄 File: 009_Prince_Harry_clip.mp4
+010. 🎬 [00:36.33] Prince Harry (Composite) (1.27s)
+     📄 File: 010_Prince_Harry_clip_14_composite.mp4
+011. 🎥 [00:37.60] Meghan Markle (Original) (4.00s)
+     📄 File: 011_Meghan_Markle_zxcxzxz_original.mp4
+012. 🎬 [00:41.60] Beyonce (Composite) (5.00s)
+     📄 File: 012_Beyonce_7_composite.mp4
+013. 🎥 [00:46.60] Beyonce (Original) (5.00s)
+     📄 File: 013_Beyonce_35_original.mp4
+014. 🎬 [00:51.60] Beyonce (Composite) (5.00s)
+     📄 File: 014_Beyonce_48_composite.mp4
+015. 🖼️ [00:56.60] Beyonce (Ken Burns) (1.32s)
+     📄 File: 015_Beyonce_clip.mp4
+016. 🎬 [00:57.92] Meghan Markle (Composite) (5.00s)
+     📄 File: 016_Meghan_Markle_26_composite.mp4
+017. 🖼️ [01:02.92] Meghan Markle (Ken Burns) (1.15s)
+     📄 File: 017_Meghan_Markle_clip.mp4
+018. 🎬 [01:04.06] Beyonce (Composite) (5.00s)
+     📄 File: 018_Beyonce_27_composite.mp4
 
 📊 SUMMARY:
-• Total Clips: 149
-• Total Duration: 639.23 seconds (10.7 minutes)
-• Output Location: E:\Temp\Meghan And Harry Shock People With Plan To Make Kids Full Time Royals
+• Total Clips: 18
+• Total Duration: 69.07 seconds (1.2 minutes)
+• Output Location: /Users/superman/Desktop/Clips Assembled/Meghan Test
 • File Naming: 001_Celebrity_filename_effect.mp4
 
 ⚡ ADVANTAGES OF THIS WORKFLOW:

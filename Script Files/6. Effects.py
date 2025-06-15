@@ -6,11 +6,52 @@ import importlib.util
 import shutil
 import re
 import requests
+import platform
+import subprocess
+
+# Platform-specific configuration
+SYSTEM = platform.system().lower()
+USE_CUDA = SYSTEM == 'windows'  # Only use CUDA on Windows
 
 # Add the Other Files directory to the Python path so we can import from it
 current_dir = Path(__file__).parent
 other_files_dir = current_dir.parent / "Other Files"
 json_files_dir = current_dir.parent / "JSON Files"
+
+# Configure FFmpeg settings based on platform
+def get_ffmpeg_config():
+    """Get platform-specific FFmpeg configuration."""
+    if SYSTEM == 'windows':
+        return {
+            'hwaccel': 'cuda',
+            'video_codec': 'h264_nvenc',
+            'preset': 'p4',
+            'pixel_format': 'yuv420p'
+        }
+    elif SYSTEM == 'darwin':  # macOS
+        return {
+            'hwaccel': 'videotoolbox',  # macOS hardware acceleration
+            'video_codec': 'h264_videotoolbox',  # macOS hardware encoder
+            'preset': 'medium',
+            'pixel_format': 'yuv420p'
+        }
+    else:  # Linux or other
+        return {
+            'hwaccel': None,
+            'video_codec': 'libx264',
+            'preset': 'medium',
+            'pixel_format': 'yuv420p'
+        }
+
+FFMPEG_CONFIG = get_ffmpeg_config()
+
+# Print platform info
+print(f"\n🖥️  Platform Configuration:")
+print(f"   • Operating System: {SYSTEM.title()}")
+print(f"   • CUDA Enabled: {'Yes' if USE_CUDA else 'No'}")
+print(f"   • FFmpeg Hardware Acceleration: {FFMPEG_CONFIG['hwaccel'] or 'None'}")
+print(f"   • Video Codec: {FFMPEG_CONFIG['video_codec']}")
+print()
 
 # Add the Script Files directory to Python path for imports
 script_files_dir = Path(__file__).parent
@@ -199,7 +240,11 @@ def sanitize_folder_name(title):
 
 def create_project_output_folder():
     """Create and return the project-specific output folder based on video title."""
-    base_folder = Path(r"E:\Temp")
+    # Platform-specific base folder
+    if SYSTEM == 'darwin':  # macOS
+        base_folder = Path("/Users/superman/Desktop/Clips Assembled")
+    else:  # Windows
+        base_folder = Path(r"E:\Temp")
     
     # Load video info
     video_info = load_selected_video_info()
@@ -713,7 +758,6 @@ def process_image_with_ken_burns(segment, ken_burns_exporter):
         print(f"   ✂️  Now trimming to exact duration: {duration:.3f} seconds")
         
         # Then use FFmpeg to trim to exact duration
-        import subprocess
         ffmpeg_cmd = [
             'ffmpeg', '-y',
             '-i', str(temp_abs_path),
@@ -777,7 +821,6 @@ def process_video_with_composite(segment, composite_effect_class, video_index):
     
     # Quick validation check for video file integrity
     try:
-        import subprocess
         # Quick ffprobe check to see if file is valid
         result = subprocess.run([
             'ffprobe', '-v', 'quiet', '-print_format', 'json', 
@@ -826,7 +869,8 @@ def process_video_with_composite(segment, composite_effect_class, video_index):
                 output_height=config.OUTPUT_HEIGHT,
                 fps=config.OUTPUT_FPS,
                 scale_factor=config.COMPOSITE_SCALE_FACTOR,
-                notion_token="ntn_cC7520095381SElmcgTOADYsGnrABFn2ph1PrcaGSst2dv"  # Use Notion for background
+                notion_token="ntn_cC7520095381SElmcgTOADYsGnrABFn2ph1PrcaGSst2dv",  # Use Notion for background
+                ffmpeg_config=FFMPEG_CONFIG  # Pass platform-specific FFmpeg config
             )
             
             # Apply composite effect using FFmpeg (much faster)
@@ -836,7 +880,7 @@ def process_video_with_composite(segment, composite_effect_class, video_index):
                     output_path=str(output_path),
                     max_duration=duration
                 )
-                method = "FFmpeg (GPU accelerated)"
+                method = f"FFmpeg ({FFMPEG_CONFIG['hwaccel'] or 'CPU'} accelerated)"
             except Exception as ffmpeg_error:
                 print(f"   FFmpeg failed: {ffmpeg_error}")
                 print(f"   Trying OpenCV fallback...")
@@ -870,18 +914,24 @@ def process_video_with_composite(segment, composite_effect_class, video_index):
                 print(f"   🔄 Composite failed, trimming original to exact duration as fallback")
                 print(f"   ✂️  Trimming to: {duration:.3f} seconds")
                 
-                # Use FFmpeg to trim the original video to exact duration 
-                import subprocess
+                # Use FFmpeg to trim the original video to exact duration with platform-specific settings
                 ffmpeg_cmd = [
-                    'ffmpeg', '-y',
+                    'ffmpeg', '-y'
+                ]
+                
+                # Add hardware acceleration if available
+                if FFMPEG_CONFIG['hwaccel']:
+                    ffmpeg_cmd.extend(['-hwaccel', FFMPEG_CONFIG['hwaccel']])
+                
+                ffmpeg_cmd.extend([
                     '-i', str(input_path),
                     '-t', str(duration),
-                    '-c:v', 'libx264',
+                    '-c:v', FFMPEG_CONFIG['video_codec'],
                     '-c:a', 'aac',
-                    '-preset', 'medium', 
-                    '-crf', '23',
+                    '-preset', FFMPEG_CONFIG['preset'],
+                    '-pix_fmt', FFMPEG_CONFIG['pixel_format'],
                     str(fallback_path)
-                ]
+                ])
                 
                 result = subprocess.run(ffmpeg_cmd, capture_output=True, text=True)
                 
@@ -919,23 +969,45 @@ def process_video_with_composite(segment, composite_effect_class, video_index):
         output_path = temp_folder / output_filename
         
         try:
-            # Trim video to exact duration using FFmpeg (prevents timeline drift)
-            import subprocess
-            
+            # Trim video to exact duration using FFmpeg with platform-specific settings
             print(f"   ✂️  Trimming to exact duration: {duration:.3f} seconds")
             print(f"   📐 This prevents timeline drift in your video editor")
             
             # Use FFmpeg to trim video to exact duration
             ffmpeg_cmd = [
-                'ffmpeg', '-y',  # -y to overwrite output file
-                '-i', str(input_path),  # Input file
-                '-t', str(duration),     # Trim to exact duration
-                '-c:v', 'libx264',       # Video codec
-                '-c:a', 'aac',           # Audio codec  
-                '-preset', 'medium',     # Encoding speed vs quality
-                '-crf', '23',            # Quality (lower = higher quality)
-                str(output_path)         # Output file
+                'ffmpeg', '-y'  # -y to overwrite output file
             ]
+            
+            # Add hardware acceleration if available
+            if FFMPEG_CONFIG['hwaccel']:
+                ffmpeg_cmd.extend(['-hwaccel', FFMPEG_CONFIG['hwaccel']])
+            
+            # Get video start time using ffprobe
+            probe_cmd = [
+                'ffprobe', '-v', 'quiet', '-print_format', 'json',
+                '-show_format', '-show_streams', str(input_path)
+            ]
+            probe_result = subprocess.run(probe_cmd, capture_output=True, text=True)
+            video_info = json.loads(probe_result.stdout)
+            
+            # Get start time and input fps
+            start_time = float(video_info['format'].get('start_time', '0'))
+            
+            # Add input with precise seeking
+            ffmpeg_cmd.extend([
+                '-i', str(input_path),  # Input file
+                '-ss', str(start_time),  # Seek to start_time
+                '-t', str(duration),     # Trim to exact duration
+                '-c:v', FFMPEG_CONFIG['video_codec'],  # Platform-specific video codec
+                '-c:a', 'aac',           # Audio codec  
+                '-preset', FFMPEG_CONFIG['preset'],  # Platform-specific preset
+                '-pix_fmt', FFMPEG_CONFIG['pixel_format'],  # Platform-specific pixel format
+                '-vsync', 'cfr',         # Force constant frame rate
+                '-r', str(config.OUTPUT_FPS),  # Force output fps
+                '-fflags', '+genpts',    # Generate presentation timestamps
+                '-avoid_negative_ts', 'make_zero',  # Fix timestamp issues
+                str(output_path)         # Output file
+            ])
             
             result = subprocess.run(ffmpeg_cmd, capture_output=True, text=True)
             
@@ -1009,7 +1081,7 @@ def create_human_readable_effects_summary(render_plan):
             f.write(f"   • Border Overlay: Assets/Background/Box.png\n")
             f.write(f"   • Duration: Trimmed to exact render plan timing\n\n")
             
-            f.write(f"🖼️  Ken Burns Effect:\n")
+            f.write(f"��️  Ken Burns Effect:\n")
             f.write(f"   • Apply to: All image segments\n")
             f.write(f"   • Effect: Random zoom in/out with smooth motion\n")
             f.write(f"   • Duration: Matches segment duration exactly\n\n")
@@ -1193,8 +1265,13 @@ def create_human_readable_effects_summary(render_plan):
 
 def copy_voiceover_to_output_folder():
     """Copy the voiceover file from Celebrity Voice Overs to the output folder."""
-    voiceover_source_dir = Path(r"E:\Celebrity Voice Overs")
-    output_dir = Path(config.OUTPUT_FOLDER)
+    # Platform-specific paths
+    if SYSTEM == 'darwin':  # macOS
+        voiceover_source_dir = Path("/Users/superman/Desktop/Celebrity Voice Overs")
+        output_dir = Path("/Users/superman/Desktop/Clips Assembled")
+    else:  # Windows
+        voiceover_source_dir = Path(r"E:\Celebrity Voice Overs")
+        output_dir = Path(config.OUTPUT_FOLDER)
     
     print(f"\n🎵 COPYING VOICEOVER FILE")
     print(f"{'='*60}")
@@ -1537,7 +1614,15 @@ def main():
         
         print(f"\n💡 COMMON SOLUTIONS:")
         print(f"   • Check if all video files exist and aren't corrupted")
-        print(f"   • Ensure FFmpeg is properly installed with CUDA support")
+        if SYSTEM == 'windows':
+            print(f"   • Ensure FFmpeg is properly installed with CUDA support")
+            print(f"   • Update NVIDIA drivers and CUDA toolkit")
+        elif SYSTEM == 'darwin':
+            print(f"   • Ensure FFmpeg is installed with VideoToolbox support")
+            print(f"   • Run 'brew upgrade ffmpeg' to get the latest version")
+        else:
+            print(f"   • Ensure FFmpeg is properly installed")
+            print(f"   • Run 'sudo apt update && sudo apt upgrade ffmpeg' to update")
         print(f"   • Verify file formats are supported (MP4, MOV, AVI, etc.)")
         print(f"   • Check file permissions and disk space")
     

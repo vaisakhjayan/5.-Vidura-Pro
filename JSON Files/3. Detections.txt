@@ -2,89 +2,35 @@
 CELEBRITY KEYWORD DETECTIONS SUMMARY
 ================================================================================
 
-Video Title: Meghan And Harry SHOCK People With Plan To Make Kids FULL TIME Royals
+Video Title: Meghan Test
 Channel: Meghan Markle
 Page ID: 21202cd2-c142-80fb-b20c-dfb7e78714ce
 Video Selected: 2025-06-15T02:31:28.814218
-Detection Generated: 2025-06-15T02:32:32.130621
+Detection Generated: 2025-06-15T11:18:25.298221
 
-Total Detections: 36
+Total Detections: 9
 
 --------------------------------------------------------------------------------
 DETECTION TIMELINE (Actual Order)
 --------------------------------------------------------------------------------
 
-   1. 📍 1.45 (1.448s) - MEGHAN MARKLE - Partial Match: "Megan"
+   1. 📍 0.00 (0.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   2. 📍 5.85 (5.853s) - NETFLIX - Exact Match: "Netflix"
+   2. 📍 9.32 (9.32s) - PRINCE HARRY - Exact Match: "prince harry"
       Type: main
-   3. 📍 41.04 (41.04s) - MEGHAN MARKLE - Partial Match: "Megan"
+   3. 📍 18.36 (18.36s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   4. 📍 1:22.36 (82.36s) - MEGHAN MARKLE - Partial Match: "Megan"
+   4. 📍 25.99 (25.99s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   5. 📍 1:46.33 (106.326s) - NETFLIX - Exact Match: "Netflix"
+   5. 📍 26.34 (26.336s) - PRINCE HARRY - Partial Match: "Harry"
       Type: main
-   6. 📍 1:51.44 (111.44s) - MEGHAN MARKLE - Partial Match: "Megan"
+   6. 📍 37.60 (37.605s) - MEGHAN MARKLE - Partial Match: "Meghan's"
       Type: main
-   7. 📍 2:01.97 (121.966s) - NETFLIX - Exact Match: "Netflix"
+   7. 📍 41.60 (41.6s) - BEYONCE - Partial Match: "Beyoncé"
       Type: main
-   8. 📍 2:54.43 (174.433s) - MEGHAN MARKLE - Partial Match: "Megan"
+   8. 📍 57.92 (57.921s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   9. 📍 3:11.54 (191.54000000000002s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   10. 📍 3:44.72 (224.72s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   11. 📍 3:58.60 (238.6s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   12. 📍 4:45.36 (285.363s) - MARTHA STEWART - Partial Match: "Martha"
-      Type: main
-   13. 📍 4:45.89 (285.887s) - JON STEWART - Partial Match: "Stewart's"
-      Type: main
-   14. 📍 4:58.31 (298.309s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   15. 📍 5:28.50 (328.504s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   16. 📍 5:35.53 (335.526s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   17. 📍 5:51.64 (351.64000000000004s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   18. 📍 6:07.00 (367.0s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   19. 📍 6:12.21 (372.215s) - NETFLIX - Exact Match: "Netflix"
-      Type: main
-   20. 📍 6:30.73 (390.731s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   21. 📍 7:02.44 (422.442s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   22. 📍 7:31.80 (451.8s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   23. 📍 7:43.07 (463.067s) - PRINCESS DIANA - Partial Match: "Diana's"
-      Type: main
-   24. 📍 7:49.25 (469.248s) - KING CHARLES - Partial Match: "Charles"
-      Type: main
-   25. 📍 7:50.25 (470.255s) - PRINCESS DIANA - Partial Match: "Diana's"
-      Type: main
-   26. 📍 7:58.08 (478.08000000000004s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   27. 📍 7:58.08 (478.08000000000004s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   28. 📍 8:11.36 (491.36s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   29. 📍 8:36.98 (516.984s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   30. 📍 8:58.99 (538.986s) - PRINCE WILLIAM - Partial Match: "William"
-      Type: main
-   31. 📍 9:06.90 (546.902s) - OPRAH - Exact Match: "Oprah"
-      Type: main
-   32. 📍 9:08.15 (548.15s) - NETFLIX - Exact Match: "Netflix"
-      Type: main
-   33. 📍 9:09.82 (549.82s) - PRINCE HARRY - Partial Match: "Harry's"
-      Type: main
-   34. 📍 9:35.63 (575.634s) - PRINCE HARRY - Partial Match: "Harry's"
-      Type: main
-   35. 📍 9:45.24 (585.24s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   36. 📍 10:35.68 (635.6800000000001s) - NETFLIX - Exact Match: "Netflix"
+   9. 📍 1:04.07 (64.069s) - BEYONCE - Exact Match: "Beyonce"
       Type: main
 
 --------------------------------------------------------------------------------
@@ -92,69 +38,37 @@ DETECTION STATISTICS
 --------------------------------------------------------------------------------
 
 Meghan Markle:
-  • Total Detections: 17
-  • Match Type: Partial ("Megan")
-  • First Appearance: 1.45
-  • Last Appearance: 9:45.24
-  • Detection Span: 583.79 seconds
-
-Netflix:
-  • Total Detections: 6
-  • Match Type: Exact
-  • First Appearance: 5.85
-  • Last Appearance: 10:35.68
-  • Detection Span: 629.83 seconds
-
-Martha Stewart:
-  • Total Detections: 1
-  • Match Type: Partial ("Martha")
-  • First Appearance: 4:45.36
-
-Jon Stewart:
-  • Total Detections: 1
-  • Match Type: Partial ("Stewart's")
-  • First Appearance: 4:45.89
+  • Total Detections: 5
+  • Match Type: Partial ("Meghan")
+  • First Appearance: 0.00
+  • Last Appearance: 57.92
+  • Detection Span: 57.92 seconds
 
 Prince Harry:
-  • Total Detections: 6
-  • Match Type: Partial ("Harry")
-  • First Appearance: 7:31.80
-  • Last Appearance: 9:35.63
-  • Detection Span: 123.83 seconds
-
-Princess Diana:
   • Total Detections: 2
-  • Match Type: Partial ("Diana's")
-  • First Appearance: 7:43.07
-  • Last Appearance: 7:50.25
-  • Detection Span: 7.19 seconds
-
-King Charles:
-  • Total Detections: 1
-  • Match Type: Partial ("Charles")
-  • First Appearance: 7:49.25
-
-Prince William:
-  • Total Detections: 1
-  • Match Type: Partial ("William")
-  • First Appearance: 8:58.99
-
-Oprah:
-  • Total Detections: 1
   • Match Type: Exact
-  • First Appearance: 9:06.90
+  • First Appearance: 9.32
+  • Last Appearance: 26.34
+  • Detection Span: 17.02 seconds
 
-Total Detection Window: 635.68 seconds
-Detection Frequency: 1 every 17.66 seconds
+Beyonce:
+  • Total Detections: 2
+  • Match Type: Partial ("Beyoncé")
+  • First Appearance: 41.60
+  • Last Appearance: 1:04.07
+  • Detection Span: 22.47 seconds
+
+Total Detection Window: 64.07 seconds
+Detection Frequency: 1 every 7.12 seconds
 
 --------------------------------------------------------------------------------
 DETECTION SUMMARY
 --------------------------------------------------------------------------------
 
-✅ 9 unique celebrities detected
-✅ 36 total keyword matches found
+✅ 3 unique celebrities detected
+✅ 9 total keyword matches found
 ✅ Mix of exact and partial matches
-✅ Detections span 635.68 seconds of content
+✅ Detections span 64.07 seconds of content
 
 ================================================================================
 End of Detection Summary

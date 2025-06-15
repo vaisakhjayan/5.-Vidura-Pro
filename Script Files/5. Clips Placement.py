@@ -3,6 +3,7 @@ import random
 from datetime import datetime
 import json
 import logging
+import platform
 
 # Set up logging
 logging.basicConfig(
@@ -12,11 +13,22 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Constants
-BASE_PATH = r"E:\Celebrity Folder"
+# Platform-specific paths
+SYSTEM = platform.system().lower()
+if SYSTEM == 'darwin':  # macOS
+    BASE_PATH = r"/Users/superman/Desktop/Celebrity Folder"
+else:  # Windows
+    BASE_PATH = r"E:\Celebrity Folder"
+
 BLOCK_SIZE = 5.0  # Each block is 5 seconds
 VIDEO_EXTENSIONS = {'.mp4', '.avi', '.mov', '.wmv'}
 IMAGE_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.webp'}
+
+# Print configuration
+print(f"\n📂 Path Configuration:")
+print(f"   • Operating System: {SYSTEM.title()}")
+print(f"   • Base Path: {BASE_PATH}")
+print()
 
 # Global tracking for used clips per celebrity
 celebrity_clip_trackers = {}

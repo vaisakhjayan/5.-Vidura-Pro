@@ -1150,7 +1150,7 @@ def main():
     # CONFIGURATION SECTION
     # ================================
     # 🎯 AUDIO FOLDER PATH - CHANGE THIS AS NEEDED
-    AUDIO_FOLDER_PATH = r"E:\Celebrity Voice Overs"
+    AUDIO_FOLDER_PATH = r"/Users/superman/Desktop/Celebrity Voice Overs"
     
     # 📄 MAIN JSON EXPORT FILE - CHANGE THIS AS NEEDED
     MAIN_JSON_EXPORT_PATH = "JSON Files/2. Transcriptions.json"

@@ -4,6 +4,7 @@ from pathlib import Path
 import os
 import subprocess
 import json
+import sys
 
 # Notion integration for dynamic background selection
 try:
@@ -68,7 +69,7 @@ def fetch_background_from_notion(notion_token: str = None) -> str:
         return "Background"
 
 class ClipCompositeEffect:
-    def __init__(self, output_width=1920, output_height=1080, fps=24, scale_factor=0.6, notion_token=None):
+    def __init__(self, output_width=1920, output_height=1080, fps=24, scale_factor=0.6, notion_token=None, ffmpeg_config=None):
         """
         Initialize the Clip Composite Effect.
         
@@ -78,14 +79,21 @@ class ClipCompositeEffect:
             fps: Output frame rate
             scale_factor: How much to scale down the main clip (0.6 = 60% of original size)
             notion_token: Notion integration token (optional, uses default if not provided)
+            ffmpeg_config: FFmpeg configuration dictionary (optional)
         """
         self.output_width = output_width
         self.output_height = output_height
         self.fps = fps
         self.scale_factor = scale_factor
         
-        # Asset paths
-        self.assets_folder = Path(r"E:\VS Code Folders\5. Vidura (Pro)\Assets\Background")
+        # Asset paths - platform specific
+        if os.name == 'posix':  # macOS/Linux
+            self.assets_folder = Path("/Users/superman/Documents/Github/5.-Vidura-Pro/Assets/Background")
+        else:  # Windows
+            self.assets_folder = Path(r"E:\VS Code Folders\5. Vidura (Pro)\Assets\Background")
+        
+        # Store FFmpeg config
+        self.ffmpeg_config = ffmpeg_config or {}
         
         # Fetch background name from Notion
         background_name = fetch_background_from_notion(notion_token)
@@ -234,12 +242,8 @@ class ClipCompositeEffect:
     
     def create_composite(self, main_video_path, output_path, max_duration=None):
         """
-        Create the composite video effect.
-        
-        Args:
-            main_video_path: Path to the main video clip
-            output_path: Path for the output video
-            max_duration: Maximum duration in seconds (None for full video)
+        Create the composite video effect using OpenCV (fallback method).
+        Uses h264 codec for Premiere compatibility.
         """
         print(f"Creating composite effect...")
         print(f"Main video: {Path(main_video_path).name}")
@@ -271,133 +275,122 @@ class ClipCompositeEffect:
         print(f"Processing {total_frames} frames at {self.fps} FPS")
         print(f"Scale factor: {self.scale_factor} ({int(self.scale_factor*100)}%)")
         
-        # Set up video writer with optimized codec selection for speed
-        video_writer = None
+        # Create temporary file for initial encoding
+        temp_output = str(Path(output_path).with_suffix('.temp.mp4'))
         
-        # Try different codecs in order of speed (fastest first)
-        codec_options = [
-            ('XVID', cv2.VideoWriter_fourcc(*'XVID')),  # Fast and widely supported
-            ('MJPG', cv2.VideoWriter_fourcc(*'MJPG')),  # Very fast, larger files
-            ('mp4v', cv2.VideoWriter_fourcc(*'mp4v')),  # Fallback option
-            ('H264', cv2.VideoWriter_fourcc(*'H264'))   # Good quality, slower
-        ]
-        
-        for codec_name, fourcc in codec_options:
-            video_writer = cv2.VideoWriter(str(output_path), fourcc, self.fps, (self.output_width, self.output_height))
-            if video_writer.isOpened():
-                print(f"Using {codec_name} codec for faster encoding")
-                break
-            else:
+        try:
+            # First pass: Write to temporary file with fast encoding
+            fourcc = cv2.VideoWriter_fourcc(*'avc1')  # Use h264 codec
+            video_writer = cv2.VideoWriter(
+                temp_output,
+                fourcc,
+                self.fps,
+                (self.output_width, self.output_height)
+            )
+            
+            if not video_writer.isOpened():
+                raise ValueError("Could not create video writer")
+            
+            # Pre-cache some background frames for faster access
+            print("  Using optimized CPU processing with", os.cpu_count(), "threads")
+            print("  Pre-caching 30 background frames for faster access...")
+            bg_cache = []
+            for _ in range(30):
+                ret, frame = bg_cap.read()
+                if ret:
+                    bg_cache.append(cv2.resize(frame, (self.output_width, self.output_height)))
+                if bg_cap.get(cv2.CAP_PROP_POS_FRAMES) >= bg_frame_count:
+                    bg_cap.set(cv2.CAP_PROP_POS_FRAMES, 0)
+            print("  Background cache ready - processing frames...")
+            
+            # Process frames
+            for frame_idx in range(total_frames):
+                # Progress indicator
+                if frame_idx % 10 == 0:
+                    progress = (frame_idx / total_frames) * 100
+                    print(f"  Progress: {progress:.1f}%")
+                
+                # Read main video frame
+                ret, main_frame = main_cap.read()
+                if not ret:
+                    break
+                
+                # Scale main frame
+                scaled_width = int(main_frame.shape[1] * self.scale_factor)
+                scaled_height = int(main_frame.shape[0] * self.scale_factor)
+                scaled_frame = cv2.resize(main_frame, (scaled_width, scaled_height))
+                
+                # Get background frame (from cache if possible)
+                bg_frame_idx = frame_idx % len(bg_cache)
+                bg_frame = bg_cache[bg_frame_idx].copy()
+                
+                # Calculate position to center scaled video
+                x_offset = (self.output_width - scaled_width) // 2
+                y_offset = (self.output_height - scaled_height) // 2
+                
+                # Create composite frame
+                roi = bg_frame[y_offset:y_offset+scaled_height, x_offset:x_offset+scaled_width]
+                bg_frame[y_offset:y_offset+scaled_height, x_offset:x_offset+scaled_width] = scaled_frame
+                
+                # Write frame
+                video_writer.write(bg_frame)
+            
+            # Clean up
+            video_writer.release()
+            main_cap.release()
+            bg_cap.release()
+            
+            print("  ✓ Composite video created successfully!")
+            print(f"  Frames processed: {total_frames}")
+            print(f"  Resolution: {self.output_width}x{self.output_height}")
+            print(f"  FPS: {self.fps}")
+            print(f"  Scale: {int(self.scale_factor*100)}% of original size")
+            print(f"  GPU acceleration: Disabled")
+            
+            # Second pass: Re-encode with proper settings for Premiere
+            print("  Re-encoding for Premiere compatibility...")
+            ffmpeg_cmd = [
+                'ffmpeg', '-y',
+                '-i', temp_output,
+                '-c:v', 'h264',
+                '-preset', 'medium',
+                '-crf', '23',
+                '-pix_fmt', 'yuv420p',
+                '-movflags', '+faststart',
+                '-profile:v', 'high',
+                '-level', '4.1',
+                str(output_path)
+            ]
+            
+            result = subprocess.run(ffmpeg_cmd, capture_output=True, text=True)
+            if result.returncode != 0:
+                raise Exception(f"Re-encoding failed: {result.stderr}")
+            
+            # Clean up temp file
+            os.unlink(temp_output)
+            
+        except Exception as e:
+            # Clean up on error
+            if video_writer:
                 video_writer.release()
-        
-        if not video_writer or not video_writer.isOpened():
-            raise RuntimeError(f"Failed to open video writer with any codec for {output_path}")
-        
-        # Process frames
-        progress_step = max(1, total_frames // 10)  # Show progress more frequently for faster feedback
-        
-        # Pre-allocate memory for better performance
-        if self.use_gpu:
-            print(f"  Using GPU acceleration for video processing")
-        else:
-            print(f"  Using optimized CPU processing with {cv2.getNumThreads()} threads")
-        
-        # Pre-read and cache the first few background frames for faster access
-        bg_cache = {}
-        cache_size = min(bg_frame_count, 30)  # Cache up to 30 frames or full video
-        print(f"  Pre-caching {cache_size} background frames for faster access...")
-        
-        for i in range(cache_size):
-            bg_cap.set(cv2.CAP_PROP_POS_FRAMES, i)
-            ret, frame = bg_cap.read()
-            if ret:
-                # Pre-resize background frames and store in cache
-                if frame.shape[:2] != (self.output_height, self.output_width):
-                    frame = self._resize_frame_gpu(frame, self.output_width, self.output_height)
-                bg_cache[i] = frame
-        
-        print(f"  Background cache ready - processing frames...")
-        
-        for frame_idx in range(total_frames):
-            # Show progress
-            if frame_idx % progress_step == 0:
-                progress = (frame_idx / total_frames) * 100
-                print(f"  Progress: {progress:.1f}%")
-            
-            # Read main frame
-            ret_main, main_frame = main_cap.read()
-            if not ret_main:
-                print(f"  Warning: Could not read main frame {frame_idx}")
-                break
-            
-            # Get background frame from cache or read if not cached
-            bg_frame_idx = frame_idx % bg_frame_count
-            if bg_frame_idx in bg_cache:
-                bg_frame = bg_cache[bg_frame_idx]
-            else:
-                bg_cap.set(cv2.CAP_PROP_POS_FRAMES, bg_frame_idx)
-                ret_bg, bg_frame = bg_cap.read()
-                if not ret_bg:
-                    print(f"  Warning: Could not read background frame {bg_frame_idx}")
-                    # Use black background as fallback
-                    bg_frame = np.zeros((self.output_height, self.output_width, 3), dtype=np.uint8)
-                else:
-                    # Only resize background if it's not already the right size
-                    if bg_frame.shape[:2] != (self.output_height, self.output_width):
-                        bg_frame = self._resize_frame_gpu(bg_frame, self.output_width, self.output_height)
-            
-            # Scale and position main frame (already GPU-accelerated)
-            scaled_main, x_offset, y_offset = self._scale_and_center_frame(main_frame)
-            
-            # Create composite frame - use background as base to avoid copy
-            composite_frame = bg_frame.copy() if bg_frame_idx in bg_cache else bg_frame
-            
-            # Overlay scaled main frame onto background
-            h, w = scaled_main.shape[:2]
-            # Direct assignment is faster than copying
-            composite_frame[y_offset:y_offset+h, x_offset:x_offset+w] = scaled_main
-            
-            # Apply border overlay
-            final_frame = self._apply_border_overlay(composite_frame)
-            
-            # Write frame
-            video_writer.write(final_frame)
-        
-        # Cleanup
-        main_cap.release()
-        bg_cap.release()
-        video_writer.release()
-        
-        print(f"  ✓ Composite video created successfully!")
-        print(f"  Frames processed: {total_frames}")
-        print(f"  Resolution: {self.output_width}x{self.output_height}")
-        print(f"  FPS: {self.fps}")
-        print(f"  Scale: {int(self.scale_factor*100)}% of original size")
-        print(f"  GPU acceleration: {'Enabled' if self.use_gpu else 'Disabled'}")
-        if self.use_gpu:
-            print(f"  Performance: GPU-accelerated resizing for main clip, background, and border")
+            if os.path.exists(temp_output):
+                os.unlink(temp_output)
+            raise e
 
     def create_composite_ffmpeg(self, main_video_path, output_path, max_duration=None):
-        """
-        Create composite video using FFmpeg with GPU acceleration - much faster!
-        
-        Args:
-            main_video_path: Path to the main video clip
-            output_path: Path for the output video  
-            max_duration: Maximum duration in seconds (None for full video)
-        """
-        print(f"Creating composite effect with FFmpeg (GPU accelerated)...")
+        """Create composite effect using FFmpeg (faster than OpenCV)."""
+        print(f"Creating composite effect with FFmpeg...")
         print(f"Main video: {Path(main_video_path).name}")
         print(f"Background: {self.background_video_path.name}")
         print(f"Output: {Path(output_path).name}")
-        
-        # Check if FFmpeg supports CUDA
-        cuda_available = self._check_ffmpeg_cuda()
-        
+
         # Get video info for calculations
         main_info = self._get_ffmpeg_video_info(main_video_path)
         if not main_info:
             raise ValueError(f"Could not get video info for {main_video_path}")
+        
+        # Get start time from video info
+        start_time = float(main_info.get('format', {}).get('start_time', '0'))
         
         # Calculate scaled dimensions
         original_width = main_info['width']
@@ -408,82 +401,63 @@ class ClipCompositeEffect:
         # Calculate position to center scaled video
         x_pos = (self.output_width - scaled_width) // 2
         y_pos = (self.output_height - scaled_height) // 2
-        
+
+        # Build FFmpeg command with precise timing
+        ffmpeg_cmd = [
+            'ffmpeg', '-y'
+        ]
+
+        # Use videotoolbox on macOS for hardware acceleration
+        if sys.platform == 'darwin':
+            ffmpeg_cmd.extend(['-hwaccel', 'videotoolbox'])
+
+        # Add input with precise seeking
+        ffmpeg_cmd.extend([
+            '-i', str(main_video_path),
+            '-i', str(self.background_video_path),
+            '-i', str(self.border_image_path),
+            '-ss', str(start_time),  # Seek to start_time
+        ])
+
+        if max_duration:
+            ffmpeg_cmd.extend(['-t', str(max_duration)])
+
+        # Complex filter for compositing
+        filter_complex = [
+            f"[1:v]scale={self.output_width}:{self.output_height}[bg]",
+            f"[0:v]scale={scaled_width}:{scaled_height}[scaled]",
+            f"[bg][scaled]overlay={x_pos}:{y_pos}[temp]",
+            "[temp][2:v]overlay=0:0[out]"
+        ]
+
+        # Use h264 codec with Premiere-compatible settings
+        ffmpeg_cmd.extend([
+            '-filter_complex', ';'.join(filter_complex),
+            '-map', '[out]',
+            '-c:v', 'h264',
+            '-preset', 'medium',
+            '-profile:v', 'high',
+            '-level', '4.1',
+            '-pix_fmt', 'yuv420p',
+            '-vsync', 'cfr',  # Force constant frame rate
+            '-r', str(self.fps),  # Force output fps
+            '-movflags', '+faststart',  # Enable fast start for streaming
+            '-fflags', '+genpts',  # Generate presentation timestamps
+            '-avoid_negative_ts', 'make_zero',  # Fix timestamp issues
+            str(output_path)
+        ])
+
         print(f"Scaling: {original_width}x{original_height} → {scaled_width}x{scaled_height}")
         print(f"Position: x={x_pos}, y={y_pos}")
-        print(f"GPU acceleration: {'Enabled' if cuda_available else 'CPU only'}")
-        
-        # Build FFmpeg command
-        cmd = ['ffmpeg', '-y']  # -y to overwrite output file
-        
-        # GPU acceleration setup - MUST come before input files
-        use_gpu_encoding = False
-        if cuda_available:
-            cmd.extend(['-hwaccel', 'cuda'])
-            use_gpu_encoding = True
-        
-        # Input files
-        cmd.extend(['-i', str(main_video_path)])  # Main video (input 0)
-        cmd.extend(['-i', str(self.background_video_path)])  # Background video (input 1)  
-        cmd.extend(['-i', str(self.border_image_path)])  # Border overlay (input 2)
-        
-        # Complex filter for the composite effect with proper duration handling
-        if max_duration:
-            # Apply duration limit only to main video
-            filter_complex = f"[1:v]scale={self.output_width}:{self.output_height}[bg];[0:v]scale={scaled_width}:{scaled_height}[scaled];[bg][scaled]overlay={x_pos}:{y_pos}[composite];[2:v]scale={self.output_width}:{self.output_height}[border];[composite][border]overlay=0:0[final]"
-            cmd.extend(['-t', str(max_duration)])
-        else:
-            filter_complex = f"[1:v]scale={self.output_width}:{self.output_height}[bg];[0:v]scale={scaled_width}:{scaled_height}[scaled];[bg][scaled]overlay={x_pos}:{y_pos}[composite];[2:v]scale={self.output_width}:{self.output_height}[border];[composite][border]overlay=0:0[final]"
-        
-        cmd.extend(['-filter_complex', filter_complex])
-        cmd.extend(['-map', '[final]'])
-        
-        # Output settings - use GPU encoder if available
-        if use_gpu_encoding:
-            cmd.extend(['-c:v', 'h264_nvenc'])  # NVIDIA GPU encoder
-            cmd.extend(['-preset', 'fast'])     # Fast encoding preset
-        else:
-            cmd.extend(['-c:v', 'libx264'])     # CPU encoder
-            cmd.extend(['-preset', 'fast'])
-        
-        # Add stability and compatibility settings for concatenation
-        cmd.extend(['-r', str(self.fps)])
-        cmd.extend(['-vsync', 'cfr'])  # Constant frame rate
-        cmd.extend(['-pix_fmt', 'yuv420p'])
-        cmd.extend(['-avoid_negative_ts', 'make_zero'])  # Fix timing issues
-        cmd.extend(['-fflags', '+genpts'])  # Generate proper timestamps
-        
-        cmd.append(str(output_path))
-        
-        print(f"Encoding: {'GPU (h264_nvenc)' if use_gpu_encoding else 'CPU (libx264)'}")
-        print(f"Filter: {filter_complex[:80]}...")
-        
-        try:
-            # Run FFmpeg with better error capture
-            result = subprocess.run(
-                cmd, 
-                capture_output=True,
-                text=True,
-                timeout=300  # 5 minute timeout
-            )
-            
-            if result.returncode == 0:
-                print(f"  ✓ FFmpeg composite completed successfully!")
-                print(f"  Resolution: {self.output_width}x{self.output_height}")
-                print(f"  FPS: {self.fps}")
-                print(f"  Scale: {int(self.scale_factor*100)}% of original size")
-                print(f"  GPU acceleration: {'Enabled (h264_nvenc)' if cuda_available else 'CPU (libx264)'}")
-            else:
-                error_msg = result.stderr if result.stderr else result.stdout
-                raise RuntimeError(f"FFmpeg failed with return code {result.returncode}\nError: {error_msg}")
-                
-        except subprocess.TimeoutExpired:
-            raise RuntimeError("FFmpeg processing timed out after 5 minutes")
-        except FileNotFoundError:
-            raise RuntimeError("FFmpeg not found. Please install FFmpeg with CUDA support for best performance.")
-        except Exception as e:
-            raise RuntimeError(f"FFmpeg processing failed: {e}")
-    
+        print(f"Start time: {start_time:.3f}s")
+        print(f"Hardware acceleration: {'videotoolbox' if sys.platform == 'darwin' else 'none'}")
+        print(f"Codec: h264 (Premiere compatible)")
+        print(f"Filter: {';'.join(filter_complex)}")
+
+        result = subprocess.run(ffmpeg_cmd, capture_output=True, text=True)
+        if result.returncode != 0:
+            raise Exception(f"FFmpeg processing failed: {result.stderr}")
+
     def _check_ffmpeg_cuda(self):
         """Check if FFmpeg has CUDA support available."""
         try:
