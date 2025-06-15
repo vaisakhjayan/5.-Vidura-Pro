@@ -282,6 +282,9 @@ def create_project_output_folder():
 class EffectsConfig:
     """Configuration settings for effects processing."""
     
+    # Notion Integration
+    NOTION_TOKEN = "ntn_cC7520095381SElmcgTOADYsGnrABFn2ph1PrcaGSst2dv"
+    
     # Split Screen Effect (Conflict Resolution)
     SPLIT_SCREEN_ENABLED = True            # Enable/disable split screen conflict resolution
     SPLIT_SCREEN_TIME_THRESHOLD = 3.0  # Seconds - celebrities within this time get split screen

@@ -457,6 +457,8 @@ class ClipCompositeEffect:
         result = subprocess.run(ffmpeg_cmd, capture_output=True, text=True)
         if result.returncode != 0:
             raise Exception(f"FFmpeg processing failed: {result.stderr}")
+            
+        return True  # Return True if FFmpeg command was successful
 
     def _check_ffmpeg_cuda(self):
         """Check if FFmpeg has CUDA support available."""

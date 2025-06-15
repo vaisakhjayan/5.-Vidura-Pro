@@ -49,8 +49,8 @@ TIMELINE OVERVIEW WITH EFFECTS
 
 🎬 PRINCE HARRY
 ----------------------------------------
-   1. 🎥 00:09.59 → 00:14.59 (5.00s) (Original) - 003_Prince_Harry_clip_9_composite.mp4
-       Effects: trimmed
+   1. 🎬 00:09.59 → 00:14.59 (5.00s) (Composite) - 003_Prince_Harry_clip_9_composite.mp4
+       Effects: composite
    2. 🎥 00:14.59 → 00:18.28 (3.68s) (Original) - 004_Prince_Harry_clip_5_original.mp4
        Effects: trimmed
 
@@ -58,8 +58,8 @@ TIMELINE OVERVIEW WITH EFFECTS
 ----------------------------------------
    1. 🎥 00:18.28 → 00:23.03 (4.76s) (Original) - 005_Oprah_34_original.mp4
        Effects: trimmed
-   2. 🎥 00:23.03 → 00:28.03 (5.00s) (Original) - 006_Oprah_26_composite.mp4
-       Effects: trimmed
+   2. 🎬 00:23.03 → 00:28.03 (5.00s) (Composite) - 006_Oprah_26_composite.mp4
+       Effects: composite
    3. 🎥 00:28.03 → 00:33.03 (5.00s) (Original) - 007_Oprah_30_original.mp4
        Effects: trimmed
    4. 🎥 00:33.03 → 00:36.89 (3.86s) (Original) - 008_Oprah_clip.mp4
@@ -67,8 +67,8 @@ TIMELINE OVERVIEW WITH EFFECTS
 
 🎬 SOUTH PARK
 ----------------------------------------
-   1. 🎥 00:36.89 → 00:41.57 (4.68s) (Original) - 009_South_Park_16_composite.mp4
-       Effects: trimmed
+   1. 🎬 00:36.89 → 00:41.57 (4.68s) (Composite) - 009_South_Park_16_composite.mp4
+       Effects: composite
 
 🎬 PRINCE HARRY
 ----------------------------------------
@@ -76,8 +76,8 @@ TIMELINE OVERVIEW WITH EFFECTS
        Effects: trimmed
    2. 🎥 00:46.57 → 00:51.57 (5.00s) (Original) - 011_Prince_Harry_clip.mp4
        Effects: ken_burns
-   3. 🎥 00:51.57 → 00:53.34 (1.76s) (Original) - 012_Prince_Harry_clip_3_composite.mp4
-       Effects: trimmed
+   3. 🎬 00:51.57 → 00:53.34 (1.76s) (Composite) - 012_Prince_Harry_clip_3_composite.mp4
+       Effects: composite
 
 🎬 BEYONCE
 ----------------------------------------
@@ -88,8 +88,8 @@ TIMELINE OVERVIEW WITH EFFECTS
 ----------------------------------------
    1. 🎥 00:57.82 → 01:02.82 (5.00s) (Original) - 014_Oprah_18_original.mp4
        Effects: trimmed
-   2. 🎥 01:02.82 → 01:06.54 (3.72s) (Original) - 015_Oprah_6_composite.mp4
-       Effects: trimmed
+   2. 🎬 01:02.82 → 01:06.54 (3.72s) (Composite) - 015_Oprah_6_composite.mp4
+       Effects: composite
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
@@ -115,8 +115,8 @@ TIMELINE OVERVIEW WITH EFFECTS
 
 🎬 MARTHA STEWART
 ----------------------------------------
-   1. 🎥 01:23.50 → 01:28.50 (5.00s) (Original) - 021_Martha_Stewart_clip_07_01_Martha Stewart on Building Her Brand_214801_composite.mp4
-       Effects: trimmed
+   1. 🎬 01:23.50 → 01:28.50 (5.00s) (Composite) - 021_Martha_Stewart_clip_07_01_Martha Stewart on Building Her Brand_214801_composite.mp4
+       Effects: composite
    2. 🎥 01:28.50 → 01:33.50 (5.00s) (Original) - 022_Martha_Stewart_clip_18_01_Young Martha Stewart Interview_215220_original.mp4
        Effects: trimmed
 
@@ -124,8 +124,8 @@ TIMELINE OVERVIEW WITH EFFECTS
 ----------------------------------------
    1. 🎥 01:33.50 → 01:38.50 (5.00s) (Original) - 023_Kevin_Hart_12_original.mp4
        Effects: trimmed
-   2. 🎥 01:38.50 → 01:41.50 (3.00s) (Original) - 024_Kevin_Hart_28_composite.mp4
-       Effects: trimmed
+   2. 🎬 01:38.50 → 01:41.50 (3.00s) (Composite) - 024_Kevin_Hart_28_composite.mp4
+       Effects: composite
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
@@ -138,9 +138,9 @@ EFFECTS STATISTICS
 
 Overall Effects Applied:
   🖼️  Ken Burns (Images): 3 segments
-  🎬 Composite (Videos): 0 segments
+  🎬 Composite (Videos): 7 segments
   📱 Split Screen (Conflicts): 0 segments
-  🎥 Original (No effects): 22 segments
+  🎥 Original (No effects): 15 segments
   📊 Total Segments: 25
 
 Effects by Celebrity:
@@ -157,25 +157,25 @@ Prince Harry:
   • Total Screen Time: 20.44 seconds (19.2%)
   • Total Clips: 5
   • Ken Burns: 1 clips
-  • Composite: 0 clips
+  • Composite: 2 clips
   • Split Screen: 0 clips
-  • Original: 4 clips
+  • Original: 2 clips
 
 Oprah:
   • Total Screen Time: 32.34 seconds (30.4%)
   • Total Clips: 7
   • Ken Burns: 1 clips
-  • Composite: 0 clips
+  • Composite: 2 clips
   • Split Screen: 0 clips
-  • Original: 6 clips
+  • Original: 4 clips
 
 South Park:
   • Total Screen Time: 4.68 seconds (4.4%)
   • Total Clips: 1
   • Ken Burns: 0 clips
-  • Composite: 0 clips
+  • Composite: 1 clips
   • Split Screen: 0 clips
-  • Original: 1 clips
+  • Original: 0 clips
 
 Beyonce:
   • Total Screen Time: 4.48 seconds (4.2%)
@@ -197,27 +197,27 @@ Martha Stewart:
   • Total Screen Time: 10.00 seconds (9.4%)
   • Total Clips: 2
   • Ken Burns: 0 clips
-  • Composite: 0 clips
+  • Composite: 1 clips
   • Split Screen: 0 clips
-  • Original: 2 clips
+  • Original: 1 clips
 
 Kevin Hart:
   • Total Screen Time: 8.00 seconds (7.5%)
   • Total Clips: 2
   • Ken Burns: 0 clips
-  • Composite: 0 clips
+  • Composite: 1 clips
   • Split Screen: 0 clips
-  • Original: 2 clips
+  • Original: 1 clips
 
 --------------------------------------------------------------------------------
 PROCESSING SUMMARY
 --------------------------------------------------------------------------------
 
 📈 Processing Efficiency:
-  • Effects Applied: 3/25 segments (12.0%)
+  • Effects Applied: 10/25 segments (40.0%)
   • Conflicts Resolved: 0 overlapping segments
   • Images Enhanced: 3 with Ken Burns effect
-  • Videos Processed: 0 with composite effects
+  • Videos Processed: 7 with composite effects
 
 💾 Output Files:
   • Location: /Users/superman/Desktop/Clips Assembled/Test

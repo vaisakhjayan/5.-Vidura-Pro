@@ -29,31 +29,31 @@ Your video clips have been processed and saved to:
      📄 File: 001_Meghan_Markle_4_chf3_rhea1_original.mp4
 002. 🎥 [00:05.00] Meghan Markle (Original) (4.60s)
      📄 File: 002_Meghan_Markle_27_original.mp4
-003. 🎥 [00:09.59] Prince Harry (Original) (5.00s)
+003. 🎬 [00:09.59] Prince Harry (Composite) (5.00s)
      📄 File: 003_Prince_Harry_clip_9_composite.mp4
 004. 🎥 [00:14.59] Prince Harry (Original) (3.68s)
      📄 File: 004_Prince_Harry_clip_5_original.mp4
 005. 🎥 [00:18.28] Oprah (Original) (4.76s)
      📄 File: 005_Oprah_34_original.mp4
-006. 🎥 [00:23.03] Oprah (Original) (5.00s)
+006. 🎬 [00:23.03] Oprah (Composite) (5.00s)
      📄 File: 006_Oprah_26_composite.mp4
 007. 🎥 [00:28.03] Oprah (Original) (5.00s)
      📄 File: 007_Oprah_30_original.mp4
 008. 🖼️ [00:33.03] Oprah (Ken Burns) (3.86s)
      📄 File: 008_Oprah_clip.mp4
-009. 🎥 [00:36.89] South Park (Original) (4.68s)
+009. 🎬 [00:36.89] South Park (Composite) (4.68s)
      📄 File: 009_South_Park_16_composite.mp4
 010. 🎥 [00:41.57] Prince Harry (Original) (5.00s)
      📄 File: 010_Prince_Harry_12_original.mp4
 011. 🖼️ [00:46.57] Prince Harry (Ken Burns) (5.00s)
      📄 File: 011_Prince_Harry_clip.mp4
-012. 🎥 [00:51.57] Prince Harry (Original) (1.76s)
+012. 🎬 [00:51.57] Prince Harry (Composite) (1.76s)
      📄 File: 012_Prince_Harry_clip_3_composite.mp4
 013. 🎥 [00:53.34] Beyonce (Original) (4.48s)
      📄 File: 013_Beyonce_28_original.mp4
 014. 🎥 [00:57.82] Oprah (Original) (5.00s)
      📄 File: 014_Oprah_18_original.mp4
-015. 🎥 [01:02.82] Oprah (Original) (3.72s)
+015. 🎬 [01:02.82] Oprah (Composite) (3.72s)
      📄 File: 015_Oprah_6_composite.mp4
 016. 🎥 [01:06.54] Meghan Markle (Original) (1.76s)
      📄 File: 016_Meghan_Markle_zxzzx_original.mp4
@@ -65,13 +65,13 @@ Your video clips have been processed and saved to:
      📄 File: 019_Meghan_Markle_30_original.mp4
 020. 🎥 [01:18.50] Oprah (Original) (5.00s)
      📄 File: 020_Oprah_8_original.mp4
-021. 🎥 [01:23.50] Martha Stewart (Original) (5.00s)
+021. 🎬 [01:23.50] Martha Stewart (Composite) (5.00s)
      📄 File: 021_Martha_Stewart_clip_07_01_Martha Stewart on Building Her Brand_214801_composite.mp4
 022. 🎥 [01:28.50] Martha Stewart (Original) (5.00s)
      📄 File: 022_Martha_Stewart_clip_18_01_Young Martha Stewart Interview_215220_original.mp4
 023. 🎥 [01:33.50] Kevin Hart (Original) (5.00s)
      📄 File: 023_Kevin_Hart_12_original.mp4
-024. 🎥 [01:38.50] Kevin Hart (Original) (3.00s)
+024. 🎬 [01:38.50] Kevin Hart (Composite) (3.00s)
      📄 File: 024_Kevin_Hart_28_composite.mp4
 025. 🎥 [01:41.50] Meghan Markle (Original) (5.00s)
      📄 File: 025_Meghan_Markle_12321_1_chf3_rhea1_original.mp4
