@@ -2,162 +2,120 @@
 CELEBRITY KEYWORD DETECTIONS SUMMARY
 ================================================================================
 
-Video Title: Prince Harry Left SHAKEN After South Park Reveals Another Plan To MOCK Meghan
+Video Title: Test
 Channel: Meghan Markle
-Page ID: 21202cd2-c142-8097-97cb-fa2fe50a654b
-Video Selected: 2025-06-15T17:29:09.607798
-Detection Generated: 2025-06-15T17:29:57.703730
+Page ID: 21302cd2-c142-8018-bfbb-f16ac66a1190
+Video Selected: 2025-06-15T18:34:48.414069
+Detection Generated: 2025-06-15T18:35:53.859506
 
-Total Detections: 50
+Total Detections: 20
 
 --------------------------------------------------------------------------------
 DETECTION TIMELINE (Actual Order)
 --------------------------------------------------------------------------------
 
-   1. 📍 8.16 (8.16s) - SOUTH PARK - Exact Match: "South Park"
+   1. 📍 0.00 (0.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   2. 📍 13.85 (13.853s) - MEGHAN MARKLE - Partial Match: "Megan"
+   2. 📍 9.60 (9.6s) - MEGHAN MARKLE - Partial Match: "Meghan's"
       Type: main
-   3. 📍 24.48 (24.48s) - MEGHAN MARKLE - Partial Match: "Megan"
+   3. 📍 9.60 (9.6s) - PRINCE HARRY - Partial Match: "Harry"
       Type: main
-   4. 📍 28.08 (28.080000000000002s) - SOUTH PARK - Exact Match: "South Park"
+   4. 📍 18.28 (18.28s) - OPRAH - Partial Match: "oprah winfrey"
       Type: main
-   5. 📍 50.16 (50.160000000000004s) - PRINCE HARRY - Partial Match: "Harry"
+   5. 📍 23.04 (23.04s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   6. 📍 1:01.24 (61.239999999999995s) - SOUTH PARK - Exact Match: "South Park"
+   6. 📍 23.04 (23.04s) - OPRAH - Partial Match: "Oprah's"
       Type: main
-   7. 📍 1:13.45 (73.451s) - PRINCE HARRY - Partial Match: "Harry"
+   7. 📍 36.90 (36.9s) - SOUTH PARK - Exact Match: "South Park"
       Type: main
-   8. 📍 1:13.92 (73.918s) - MEGHAN MARKLE - Partial Match: "Megan"
+   8. 📍 41.58 (41.58s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   9. 📍 1:29.64 (89.64s) - PRINCE HARRY - Partial Match: "Harry's"
+   9. 📍 41.58 (41.58s) - PRINCE HARRY - Partial Match: "Harry's"
       Type: main
-   10. 📍 1:38.78 (98.783s) - PRINCE HARRY - Partial Match: "Harry's"
+   10. 📍 53.34 (53.34s) - BEYONCE - Exact Match: "Beyonce"
       Type: main
-   11. 📍 1:50.24 (110.24000000000001s) - MEGHAN MARKLE - Partial Match: "Megan"
+   11. 📍 57.82 (57.82000000000001s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   12. 📍 2:19.06 (139.063s) - PRINCE HARRY - Partial Match: "Harry"
+   12. 📍 57.82 (57.82000000000001s) - OPRAH - Exact Match: "Oprah"
       Type: main
-   13. 📍 2:54.60 (174.60000000000002s) - PRINCE HARRY - Partial Match: "Harry"
+   13. 📍 1:06.54 (66.54s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   14. 📍 3:16.71 (196.714s) - PRINCE HARRY - Partial Match: "Harry"
+   14. 📍 1:08.30 (68.30000000000001s) - PIERS MORGAN - Partial Match: "Pierce"
       Type: main
-   15. 📍 3:21.08 (201.07999999999998s) - MEGHAN MARKLE - Partial Match: "Megan"
+   15. 📍 1:12.66 (72.66s) - MEGHAN MARKLE - Partial Match: "Megan"
       Type: main
-   16. 📍 3:21.59 (201.585s) - PRINCE HARRY - Partial Match: "Harry"
+   16. 📍 1:18.50 (78.5s) - OPRAH - Exact Match: "Oprah"
       Type: main
-   17. 📍 3:44.84 (224.835s) - MEGHAN MARKLE - Partial Match: "Megan"
+   17. 📍 1:23.50 (83.5s) - MARTHA STEWART - Exact Match: "Martha Stewart"
       Type: main
-   18. 📍 3:51.89 (231.89s) - PRINCE HARRY - Partial Match: "Harry"
+   18. 📍 1:33.50 (93.5s) - MEGHAN MARKLE - Partial Match: "Meghan's"
       Type: main
-   19. 📍 4:07.24 (247.24s) - MEGHAN MARKLE - Partial Match: "Meghan's"
+   19. 📍 1:33.50 (93.5s) - KEVIN HART - Exact Match: "kevin hart"
       Type: main
-   20. 📍 4:13.16 (253.16s) - SOUTH PARK - Exact Match: "South Park"
-      Type: main
-   21. 📍 4:15.18 (255.177s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   22. 📍 4:17.03 (257.033s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   23. 📍 4:29.58 (269.58s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   24. 📍 5:02.09 (302.094s) - PRINCE HARRY - Partial Match: "Harry's"
-      Type: main
-   25. 📍 5:14.36 (314.36s) - SOUTH PARK - Exact Match: "South Park"
-      Type: main
-   26. 📍 5:21.48 (321.48s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   27. 📍 5:21.48 (321.48s) - NETFLIX - Exact Match: "Netflix"
-      Type: main
-   28. 📍 5:27.24 (327.24s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   29. 📍 5:50.36 (350.35999999999996s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   30. 📍 6:14.52 (374.517s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   31. 📍 6:17.16 (377.157s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   32. 📍 6:19.33 (379.335s) - NETFLIX - Exact Match: "Netflix"
-      Type: main
-   33. 📍 6:19.96 (379.96000000000004s) - SOUTH PARK - Exact Match: "South Park"
-      Type: main
-   34. 📍 6:37.52 (397.52s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   35. 📍 7:06.60 (426.6s) - SOUTH PARK - Exact Match: "South Park"
-      Type: main
-   36. 📍 7:41.66 (461.65999999999997s) - SOUTH PARK - Partial Match: "South Park's"
-      Type: main
-   37. 📍 7:43.88 (463.877s) - PRINCE HARRY - Partial Match: "Harry's"
-      Type: main
-   38. 📍 7:55.26 (475.26s) - MEGHAN MARKLE - Partial Match: "Megan"
-      Type: main
-   39. 📍 8:11.50 (491.5s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   40. 📍 8:39.51 (519.511s) - PRINCE HARRY - Partial Match: "Harry's"
-      Type: main
-   41. 📍 8:48.44 (528.44s) - MEGHAN MARKLE - Partial Match: "Meghan's"
-      Type: main
-   42. 📍 9:19.84 (559.84s) - MEGHAN MARKLE - Partial Match: "Meghan"
-      Type: main
-   43. 📍 9:19.84 (559.84s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   44. 📍 9:37.44 (577.44s) - SOUTH PARK - Exact Match: "South Park"
-      Type: main
-   45. 📍 10:09.96 (609.96s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   46. 📍 10:49.86 (649.86s) - PRINCE HARRY - Partial Match: "Harry's"
-      Type: main
-   47. 📍 10:55.42 (655.42s) - MEGHAN MARKLE - Partial Match: "Meghan's"
-      Type: main
-   48. 📍 11:13.38 (673.38s) - SOUTH PARK - Partial Match: "South Park's"
-      Type: main
-   49. 📍 11:21.86 (681.861s) - PRINCE HARRY - Partial Match: "Harry"
-      Type: main
-   50. 📍 11:22.33 (682.325s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   20. 📍 1:41.50 (101.5s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
 
 --------------------------------------------------------------------------------
 DETECTION STATISTICS
 --------------------------------------------------------------------------------
 
-South Park:
-  • Total Detections: 10
-  • Match Type: Exact
-  • First Appearance: 8.16
-  • Last Appearance: 11:13.38
-  • Detection Span: 665.22 seconds
-
 Meghan Markle:
-  • Total Detections: 18
-  • Match Type: Partial ("Megan")
-  • First Appearance: 13.85
-  • Last Appearance: 11:22.33
-  • Detection Span: 668.47 seconds
+  • Total Detections: 9
+  • Match Type: Partial ("Meghan")
+  • First Appearance: 0.00
+  • Last Appearance: 1:41.50
+  • Detection Span: 101.50 seconds
 
 Prince Harry:
-  • Total Detections: 20
-  • Match Type: Partial ("Harry")
-  • First Appearance: 50.16
-  • Last Appearance: 11:21.86
-  • Detection Span: 631.70 seconds
-
-Netflix:
   • Total Detections: 2
-  • Match Type: Exact
-  • First Appearance: 5:21.48
-  • Last Appearance: 6:19.33
-  • Detection Span: 57.85 seconds
+  • Match Type: Partial ("Harry")
+  • First Appearance: 9.60
+  • Last Appearance: 41.58
+  • Detection Span: 31.98 seconds
 
-Total Detection Window: 682.33 seconds
-Detection Frequency: 1 every 13.65 seconds
+Oprah:
+  • Total Detections: 4
+  • Match Type: Partial ("oprah winfrey")
+  • First Appearance: 18.28
+  • Last Appearance: 1:18.50
+  • Detection Span: 60.22 seconds
+
+South Park:
+  • Total Detections: 1
+  • Match Type: Exact
+  • First Appearance: 36.90
+
+Beyonce:
+  • Total Detections: 1
+  • Match Type: Exact
+  • First Appearance: 53.34
+
+Piers Morgan:
+  • Total Detections: 1
+  • Match Type: Partial ("Pierce")
+  • First Appearance: 1:08.30
+
+Martha Stewart:
+  • Total Detections: 1
+  • Match Type: Exact
+  • First Appearance: 1:23.50
+
+Kevin Hart:
+  • Total Detections: 1
+  • Match Type: Exact
+  • First Appearance: 1:33.50
+
+Total Detection Window: 101.50 seconds
+Detection Frequency: 1 every 5.08 seconds
 
 --------------------------------------------------------------------------------
 DETECTION SUMMARY
 --------------------------------------------------------------------------------
 
-✅ 4 unique celebrities detected
-✅ 50 total keyword matches found
+✅ 8 unique celebrities detected
+✅ 20 total keyword matches found
 ✅ Mix of exact and partial matches
-✅ Detections span 682.33 seconds of content
+✅ Detections span 101.50 seconds of content
 
 ================================================================================
 End of Detection Summary

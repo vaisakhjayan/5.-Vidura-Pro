@@ -4,6 +4,7 @@ from datetime import datetime
 import json
 import logging
 import platform
+from collections import Counter
 
 # Set up logging
 logging.basicConfig(
@@ -125,6 +126,32 @@ def choose_media_type(block_count, total_blocks):
     # This function is now replaced by choose_media_for_celebrity
     return 'video'
 
+def get_top_celebrities(detections, top_n=2):
+    """Get the top N most frequently mentioned celebrities from detections"""
+    celebrity_counts = Counter(d['keyword'] for d in detections)
+    return [celeb for celeb, _ in celebrity_counts.most_common(top_n)]
+
+def generate_initial_segments(first_detection_time, top_celebrities):
+    """Generate segments to fill the gap before first detection"""
+    if first_detection_time <= 0:
+        return []
+        
+    segments = []
+    current_time = 0
+    
+    while current_time < first_detection_time:
+        block_end = min(current_time + BLOCK_SIZE, first_detection_time)
+        duration = block_end - current_time
+        if duration < 0.5:  # Skip if remaining duration is too short
+            break
+            
+        # Randomly choose from top celebrities
+        celebrity = random.choice(top_celebrities)
+        segments.append((current_time, block_end, celebrity))
+        current_time = block_end
+        
+    return segments
+
 def generate_render_plans_5s_blocks(detections_json, text_output_file, json_output_file):
     print("🚀 Starting Celebrity Clip Placement Generator...")
     logger.info("Starting render plan generation")
@@ -149,12 +176,20 @@ def generate_render_plans_5s_blocks(detections_json, text_output_file, json_outp
 
     # Sort detections by timestamp (just in case)
     detections = sorted(detections, key=lambda d: d['timestamp'])
+    
+    # Get top celebrities and generate initial segments
+    top_celebrities = get_top_celebrities(detections)
+    first_detection_time = detections[0]['timestamp'] if detections else 0
+    initial_segments = generate_initial_segments(first_detection_time, top_celebrities)
+    
+    print(f"🎭 Top celebrities for initial segments: {', '.join(top_celebrities)}")
+    print(f"⏱️ Filling gap of {first_detection_time:.2f} seconds with {len(initial_segments)} segments")
 
     print("🔄 Building 5-second block segments...")
     logger.info("Building segments from detections")
     
     # Build 5s block segments
-    segments = []
+    segments = initial_segments.copy()  # Start with initial segments
     for i, detection in enumerate(detections):
         start = detection['timestamp']
         celebrity = detection['keyword']
@@ -171,7 +206,7 @@ def generate_render_plans_5s_blocks(detections_json, text_output_file, json_outp
     total_blocks = len(segments)
     block_count = 0
 
-    print(f"📊 Generated {total_blocks} segments")
+    print(f"📊 Generated {total_blocks} segments (including {len(initial_segments)} initial segments)")
     logger.info(f"Generated {total_blocks} segments")
 
     current_time = datetime.now()

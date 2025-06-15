@@ -1,20 +1,20 @@
 {
     "video_info": {
-        "title": "Prince Harry Left SHAKEN After South Park Reveals Another Plan To MOCK Meghan",
+        "title": "Test",
         "output_file": "final_render.mp4",
-        "generated_at": "2025-06-15 17:35:45"
+        "generated_at": "2025-06-15 18:36:02"
     },
     "segments": [
         {
-            "start_time": 8.16,
-            "end_time": 13.16,
+            "start_time": 0.0,
+            "end_time": 5.0,
             "type": "celebrity_overlay",
-            "celebrity": "South Park",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "001_South_Park_10_original.mp4"
+                "file": "001_Meghan_Markle_4_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -25,15 +25,15 @@
             ]
         },
         {
-            "start_time": 13.16,
-            "end_time": 13.853,
+            "start_time": 5.0,
+            "end_time": 9.6,
             "type": "celebrity_overlay",
-            "celebrity": "South Park",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 0.6929999999999996,
-                "file": "002_South_Park_3_original.mp4"
+                "duration": 4.6,
+                "file": "002_Meghan_Markle_27_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -44,15 +44,15 @@
             ]
         },
         {
-            "start_time": 13.853,
-            "end_time": 18.853,
+            "start_time": 9.6,
+            "end_time": 14.6,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.000000000000002,
-                "file": "003_Meghan_Markle_1_composite.mp4"
+                "duration": 5.0,
+                "file": "003_Prince_Harry_clip_9_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -63,15 +63,15 @@
             ]
         },
         {
-            "start_time": 18.853,
-            "end_time": 23.853,
+            "start_time": 14.6,
+            "end_time": 18.28,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "004_Meghan_Markle_25_original.mp4"
+                "duration": 3.6800000000000015,
+                "file": "004_Prince_Harry_clip_5_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -82,15 +82,15 @@
             ]
         },
         {
-            "start_time": 23.853,
-            "end_time": 24.48,
+            "start_time": 18.28,
+            "end_time": 23.04,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Oprah",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 0.6269999999999989,
-                "file": "005_Meghan_Markle_sfsdfsd_original.mp4"
+                "duration": 4.759999999999998,
+                "file": "005_Oprah_34_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -101,34 +101,34 @@
             ]
         },
         {
-            "start_time": 24.48,
-            "end_time": 28.080000000000002,
+            "start_time": 23.04,
+            "end_time": 28.04,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Oprah",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 3.6000000000000014,
-                "file": "006_Meghan_Markle_clip.mp4"
+                "duration": 5.0,
+                "file": "006_Oprah_26_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 6,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 28.080000000000002,
-            "end_time": 33.08,
+            "start_time": 28.04,
+            "end_time": 33.04,
             "type": "celebrity_overlay",
-            "celebrity": "South Park",
+            "celebrity": "Oprah",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 4.9999999999999964,
-                "file": "007_South_Park_13_original.mp4"
+                "duration": 5.0,
+                "file": "007_Oprah_30_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -139,34 +139,34 @@
             ]
         },
         {
-            "start_time": 33.08,
-            "end_time": 38.08,
+            "start_time": 33.04,
+            "end_time": 36.9,
             "type": "celebrity_overlay",
-            "celebrity": "South Park",
+            "celebrity": "Oprah",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "008_South_Park_6_original.mp4"
+                "duration": 3.8599999999999994,
+                "file": "008_Oprah_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 8,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 38.08,
-            "end_time": 43.08,
+            "start_time": 36.9,
+            "end_time": 41.58,
             "type": "celebrity_overlay",
             "celebrity": "South Park",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "009_South_Park_9_composite.mp4"
+                "duration": 4.68,
+                "file": "009_South_Park_16_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -177,15 +177,15 @@
             ]
         },
         {
-            "start_time": 43.08,
-            "end_time": 48.08,
+            "start_time": 41.58,
+            "end_time": 46.58,
             "type": "celebrity_overlay",
-            "celebrity": "South Park",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "010_South_Park_12_original.mp4"
+                "file": "010_Prince_Harry_12_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -196,34 +196,34 @@
             ]
         },
         {
-            "start_time": 48.08,
-            "end_time": 50.160000000000004,
+            "start_time": 46.58,
+            "end_time": 51.58,
             "type": "celebrity_overlay",
-            "celebrity": "South Park",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 2.0800000000000054,
-                "file": "011_South_Park_11_original.mp4"
+                "duration": 5.0,
+                "file": "011_Prince_Harry_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 11,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 50.160000000000004,
-            "end_time": 55.160000000000004,
+            "start_time": 51.58,
+            "end_time": 53.34,
             "type": "celebrity_overlay",
             "celebrity": "Prince Harry",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "012_Prince_Harry_2_composite.mp4"
+                "duration": 1.7600000000000051,
+                "file": "012_Prince_Harry_clip_3_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -234,15 +234,15 @@
             ]
         },
         {
-            "start_time": 55.160000000000004,
-            "end_time": 60.160000000000004,
+            "start_time": 53.34,
+            "end_time": 57.82000000000001,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Beyonce",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "013_Prince_Harry_11_original.mp4"
+                "duration": 4.480000000000004,
+                "file": "013_Beyonce_28_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -253,15 +253,15 @@
             ]
         },
         {
-            "start_time": 60.160000000000004,
-            "end_time": 61.239999999999995,
+            "start_time": 57.82000000000001,
+            "end_time": 62.82000000000001,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Oprah",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 1.0799999999999912,
-                "file": "014_Prince_Harry_10_original.mp4"
+                "duration": 5.0,
+                "file": "014_Oprah_18_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -272,15 +272,15 @@
             ]
         },
         {
-            "start_time": 61.239999999999995,
-            "end_time": 66.24,
+            "start_time": 62.82000000000001,
+            "end_time": 66.54,
             "type": "celebrity_overlay",
-            "celebrity": "South Park",
+            "celebrity": "Oprah",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "015_South_Park_15_composite.mp4"
+                "duration": 3.719999999999999,
+                "file": "015_Oprah_6_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -291,15 +291,15 @@
             ]
         },
         {
-            "start_time": 66.24,
-            "end_time": 71.24,
+            "start_time": 66.54,
+            "end_time": 68.30000000000001,
             "type": "celebrity_overlay",
-            "celebrity": "South Park",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "016_South_Park_4_original.mp4"
+                "duration": 1.7600000000000051,
+                "file": "016_Meghan_Markle_zxzzx_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -310,15 +310,15 @@
             ]
         },
         {
-            "start_time": 71.24,
-            "end_time": 73.451,
+            "start_time": 68.30000000000001,
+            "end_time": 72.66,
             "type": "celebrity_overlay",
-            "celebrity": "South Park",
+            "celebrity": "Piers Morgan",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 2.2109999999999985,
-                "file": "017_South_Park_5_original.mp4"
+                "duration": 4.359999999999985,
+                "file": "017_Piers_Morgan_16_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -329,15 +329,15 @@
             ]
         },
         {
-            "start_time": 73.451,
-            "end_time": 73.918,
+            "start_time": 72.66,
+            "end_time": 77.66,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 0.46700000000001296,
-                "file": "018_Prince_Harry_clip.mp4"
+                "duration": 5.0,
+                "file": "018_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -348,15 +348,15 @@
             ]
         },
         {
-            "start_time": 73.918,
-            "end_time": 78.918,
+            "start_time": 77.66,
+            "end_time": 78.5,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "019_Meghan_Markle_dgfdd_original.mp4"
+                "duration": 0.8400000000000034,
+                "file": "019_Meghan_Markle_30_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -367,15 +367,15 @@
             ]
         },
         {
-            "start_time": 78.918,
-            "end_time": 83.918,
+            "start_time": 78.5,
+            "end_time": 83.5,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Oprah",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "020_Meghan_Markle_asdasdas_chf3_rhea1_original.mp4"
+                "file": "020_Oprah_8_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -386,15 +386,15 @@
             ]
         },
         {
-            "start_time": 83.918,
-            "end_time": 88.918,
+            "start_time": 83.5,
+            "end_time": 88.5,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Martha Stewart",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "021_Meghan_Markle_8_composite.mp4"
+                "file": "021_Martha_Stewart_clip_07_01_Martha Stewart on Building Her Brand_214801_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -405,34 +405,34 @@
             ]
         },
         {
-            "start_time": 88.918,
-            "end_time": 89.64,
+            "start_time": 88.5,
+            "end_time": 93.5,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Martha Stewart",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 0.7219999999999942,
-                "file": "022_Meghan_Markle_clip.mp4"
+                "duration": 5.0,
+                "file": "022_Martha_Stewart_clip_18_01_Young Martha Stewart Interview_215220_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 22,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 89.64,
-            "end_time": 94.64,
+            "start_time": 93.5,
+            "end_time": 98.5,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Kevin Hart",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "023_Prince_Harry_clip_16_original.mp4"
+                "file": "023_Kevin_Hart_12_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -443,15 +443,15 @@
             ]
         },
         {
-            "start_time": 94.64,
-            "end_time": 98.783,
+            "start_time": 98.5,
+            "end_time": 101.5,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Kevin Hart",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 4.143000000000001,
-                "file": "024_Prince_Harry_3_composite.mp4"
+                "duration": 3.0,
+                "file": "024_Kevin_Hart_28_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -462,2642 +462,20 @@
             ]
         },
         {
-            "start_time": 98.783,
-            "end_time": 103.783,
+            "start_time": 101.5,
+            "end_time": 106.5,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "025_Prince_Harry_clip_9_original.mp4"
+                "file": "025_Meghan_Markle_12321_1_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 25,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 103.783,
-            "end_time": 108.783,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "026_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 26,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 108.783,
-            "end_time": 110.24000000000001,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 1.4570000000000078,
-                "file": "027_Prince_Harry_8_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 27,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 110.24000000000001,
-            "end_time": 115.24000000000001,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "028_Meghan_Markle_27_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 28,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 115.24000000000001,
-            "end_time": 120.24000000000001,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "029_Meghan_Markle_vc_chf3_rhea1_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 29,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 120.24000000000001,
-            "end_time": 125.24000000000001,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "030_Meghan_Markle_4_chf3_rhea1_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 30,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 125.24000000000001,
-            "end_time": 130.24,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "031_Meghan_Markle_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 31,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 130.24,
-            "end_time": 135.24,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "032_Meghan_Markle_zxcxzxz_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 32,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 135.24,
-            "end_time": 139.063,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 3.822999999999979,
-                "file": "033_Meghan_Markle_111_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 33,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 139.063,
-            "end_time": 144.063,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "034_Prince_Harry_clip_3_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 34,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 144.063,
-            "end_time": 149.063,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "035_Prince_Harry_7_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 35,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 149.063,
-            "end_time": 154.063,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "036_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 36,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 154.063,
-            "end_time": 159.063,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "037_Prince_Harry_5_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 37,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 159.063,
-            "end_time": 164.063,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "038_Prince_Harry_clip_13_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 38,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 164.063,
-            "end_time": 169.063,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "039_Prince_Harry_clip_4_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 39,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 169.063,
-            "end_time": 174.063,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "040_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 40,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 174.063,
-            "end_time": 174.60000000000002,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 0.5370000000000346,
-                "file": "041_Prince_Harry_4_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 41,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 174.60000000000002,
-            "end_time": 179.60000000000002,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "042_Prince_Harry_clip_20_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 42,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 179.60000000000002,
-            "end_time": 184.60000000000002,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "043_Prince_Harry_1_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 43,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 184.60000000000002,
-            "end_time": 189.60000000000002,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "044_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 44,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 189.60000000000002,
-            "end_time": 194.60000000000002,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "045_Prince_Harry_clip_6_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 45,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 194.60000000000002,
-            "end_time": 196.714,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.113999999999976,
-                "file": "046_Prince_Harry_12_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 46,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 196.714,
-            "end_time": 201.07999999999998,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 4.3659999999999854,
-                "file": "047_Prince_Harry_clip_5_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 47,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 201.07999999999998,
-            "end_time": 201.585,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 0.5050000000000239,
-                "file": "048_Meghan_Markle_5_1_chf3_rhea1_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 48,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 201.585,
-            "end_time": 206.585,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "049_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 49,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 206.585,
-            "end_time": 211.585,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "050_Prince_Harry_clip_2 copy_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 50,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 211.585,
-            "end_time": 216.585,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "051_Prince_Harry_clip_14_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 51,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 216.585,
-            "end_time": 221.585,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "052_Prince_Harry_clip_1 copy_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 52,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 221.585,
-            "end_time": 224.835,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 3.25,
-                "file": "053_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 53,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 224.835,
-            "end_time": 229.835,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "054_Meghan_Markle_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 54,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 229.835,
-            "end_time": 231.89,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.0549999999999784,
-                "file": "055_Meghan_Markle_123_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 55,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 231.89,
-            "end_time": 236.89,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "056_Prince_Harry_9_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 56,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 236.89,
-            "end_time": 241.89,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "057_Prince_Harry_clip_17_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 57,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 241.89,
-            "end_time": 246.89,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "058_Prince_Harry_16_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 58,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 246.89,
-            "end_time": 247.24,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 0.35000000000002274,
-                "file": "059_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 59,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 247.24,
-            "end_time": 252.24,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "060_Meghan_Markle_11_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 60,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 252.24,
-            "end_time": 253.16,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 0.9199999999999875,
-                "file": "061_Meghan_Markle_sdsdf_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 61,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 253.16,
-            "end_time": 255.177,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.016999999999996,
-                "file": "062_South_Park_2_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 62,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 255.177,
-            "end_time": 257.033,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 1.856000000000023,
-                "file": "063_Meghan_Markle_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 63,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 257.033,
-            "end_time": 262.033,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "064_Prince_Harry_clip_4 copy_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 64,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 262.033,
-            "end_time": 267.033,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "065_Prince_Harry_14_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 65,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 267.033,
-            "end_time": 269.58,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.5469999999999686,
-                "file": "066_Prince_Harry_clip_6 copy_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 66,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 269.58,
-            "end_time": 274.58,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "067_Meghan_Markle_4_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 67,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 274.58,
-            "end_time": 279.58,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "068_Meghan_Markle_zxzx_chf3_rhea1_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 68,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 279.58,
-            "end_time": 284.58,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "069_Meghan_Markle_21_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 69,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 284.58,
-            "end_time": 289.58,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "070_Meghan_Markle_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 70,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 289.58,
-            "end_time": 294.58,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "071_Meghan_Markle_clip_12_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 71,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 294.58,
-            "end_time": 299.58,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "072_Meghan_Markle_10_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 72,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 299.58,
-            "end_time": 302.094,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.51400000000001,
-                "file": "073_Meghan_Markle_zcxzcz_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 73,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 302.094,
-            "end_time": 307.094,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "074_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 74,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 307.094,
-            "end_time": 312.094,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "075_Prince_Harry_15_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 75,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 312.094,
-            "end_time": 314.36,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.2660000000000196,
-                "file": "076_Prince_Harry_6_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 76,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 314.36,
-            "end_time": 319.36,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "077_South_Park_8_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 77,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 319.36,
-            "end_time": 321.48,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.1200000000000045,
-                "file": "078_South_Park_14_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 78,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 321.48,
-            "end_time": 326.48,
-            "type": "celebrity_overlay",
-            "celebrity": "Netflix",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "079_Netflix_1 2_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 79,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 326.48,
-            "end_time": 327.24,
-            "type": "celebrity_overlay",
-            "celebrity": "Netflix",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 0.7599999999999909,
-                "file": "080_Netflix_4_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 80,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 327.24,
-            "end_time": 332.24,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "081_Meghan_Markle_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 81,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 332.24,
-            "end_time": 337.24,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "082_Meghan_Markle_xc_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 82,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 337.24,
-            "end_time": 342.24,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "083_Meghan_Markle_fghgvcb_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 83,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 342.24,
-            "end_time": 347.24,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "084_Meghan_Markle_28_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 84,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 347.24,
-            "end_time": 350.35999999999996,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 3.1199999999999477,
-                "file": "085_Meghan_Markle_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 85,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 350.35999999999996,
-            "end_time": 355.35999999999996,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "086_Meghan_Markle_zvz_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 86,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 355.35999999999996,
-            "end_time": 360.35999999999996,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "087_Meghan_Markle_zcxzxzc_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 87,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 360.35999999999996,
-            "end_time": 365.35999999999996,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "088_Meghan_Markle_32_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 88,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 365.35999999999996,
-            "end_time": 370.35999999999996,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "089_Meghan_Markle_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 89,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 370.35999999999996,
-            "end_time": 374.517,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 4.157000000000039,
-                "file": "090_Meghan_Markle_xcvcxvcx_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 90,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 374.517,
-            "end_time": 377.157,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.6399999999999864,
-                "file": "091_Prince_Harry_13_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 91,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 377.157,
-            "end_time": 379.335,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.1779999999999973,
-                "file": "092_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 92,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 379.335,
-            "end_time": 379.96000000000004,
-            "type": "celebrity_overlay",
-            "celebrity": "Netflix",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 0.6250000000000568,
-                "file": "093_Netflix_1_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 93,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 379.96000000000004,
-            "end_time": 384.96000000000004,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "094_South_Park_16_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 94,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 384.96000000000004,
-            "end_time": 389.96000000000004,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "095_South_Park_1_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 95,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 389.96000000000004,
-            "end_time": 394.96000000000004,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "096_South_Park_7_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 96,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 394.96000000000004,
-            "end_time": 397.52,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.5599999999999454,
-                "file": "097_South_Park_8_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 97,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 397.52,
-            "end_time": 402.52,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "098_Meghan_Markle_sdfds_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 98,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 402.52,
-            "end_time": 407.52,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "099_Meghan_Markle_clip_13_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 99,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 407.52,
-            "end_time": 412.52,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "100_Meghan_Markle_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 100,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 412.52,
-            "end_time": 417.52,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "101_Meghan_Markle_sadsad_chf3_rhea1_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 101,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 417.52,
-            "end_time": 422.52,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "102_Meghan_Markle_sdf_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 102,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 422.52,
-            "end_time": 426.6,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 4.080000000000041,
-                "file": "103_Meghan_Markle_sfdsfds_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 103,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 426.6,
-            "end_time": 431.6,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "104_South_Park_9_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 104,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 431.6,
-            "end_time": 436.6,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "105_South_Park_6_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 105,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 436.6,
-            "end_time": 441.6,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "106_South_Park_2_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 106,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 441.6,
-            "end_time": 446.6,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "107_South_Park_13_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 107,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 446.6,
-            "end_time": 451.6,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "108_South_Park_4_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 108,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 451.6,
-            "end_time": 456.6,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "109_South_Park_5_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 109,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 456.6,
-            "end_time": 461.6,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "110_South_Park_15_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 110,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 461.6,
-            "end_time": 461.65999999999997,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 0.05999999999994543,
-                "file": "111_South_Park_16_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 111,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 461.65999999999997,
-            "end_time": 463.877,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.2170000000000414,
-                "file": "112_South_Park_3_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 112,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 463.877,
-            "end_time": 468.877,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "113_Prince_Harry_16_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 113,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 468.877,
-            "end_time": 473.877,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "114_Prince_Harry_5_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 114,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 473.877,
-            "end_time": 475.26,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 1.3829999999999814,
-                "file": "115_Prince_Harry_1_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 115,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 475.26,
-            "end_time": 480.26,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "116_Meghan_Markle_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 116,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 480.26,
-            "end_time": 485.26,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "117_Meghan_Markle_31_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 117,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 485.26,
-            "end_time": 490.26,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "118_Meghan_Markle_1_1_chf3_rhea1_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 118,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 490.26,
-            "end_time": 491.5,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 1.240000000000009,
-                "file": "119_Meghan_Markle_zxzzx_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 119,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 491.5,
-            "end_time": 496.5,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "120_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 120,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 496.5,
-            "end_time": 501.5,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "121_Prince_Harry_clip_9_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 121,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 501.5,
-            "end_time": 506.5,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "122_Prince_Harry_10_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 122,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 506.5,
-            "end_time": 511.5,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "123_Prince_Harry_2_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 123,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 511.5,
-            "end_time": 516.5,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "124_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 124,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 516.5,
-            "end_time": 519.511,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 3.0109999999999673,
-                "file": "125_Prince_Harry_clip_3_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 125,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 519.511,
-            "end_time": 524.511,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "126_Prince_Harry_clip_6 copy_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 126,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 524.511,
-            "end_time": 528.44,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 3.9290000000000873,
-                "file": "127_Prince_Harry_12_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 127,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 528.44,
-            "end_time": 533.44,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "128_Meghan_Markle_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 128,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 533.44,
-            "end_time": 538.44,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "129_Meghan_Markle_30_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 129,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 538.44,
-            "end_time": 543.44,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "130_Meghan_Markle_xcx_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 130,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 543.44,
-            "end_time": 548.44,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "131_Meghan_Markle_zccvcx_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 131,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 548.44,
-            "end_time": 553.44,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "132_Meghan_Markle_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 132,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 553.44,
-            "end_time": 558.44,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "133_Meghan_Markle_1234_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 133,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 558.44,
-            "end_time": 559.84,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 1.3999999999999773,
-                "file": "134_Meghan_Markle_asd_chf3_rhea1_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 134,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 559.84,
-            "end_time": 564.84,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "135_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 135,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 564.84,
-            "end_time": 569.84,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "136_Prince_Harry_clip_5_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 136,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 569.84,
-            "end_time": 574.84,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "137_Prince_Harry_8_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 137,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 574.84,
-            "end_time": 577.44,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.6000000000000227,
-                "file": "138_Prince_Harry_clip_14_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 138,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 577.44,
-            "end_time": 582.44,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "139_South_Park_1_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 139,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 582.44,
-            "end_time": 587.44,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "140_South_Park_12_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 140,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 587.44,
-            "end_time": 592.44,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "141_South_Park_14_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 141,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 592.44,
-            "end_time": 597.44,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "142_South_Park_7_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 142,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 597.44,
-            "end_time": 602.44,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "143_South_Park_10_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 143,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 602.44,
-            "end_time": 607.44,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "144_South_Park_11_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 144,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 607.44,
-            "end_time": 609.96,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.519999999999982,
-                "file": "145_South_Park_13_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 145,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 609.96,
-            "end_time": 614.96,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "146_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 146,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 614.96,
-            "end_time": 619.96,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "147_Prince_Harry_9_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 147,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 619.96,
-            "end_time": 624.96,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "148_Prince_Harry_11_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 148,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 624.96,
-            "end_time": 629.96,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "149_Prince_Harry_7_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 149,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 629.96,
-            "end_time": 634.96,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "150_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 150,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 634.96,
-            "end_time": 639.96,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "151_Prince_Harry_3_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 151,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 639.96,
-            "end_time": 644.96,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "152_Prince_Harry_clip_2 copy_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 152,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 644.96,
-            "end_time": 649.86,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 4.899999999999977,
-                "file": "153_Prince_Harry_clip_16_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 153,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 649.86,
-            "end_time": 654.86,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "154_Prince_Harry_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 154,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 654.86,
-            "end_time": 655.42,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 0.5599999999999454,
-                "file": "155_Prince_Harry_13_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 155,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 655.42,
-            "end_time": 660.42,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "156_Meghan_Markle_12321_1_chf3_rhea1_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 156,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 660.42,
-            "end_time": 665.42,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "157_Meghan_Markle_clip.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 157,
-            "effects_applied": [
-                "ken_burns"
-            ]
-        },
-        {
-            "start_time": 665.42,
-            "end_time": 670.42,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "158_Meghan_Markle_24_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 158,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 670.42,
-            "end_time": 673.38,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 2.9600000000000364,
-                "file": "159_Meghan_Markle_cvcxvx_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 159,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 673.38,
-            "end_time": 678.38,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "160_South_Park_15_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 160,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 678.38,
-            "end_time": 681.861,
-            "type": "celebrity_overlay",
-            "celebrity": "South Park",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 3.4809999999999945,
-                "file": "161_South_Park_14_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 161,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 681.861,
-            "end_time": 682.325,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 0.4640000000000555,
-                "file": "162_Prince_Harry_clip_4_composite.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 162,
-            "effects_applied": [
-                "trimmed"
-            ]
-        },
-        {
-            "start_time": 682.325,
-            "end_time": 687.325,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan",
-                "type": "video",
-                "duration": 5.0,
-                "file": "163_Meghan_Markle_zcxzxzc_original.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ],
-            "sequence_number": 163,
             "effects_applied": [
                 "trimmed"
             ]

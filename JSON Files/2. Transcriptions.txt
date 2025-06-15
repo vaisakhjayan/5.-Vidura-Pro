@@ -2,7 +2,7 @@
 AUDIO TRANSCRIPTION REPORT
 ================================================================================
 
-Export Timestamp: 2025-06-15T17:29:57.135634
+Export Timestamp: 2025-06-15T18:35:48.599342
 Total Files Processed: 1
 Exported From: Audio Transcription System
 
@@ -17,14 +17,14 @@ Exported From: Audio Transcription System
 TRANSCRIPTION DETAILS
 --------------------------------------------------------------------------------
 
-📁 FILE: Prince Harry Left SHAKEN After South Park Reveals Another Plan To MOCK Meghan.wav
-📍 PATH: /Users/superman/Desktop/Celebrity Voice Overs/Prince Harry Left SHAKEN After South Park Reveals Another Plan To MOCK Meghan.wav
+📁 FILE: Test.wav
+📍 PATH: /Users/superman/Desktop/Celebrity Voice Overs/Test.wav
 
 📊 PROCESSING INFO:
-   • Processing Time: 42.88 seconds
+   • Processing Time: 8.89 seconds
    • Channel: Meghan Markle
    • Keywords Used: 98
-   • Notion Script: ✅ Aligned (Page ID: 21202cd2-c142-8097-97cb-fa2fe50a654b)
+   • Notion Script: ❌ Not aligned
 
 🌐 LANGUAGE: EN (Confidence: 100.0%)
 
@@ -32,870 +32,129 @@ TRANSCRIPTION DETAILS
 TRANSCRIPTION TIMELINE
 ------------------------------------------------------------
 
-  1. [0.00 → 2.50] (2.50s)
-     and Terry probably thought he'd been through It all.
-     📝 Original: And Terry probably thought he'd been through it all.
+  1. [0.00 → 4.96] (4.96s)
+     Meghan Markle has been one of the most polarizing figures in modern celebrity culture.
 
-  2. [2.50 → 5.80] (3.30s)
-     the headlines, the documentaries, the awkward talk Show questions,
-     📝 Original: The headlines, the documentaries, the awkward talk show questions,
+  2. [4.96 → 9.60] (4.64s)
+     From her transition into the British Royal family to her dramatic departure alongside Prince
 
-  3. [5.80 → 8.16] (2.36s)
-     But Nothing could have prepared him for what's coming next.
-     📝 Original: but nothing could have prepared him for what's coming next.
+  3. [9.60 → 15.30] (5.70s)
+     Harry, Meghan's journey has sparked global fascination, controversy and commentary from
 
-  4. [8.16 → 10.40] (2.24s)
-     a full-blown South Park sequel,
-     📝 Original: A full-blown South Park sequel,
+  4. [15.30 → 18.28] (2.98s)
+     some of the world's most influential voices.
 
-  5. [10.40 → 13.16] (2.76s)
-     reportedly locked, loaded In AIMS squarely,
-     📝 Original: reportedly locked, loaded in AIMS squarely,
+  5. [18.28 → 23.04] (4.76s)
+     Her interview with Oprah Winfrey in 2021 was a major cultural moment.
 
-  6. [13.16 → 15.24] (2.08s)
-     at him and Megan once again.
+  6. [23.04 → 27.64] (4.60s)
+     Oprah's calm but pointed questions allowed Meghan to share her struggles with royal life,
 
-  7. [15.24 → 17.84] (2.60s)
-     and this time, it's not just about their Privacy pleas
-     📝 Original: And this time, it's not just about their privacy pleas
+  7. [27.64 → 31.58] (3.94s)
+     sparking debates around mental health, race, and monarchy.
 
-  8. [17.84 → 20.12] (2.28s)
-     or monoceto mansion life.
+  8. [31.58 → 36.90] (5.32s)
+     The interview created a ripple effect that even reached comedic corners of pop culture.
 
-  9. [20.12 → 22.12] (2.00s)
-     It's about that pregnancy video.
+  9. [36.90 → 41.58] (4.68s)
+     One such response came from South Park, known for its ruthless satire.
 
- 10. [22.12 → 24.48] (2.36s)
-     you know the one, the joyful empowerment clip,
-     📝 Original: You know the one, the joyful empowerment clip,
+ 10. [41.58 → 46.42] (4.84s)
+     The animated show aired a parody episode that mocked Megan and Harry's demands for privacy
 
- 11. [24.48 → 28.08] (3.60s)
-     Megan posted, all ring lights and rubber bump choreography?
+ 11. [46.42 → 51.86] (5.44s)
+     while simultaneously pursuing the spotlight, amplifying public skepticism toward the couple's
 
- 12. [28.08 → 29.92] (1.84s)
-     Yeah, South Park saw It too.
-     📝 Original: Yeah, South Park saw it too.
+ 12. [51.86 → 53.34] (1.48s)
+     media strategy.
 
- 13. [29.92 → 31.52] (1.60s)
-     and they're going In.
-     📝 Original: and they're going in.
+ 13. [53.34 → 57.82] (4.48s)
+     In the world of music and cultural icons, Beyonce extended a public message of support to
 
- 14. [31.52 → 34.40] (2.88s)
-     from the outside, Montecito still looks serene,
-     📝 Original: From the outside, Montecito still looks serene,
+ 14. [57.82 → 1:02.06] (4.24s)
+     Megan after the Oprah interview, praising her courage and grace.
 
- 15. [34.40 → 36.66] (2.26s)
-     perfectly trimmed hedges, ocean breeze,
+ 15. [1:02.06 → 1:06.54] (4.48s)
+     This show of solidarity from one of the most powerful women in entertainment added credibility
 
- 16. [36.66 → 38.48] (1.82s)
-     calming garden walks,
+ 16. [1:06.54 → 1:08.30] (1.76s)
+     to Megan's narrative.
 
- 17. [38.48 → 40.88] (2.40s)
-     But inside it's full on Crisis mode.
-     📝 Original: but inside it's full on crisis mode.
+ 17. [1:08.30 → 1:12.66] (4.36s)
+     On the other end of the spectrum, critics like Pierce Morgan have consistently questioned
 
- 18. [40.88 → 43.00] (2.12s)
-     Staffers are pulling sunrise shifts,
+ 18. [1:12.66 → 1:14.54] (1.88s)
+     Megan's sincerity.
 
- 19. [43.00 → 45.80] (2.80s)
-     just to scan Reddit and Discord for storyboard leaks,
+ 19. [1:14.54 → 1:18.50] (3.96s)
+     Morgan famously walked off his own show following backlash over his dismissal of her claims
 
- 20. [45.80 → 48.68] (2.88s)
-     PR teams are arguing over which words sound strong
+ 20. [1:18.50 → 1:23.50] (5.00s)
+     during the Oprah interview, solidifying his role as one of her harshest detractor.
 
- 21. [48.68 → 50.16] (1.48s)
-     without sounding sensitive.
+ 21. [1:23.50 → 1:27.50] (4.00s)
+     Meanwhile, figures like Martha Stewart have offered a more neutral stance,
 
- 22. [50.16 → 52.64] (2.48s)
-     and Harry, he's spiraling.
-     📝 Original: And Harry, he's spiraling.
+ 22. [1:27.50 → 1:30.50] (3.00s)
+     emphasizing the importance of grace under scrutiny,
 
- 23. [52.64 → 54.90] (2.26s)
-     according to one insider, the Duke of Sussex
-     📝 Original: According to one insider, the Duke of Sussex
+ 23. [1:30.50 → 1:33.50] (3.00s)
+     without overtly siding with either narrative.
 
- 24. [54.90 → 56.96] (2.06s)
-     now keeps His phone on vibrate while he sleeps,
-     📝 Original: now keeps his phone on vibrate while he sleeps,
+ 24. [1:33.50 → 1:37.50] (4.00s)
+     Even Kevin Hart couldn't resist bringing Meghan's situation into his stand-up,
 
- 25. [56.96 → 58.76] (1.80s)
-     jolting awake to skim group chats
+ 25. [1:37.50 → 1:41.50] (4.00s)
+     using his platform to joke about the absurdity of royal drama in modern times.
 
- 26. [58.76 → 1:01.24] (2.48s)
-     for any fresh signs of animation chaos.
+ 26. [1:41.50 → 1:46.50] (5.00s)
+     Proving that, no matter the perspective, Meghan Markle remains a cultural lightning rod
 
- 27. [1:01.24 → 1:04.04] (2.80s)
-     He's reportedly rewatched the original South Park roast
-
- 28. [1:04.04 → 1:06.24] (2.20s)
-     multiple times, trying to figure out
-
- 29. [1:06.24 → 1:08.64] (2.40s)
-     how much harder this new one might hit.
-
- 30. [1:08.64 → 1:10.52] (1.88s)
-     the first cartoon was brutal,
-     📝 Original: The first cartoon was brutal,
-
- 31. [1:10.52 → 1:12.76] (2.24s)
-     the now iconic Worldwide Privacy Tour
-     📝 Original: the now iconic worldwide privacy tour
-
- 32. [1:12.76 → 1:15.32] (2.56s)
-     where a fictional Harry and Megan begged for seclusion
-
- 33. [1:15.32 → 1:18.32] (3.00s)
-     from the media while practically waving banners
-
- 34. [1:18.32 → 1:19.52] (1.20s)
-     that said, look at It.
-     📝 Original: that said, look at it.
-
- 35. [1:19.52 → 1:23.60] (4.08s)
-     It was the kind of satire that doesn't just mock a person.
-
- 36. [1:23.60 → 1:26.64] (3.04s)
-     It reshapes how the world sees them.
-
- 37. [1:26.64 → 1:29.64] (3.00s)
-     and now, with this second wave on the way,
-     📝 Original: And now, with this second wave on the way,
-
- 38. [1:29.64 → 1:31.72] (2.08s)
-     Harry's team knows what's at stake,
-
- 39. [1:31.72 → 1:34.36] (2.64s)
-     another viral blast that could cement the couple
-
- 40. [1:34.36 → 1:37.52] (3.16s)
-     as Comedy gold for years to come.
-     📝 Original: as comedy gold for years to come.
-
- 41. [1:37.52 → 1:39.68] (2.16s)
-     and If you're wondering how Harry's handling It
-     📝 Original: And if you're wondering how Harry's handling it
-
- 42. [1:39.68 → 1:43.60] (3.92s)
-     behind the scenes, well, not great.
-
- 43. [1:43.60 → 1:45.96] (2.36s)
-     He's pacing the lawn, earbuds In,
-     📝 Original: He's pacing the lawn, earbuds in,
-
- 44. [1:45.96 → 1:48.04] (2.08s)
-     listening to calming meditation playlists
-
- 45. [1:48.04 → 1:50.24] (2.20s)
-     like it's a war prep montage.
-
- 46. [1:50.24 → 1:54.32] (4.08s)
-     Megan, on the other hand, is reportedly going full CEO mode,
-
- 47. [1:54.32 → 1:57.28] (2.96s)
-     snapping at assistance, demanding daily reports,
-     📝 Original: Snapping at assistance, demanding daily reports,
-
- 48. [1:57.28 → 1:59.76] (2.48s)
-     trying to stay 10 steps ahead of a cartoon.
-
- 49. [1:59.76 → 2:02.28] (2.52s)
-     the vibe inside their home according to staff
-     📝 Original: The vibe inside their home according to staff
-
- 50. [2:02.28 → 2:05.72] (3.44s)
-     feels less like a family estate and more like a war room,
-
- 51. [2:05.72 → 2:09.10] (3.38s)
-     digital dashboards tracking hashtag sentiment,
-
- 52. [2:09.10 → 2:11.64] (2.54s)
-     lawyers dialing In from LA and London
-     📝 Original: lawyers dialing in from LA and London
-
- 53. [2:11.64 → 2:14.12] (2.48s)
-     and notes flying Back and forth with subject lines
-     📝 Original: and notes flying back and forth with subject lines
-
- 54. [2:14.12 → 2:17.44] (3.32s)
-     like Emergency response plan V17.
-     📝 Original: like emergency response plan V17.
-
- 55. [2:17.44 → 2:20.24] (2.80s)
-     What really seems to be rattling Harry though
-
- 56. [2:20.24 → 2:23.04] (2.80s)
-     isn't just the idea of being laughed at.
-
- 57. [2:23.04 → 2:25.00] (1.96s)
-     It's the helplessness.
-
- 58. [2:25.00 → 2:28.14] (3.14s)
-     the knowledge that this thing is already animated,
-     📝 Original: The knowledge that this thing is already animated,
-
- 59. [2:28.14 → 2:31.28] (3.14s)
-     it's locked, it's being polished,
-
- 60. [2:31.28 → 2:34.84] (3.56s)
-     and finalized right now In some Colorado studio.
-     📝 Original: and finalized right now in some Colorado studio.
-
- 61. [2:34.84 → 2:38.72] (3.88s)
-     he can't sue, he can't Pull It.
-     📝 Original: He can't sue, he can't pull it.
-
- 62. [2:38.72 → 2:40.44] (1.72s)
-     and Every expert he's spoken to
-     📝 Original: And every expert he's spoken to
-
- 63. [2:40.44 → 2:43.96] (3.52s)
-     from high-level PR consultants to veteran royal Advisors
-     📝 Original: from high-level PR consultants to veteran royal advisors
-
- 64. [2:43.96 → 2:47.20] (3.24s)
-     has told him the same thing, reacting makes It worse.
-     📝 Original: has told him the same thing, reacting makes it worse.
-
- 65. [2:47.20 → 2:50.52] (3.32s)
-     But doing Nothing, that's its own kind of nightmare.
-     📝 Original: But doing nothing, that's its own kind of nightmare.
-
- 66. [2:50.52 → 2:54.60] (4.08s)
-     the silence would look like guilt, or worse, like surrender.
-     📝 Original: The silence would look like guilt, or worse, like surrender.
-
- 67. [2:54.60 → 2:59.88] (5.28s)
-     and for Harry, who's trying to rebuild ties with His father and inch Back toward respectability,
-     📝 Original: And for Harry, who's trying to rebuild ties with his father and inch back toward respectability,
-
- 68. [2:59.88 → 3:03.16] (3.28s)
-     another viral takedown could be a major step backward.
-
- 69. [3:03.16 → 3:05.88] (2.72s)
-     those Word is even palace insiders.
-     📝 Original: Those word is even palace insiders.
-
- 70. [3:05.88 → 3:10.64] (4.76s)
-     the same people he's distanced himself from are watching this unfold with a kind of dry
-     📝 Original: The same people he's distanced himself from are watching this unfold with a kind of dry
-
- 71. [3:10.64 → 3:11.96] (1.32s)
-     amusement.
-
- 72. [3:11.96 → 3:17.52] (5.56s)
-     one reportedly joked that If the Queen endured cartoon corgi tap dancing, Harry can survive
-     📝 Original: One reportedly joked that if the queen endured cartoon corgi tap dancing, Harry can survive
-
- 73. [3:17.52 → 3:19.04] (1.52s)
-     a bouncing rubber bump.
-
- 74. [3:19.04 → 3:21.08] (2.04s)
-     still, this time feels different.
-     📝 Original: Still, this time feels different.
-
- 75. [3:21.08 → 3:25.20] (4.12s)
-     It's not just Harry being mocked, it's Megan's brand on the chopping block.
-
- 76. [3:25.20 → 3:32.08] (6.88s)
-     her entire carefully constructed image of strength, motherhood, and authenticity is being framed
-     📝 Original: Her entire carefully constructed image of strength, motherhood, and authenticity is being framed
-
- 77. [3:32.08 → 3:34.52] (2.44s)
-     as a stage-managed production.
-
- 78. [3:34.52 → 3:39.88] (5.36s)
-     In the worst part, the leaked script suggests the parody nails the vibe perfectly, ring
-
- 79. [3:39.88 → 3:45.52] (5.64s)
-     lights, call sheets, fake tears, and a Pillow of truth that jiggles Every time Megan twerks
-     📝 Original: lights, call sheets, fake tears, and a pillow of truth that jiggles every time Megan twerks
-
- 80. [3:45.52 → 3:46.68] (1.16s)
-     for the camera.
-
- 81. [3:46.68 → 3:48.16] (1.48s)
-     It's not just a jab.
-
- 82. [3:48.16 → 3:53.20] (5.04s)
-     It's a full-on character assassination dressed as Comedy, and Harry knows It.
-     📝 Original: It's a full-on character assassination dressed as comedy, and Harry knows it.
-
- 83. [3:53.20 → 3:56.84] (3.64s)
-     Back-to-back Zoom calls now fill the Sussex schedule like clockwork.
-
- 84. [3:56.84 → 4:01.52] (4.68s)
-     Every morning kicks off with a legal huddle, where attorneys from two continents try and
-
- 85. [4:01.52 → 4:07.24] (5.72s)
-     fail to conjure a plan that stops a cartoon without looking ridiculous.
-
- 86. [4:07.24 → 4:10.72] (3.48s)
-     Meghan's legal advisor In Beverly Hills laid It out plain.
-     📝 Original: Meghan's legal advisor in Beverly Hills laid it out plain.
-
- 87. [4:10.72 → 4:13.16] (2.44s)
-     satire is a fortress In the U.S.
-     📝 Original: Satire is a fortress in the U.S.
-
- 88. [4:13.16 → 4:17.88] (4.72s)
-     Unless South Park falsely claims Meghan gave birth to a dolphin or Harry moonlight as
-
- 89. [4:17.88 → 4:21.08] (3.20s)
-     a flat-earther, there's No legal footing.
-     📝 Original: a flat-earther, there's no legal footing.
-
- 90. [4:21.08 → 4:24.92] (3.84s)
-     they could threaten Paramount, sure, But one lawyer joked the creators would probably
-     📝 Original: They could threaten Paramount, sure, but one lawyer joked the creators would probably
-
- 91. [4:24.92 → 4:29.58] (4.66s)
-     read the cease and desist out loud In the next episode, voices and all.
-     📝 Original: read the cease and desist out loud in the next episode, Voices and All.
-
- 92. [4:29.58 → 4:32.44] (2.86s)
-     Megan's team tried a different angle.
-
- 93. [4:32.44 → 4:33.72] (1.28s)
-     emotional distress.
-     📝 Original: Emotional distress.
-
- 94. [4:33.72 → 4:37.68] (3.96s)
-     can they argue that mocking a pregnancy video crosses a line?
-     📝 Original: Can they argue that mocking a pregnancy video crosses a line?
-
- 95. [4:37.68 → 4:40.20] (2.52s)
-     the answer came with a polite shrug.
-     📝 Original: The answer came with a polite shrug.
-
- 96. [4:40.20 → 4:43.84] (3.64s)
-     Courts don't usually draw those lines when the subjects are public figures who posted
-
- 97. [4:43.84 → 4:45.44] (1.60s)
-     the content themselves.
-
- 98. [4:45.44 → 4:48.84] (3.40s)
-     In particularly harsh legal memo, reportedly reads,
-
- 99. [4:48.84 → 4:52.66] (3.82s)
-     you can't parody a lie If it's already self-published.
-     📝 Original: you can't parody a lie if it's already self-published.
-
-100. [4:52.66 → 4:57.64] (4.98s)
-     that line's been passed around their inner circles so much it's become a dark joke,
-     📝 Original: That line's been passed around their inner circles so much it's become a dark joke,
-
-101. [4:57.64 → 5:00.66] (3.02s)
-     whispered intense meetings just to cut the air.
-
-102. [5:00.66 → 5:04.64] (3.98s)
-     the next idea came from Harry's old media contacts.
-     📝 Original: The next idea came from Harry's old media contacts.
-
-103. [5:04.64 → 5:09.10] (4.46s)
-     call In a few favors, get a friendly producer to poke around at Paramount, feel out the
-     📝 Original: Call in a few favors, get a friendly producer to poke around at Paramount, feel out the
-
-104. [5:09.10 → 5:10.84] (1.74s)
-     episode's tone.
-
-105. [5:10.84 → 5:12.92] (2.08s)
-     maybe it's not that bad.
-     📝 Original: Maybe it's not that bad.
-
-106. [5:12.92 → 5:14.36] (1.44s)
-     maybe it's salvageable.
-     📝 Original: Maybe it's salvageable.
-
-107. [5:14.36 → 5:21.48] (7.12s)
-     hoped died fast. most studio execs gave some version of, We love you both, But this is South Park.
-     📝 Original: hoped died fast. Most studio execs gave some version of, we love you both, but this is South Park.
-
-108. [5:21.48 → 5:27.24] (5.76s)
-     No one tells them What to cut. one bold exec, who'd once taken selfies with Megan at a Netflix
-     📝 Original: No one tells them what to cut. One bold exec, who'd once taken selfies with Megan at a Netflix
-
-109. [5:27.24 → 5:34.36] (7.12s)
-     party, sent a single line Back, Comedy is currency, and they own the mint. Megan turned to influencers,
-     📝 Original: party, sent a single line back, comedy is currency, and they own the mint. Megan turned to influencers,
-
-110. [5:34.36 → 5:39.08] (4.72s)
-     people who once gushed over her skincare line and posted aesthetic shots of her speeches.
-
-111. [5:39.08 → 5:44.92] (5.84s)
-     the goal? get them to push a narrative, mocking a pregnant woman isn't edgy, it's misogynistic.
-     📝 Original: The goal? Get them to push a narrative, mocking a pregnant woman isn't edgy, it's misogynistic.
-
-112. [5:44.92 → 5:49.80] (4.88s)
-     few were tempted, But most declined. one wellness coach reportedly said,
-     📝 Original: Few were tempted, but most declined. One wellness coach reportedly said,
-
-113. [5:50.36 → 5:56.12] (5.76s)
-     I like Megan, But the internet's In roast mode right now. I'm not diving into that fire pit.
-     📝 Original: I like Megan, but the internet's in roast mode right now. I'm not diving into that fire pit.
-
-114. [5:56.92 → 6:03.40] (6.48s)
-     others wanted payment, real money, Five figure money, as ever's current budget can't stretch to that.
-     📝 Original: Others wanted payment, real money, five figure money, as ever's current budget can't stretch to that.
-
-115. [6:03.40 → 6:09.00] (5.60s)
-     the campaign never launched, Meanwhile Social media sentiment is shifting by the hour.
-     📝 Original: The campaign never launched, meanwhile social media sentiment is shifting by the hour.
-
-116. [6:09.00 → 6:15.00] (6.00s)
-     Passhtags, wing like a wrecking ball, from Prince parody to leave Harry alone.
-     📝 Original: Passhtags, wing like a wrecking ball, from Prince Parody to leave Harry alone.
-
-117. [6:15.00 → 6:19.96] (4.96s)
-     a viral TikTok shows Harry adjusting a real ring light In one of their Netflix scenes,
-     📝 Original: A viral TikTok shows Harry adjusting a real ring light in one of their Netflix scenes,
-
-118. [6:19.96 → 6:25.88] (5.92s)
-     edited side by side with the rumored South Park sketch. It's brutal and effective.
-
-119. [6:25.88 → 6:31.24] (5.36s)
-     the parody isn't exaggerating anymore, it's mirroring. That's What stings the most.
-     📝 Original: The parody isn't exaggerating anymore, it's mirroring. That's what stings the most.
-
-120. [6:31.24 → 6:37.52] (6.28s)
-     once a joke lands that close to reality, It starts becoming reality In people's minds.
-     📝 Original: Once a joke lands that close to reality, it starts becoming reality in people's minds.
-
-121. [6:37.52 → 6:39.24] (1.72s)
-     even Megan's team sees It.
-     📝 Original: Even Megan's team sees it.
-
-122. [6:39.24 → 6:43.42] (4.18s)
-     a junior publicist tried to frame a defense around female empowerment, suggesting they
-     📝 Original: A junior publicist tried to frame a defense around female empowerment, suggesting they
-
-123. [6:43.42 → 6:48.28] (4.86s)
-     Release a statement condemning the weaponization of humor to shame ambitious women.
-     📝 Original: release a statement condemning the weaponization of humor to shame ambitious women.
-
-124. [6:48.28 → 6:50.68] (2.40s)
-     But a PR veteran shut It down fast.
-     📝 Original: But a PR veteran shut it down fast.
-
-125. [6:50.68 → 6:54.36] (3.68s)
-     If you fight a meme with a thesis he said you've already lost.
-
-126. [6:54.36 → 6:59.68] (5.32s)
-     one internal document, a rolling Crisis response doc, now sits at version 23.
-     📝 Original: One internal document, a rolling crisis response doc, now sits at version 23.
-
-127. [6:59.68 → 7:04.44] (4.76s)
-     lists all possible reactions from live interviews to total silence.
-
-128. [7:04.44 → 7:06.60] (2.16s)
-     Every path has risks.
-
-129. [7:06.60 → 7:11.98] (5.38s)
-     If they go on TV and laugh It off, South Park could clip that laugh and stick It In another
-     📝 Original: If they go on TV and laugh it off, South Park could clip that laugh and stick it in another
-
-130. [7:11.98 → 7:12.98] (1.00s)
-     episode.
-
-131. [7:12.98 → 7:17.10] (4.12s)
-     If they stay silent, It might look like the jokes were too true to answer, and If they
-     📝 Original: If they stay silent, it might look like the jokes were too true to answer, and if they
-
-132. [7:17.10 → 7:22.00] (4.90s)
-     push Back with too much emotion, they'll just confirm the world's worst assumptions,
-     📝 Original: push back with too much emotion, they'll just confirm the world's worst assumptions,
-
-133. [7:22.00 → 7:26.90] (4.90s)
-     that the royal rebels who once claimed to seek peace are still obsessively curating
-
-134. [7:26.90 → 7:28.26] (1.36s)
-     their image.
-
-135. [7:28.26 → 7:33.22] (4.96s)
-     and then there's the palace, Completely mute, No support, No denials, No sympathy, just
-     📝 Original: And then there's the palace, completely mute, no support, no denials, no sympathy, just
-
-136. [7:33.22 → 7:35.42] (2.20s)
-     a quiet line from inside Buckingham.
-
-137. [7:35.42 → 7:39.06] (3.64s)
-     If he monetize the crown, he can't cry when It gets parodied.
-     📝 Original: If he monetize the crown, he can't cry when it gets parodied.
-
-138. [7:39.06 → 7:41.66] (2.60s)
-     Social media's mean machine doesn't sleep.
-
-139. [7:41.66 → 7:46.86] (5.20s)
-     as South Park's premiere date inches closer, Harry's name keeps trending, rarely for reasons
-     📝 Original: As South Park's premiere date inches closer, Harry's name keeps trending, rarely for reasons
-
-140. [7:46.86 → 7:50.74] (3.88s)
-     he'd want, Every day new parody clips circulate.
-     📝 Original: he'd want, every day new parody clips circulate.
-
-141. [7:50.74 → 7:55.26] (4.52s)
-     some Show cartoon versions of him bumbling through ring light setups, others loop of fictional
-     📝 Original: Some show cartoon versions of him bumbling through ring light setups, others loop of fictional
-
-142. [7:55.26 → 7:59.66] (4.40s)
-     Megan shouting more sparkle while the baby bump jiggles like a spring toy.
-
-143. [7:59.66 → 8:03.98] (4.32s)
-     TikTok's go viral with fake behind-the-scenes edits, influencers duetting their own twerk
-
-144. [8:03.98 → 8:08.58] (4.60s)
-     reenactments for clout, and reaction videos racking up millions of views.
-
-145. [8:08.58 → 8:11.50] (2.92s)
-     for most of the internet, it's all just good content.
-     📝 Original: For most of the internet, it's all just good content.
-
-146. [8:11.50 → 8:12.98] (1.48s)
-     for Harry, it's an avalanche.
-     📝 Original: For Harry, it's an avalanche.
-
-147. [8:12.98 → 8:17.30] (4.32s)
-     His team's monitoring dashboards Show the sentiment, nose diving.
-     📝 Original: His team's monitoring dashboards show the sentiment, nose diving.
-
-148. [8:17.30 → 8:21.10] (3.80s)
-     Engagement is through the roof, sure, But almost none of its positive.
-     📝 Original: Engagement is through the roof, sure, but almost none of its positive.
-
-149. [8:21.10 → 8:30.08] (8.98s)
-     one chart literally labels the tone, 61% mockery, 27% sarcasm, 8% defense, and 4% undecided.
-     📝 Original: One chart literally labels the tone, 61% mockery, 27% sarcasm, 8% defense, and 4% undecided.
-
-150. [8:30.08 → 8:34.48] (4.40s)
-     Crisis analysts say that means the internet isn't debating If it's funny, it's debating
-     📝 Original: Crisis analysts say that means the internet isn't debating if it's funny, it's debating
-
-151. [8:34.48 → 8:36.52] (2.04s)
-     how cruel It Should get.
-     📝 Original: how cruel it should get.
-
-152. [8:36.52 → 8:40.32] (3.80s)
-     That's the kind of spiral Brands hate, Especially the ones still tied to Harry's mental health
-     📝 Original: That's the kind of spiral brands hate, especially the ones still tied to Harry's mental health
-
-153. [8:40.32 → 8:42.80] (2.48s)
-     projects or Invictus Games.
-     📝 Original: projects or Invictus games.
-
-154. [8:42.80 → 8:48.44] (5.64s)
-     where It is, two sponsors have already asked to revisit logo placement until things settled.
-     📝 Original: Where it is, two sponsors have already asked to revisit logo placement until things settled.
-
-155. [8:48.44 → 8:51.04] (2.60s)
-     Meghan's brand isn't fairing better.
-
-156. [8:51.04 → 8:56.80] (5.76s)
-     as Ever, already on shaky ground is now being mocked In the same breath as Goop.
-     📝 Original: As ever, already on shaky ground is now being mocked in the same breath as Goop.
-
-157. [8:56.80 → 9:00.48] (3.68s)
-     Twitter jokes compare her empowerment products to stage props.
-
-158. [9:00.48 → 9:05.72] (5.24s)
-     one influencer posted a parody ad featuring the Pillow of truth as a sleep aid that only
-     📝 Original: One influencer posted a parody ad featuring the pillow of Truth as a sleep aid that only
-
-159. [9:05.72 → 9:07.44] (1.72s)
-     works If filmed.
-     📝 Original: works if filmed.
-
-160. [9:07.44 → 9:08.72] (1.28s)
-     It exploded.
-
-161. [9:08.72 → 9:13.16] (4.44s)
-     even loyal fan pages are disabling comments, hoping to ride out the storm without becoming
-     📝 Original: Even loyal fan pages are disabling comments, hoping to ride out the storm without becoming
-
-162. [9:13.16 → 9:15.40] (2.24s)
-     collateral damage.
-
-163. [9:15.40 → 9:19.84] (4.44s)
-     Advisors have mapped out two possible exits, Neither perfect.
-     📝 Original: Advisors have mapped out two possible exits, neither perfect.
-
-164. [9:19.84 → 9:25.52] (5.68s)
-     1. embrace the cringe. Release a casual video of Harry and Meghan laughing about the whole
-     📝 Original: 1. Embrace the cringe. Release a casual video of Harry and Meghan laughing about the whole
-
-165. [9:25.52 → 9:31.12] (5.60s)
-     thing. maybe strolling the beach, maybe playing with the kids. Nothing scripted just vibes.
-     📝 Original: thing. Maybe strolling the beach, maybe playing with the kids. Nothing scripted just vibes.
-
-166. [9:31.84 → 9:37.44] (5.60s)
-     Show that they can take a joke and spin It into relatability. It could work. Brands love resilience,
-     📝 Original: Show that they can take a joke and spin it into relatability. It could work. Brands love resilience,
-
-167. [9:37.44 → 9:43.76] (6.32s)
-     But the risk is massive. If South Park clips their laughter and turns It into a recurring gag,
-     📝 Original: but the risk is massive. If South Park clips their laughter and turns it into a recurring gag,
-
-168. [9:43.76 → 9:49.44] (5.68s)
-     it'll be the sound bite that haunts them for years. Option 2. flip the mockery into a message.
-     📝 Original: it'll be the sound bite that haunts them for years. Option 2. Flip the mockery into a message.
-
-169. [9:49.84 → 9:56.36] (6.52s)
-     Launch a quiet campaign against online bullying, using the pregnancy parody as a teachable moment.
-
-170. [9:56.36 → 10:01.74] (5.38s)
-     Pull In maternal health experts, maybe donate some ad revenue to parenting nonprofits, and
-     📝 Original: Pull in maternal health experts, maybe donate some ad revenue to parenting nonprofits, and
-
-171. [10:01.74 → 10:04.08] (2.34s)
-     try to frame It as a broader conversation.
-     📝 Original: try to frame it as a broader conversation.
-
-172. [10:04.08 → 10:07.48] (3.40s)
-     the play here isn't defense, it's redirection.
-     📝 Original: The play here isn't defense, it's redirection.
-
-173. [10:07.48 → 10:12.54] (5.06s)
-     Turn the conversation away from cartoon Harry and towards something noble.
-
-174. [10:12.54 → 10:14.42] (1.88s)
-     But again, the danger's obvious.
-
-175. [10:14.42 → 10:19.40] (4.98s)
-     If It feels calculated If the rollout is even a bit too polished, it'll get called out
-     📝 Original: If it feels calculated if the rollout is even a bit too polished, it'll get called out
-
-176. [10:19.40 → 10:25.70] (6.30s)
-     as mocked ofism, using fake outrage to push a cause, Neither path erases the episode.
-     📝 Original: as mocked ofism, using fake outrage to push a cause, neither path erases the episode.
-
-177. [10:25.70 → 10:27.38] (1.68s)
-     and everyone knows It.
-     📝 Original: And everyone knows it.
-
-178. [10:27.38 → 10:33.76] (6.38s)
-     If the animation lands with just one unforgettable punchline, a phrase that catches fire, It becomes
-     📝 Original: If the animation lands with just one unforgettable punchline, a phrase that catches fire, it becomes
-
-179. [10:33.76 → 10:39.32] (5.56s)
-     canon, doesn't matter What the truth is, Perception becomes identity, and No podcast,
-     📝 Original: canon, doesn't matter what the truth is, perception becomes identity, and no podcast,
-
-180. [10:39.32 → 10:43.30] (3.98s)
-     charity event, or Instagram quote post can overwrite It.
-     📝 Original: charity event, or Instagram quote post can overwrite it.
-
-181. [10:43.30 → 10:45.82] (2.52s)
-     Back In Manacito, the atmosphere is tense.
-     📝 Original: Back in Manacito, the atmosphere is tense.
-
-182. [10:45.82 → 10:49.86] (4.04s)
-     one staffer described It as emotional, trench warfare.
-     📝 Original: One staffer described it as emotional, trench warfare.
-
-183. [10:49.86 → 10:55.42] (5.56s)
-     Harry's mood swings by the hour, hopeful after one strategy call, brooding by sunset.
-
-184. [10:55.42 → 11:01.02] (5.60s)
-     Meghan's become quieter, focus more on controlling internal leaks than external narratives.
-
-185. [11:01.02 → 11:05.30] (4.28s)
-     PR heads have started asking uncomfortable questions.
-
-186. [11:05.30 → 11:08.22] (2.92s)
-     Should the couple pause all public appearances?
-
-187. [11:08.22 → 11:09.86] (1.64s)
-     Delay product launches?
-
-188. [11:09.86 → 11:11.82] (1.96s)
-     Post-pone speeches?
-
-189. [11:11.82 → 11:13.38] (1.56s)
-     No one knows.
-
-190. [11:13.38 → 11:17.30] (3.92s)
-     What's clear is this, South Park's got the real locked.
-
-191. [11:17.30 → 11:19.42] (2.12s)
-     the internet's already laughing.
-     📝 Original: The internet's already laughing.
-
-192. [11:19.42 → 11:23.98] (4.56s)
-     and when the episode airs, whatever identity Harry and Meghan were trying to craft might
-     📝 Original: And when the episode airs, whatever identity Harry and Meghan were trying to craft might
-
-193. [11:23.98 → 11:31.02] (7.04s)
-     be replaced, permanently, by a parody version that feels just close enough to be believable.
-
-194. [11:31.02 → 11:34.86] (3.84s)
-     In the end, it's not about cartoon versions or rubber bumps.
-
-195. [11:34.86 → 11:38.34] (3.48s)
-     It's about the terrifying power of a joke that sticks.
-
-196. [11:38.34 → 11:41.50] (3.16s)
-     and whether the Duke and Duchess can survive being turned into one.
-     📝 Original: and whether the duke and duchess can survive being turned into one.
+ 27. [1:46.50 → 1:49.30] (2.80s)
+     cross-comedy, media, and society at large.
 
 ------------------------------------------------------------
 TRANSCRIPTION STATISTICS
 ------------------------------------------------------------
 
 📈 SUMMARY:
-   • Total Segments: 196
-   • Total Duration: 699.02 seconds
-   • Total Words: 1855
-   • Average Segment Length: 3.57 seconds
+   • Total Segments: 27
+   • Total Duration: 109.30 seconds
+   • Total Words: 290
+   • Average Segment Length: 4.05 seconds
    • Words Per Minute: 159.2 WPM
-   • Segments Corrected: 115/196 (58.7%)
-   • Words with Timestamps: 419
+   • Words with Timestamps: 171
 
 ================================================================================
 CLEAN TRANSCRIPTION (NO TIMESTAMPS)
 ================================================================================
 
-and Terry probably thought he'd been through It all. the headlines, the
-documentaries, the awkward talk Show questions, But Nothing could have prepared
-him for what's coming next. a full-blown South Park sequel, reportedly locked,
-loaded In AIMS squarely, at him and Megan once again. and this time, it's not
-just about their Privacy pleas or monoceto mansion life. It's about that
-pregnancy video. you know the one, the joyful empowerment clip, Megan posted,
-all ring lights and rubber bump choreography? Yeah, South Park saw It too. and
-they're going In. from the outside, Montecito still looks serene, perfectly
-trimmed hedges, ocean breeze, calming garden walks, But inside it's full on
-Crisis mode. Staffers are pulling sunrise shifts, just to scan Reddit and
-Discord for storyboard leaks, PR teams are arguing over which words sound strong
-without sounding sensitive. and Harry, he's spiraling. according to one insider,
-the Duke of Sussex now keeps His phone on vibrate while he sleeps, jolting awake
-to skim group chats for any fresh signs of animation chaos. He's reportedly
-rewatched the original South Park roast multiple times, trying to figure out how
-much harder this new one might hit. the first cartoon was brutal, the now iconic
-Worldwide Privacy Tour where a fictional Harry and Megan begged for seclusion
-from the media while practically waving banners that said, look at It. It was
-the kind of satire that doesn't just mock a person. It reshapes how the world
-sees them. and now, with this second wave on the way, Harry's team knows what's
-at stake, another viral blast that could cement the couple as Comedy gold for
-years to come. and If you're wondering how Harry's handling It behind the
-scenes, well, not great. He's pacing the lawn, earbuds In, listening to calming
-meditation playlists like it's a war prep montage. Megan, on the other hand, is
-reportedly going full CEO mode, snapping at assistance, demanding daily reports,
-trying to stay 10 steps ahead of a cartoon. the vibe inside their home according
-to staff feels less like a family estate and more like a war room, digital
-dashboards tracking hashtag sentiment, lawyers dialing In from LA and London and
-notes flying Back and forth with subject lines like Emergency response plan V17.
-What really seems to be rattling Harry though isn't just the idea of being
-laughed at. It's the helplessness. the knowledge that this thing is already
-animated, it's locked, it's being polished, and finalized right now In some
-Colorado studio. he can't sue, he can't Pull It. and Every expert he's spoken to
-from high-level PR consultants to veteran royal Advisors has told him the same
-thing, reacting makes It worse. But doing Nothing, that's its own kind of
-nightmare. the silence would look like guilt, or worse, like surrender. and for
-Harry, who's trying to rebuild ties with His father and inch Back toward
-respectability, another viral takedown could be a major step backward. those
-Word is even palace insiders. the same people he's distanced himself from are
-watching this unfold with a kind of dry amusement. one reportedly joked that If
-the Queen endured cartoon corgi tap dancing, Harry can survive a bouncing rubber
-bump. still, this time feels different. It's not just Harry being mocked, it's
-Megan's brand on the chopping block. her entire carefully constructed image of
-strength, motherhood, and authenticity is being framed as a stage-managed
-production. In the worst part, the leaked script suggests the parody nails the
-vibe perfectly, ring lights, call sheets, fake tears, and a Pillow of truth that
-jiggles Every time Megan twerks for the camera. It's not just a jab. It's a
-full-on character assassination dressed as Comedy, and Harry knows It.
-Back-to-back Zoom calls now fill the Sussex schedule like clockwork. Every
-morning kicks off with a legal huddle, where attorneys from two continents try
-and fail to conjure a plan that stops a cartoon without looking ridiculous.
-Meghan's legal advisor In Beverly Hills laid It out plain. satire is a fortress
-In the U.S. Unless South Park falsely claims Meghan gave birth to a dolphin or
-Harry moonlight as a flat-earther, there's No legal footing. they could threaten
-Paramount, sure, But one lawyer joked the creators would probably read the cease
-and desist out loud In the next episode, voices and all. Megan's team tried a
-different angle. emotional distress. can they argue that mocking a pregnancy
-video crosses a line? the answer came with a polite shrug. Courts don't usually
-draw those lines when the subjects are public figures who posted the content
-themselves. In particularly harsh legal memo, reportedly reads, you can't parody
-a lie If it's already self-published. that line's been passed around their inner
-circles so much it's become a dark joke, whispered intense meetings just to cut
-the air. the next idea came from Harry's old media contacts. call In a few
-favors, get a friendly producer to poke around at Paramount, feel out the
-episode's tone. maybe it's not that bad. maybe it's salvageable. hoped died
-fast. most studio execs gave some version of, We love you both, But this is
-South Park. No one tells them What to cut. one bold exec, who'd once taken
-selfies with Megan at a Netflix party, sent a single line Back, Comedy is
-currency, and they own the mint. Megan turned to influencers, people who once
-gushed over her skincare line and posted aesthetic shots of her speeches. the
-goal? get them to push a narrative, mocking a pregnant woman isn't edgy, it's
-misogynistic. few were tempted, But most declined. one wellness coach reportedly
-said, I like Megan, But the internet's In roast mode right now. I'm not diving
-into that fire pit. others wanted payment, real money, Five figure money, as
-ever's current budget can't stretch to that. the campaign never launched,
-Meanwhile Social media sentiment is shifting by the hour. Passhtags, wing like a
-wrecking ball, from Prince parody to leave Harry alone. a viral TikTok shows
-Harry adjusting a real ring light In one of their Netflix scenes, edited side by
-side with the rumored South Park sketch. It's brutal and effective. the parody
-isn't exaggerating anymore, it's mirroring. That's What stings the most. once a
-joke lands that close to reality, It starts becoming reality In people's minds.
-even Megan's team sees It. a junior publicist tried to frame a defense around
-female empowerment, suggesting they Release a statement condemning the
-weaponization of humor to shame ambitious women. But a PR veteran shut It down
-fast. If you fight a meme with a thesis he said you've already lost. one
-internal document, a rolling Crisis response doc, now sits at version 23. lists
-all possible reactions from live interviews to total silence. Every path has
-risks. If they go on TV and laugh It off, South Park could clip that laugh and
-stick It In another episode. If they stay silent, It might look like the jokes
-were too true to answer, and If they push Back with too much emotion, they'll
-just confirm the world's worst assumptions, that the royal rebels who once
-claimed to seek peace are still obsessively curating their image. and then
-there's the palace, Completely mute, No support, No denials, No sympathy, just a
-quiet line from inside Buckingham. If he monetize the crown, he can't cry when
-It gets parodied. Social media's mean machine doesn't sleep. as South Park's
-premiere date inches closer, Harry's name keeps trending, rarely for reasons
-he'd want, Every day new parody clips circulate. some Show cartoon versions of
-him bumbling through ring light setups, others loop of fictional Megan shouting
-more sparkle while the baby bump jiggles like a spring toy. TikTok's go viral
-with fake behind-the-scenes edits, influencers duetting their own twerk
-reenactments for clout, and reaction videos racking up millions of views. for
-most of the internet, it's all just good content. for Harry, it's an avalanche.
-His team's monitoring dashboards Show the sentiment, nose diving. Engagement is
-through the roof, sure, But almost none of its positive. one chart literally
-labels the tone, 61% mockery, 27% sarcasm, 8% defense, and 4% undecided. Crisis
-analysts say that means the internet isn't debating If it's funny, it's debating
-how cruel It Should get. That's the kind of spiral Brands hate, Especially the
-ones still tied to Harry's mental health projects or Invictus Games. where It
-is, two sponsors have already asked to revisit logo placement until things
-settled. Meghan's brand isn't fairing better. as Ever, already on shaky ground
-is now being mocked In the same breath as Goop. Twitter jokes compare her
-empowerment products to stage props. one influencer posted a parody ad featuring
-the Pillow of truth as a sleep aid that only works If filmed. It exploded. even
-loyal fan pages are disabling comments, hoping to ride out the storm without
-becoming collateral damage. Advisors have mapped out two possible exits, Neither
-perfect. 1. embrace the cringe. Release a casual video of Harry and Meghan
-laughing about the whole thing. maybe strolling the beach, maybe playing with
-the kids. Nothing scripted just vibes. Show that they can take a joke and spin
-It into relatability. It could work. Brands love resilience, But the risk is
-massive. If South Park clips their laughter and turns It into a recurring gag,
-it'll be the sound bite that haunts them for years. Option 2. flip the mockery
-into a message. Launch a quiet campaign against online bullying, using the
-pregnancy parody as a teachable moment. Pull In maternal health experts, maybe
-donate some ad revenue to parenting nonprofits, and try to frame It as a broader
-conversation. the play here isn't defense, it's redirection. Turn the
-conversation away from cartoon Harry and towards something noble. But again, the
-danger's obvious. If It feels calculated If the rollout is even a bit too
-polished, it'll get called out as mocked ofism, using fake outrage to push a
-cause, Neither path erases the episode. and everyone knows It. If the animation
-lands with just one unforgettable punchline, a phrase that catches fire, It
-becomes canon, doesn't matter What the truth is, Perception becomes identity,
-and No podcast, charity event, or Instagram quote post can overwrite It. Back In
-Manacito, the atmosphere is tense. one staffer described It as emotional, trench
-warfare. Harry's mood swings by the hour, hopeful after one strategy call,
-brooding by sunset. Meghan's become quieter, focus more on controlling internal
-leaks than external narratives. PR heads have started asking uncomfortable
-questions. Should the couple pause all public appearances? Delay product
-launches? Post-pone speeches? No one knows. What's clear is this, South Park's
-got the real locked. the internet's already laughing. and when the episode airs,
-whatever identity Harry and Meghan were trying to craft might be replaced,
-permanently, by a parody version that feels just close enough to be believable.
-In the end, it's not about cartoon versions or rubber bumps. It's about the
-terrifying power of a joke that sticks. and whether the Duke and Duchess can
-survive being turned into one.
+Meghan Markle has been one of the most polarizing figures in modern celebrity
+culture. From her transition into the British Royal family to her dramatic
+departure alongside Prince Harry, Meghan's journey has sparked global
+fascination, controversy and commentary from some of the world's most
+influential voices. Her interview with Oprah Winfrey in 2021 was a major
+cultural moment. Oprah's calm but pointed questions allowed Meghan to share her
+struggles with royal life, sparking debates around mental health, race, and
+monarchy. The interview created a ripple effect that even reached comedic
+corners of pop culture. One such response came from South Park, known for its
+ruthless satire. The animated show aired a parody episode that mocked Megan and
+Harry's demands for privacy while simultaneously pursuing the spotlight,
+amplifying public skepticism toward the couple's media strategy. In the world of
+music and cultural icons, Beyonce extended a public message of support to Megan
+after the Oprah interview, praising her courage and grace. This show of
+solidarity from one of the most powerful women in entertainment added
+credibility to Megan's narrative. On the other end of the spectrum, critics like
+Pierce Morgan have consistently questioned Megan's sincerity. Morgan famously
+walked off his own show following backlash over his dismissal of her claims
+during the Oprah interview, solidifying his role as one of her harshest
+detractor. Meanwhile, figures like Martha Stewart have offered a more neutral
+stance, emphasizing the importance of grace under scrutiny, without overtly
+siding with either narrative. Even Kevin Hart couldn't resist bringing Meghan's
+situation into his stand-up, using his platform to joke about the absurdity of
+royal drama in modern times. Proving that, no matter the perspective, Meghan
+Markle remains a cultural lightning rod cross-comedy, media, and society at
+large.
 
 ================================================================================
 End of Transcription Report
