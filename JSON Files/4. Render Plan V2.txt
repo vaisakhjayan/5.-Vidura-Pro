@@ -2,8 +2,8 @@
 CELEBRITY CLIP PLACEMENT SUMMARY
 ================================================================================
 
-Generated: 2025-06-15 18:36:02
-Total Segments: 25
+Generated: 2025-06-15 19:32:59
+Total Segments: 29
 
 --------------------------------------------------------------------------------
 TIMELINE OVERVIEW
@@ -11,118 +11,136 @@ TIMELINE OVERVIEW
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-    1. 🎥 00:00.00 → 00:05.00 (5.00s) (Video) - 4_chf3_rhea1.mp4
+    1. 🎥 00:00.00 → 00:05.00 (5.00s) (Video) - 21.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    2. 🎥 00:05.00 → 00:09.60 (4.60s) (Video) - 27.mp4
+    2. 🎥 00:05.00 → 00:07.00 (2.00s) (Video) - 31.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 PRINCE HARRY
 ----------------------------------------
-    3. 🎥 00:09.60 → 00:14.60 (5.00s) (Video) - clip_9.mp4
+    3. 🎥 00:07.00 → 00:10.00 (3.00s) (Video) - 2.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    4. 🎥 00:14.60 → 00:18.28 (3.68s) (Video) - clip_5.mp4
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+    4. 🎥 00:10.00 → 00:15.00 (5.00s) (Video) - fghgvcb.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    5. 🖼️ 00:15.00 → 00:18.00 (3.00s) (Ken Burns) - meghan-markle-the-wider-earth-gala-performance-london-052725-50d8f34a23434e36b46f06e4cfb7b6f6.remini-enhanced.jpg
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 OPRAH
 ----------------------------------------
-    5. 🎥 00:18.28 → 00:23.04 (4.76s) (Video) - 34.mp4
+    6. 🎥 00:18.00 → 00:22.00 (4.00s) (Video) - 6.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    6. 🎥 00:23.04 → 00:28.04 (5.00s) (Video) - 26.mp4
+    7. 🎥 00:22.00 → 00:24.00 (2.00s) (Video) - 23.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    7. 🎥 00:28.04 → 00:33.04 (5.00s) (Video) - 30.mp4
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+    8. 🎥 00:24.00 → 00:29.00 (5.00s) (Video) - asd_chf3_rhea1.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    8. 🖼️ 00:33.04 → 00:36.90 (3.86s) (Ken Burns) - 16umTA72bFNpvW96vdBZYKg-1706511525907.remini-enhanced.jpg
+    9. 🎥 00:29.00 → 00:34.00 (5.00s) (Video) - xcvcxvcx.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    10. 🎥 00:34.00 → 00:36.00 (2.00s) (Video) - xcx.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 SOUTH PARK
 ----------------------------------------
-    9. 🎥 00:36.90 → 00:41.58 (4.68s) (Video) - 16.mp4
+    11. 🎥 00:36.00 → 00:41.00 (5.00s) (Video) - 15.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    12. 🎥 00:41.00 → 00:43.00 (2.00s) (Video) - 7.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 PRINCE HARRY
 ----------------------------------------
-    10. 🎥 00:41.58 → 00:46.58 (5.00s) (Video) - 12.mp4
+    13. 🎥 00:43.00 → 00:48.00 (5.00s) (Video) - 8.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    11. 🖼️ 00:46.58 → 00:51.58 (5.00s) (Ken Burns) - prince-harry-leaves-court-london.jpg
+    14. 🎥 00:48.00 → 00:53.00 (5.00s) (Video) - clip_14.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    12. 🎥 00:51.58 → 00:53.34 (1.76s) (Video) - clip_3.mp4
+    15. 🖼️ 00:53.00 → 00:55.00 (2.00s) (Ken Burns) - 0c93b630-242d-11ef-80de-01d4152f54e3.remini-enhanced.jpg
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 BEYONCE
 ----------------------------------------
-    13. 🎥 00:53.34 → 00:57.82 (4.48s) (Video) - 28.mp4
+    16. 🎥 00:55.00 → 00:57.00 (2.00s) (Video) - 48.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 OPRAH
 ----------------------------------------
-    14. 🎥 00:57.82 → 01:02.82 (5.00s) (Video) - 18.mp4
+    17. 🎥 00:57.00 → 01:02.00 (5.00s) (Video) - 2.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    15. 🎥 01:02.82 → 01:06.54 (3.72s) (Video) - 6.mp4
+    18. 🖼️ 01:02.00 → 01:05.00 (3.00s) (Ken Burns) - 201602-omag-wikfs-949x534.remini-enhanced.jpg
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-    16. 🎥 01:06.54 → 01:08.30 (1.76s) (Video) - zxzzx.mp4
+    19. 🖼️ 01:05.00 → 01:09.00 (4.00s) (Ken Burns) - 602551_6488787_updates.remini-enhanced.jpg
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 PIERS MORGAN
 ----------------------------------------
-    17. 🎥 01:08.30 → 01:12.66 (4.36s) (Video) - 16.mp4
+    20. 🎥 01:09.00 → 01:10.00 (1.00s) (Video) - 3.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-    18. 🖼️ 01:12.66 → 01:17.66 (5.00s) (Ken Burns) - meghan-markle.remini-enhanced.png
+    21. 🎥 01:10.00 → 01:15.00 (5.00s) (Video) - 30.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    19. 🎥 01:17.66 → 01:18.50 (0.84s) (Video) - 30.mp4
+    22. 🎥 01:15.00 → 01:18.00 (3.00s) (Video) - 8.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 OPRAH
 ----------------------------------------
-    20. 🎥 01:18.50 → 01:23.50 (5.00s) (Video) - 8.mp4
+    23. 🎥 01:18.00 → 01:23.00 (5.00s) (Video) - 28.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 MARTHA STEWART
 ----------------------------------------
-    21. 🎥 01:23.50 → 01:28.50 (5.00s) (Video) - clip_07_01_Martha Stewart on Building Her Brand_214801.mp4
+    24. 🎥 01:23.00 → 01:28.00 (5.00s) (Video) - clip_02_04_Kelly Clarkson Can't Believe Martha Stewart Has Never Ordered Food Delivery_214102.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
-    22. 🎥 01:28.50 → 01:33.50 (5.00s) (Video) - clip_18_01_Young Martha Stewart Interview_215220.mp4
+    25. 🎥 01:28.00 → 01:33.00 (5.00s) (Video) - clip_12_02_Martha Stewart Spills on Her Kardashian House Tour and Her Crush on Brad Pitt _ The Tonight Show_215010.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 KEVIN HART
 ----------------------------------------
-    23. 🎥 01:33.50 → 01:38.50 (5.00s) (Video) - 12.mp4
-       📝 [Description placeholder]
-       ----------------------------------------------------------------------
-    24. 🎥 01:38.50 → 01:41.50 (3.00s) (Video) - 28.mp4
+    26. 🎥 01:33.00 → 01:35.00 (2.00s) (Video) - 1.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-    25. 🎥 01:41.50 → 01:46.50 (5.00s) (Video) - 12321_1_chf3_rhea1.mp4
+    27. 🎥 01:35.00 → 01:40.00 (5.00s) (Video) - 4.mp4
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    28. 🖼️ 01:40.00 → 01:44.00 (4.00s) (Ken Burns) - COLOMBIA-BRITAIN-ROYALS-VISIT-3_1728908365907_1732645154372.remini-enhanced.jpg
+       📝 [Description placeholder]
+       ----------------------------------------------------------------------
+    29. 🎥 01:44.00 → 01:49.00 (5.00s) (Video) - zvz.mp4
        📝 [Description placeholder]
        ----------------------------------------------------------------------
 
@@ -131,39 +149,39 @@ SUMMARY STATISTICS
 --------------------------------------------------------------------------------
 
 Meghan Markle:
-  • Total Screen Time: 22.20 seconds (20.8%)
-  • Total Clips: 6 (5 videos, 1 images)
+  • Total Screen Time: 53.00 seconds (48.6%)
+  • Total Clips: 13 (10 videos, 3 images)
 
 Prince Harry:
-  • Total Screen Time: 20.44 seconds (19.2%)
-  • Total Clips: 5 (4 videos, 1 images)
+  • Total Screen Time: 15.00 seconds (13.8%)
+  • Total Clips: 4 (3 videos, 1 images)
 
 Oprah:
-  • Total Screen Time: 32.34 seconds (30.4%)
-  • Total Clips: 7 (6 videos, 1 images)
+  • Total Screen Time: 19.00 seconds (17.4%)
+  • Total Clips: 5 (4 videos, 1 images)
 
 South Park:
-  • Total Screen Time: 4.68 seconds (4.4%)
-  • Total Clips: 1 (1 videos, 0 images)
+  • Total Screen Time: 7.00 seconds (6.4%)
+  • Total Clips: 2 (2 videos, 0 images)
 
 Beyonce:
-  • Total Screen Time: 4.48 seconds (4.2%)
+  • Total Screen Time: 2.00 seconds (1.8%)
   • Total Clips: 1 (1 videos, 0 images)
 
 Piers Morgan:
-  • Total Screen Time: 4.36 seconds (4.1%)
+  • Total Screen Time: 1.00 seconds (0.9%)
   • Total Clips: 1 (1 videos, 0 images)
 
 Martha Stewart:
-  • Total Screen Time: 10.00 seconds (9.4%)
+  • Total Screen Time: 10.00 seconds (9.2%)
   • Total Clips: 2 (2 videos, 0 images)
 
 Kevin Hart:
-  • Total Screen Time: 8.00 seconds (7.5%)
-  • Total Clips: 2 (2 videos, 0 images)
+  • Total Screen Time: 2.00 seconds (1.8%)
+  • Total Clips: 1 (1 videos, 0 images)
 
-Total Coverage: 106.50 seconds
-Total Clips Used: 25
+Total Coverage: 109.00 seconds
+Total Clips Used: 29
 
 ================================================================================
 End of Summary

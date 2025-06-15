@@ -2,7 +2,7 @@
     "video_info": {
         "title": "Test",
         "output_file": "final_render.mp4",
-        "generated_at": "2025-06-15 18:36:02"
+        "generated_at": "2025-06-15 19:32:59"
     },
     "segments": [
         {
@@ -14,7 +14,7 @@
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "001_Meghan_Markle_4_chf3_rhea1_original.mp4"
+                "file": "001_Meghan_Markle_21_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -26,14 +26,14 @@
         },
         {
             "start_time": 5.0,
-            "end_time": 9.6,
+            "end_time": 7.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 4.6,
-                "file": "002_Meghan_Markle_27_original.mp4"
+                "duration": 2.0,
+                "file": "002_Meghan_Markle_31_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -44,15 +44,15 @@
             ]
         },
         {
-            "start_time": 9.6,
-            "end_time": 14.6,
+            "start_time": 7.0,
+            "end_time": 10.0,
             "type": "celebrity_overlay",
             "celebrity": "Prince Harry",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "003_Prince_Harry_clip_9_composite.mp4"
+                "duration": 3.0,
+                "file": "003_Prince_Harry_2_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -63,15 +63,15 @@
             ]
         },
         {
-            "start_time": 14.6,
-            "end_time": 18.28,
+            "start_time": 10.0,
+            "end_time": 15.0,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 3.6800000000000015,
-                "file": "004_Prince_Harry_clip_5_original.mp4"
+                "duration": 5.0,
+                "file": "004_Meghan_Markle_fghgvcb_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -82,34 +82,34 @@
             ]
         },
         {
-            "start_time": 18.28,
-            "end_time": 23.04,
+            "start_time": 15.0,
+            "end_time": 18.0,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 4.759999999999998,
-                "file": "005_Oprah_34_original.mp4"
+                "duration": 3.0,
+                "file": "005_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 5,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 23.04,
-            "end_time": 28.04,
+            "start_time": 18.0,
+            "end_time": 22.0,
             "type": "celebrity_overlay",
             "celebrity": "Oprah",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "006_Oprah_26_composite.mp4"
+                "duration": 4.0,
+                "file": "006_Oprah_6_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -120,15 +120,15 @@
             ]
         },
         {
-            "start_time": 28.04,
-            "end_time": 33.04,
+            "start_time": 22.0,
+            "end_time": 24.0,
             "type": "celebrity_overlay",
             "celebrity": "Oprah",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "007_Oprah_30_original.mp4"
+                "duration": 2.0,
+                "file": "007_Oprah_23_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -139,34 +139,34 @@
             ]
         },
         {
-            "start_time": 33.04,
-            "end_time": 36.9,
+            "start_time": 24.0,
+            "end_time": 29.0,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 3.8599999999999994,
-                "file": "008_Oprah_clip.mp4"
+                "duration": 5.0,
+                "file": "008_Meghan_Markle_asd_chf3_rhea1_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 8,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 36.9,
-            "end_time": 41.58,
+            "start_time": 29.0,
+            "end_time": 34.0,
             "type": "celebrity_overlay",
-            "celebrity": "South Park",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 4.68,
-                "file": "009_South_Park_16_composite.mp4"
+                "duration": 5.0,
+                "file": "009_Meghan_Markle_xcvcxvcx_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -177,15 +177,15 @@
             ]
         },
         {
-            "start_time": 41.58,
-            "end_time": 46.58,
+            "start_time": 34.0,
+            "end_time": 36.0,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "010_Prince_Harry_12_original.mp4"
+                "duration": 2.0,
+                "file": "010_Meghan_Markle_xcx_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -196,34 +196,34 @@
             ]
         },
         {
-            "start_time": 46.58,
-            "end_time": 51.58,
+            "start_time": 36.0,
+            "end_time": 41.0,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "South Park",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "011_Prince_Harry_clip.mp4"
+                "file": "011_South_Park_15_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 11,
             "effects_applied": [
-                "ken_burns"
+                "trimmed"
             ]
         },
         {
-            "start_time": 51.58,
-            "end_time": 53.34,
+            "start_time": 41.0,
+            "end_time": 43.0,
             "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
+            "celebrity": "South Park",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 1.7600000000000051,
-                "file": "012_Prince_Harry_clip_3_composite.mp4"
+                "duration": 2.0,
+                "file": "012_South_Park_7_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -234,15 +234,15 @@
             ]
         },
         {
-            "start_time": 53.34,
-            "end_time": 57.82000000000001,
+            "start_time": 43.0,
+            "end_time": 48.0,
             "type": "celebrity_overlay",
-            "celebrity": "Beyonce",
+            "celebrity": "Prince Harry",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 4.480000000000004,
-                "file": "013_Beyonce_28_original.mp4"
+                "duration": 5.0,
+                "file": "013_Prince_Harry_8_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -253,15 +253,15 @@
             ]
         },
         {
-            "start_time": 57.82000000000001,
-            "end_time": 62.82000000000001,
+            "start_time": 48.0,
+            "end_time": 53.0,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Prince Harry",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "014_Oprah_18_original.mp4"
+                "file": "014_Prince_Harry_clip_14_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -272,34 +272,34 @@
             ]
         },
         {
-            "start_time": 62.82000000000001,
-            "end_time": 66.54,
+            "start_time": 53.0,
+            "end_time": 55.0,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Prince Harry",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 3.719999999999999,
-                "file": "015_Oprah_6_composite.mp4"
+                "duration": 2.0,
+                "file": "015_Prince_Harry_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 15,
             "effects_applied": [
-                "composite"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 66.54,
-            "end_time": 68.30000000000001,
+            "start_time": 55.0,
+            "end_time": 57.0,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Beyonce",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 1.7600000000000051,
-                "file": "016_Meghan_Markle_zxzzx_original.mp4"
+                "duration": 2.0,
+                "file": "016_Beyonce_48_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -310,15 +310,15 @@
             ]
         },
         {
-            "start_time": 68.30000000000001,
-            "end_time": 72.66,
+            "start_time": 57.0,
+            "end_time": 62.0,
             "type": "celebrity_overlay",
-            "celebrity": "Piers Morgan",
+            "celebrity": "Oprah",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 4.359999999999985,
-                "file": "017_Piers_Morgan_16_original.mp4"
+                "duration": 5.0,
+                "file": "017_Oprah_2_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -329,15 +329,15 @@
             ]
         },
         {
-            "start_time": 72.66,
-            "end_time": 77.66,
+            "start_time": 62.0,
+            "end_time": 65.0,
             "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
+            "celebrity": "Oprah",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "018_Meghan_Markle_clip.mp4"
+                "duration": 3.0,
+                "file": "018_Oprah_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -348,34 +348,34 @@
             ]
         },
         {
-            "start_time": 77.66,
-            "end_time": 78.5,
+            "start_time": 65.0,
+            "end_time": 69.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 0.8400000000000034,
-                "file": "019_Meghan_Markle_30_original.mp4"
+                "duration": 4.0,
+                "file": "019_Meghan_Markle_clip.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
             "sequence_number": 19,
             "effects_applied": [
-                "trimmed"
+                "ken_burns"
             ]
         },
         {
-            "start_time": 78.5,
-            "end_time": 83.5,
+            "start_time": 69.0,
+            "end_time": 70.0,
             "type": "celebrity_overlay",
-            "celebrity": "Oprah",
+            "celebrity": "Piers Morgan",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "020_Oprah_8_original.mp4"
+                "duration": 1.0,
+                "file": "020_Piers_Morgan_3_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -386,15 +386,15 @@
             ]
         },
         {
-            "start_time": 83.5,
-            "end_time": 88.5,
+            "start_time": 70.0,
+            "end_time": 75.0,
             "type": "celebrity_overlay",
-            "celebrity": "Martha Stewart",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "021_Martha_Stewart_clip_07_01_Martha Stewart on Building Her Brand_214801_composite.mp4"
+                "file": "021_Meghan_Markle_30_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -405,15 +405,15 @@
             ]
         },
         {
-            "start_time": 88.5,
-            "end_time": 93.5,
+            "start_time": 75.0,
+            "end_time": 78.0,
             "type": "celebrity_overlay",
-            "celebrity": "Martha Stewart",
+            "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 5.0,
-                "file": "022_Martha_Stewart_clip_18_01_Young Martha Stewart Interview_215220_original.mp4"
+                "duration": 3.0,
+                "file": "022_Meghan_Markle_8_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -424,15 +424,15 @@
             ]
         },
         {
-            "start_time": 93.5,
-            "end_time": 98.5,
+            "start_time": 78.0,
+            "end_time": 83.0,
             "type": "celebrity_overlay",
-            "celebrity": "Kevin Hart",
+            "celebrity": "Oprah",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "023_Kevin_Hart_12_original.mp4"
+                "file": "023_Oprah_28_original.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -443,15 +443,15 @@
             ]
         },
         {
-            "start_time": 98.5,
-            "end_time": 101.5,
+            "start_time": 83.0,
+            "end_time": 88.0,
             "type": "celebrity_overlay",
-            "celebrity": "Kevin Hart",
+            "celebrity": "Martha Stewart",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
-                "duration": 3.0,
-                "file": "024_Kevin_Hart_28_composite.mp4"
+                "duration": 5.0,
+                "file": "024_Martha_Stewart_clip_02_04_Kelly Clarkson Can't Believe Martha Stewart Has Never Ordered Food Delivery_214102_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -462,20 +462,96 @@
             ]
         },
         {
-            "start_time": 101.5,
-            "end_time": 106.5,
+            "start_time": 88.0,
+            "end_time": 93.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Martha Stewart",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "type": "video",
+                "duration": 5.0,
+                "file": "025_Martha_Stewart_clip_12_02_Martha Stewart Spills on Her Kardashian House Tour and Her Crush on Brad Pitt _ The Tonight Show_215010_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 25,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 93.0,
+            "end_time": 95.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Kevin Hart",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "type": "video",
+                "duration": 2.0,
+                "file": "026_Kevin_Hart_1_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 26,
+            "effects_applied": [
+                "trimmed"
+            ]
+        },
+        {
+            "start_time": 95.0,
+            "end_time": 100.0,
             "type": "celebrity_overlay",
             "celebrity": "Meghan Markle",
             "media": {
                 "folder": "/Users/superman/Desktop/Clips Assembled/Test",
                 "type": "video",
                 "duration": 5.0,
-                "file": "025_Meghan_Markle_12321_1_chf3_rhea1_original.mp4"
+                "file": "027_Meghan_Markle_4_composite.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ],
-            "sequence_number": 25,
+            "sequence_number": 27,
+            "effects_applied": [
+                "composite"
+            ]
+        },
+        {
+            "start_time": 100.0,
+            "end_time": 104.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "type": "video",
+                "duration": 4.0,
+                "file": "028_Meghan_Markle_clip.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 28,
+            "effects_applied": [
+                "ken_burns"
+            ]
+        },
+        {
+            "start_time": 104.0,
+            "end_time": 109.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Clips Assembled/Test",
+                "type": "video",
+                "duration": 5.0,
+                "file": "029_Meghan_Markle_zvz_original.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ],
+            "sequence_number": 29,
             "effects_applied": [
                 "trimmed"
             ]

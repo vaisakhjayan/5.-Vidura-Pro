@@ -4,6 +4,14 @@ import re
 from typing import Dict, List, Set, Tuple
 from datetime import datetime
 
+# ================================
+# TRANSCRIPTION SOURCE CONFIGURATION
+# ================================
+# Choose which transcription source to use:
+# "whisper_small" - Uses Transcription Base.txt (from Whisper Small model)
+# "whisperx" - Uses JSON Files/2. Transcriptions.json (from WhisperX/faster-whisper)
+TRANSCRIPTION_SOURCE = "whisper_small"
+
 def load_json_file(file_path: str) -> dict:
     with open(file_path, 'r', encoding='utf-8') as f:
         return json.load(f)
@@ -15,6 +23,49 @@ def save_json_file(file_path: str, data: dict):
 def save_text_file(file_path: str, content: str):
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(content)
+
+def load_transcription_base_txt() -> List[Dict]:
+    """Load and parse the Transcription Base.txt file into a format compatible with our detection system."""
+    try:
+        with open('Transcription Base.txt', 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        # Split content by timestamp markers [XX:XX:XX]
+        segments = []
+        lines = content.split('\n')
+        current_segment = {"text": "", "start": 0.0}
+
+        for line in lines:
+            # Check for timestamp
+            timestamp_match = re.match(r'\[(\d+):(\d+):(\d+)\](.*)', line)
+            if timestamp_match:
+                # If we have a previous segment, save it
+                if current_segment["text"].strip():
+                    segments.append(current_segment)
+
+                # Parse timestamp to seconds
+                hours, minutes, seconds = map(int, timestamp_match.groups()[:3])
+                total_seconds = hours * 3600 + minutes * 60 + seconds
+                text = timestamp_match.group(4).strip()
+
+                # Create new segment
+                current_segment = {
+                    "text": text,
+                    "start": float(total_seconds),
+                    "end": float(total_seconds) + 5.0  # Approximate 5-second segments
+                }
+            elif line.strip():
+                # Append non-empty lines to current segment
+                current_segment["text"] += " " + line.strip()
+
+        # Add the last segment if it exists
+        if current_segment["text"].strip():
+            segments.append(current_segment)
+
+        return segments
+    except Exception as e:
+        print(f"Error loading Transcription Base.txt: {e}")
+        return []
 
 def get_channel_keywords(channel_name: str) -> Tuple[Dict[str, List[str]], Dict[str, List[str]]]:
     # Load channel keywords
@@ -212,8 +263,20 @@ def detect_keywords():
     # Get keywords grouped by their main keyword and words section
     main_keywords, words_keywords = get_channel_keywords(channel_name)
     
-    # Load transcriptions
-    transcriptions = load_json_file('JSON Files/2. Transcriptions.json')
+    # Load transcriptions based on selected source
+    if TRANSCRIPTION_SOURCE == "whisper_small":
+        print("Using Whisper Small transcription from Transcription Base.txt")
+        segments = load_transcription_base_txt()
+        transcriptions = {
+            "transcriptions": {
+                "Transcription Base.txt": {
+                    "segments": segments
+                }
+            }
+        }
+    else:  # whisperx
+        print("Using WhisperX transcription from JSON Files/2. Transcriptions.json")
+        transcriptions = load_json_file('JSON Files/2. Transcriptions.json')
     
     # Initialize detections list
     detections = []
@@ -239,7 +302,6 @@ def detect_keywords():
             for variation in variations:
                 variation_lower = variation.lower()
                 # Use word boundaries to ensure we match complete words only
-                # This prevents matching "Al" in "real", "also", etc.
                 pattern = r'\b' + re.escape(variation_lower) + r'\b'
                 if re.search(pattern, text):
                     # If we have word-level timing, use it for more accurate timestamps
@@ -249,12 +311,6 @@ def detect_keywords():
                         timestamp, word_matched_text = find_word_timestamp(segment['words'], variation, variations)
                         if word_matched_text:  # If word-level detection found a match, use it
                             matched_text = word_matched_text
-                        # Debug for first Diddy issue
-                        if main_keyword == "Diddy" and segment['start'] < 17:
-                            print(f"DEBUG: First Diddy segment - variation='{variation}', all_variations={variations}")
-                            print(f"DEBUG: Word result - timestamp={timestamp}, matched_text='{word_matched_text}'")
-                            diddy_words = [w for w in segment['words'] if 'diddy' in w.get('text', '').lower()]
-                            print(f"DEBUG: Available Diddy words: {diddy_words}")
                     
                     # Fall back to segment timing if word timing is not available
                     segment_timestamp = segment['start']
@@ -283,7 +339,6 @@ def detect_keywords():
             for variation in variations:
                 variation_lower = variation.lower()
                 # Use word boundaries to ensure we match complete words only
-                # This prevents matching "Al" in "real", "also", etc.
                 pattern = r'\b' + re.escape(variation_lower) + r'\b'
                 if re.search(pattern, text):
                     # If we have word-level timing, use it for more accurate timestamps
@@ -319,7 +374,8 @@ def detect_keywords():
     detections_data = {
         "video": selected_video,
         "detections": detections,
-        "timestamp": datetime.now().isoformat()
+        "timestamp": datetime.now().isoformat(),
+        "transcription_source": TRANSCRIPTION_SOURCE
     }
     
     # Save detections to JSON file
@@ -330,6 +386,7 @@ def detect_keywords():
     save_text_file('JSON Files/3. Detections.txt', readable_report)
     
     # Print detections for feedback
+    print(f"\nUsing transcription source: {TRANSCRIPTION_SOURCE}")
     for detection in detections:
         prefix = "[Words]" if detection["type"] == "words" else ""
         word_level_info = ""

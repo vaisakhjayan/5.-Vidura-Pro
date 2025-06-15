@@ -3,8 +3,8 @@ EFFECTS PROCESSING SUMMARY
 ================================================================================
 
 Video Title: Test
-Effects Applied: 2025-06-15 18:36:02
-Total Segments: 25
+Effects Applied: 2025-06-15 19:32:59
+Total Segments: 29
 Output Resolution: 1920x1080
 Output FPS: 24
 Composite Interval: Every 3 clips
@@ -42,94 +42,108 @@ TIMELINE OVERVIEW WITH EFFECTS
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 00:00.00 → 00:05.00 (5.00s) (Original) - 001_Meghan_Markle_4_chf3_rhea1_original.mp4
+   1. 🎥 00:00.00 → 00:05.00 (5.00s) (Original) - 001_Meghan_Markle_21_original.mp4
        Effects: trimmed
-   2. 🎥 00:05.00 → 00:09.59 (4.60s) (Original) - 002_Meghan_Markle_27_original.mp4
+   2. 🎥 00:05.00 → 00:07.00 (2.00s) (Original) - 002_Meghan_Markle_31_original.mp4
        Effects: trimmed
 
 🎬 PRINCE HARRY
 ----------------------------------------
-   1. 🎬 00:09.59 → 00:14.59 (5.00s) (Composite) - 003_Prince_Harry_clip_9_composite.mp4
+   1. 🎬 00:07.00 → 00:10.00 (3.00s) (Composite) - 003_Prince_Harry_2_composite.mp4
        Effects: composite
-   2. 🎥 00:14.59 → 00:18.28 (3.68s) (Original) - 004_Prince_Harry_clip_5_original.mp4
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 00:10.00 → 00:15.00 (5.00s) (Original) - 004_Meghan_Markle_fghgvcb_original.mp4
        Effects: trimmed
+   2. 🎥 00:15.00 → 00:18.00 (3.00s) (Original) - 005_Meghan_Markle_clip.mp4
+       Effects: ken_burns
 
 🎬 OPRAH
 ----------------------------------------
-   1. 🎥 00:18.28 → 00:23.03 (4.76s) (Original) - 005_Oprah_34_original.mp4
-       Effects: trimmed
-   2. 🎬 00:23.03 → 00:28.03 (5.00s) (Composite) - 006_Oprah_26_composite.mp4
+   1. 🎬 00:18.00 → 00:22.00 (4.00s) (Composite) - 006_Oprah_6_composite.mp4
        Effects: composite
-   3. 🎥 00:28.03 → 00:33.03 (5.00s) (Original) - 007_Oprah_30_original.mp4
+   2. 🎥 00:22.00 → 00:24.00 (2.00s) (Original) - 007_Oprah_23_original.mp4
        Effects: trimmed
-   4. 🎥 00:33.03 → 00:36.89 (3.86s) (Original) - 008_Oprah_clip.mp4
-       Effects: ken_burns
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 00:24.00 → 00:29.00 (5.00s) (Original) - 008_Meghan_Markle_asd_chf3_rhea1_original.mp4
+       Effects: trimmed
+   2. 🎬 00:29.00 → 00:34.00 (5.00s) (Composite) - 009_Meghan_Markle_xcvcxvcx_composite.mp4
+       Effects: composite
+   3. 🎥 00:34.00 → 00:36.00 (2.00s) (Original) - 010_Meghan_Markle_xcx_original.mp4
+       Effects: trimmed
 
 🎬 SOUTH PARK
 ----------------------------------------
-   1. 🎬 00:36.89 → 00:41.57 (4.68s) (Composite) - 009_South_Park_16_composite.mp4
+   1. 🎥 00:36.00 → 00:41.00 (5.00s) (Original) - 011_South_Park_15_original.mp4
+       Effects: trimmed
+   2. 🎬 00:41.00 → 00:43.00 (2.00s) (Composite) - 012_South_Park_7_composite.mp4
        Effects: composite
 
 🎬 PRINCE HARRY
 ----------------------------------------
-   1. 🎥 00:41.57 → 00:46.57 (5.00s) (Original) - 010_Prince_Harry_12_original.mp4
+   1. 🎥 00:43.00 → 00:48.00 (5.00s) (Original) - 013_Prince_Harry_8_original.mp4
        Effects: trimmed
-   2. 🎥 00:46.57 → 00:51.57 (5.00s) (Original) - 011_Prince_Harry_clip.mp4
+   2. 🎥 00:48.00 → 00:53.00 (5.00s) (Original) - 014_Prince_Harry_clip_14_original.mp4
+       Effects: trimmed
+   3. 🎥 00:53.00 → 00:55.00 (2.00s) (Original) - 015_Prince_Harry_clip.mp4
        Effects: ken_burns
-   3. 🎬 00:51.57 → 00:53.34 (1.76s) (Composite) - 012_Prince_Harry_clip_3_composite.mp4
-       Effects: composite
 
 🎬 BEYONCE
 ----------------------------------------
-   1. 🎥 00:53.34 → 00:57.82 (4.48s) (Original) - 013_Beyonce_28_original.mp4
+   1. 🎥 00:55.00 → 00:57.00 (2.00s) (Original) - 016_Beyonce_48_original.mp4
        Effects: trimmed
 
 🎬 OPRAH
 ----------------------------------------
-   1. 🎥 00:57.82 → 01:02.82 (5.00s) (Original) - 014_Oprah_18_original.mp4
+   1. 🎥 00:57.00 → 01:02.00 (5.00s) (Original) - 017_Oprah_2_original.mp4
        Effects: trimmed
-   2. 🎬 01:02.82 → 01:06.54 (3.72s) (Composite) - 015_Oprah_6_composite.mp4
-       Effects: composite
+   2. 🎥 01:02.00 → 01:05.00 (3.00s) (Original) - 018_Oprah_clip.mp4
+       Effects: ken_burns
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 01:06.54 → 01:08.30 (1.76s) (Original) - 016_Meghan_Markle_zxzzx_original.mp4
-       Effects: trimmed
+   1. 🎥 01:05.00 → 01:09.00 (4.00s) (Original) - 019_Meghan_Markle_clip.mp4
+       Effects: ken_burns
 
 🎬 PIERS MORGAN
 ----------------------------------------
-   1. 🎥 01:08.30 → 01:12.65 (4.36s) (Original) - 017_Piers_Morgan_16_original.mp4
+   1. 🎥 01:09.00 → 01:10.00 (1.00s) (Original) - 020_Piers_Morgan_3_original.mp4
        Effects: trimmed
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 01:12.65 → 01:17.65 (5.00s) (Original) - 018_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-   2. 🎥 01:17.65 → 01:18.50 (0.84s) (Original) - 019_Meghan_Markle_30_original.mp4
+   1. 🎬 01:10.00 → 01:15.00 (5.00s) (Composite) - 021_Meghan_Markle_30_composite.mp4
+       Effects: composite
+   2. 🎥 01:15.00 → 01:18.00 (3.00s) (Original) - 022_Meghan_Markle_8_original.mp4
        Effects: trimmed
 
 🎬 OPRAH
 ----------------------------------------
-   1. 🎥 01:18.50 → 01:23.50 (5.00s) (Original) - 020_Oprah_8_original.mp4
+   1. 🎥 01:18.00 → 01:23.00 (5.00s) (Original) - 023_Oprah_28_original.mp4
        Effects: trimmed
 
 🎬 MARTHA STEWART
 ----------------------------------------
-   1. 🎬 01:23.50 → 01:28.50 (5.00s) (Composite) - 021_Martha_Stewart_clip_07_01_Martha Stewart on Building Her Brand_214801_composite.mp4
+   1. 🎬 01:23.00 → 01:28.00 (5.00s) (Composite) - 024_Martha_Stewart_clip_02_04_Kelly Clarkson Can't Believe Martha Stewart Has Never Ordered Food Delivery_214102_composite.mp4
        Effects: composite
-   2. 🎥 01:28.50 → 01:33.50 (5.00s) (Original) - 022_Martha_Stewart_clip_18_01_Young Martha Stewart Interview_215220_original.mp4
+   2. 🎥 01:28.00 → 01:33.00 (5.00s) (Original) - 025_Martha_Stewart_clip_12_02_Martha Stewart Spills on Her Kardashian House Tour and Her Crush on Brad Pitt _ The Tonight Show_215010_original.mp4
        Effects: trimmed
 
 🎬 KEVIN HART
 ----------------------------------------
-   1. 🎥 01:33.50 → 01:38.50 (5.00s) (Original) - 023_Kevin_Hart_12_original.mp4
+   1. 🎥 01:33.00 → 01:35.00 (2.00s) (Original) - 026_Kevin_Hart_1_original.mp4
        Effects: trimmed
-   2. 🎬 01:38.50 → 01:41.50 (3.00s) (Composite) - 024_Kevin_Hart_28_composite.mp4
-       Effects: composite
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 01:41.50 → 01:46.50 (5.00s) (Original) - 025_Meghan_Markle_12321_1_chf3_rhea1_original.mp4
+   1. 🎬 01:35.00 → 01:40.00 (5.00s) (Composite) - 027_Meghan_Markle_4_composite.mp4
+       Effects: composite
+   2. 🎥 01:40.00 → 01:44.00 (4.00s) (Original) - 028_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+   3. 🎥 01:44.00 → 01:49.00 (5.00s) (Original) - 029_Meghan_Markle_zvz_original.mp4
        Effects: trimmed
 
 --------------------------------------------------------------------------------
@@ -137,48 +151,48 @@ EFFECTS STATISTICS
 --------------------------------------------------------------------------------
 
 Overall Effects Applied:
-  🖼️  Ken Burns (Images): 3 segments
+  🖼️  Ken Burns (Images): 5 segments
   🎬 Composite (Videos): 7 segments
   📱 Split Screen (Conflicts): 0 segments
-  🎥 Original (No effects): 15 segments
-  📊 Total Segments: 25
+  🎥 Original (No effects): 17 segments
+  📊 Total Segments: 29
 
 Effects by Celebrity:
 
 Meghan Markle:
-  • Total Screen Time: 22.20 seconds (20.8%)
-  • Total Clips: 6
-  • Ken Burns: 1 clips
-  • Composite: 0 clips
+  • Total Screen Time: 53.00 seconds (48.6%)
+  • Total Clips: 13
+  • Ken Burns: 3 clips
+  • Composite: 3 clips
   • Split Screen: 0 clips
-  • Original: 5 clips
+  • Original: 7 clips
 
 Prince Harry:
-  • Total Screen Time: 20.44 seconds (19.2%)
-  • Total Clips: 5
+  • Total Screen Time: 15.00 seconds (13.8%)
+  • Total Clips: 4
   • Ken Burns: 1 clips
-  • Composite: 2 clips
+  • Composite: 1 clips
   • Split Screen: 0 clips
   • Original: 2 clips
 
 Oprah:
-  • Total Screen Time: 32.34 seconds (30.4%)
-  • Total Clips: 7
+  • Total Screen Time: 19.00 seconds (17.4%)
+  • Total Clips: 5
   • Ken Burns: 1 clips
-  • Composite: 2 clips
+  • Composite: 1 clips
   • Split Screen: 0 clips
-  • Original: 4 clips
+  • Original: 3 clips
 
 South Park:
-  • Total Screen Time: 4.68 seconds (4.4%)
-  • Total Clips: 1
+  • Total Screen Time: 7.00 seconds (6.4%)
+  • Total Clips: 2
   • Ken Burns: 0 clips
   • Composite: 1 clips
   • Split Screen: 0 clips
-  • Original: 0 clips
+  • Original: 1 clips
 
 Beyonce:
-  • Total Screen Time: 4.48 seconds (4.2%)
+  • Total Screen Time: 2.00 seconds (1.8%)
   • Total Clips: 1
   • Ken Burns: 0 clips
   • Composite: 0 clips
@@ -186,7 +200,7 @@ Beyonce:
   • Original: 1 clips
 
 Piers Morgan:
-  • Total Screen Time: 4.36 seconds (4.1%)
+  • Total Screen Time: 1.00 seconds (0.9%)
   • Total Clips: 1
   • Ken Burns: 0 clips
   • Composite: 0 clips
@@ -194,7 +208,7 @@ Piers Morgan:
   • Original: 1 clips
 
 Martha Stewart:
-  • Total Screen Time: 10.00 seconds (9.4%)
+  • Total Screen Time: 10.00 seconds (9.2%)
   • Total Clips: 2
   • Ken Burns: 0 clips
   • Composite: 1 clips
@@ -202,10 +216,10 @@ Martha Stewart:
   • Original: 1 clips
 
 Kevin Hart:
-  • Total Screen Time: 8.00 seconds (7.5%)
-  • Total Clips: 2
+  • Total Screen Time: 2.00 seconds (1.8%)
+  • Total Clips: 1
   • Ken Burns: 0 clips
-  • Composite: 1 clips
+  • Composite: 0 clips
   • Split Screen: 0 clips
   • Original: 1 clips
 
@@ -214,9 +228,9 @@ PROCESSING SUMMARY
 --------------------------------------------------------------------------------
 
 📈 Processing Efficiency:
-  • Effects Applied: 10/25 segments (40.0%)
+  • Effects Applied: 12/29 segments (41.4%)
   • Conflicts Resolved: 0 overlapping segments
-  • Images Enhanced: 3 with Ken Burns effect
+  • Images Enhanced: 5 with Ken Burns effect
   • Videos Processed: 7 with composite effects
 
 💾 Output Files:

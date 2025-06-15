@@ -17,175 +17,176 @@
         },
         {
             "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Meghan's",
-            "timestamp": 9.6,
-            "formatted_timestamp": "9.60",
-            "segment_start": 9.6,
+            "keyword": "Prince Harry",
+            "matched_text": "prince harry",
+            "timestamp": 7.0,
+            "formatted_timestamp": "7.00",
+            "segment_start": 7.0,
             "word_level_detection": false
         },
         {
             "type": "main",
-            "keyword": "Prince Harry",
-            "matched_text": "Harry",
-            "timestamp": 9.6,
-            "formatted_timestamp": "9.60",
-            "segment_start": 9.6,
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan's",
+            "timestamp": 10.0,
+            "formatted_timestamp": "10.00",
+            "segment_start": 10.0,
             "word_level_detection": false
         },
         {
             "type": "main",
             "keyword": "Oprah",
             "matched_text": "oprah winfrey",
-            "timestamp": 18.28,
-            "formatted_timestamp": "18.28",
-            "segment_start": 18.28,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Meghan",
-            "timestamp": 23.04,
-            "formatted_timestamp": "23.04",
-            "segment_start": 23.04,
+            "timestamp": 18.0,
+            "formatted_timestamp": "18.00",
+            "segment_start": 18.0,
             "word_level_detection": false
         },
         {
             "type": "main",
             "keyword": "Oprah",
             "matched_text": "Oprah's",
-            "timestamp": 23.04,
-            "formatted_timestamp": "23.04",
-            "segment_start": 23.04,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "South Park",
-            "matched_text": "South Park",
-            "timestamp": 36.9,
-            "formatted_timestamp": "36.90",
-            "segment_start": 36.9,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Megan",
-            "timestamp": 41.58,
-            "formatted_timestamp": "41.58",
-            "segment_start": 41.58,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Prince Harry",
-            "matched_text": "Harry's",
-            "timestamp": 41.58,
-            "formatted_timestamp": "41.58",
-            "segment_start": 41.58,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Beyonce",
-            "matched_text": "Beyonce",
-            "timestamp": 53.34,
-            "formatted_timestamp": "53.34",
-            "segment_start": 53.34,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Megan",
-            "timestamp": 57.82000000000001,
-            "formatted_timestamp": "57.82",
-            "segment_start": 57.82000000000001,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Oprah",
-            "matched_text": "Oprah",
-            "timestamp": 57.82000000000001,
-            "formatted_timestamp": "57.82",
-            "segment_start": 57.82000000000001,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Megan",
-            "timestamp": 66.54,
-            "formatted_timestamp": "1:06.54",
-            "segment_start": 66.54,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Piers Morgan",
-            "matched_text": "Pierce",
-            "timestamp": 68.30000000000001,
-            "formatted_timestamp": "1:08.30",
-            "segment_start": 68.30000000000001,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Megan",
-            "timestamp": 72.66,
-            "formatted_timestamp": "1:12.66",
-            "segment_start": 72.66,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Oprah",
-            "matched_text": "Oprah",
-            "timestamp": 78.5,
-            "formatted_timestamp": "1:18.50",
-            "segment_start": 78.5,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Martha Stewart",
-            "matched_text": "Martha Stewart",
-            "timestamp": 83.5,
-            "formatted_timestamp": "1:23.50",
-            "segment_start": 83.5,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Meghan Markle",
-            "matched_text": "Meghan's",
-            "timestamp": 93.5,
-            "formatted_timestamp": "1:33.50",
-            "segment_start": 93.5,
-            "word_level_detection": false
-        },
-        {
-            "type": "main",
-            "keyword": "Kevin Hart",
-            "matched_text": "kevin hart",
-            "timestamp": 93.5,
-            "formatted_timestamp": "1:33.50",
-            "segment_start": 93.5,
+            "timestamp": 22.0,
+            "formatted_timestamp": "22.00",
+            "segment_start": 22.0,
             "word_level_detection": false
         },
         {
             "type": "main",
             "keyword": "Meghan Markle",
             "matched_text": "Meghan",
-            "timestamp": 101.5,
-            "formatted_timestamp": "1:41.50",
-            "segment_start": 101.5,
+            "timestamp": 24.0,
+            "formatted_timestamp": "24.00",
+            "segment_start": 24.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "South Park",
+            "matched_text": "South Park",
+            "timestamp": 36.0,
+            "formatted_timestamp": "36.00",
+            "segment_start": 36.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 43.0,
+            "formatted_timestamp": "43.00",
+            "segment_start": 43.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Prince Harry",
+            "matched_text": "Harry's",
+            "timestamp": 43.0,
+            "formatted_timestamp": "43.00",
+            "segment_start": 43.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Beyonce",
+            "matched_text": "Beyonce",
+            "timestamp": 55.0,
+            "formatted_timestamp": "55.00",
+            "segment_start": 55.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 57.0,
+            "formatted_timestamp": "57.00",
+            "segment_start": 57.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Oprah",
+            "matched_text": "Oprah",
+            "timestamp": 57.0,
+            "formatted_timestamp": "57.00",
+            "segment_start": 57.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan's",
+            "timestamp": 65.0,
+            "formatted_timestamp": "1:05.00",
+            "segment_start": 65.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Piers Morgan",
+            "matched_text": "Piers Morgan",
+            "timestamp": 69.0,
+            "formatted_timestamp": "1:09.00",
+            "segment_start": 69.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan's",
+            "timestamp": 70.0,
+            "formatted_timestamp": "1:10.00",
+            "segment_start": 70.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Oprah",
+            "matched_text": "Oprah",
+            "timestamp": 78.0,
+            "formatted_timestamp": "1:18.00",
+            "segment_start": 78.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Martha Stewart",
+            "matched_text": "Martha Stewart",
+            "timestamp": 83.0,
+            "formatted_timestamp": "1:23.00",
+            "segment_start": 83.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Kevin Hart",
+            "matched_text": "kevin hart",
+            "timestamp": 93.0,
+            "formatted_timestamp": "1:33.00",
+            "segment_start": 93.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan's",
+            "timestamp": 95.0,
+            "formatted_timestamp": "1:35.00",
+            "segment_start": 95.0,
+            "word_level_detection": false
+        },
+        {
+            "type": "main",
+            "keyword": "Meghan Markle",
+            "matched_text": "Meghan",
+            "timestamp": 104.0,
+            "formatted_timestamp": "1:44.00",
+            "segment_start": 104.0,
             "word_level_detection": false
         }
     ],
-    "timestamp": "2025-06-15T18:35:53.859506"
+    "timestamp": "2025-06-15T19:32:41.143158",
+    "transcription_source": "whisper_small"
 }

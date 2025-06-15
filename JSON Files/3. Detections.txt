@@ -6,7 +6,7 @@ Video Title: Test
 Channel: Meghan Markle
 Page ID: 21302cd2-c142-8018-bfbb-f16ac66a1190
 Video Selected: 2025-06-15T18:34:48.414069
-Detection Generated: 2025-06-15T18:35:53.859506
+Detection Generated: 2025-06-15T19:32:41.143158
 
 Total Detections: 20
 
@@ -16,43 +16,43 @@ DETECTION TIMELINE (Actual Order)
 
    1. 📍 0.00 (0.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   2. 📍 9.60 (9.6s) - MEGHAN MARKLE - Partial Match: "Meghan's"
+   2. 📍 7.00 (7.0s) - PRINCE HARRY - Exact Match: "prince harry"
       Type: main
-   3. 📍 9.60 (9.6s) - PRINCE HARRY - Partial Match: "Harry"
+   3. 📍 10.00 (10.0s) - MEGHAN MARKLE - Partial Match: "Meghan's"
       Type: main
-   4. 📍 18.28 (18.28s) - OPRAH - Partial Match: "oprah winfrey"
+   4. 📍 18.00 (18.0s) - OPRAH - Partial Match: "oprah winfrey"
       Type: main
-   5. 📍 23.04 (23.04s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   5. 📍 22.00 (22.0s) - OPRAH - Partial Match: "Oprah's"
       Type: main
-   6. 📍 23.04 (23.04s) - OPRAH - Partial Match: "Oprah's"
+   6. 📍 24.00 (24.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   7. 📍 36.90 (36.9s) - SOUTH PARK - Exact Match: "South Park"
+   7. 📍 36.00 (36.0s) - SOUTH PARK - Exact Match: "South Park"
       Type: main
-   8. 📍 41.58 (41.58s) - MEGHAN MARKLE - Partial Match: "Megan"
+   8. 📍 43.00 (43.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   9. 📍 41.58 (41.58s) - PRINCE HARRY - Partial Match: "Harry's"
+   9. 📍 43.00 (43.0s) - PRINCE HARRY - Partial Match: "Harry's"
       Type: main
-   10. 📍 53.34 (53.34s) - BEYONCE - Exact Match: "Beyonce"
+   10. 📍 55.00 (55.0s) - BEYONCE - Exact Match: "Beyonce"
       Type: main
-   11. 📍 57.82 (57.82000000000001s) - MEGHAN MARKLE - Partial Match: "Megan"
+   11. 📍 57.00 (57.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
-   12. 📍 57.82 (57.82000000000001s) - OPRAH - Exact Match: "Oprah"
+   12. 📍 57.00 (57.0s) - OPRAH - Exact Match: "Oprah"
       Type: main
-   13. 📍 1:06.54 (66.54s) - MEGHAN MARKLE - Partial Match: "Megan"
+   13. 📍 1:05.00 (65.0s) - MEGHAN MARKLE - Partial Match: "Meghan's"
       Type: main
-   14. 📍 1:08.30 (68.30000000000001s) - PIERS MORGAN - Partial Match: "Pierce"
+   14. 📍 1:09.00 (69.0s) - PIERS MORGAN - Exact Match: "Piers Morgan"
       Type: main
-   15. 📍 1:12.66 (72.66s) - MEGHAN MARKLE - Partial Match: "Megan"
+   15. 📍 1:10.00 (70.0s) - MEGHAN MARKLE - Partial Match: "Meghan's"
       Type: main
-   16. 📍 1:18.50 (78.5s) - OPRAH - Exact Match: "Oprah"
+   16. 📍 1:18.00 (78.0s) - OPRAH - Exact Match: "Oprah"
       Type: main
-   17. 📍 1:23.50 (83.5s) - MARTHA STEWART - Exact Match: "Martha Stewart"
+   17. 📍 1:23.00 (83.0s) - MARTHA STEWART - Exact Match: "Martha Stewart"
       Type: main
-   18. 📍 1:33.50 (93.5s) - MEGHAN MARKLE - Partial Match: "Meghan's"
+   18. 📍 1:33.00 (93.0s) - KEVIN HART - Exact Match: "kevin hart"
       Type: main
-   19. 📍 1:33.50 (93.5s) - KEVIN HART - Exact Match: "kevin hart"
+   19. 📍 1:35.00 (95.0s) - MEGHAN MARKLE - Partial Match: "Meghan's"
       Type: main
-   20. 📍 1:41.50 (101.5s) - MEGHAN MARKLE - Partial Match: "Meghan"
+   20. 📍 1:44.00 (104.0s) - MEGHAN MARKLE - Partial Match: "Meghan"
       Type: main
 
 --------------------------------------------------------------------------------
@@ -63,50 +63,50 @@ Meghan Markle:
   • Total Detections: 9
   • Match Type: Partial ("Meghan")
   • First Appearance: 0.00
-  • Last Appearance: 1:41.50
-  • Detection Span: 101.50 seconds
+  • Last Appearance: 1:44.00
+  • Detection Span: 104.00 seconds
 
 Prince Harry:
   • Total Detections: 2
-  • Match Type: Partial ("Harry")
-  • First Appearance: 9.60
-  • Last Appearance: 41.58
-  • Detection Span: 31.98 seconds
+  • Match Type: Exact
+  • First Appearance: 7.00
+  • Last Appearance: 43.00
+  • Detection Span: 36.00 seconds
 
 Oprah:
   • Total Detections: 4
   • Match Type: Partial ("oprah winfrey")
-  • First Appearance: 18.28
-  • Last Appearance: 1:18.50
-  • Detection Span: 60.22 seconds
+  • First Appearance: 18.00
+  • Last Appearance: 1:18.00
+  • Detection Span: 60.00 seconds
 
 South Park:
   • Total Detections: 1
   • Match Type: Exact
-  • First Appearance: 36.90
+  • First Appearance: 36.00
 
 Beyonce:
   • Total Detections: 1
   • Match Type: Exact
-  • First Appearance: 53.34
+  • First Appearance: 55.00
 
 Piers Morgan:
   • Total Detections: 1
-  • Match Type: Partial ("Pierce")
-  • First Appearance: 1:08.30
+  • Match Type: Exact
+  • First Appearance: 1:09.00
 
 Martha Stewart:
   • Total Detections: 1
   • Match Type: Exact
-  • First Appearance: 1:23.50
+  • First Appearance: 1:23.00
 
 Kevin Hart:
   • Total Detections: 1
   • Match Type: Exact
-  • First Appearance: 1:33.50
+  • First Appearance: 1:33.00
 
-Total Detection Window: 101.50 seconds
-Detection Frequency: 1 every 5.08 seconds
+Total Detection Window: 104.00 seconds
+Detection Frequency: 1 every 5.20 seconds
 
 --------------------------------------------------------------------------------
 DETECTION SUMMARY
@@ -115,7 +115,7 @@ DETECTION SUMMARY
 ✅ 8 unique celebrities detected
 ✅ 20 total keyword matches found
 ✅ Mix of exact and partial matches
-✅ Detections span 101.50 seconds of content
+✅ Detections span 104.00 seconds of content
 
 ================================================================================
 End of Detection Summary
