@@ -237,10 +237,41 @@ class KenBurnsVideoExporter:
         
     def load_and_fit_image(self, image_path):
         """Load and fit image to output dimensions while maintaining aspect ratio."""
-        # Load image directly with OpenCV for better performance
+        # First try the original image
         image = cv2.imread(str(image_path))
+        
         if image is None:
-            raise ValueError(f"Could not load image: {image_path}")
+            print(f"\n🔄 FALLBACK: Original image failed to load: {Path(image_path).name}")
+            print(f"   📁 Looking for alternatives in: {Path(image_path).parent}")
+            
+            # Get all image files in the same directory
+            image_extensions = {'.jpg', '.jpeg', '.png', '.bmp', '.tiff', '.webp'}
+            alternative_files = []
+            
+            for ext in image_extensions:
+                alternative_files.extend(Path(image_path).parent.glob(f"*{ext}"))
+            
+            # Filter out the original failed file and system files
+            alternative_files = [f for f in alternative_files 
+                               if f != Path(image_path) and not f.name.startswith('._')]
+            
+            if alternative_files:
+                print(f"   💡 Found {len(alternative_files)} potential alternatives")
+                
+                # Try each alternative until one works
+                for alt_file in alternative_files:
+                    print(f"   🔍 Trying: {alt_file.name}")
+                    image = cv2.imread(str(alt_file))
+                    if image is not None:
+                        print(f"   ✅ Successfully loaded alternative: {alt_file.name}")
+                        image_path = alt_file  # Update the path for logging
+                        break
+                    else:
+                        print(f"   ❌ Failed to load: {alt_file.name}")
+            
+            if image is None:
+                print(f"   ❌ No working alternatives found")
+                raise ValueError(f"Could not load image or any alternatives in: {Path(image_path).parent}")
         
         # Get original dimensions
         img_height, img_width = image.shape[:2]

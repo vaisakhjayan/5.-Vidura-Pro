@@ -2,9 +2,9 @@
 EFFECTS PROCESSING SUMMARY
 ================================================================================
 
-Video Title: Meghan In TEARS After Piers Morgan DESTROYS Her LIVE On National TV Show
-Effects Applied: 2025-06-15 16:40:08
-Total Segments: 141
+Video Title: Prince Harry Left SHAKEN After South Park Reveals Another Plan To MOCK Meghan
+Effects Applied: 2025-06-15 17:35:45
+Total Segments: 163
 Output Resolution: 1920x1080
 Output FPS: 24
 Composite Interval: Every 3 clips
@@ -40,323 +40,447 @@ EFFECTS CONFIGURATION
 TIMELINE OVERVIEW WITH EFFECTS
 --------------------------------------------------------------------------------
 
-🎬 MEGHAN MARKLE
+🎬 SOUTH PARK
 ----------------------------------------
-   1. 🎥 00:10.88 → 00:15.88 (5.00s) (Original) - 001_Meghan_Markle_1234_original.mp4
+   1. 🎥 00:08.16 → 00:13.16 (5.00s) (Original) - 001_South_Park_10_original.mp4
        Effects: trimmed
-   2. 🎥 00:15.88 → 00:20.88 (5.00s) (Original) - 002_Meghan_Markle_xcx_original.mp4
-       Effects: trimmed
-   3. 🎥 00:20.88 → 00:25.88 (5.00s) (Original) - 003_Meghan_Markle_1_1_chf3_rhea1_composite.mp4
-       Effects: trimmed
-   4. 🎥 00:25.88 → 00:29.96 (4.08s) (Original) - 004_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-   5. 🎥 00:29.96 → 00:34.96 (5.00s) (Original) - 005_Meghan_Markle_zcxzcz_original.mp4
-       Effects: trimmed
-   6. 🎥 00:34.96 → 00:39.96 (5.00s) (Original) - 006_Meghan_Markle_24_composite.mp4
-       Effects: trimmed
-   7. 🎥 00:39.96 → 00:44.96 (5.00s) (Original) - 007_Meghan_Markle_sdf_original.mp4
-       Effects: trimmed
-   8. 🎥 00:44.96 → 00:49.96 (5.00s) (Original) - 008_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-   9. 🎥 00:49.96 → 00:54.32 (4.36s) (Original) - 009_Meghan_Markle_sdsdf_composite.mp4
-       Effects: trimmed
-  10. 🎥 00:54.32 → 00:59.32 (5.00s) (Original) - 010_Meghan_Markle_dgfdd_original.mp4
-       Effects: trimmed
-  11. 🎥 00:59.32 → 01:04.31 (5.00s) (Original) - 011_Meghan_Markle_28_original.mp4
-       Effects: trimmed
-  12. 🎥 01:04.31 → 01:04.49 (0.18s) (Original) - 012_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-
-🎬 PIERS MORGAN
-----------------------------------------
-   1. 🎥 01:04.49 → 01:09.49 (5.00s) (Original) - 013_Piers_Morgan_4_original.mp4
-       Effects: trimmed
-   2. 🎥 01:09.49 → 01:14.49 (5.00s) (Original) - 014_Piers_Morgan_14_original.mp4
-       Effects: trimmed
-   3. 🎥 01:14.49 → 01:19.49 (5.00s) (Original) - 015_Piers_Morgan_2_composite.mp4
-       Effects: trimmed
-   4. 🎥 01:19.49 → 01:24.49 (5.00s) (Original) - 016_Piers_Morgan_8_original.mp4
-       Effects: trimmed
-   5. 🎥 01:24.49 → 01:29.49 (5.00s) (Original) - 017_Piers_Morgan_9_original.mp4
-       Effects: trimmed
-   6. 🎥 01:29.49 → 01:34.49 (5.00s) (Original) - 018_Piers_Morgan_1_composite.mp4
-       Effects: trimmed
-   7. 🎥 01:34.49 → 01:37.00 (2.51s) (Original) - 019_Piers_Morgan_5_original.mp4
+   2. 🎥 00:13.16 → 00:13.85 (0.69s) (Original) - 002_South_Park_3_original.mp4
        Effects: trimmed
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 01:37.00 → 01:42.00 (5.00s) (Original) - 020_Meghan_Markle_clip_12_original.mp4
+   1. 🎥 00:13.85 → 00:18.85 (5.00s) (Original) - 003_Meghan_Markle_1_composite.mp4
        Effects: trimmed
-   2. 🎥 01:42.00 → 01:47.00 (5.00s) (Original) - 021_Meghan_Markle_123_composite.mp4
+   2. 🎥 00:18.85 → 00:23.85 (5.00s) (Original) - 004_Meghan_Markle_25_original.mp4
        Effects: trimmed
-   3. 🎥 01:47.00 → 01:52.00 (5.00s) (Original) - 022_Meghan_Markle_dvfv_chf3_rhea1_original.mp4
+   3. 🎥 00:23.85 → 00:24.48 (0.63s) (Original) - 005_Meghan_Markle_sfsdfsd_original.mp4
        Effects: trimmed
-   4. 🎥 01:52.00 → 01:57.00 (5.00s) (Original) - 023_Meghan_Markle_clip.mp4
+   4. 🎥 00:24.48 → 00:28.08 (3.60s) (Original) - 006_Meghan_Markle_clip.mp4
        Effects: ken_burns
-   5. 🎥 01:57.00 → 02:02.00 (5.00s) (Original) - 024_Meghan_Markle_32_composite.mp4
+
+🎬 SOUTH PARK
+----------------------------------------
+   1. 🎥 00:28.08 → 00:33.07 (5.00s) (Original) - 007_South_Park_13_original.mp4
        Effects: trimmed
-   6. 🎥 02:02.00 → 02:07.00 (5.00s) (Original) - 025_Meghan_Markle_11_original.mp4
+   2. 🎥 00:33.07 → 00:38.07 (5.00s) (Original) - 008_South_Park_6_original.mp4
        Effects: trimmed
-   7. 🎥 02:07.00 → 02:12.00 (5.00s) (Original) - 026_Meghan_Markle_vc_chf3_rhea1_original.mp4
+   3. 🎥 00:38.07 → 00:43.07 (5.00s) (Original) - 009_South_Park_9_composite.mp4
        Effects: trimmed
-   8. 🎥 02:12.00 → 02:17.00 (5.00s) (Original) - 027_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-   9. 🎥 02:17.00 → 02:17.24 (0.23s) (Original) - 028_Meghan_Markle_xcvcxvcx_original.mp4
+   4. 🎥 00:43.07 → 00:48.07 (5.00s) (Original) - 010_South_Park_12_original.mp4
        Effects: trimmed
-  10. 🎥 02:17.24 → 02:22.24 (5.00s) (Original) - 029_Meghan_Markle_sdfds_original.mp4
-       Effects: trimmed
-  11. 🎥 02:22.24 → 02:27.24 (5.00s) (Original) - 030_Meghan_Markle_4_chf3_rhea1_composite.mp4
-       Effects: trimmed
-  12. 🎥 02:27.24 → 02:32.24 (5.00s) (Original) - 031_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-  13. 🎥 02:32.24 → 02:37.24 (5.00s) (Original) - 032_Meghan_Markle_zxzx_chf3_rhea1_original.mp4
-       Effects: trimmed
-  14. 🎥 02:37.24 → 02:42.24 (5.00s) (Original) - 033_Meghan_Markle_xc_composite.mp4
-       Effects: trimmed
-  15. 🎥 02:42.24 → 02:47.24 (5.00s) (Original) - 034_Meghan_Markle_27_original.mp4
-       Effects: trimmed
-  16. 🎥 02:47.24 → 02:52.24 (5.00s) (Original) - 035_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-  17. 🎥 02:52.24 → 02:54.67 (2.44s) (Original) - 036_Meghan_Markle_10_composite.mp4
-       Effects: trimmed
-  18. 🎥 02:54.67 → 02:59.67 (5.00s) (Original) - 037_Meghan_Markle_26_original.mp4
-       Effects: trimmed
-  19. 🎥 02:59.67 → 03:04.67 (5.00s) (Original) - 038_Meghan_Markle_25_original.mp4
-       Effects: trimmed
-  20. 🖼️ 03:04.67 → 03:09.67 (5.00s) (Ken Burns) - meghan-markle.remini-enhanced.png
-  21. 🎥 03:09.67 → 03:14.67 (5.00s) (Original) - 040_Meghan_Markle_31_original.mp4
-       Effects: trimmed
-  22. 🎥 03:14.67 → 03:19.35 (4.68s) (Original) - 041_Meghan_Markle_1_original.mp4
-       Effects: trimmed
-  23. 🎥 03:19.35 → 03:24.35 (5.00s) (Original) - 042_Meghan_Markle_sadsad_chf3_rhea1_composite.mp4
-       Effects: trimmed
-  24. 🎥 03:24.35 → 03:29.35 (5.00s) (Original) - 043_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-  25. 🎥 03:29.35 → 03:34.35 (5.00s) (Original) - 044_Meghan_Markle_asd_chf3_rhea1_original.mp4
-       Effects: trimmed
-  26. 🎥 03:34.35 → 03:39.35 (5.00s) (Original) - 045_Meghan_Markle_21_composite.mp4
-       Effects: trimmed
-  27. 🎥 03:39.35 → 03:44.35 (5.00s) (Original) - 046_Meghan_Markle_5_1_chf3_rhea1_original.mp4
-       Effects: trimmed
-  28. 🎥 03:44.35 → 03:47.25 (2.89s) (Original) - 047_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-  29. 🎥 03:47.25 → 03:47.65 (0.40s) (Original) - 048_Meghan_Markle_fghgvcb_composite.mp4
+   5. 🎥 00:48.07 → 00:50.16 (2.08s) (Original) - 011_South_Park_11_original.mp4
        Effects: trimmed
 
 🎬 PRINCE HARRY
 ----------------------------------------
-   1. 🎥 03:47.65 → 03:52.65 (5.00s) (Original) - 049_Prince_Harry_14_original.mp4
+   1. 🎥 00:50.16 → 00:55.16 (5.00s) (Original) - 012_Prince_Harry_2_composite.mp4
        Effects: trimmed
-   2. 🎥 03:52.65 → 03:57.65 (5.00s) (Original) - 050_Prince_Harry_10_original.mp4
+   2. 🎥 00:55.16 → 01:00.16 (5.00s) (Original) - 013_Prince_Harry_11_original.mp4
        Effects: trimmed
-   3. 🎥 03:57.65 → 04:02.65 (5.00s) (Original) - 051_Prince_Harry_clip_5_composite.mp4
-       Effects: trimmed
-   4. 🎥 04:02.65 → 04:07.65 (5.00s) (Original) - 052_Prince_Harry_clip.mp4
-       Effects: ken_burns
-   5. 🎥 04:07.65 → 04:07.68 (0.03s) (Original) - 053_Prince_Harry_8_original.mp4
-       Effects: trimmed
-
-🎬 MEGHAN MARKLE
-----------------------------------------
-   1. 🎥 04:07.68 → 04:12.68 (5.00s) (Original) - 054_Meghan_Markle_asdasdas_chf3_rhea1_composite.mp4
-       Effects: trimmed
-   2. 🎥 04:12.68 → 04:17.68 (5.00s) (Original) - 055_Meghan_Markle_zcxzxzc_original.mp4
-       Effects: trimmed
-   3. 🎥 04:17.68 → 04:22.68 (5.00s) (Original) - 056_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-   4. 🎥 04:22.68 → 04:26.43 (3.76s) (Original) - 057_Meghan_Markle_zxcxzxz_composite.mp4
-       Effects: trimmed
-   5. 🎥 04:26.43 → 04:31.43 (5.00s) (Original) - 058_Meghan_Markle_4_original.mp4
-       Effects: trimmed
-   6. 🎥 04:31.43 → 04:36.43 (5.00s) (Original) - 059_Meghan_Markle_sfsdfsd_original.mp4
-       Effects: trimmed
-   7. 🎥 04:36.43 → 04:41.43 (5.00s) (Original) - 060_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-   8. 🎥 04:41.43 → 04:46.43 (5.00s) (Original) - 061_Meghan_Markle_6_original.mp4
-       Effects: trimmed
-   9. 🎥 04:46.43 → 04:51.43 (5.00s) (Original) - 062_Meghan_Markle_8_original.mp4
-       Effects: trimmed
-  10. 🎥 04:51.43 → 04:56.43 (5.00s) (Original) - 063_Meghan_Markle_cvcxvx_composite.mp4
-       Effects: trimmed
-  11. 🎥 04:56.43 → 05:01.43 (5.00s) (Original) - 064_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-  12. 🎥 05:01.43 → 05:06.43 (5.00s) (Original) - 065_Meghan_Markle_111_original.mp4
-       Effects: trimmed
-  13. 🎥 05:06.43 → 05:11.43 (5.00s) (Original) - 066_Meghan_Markle_30_composite.mp4
-       Effects: trimmed
-  14. 🎥 05:11.43 → 05:16.43 (5.00s) (Original) - 067_Meghan_Markle_zccvcx_original.mp4
-       Effects: trimmed
-  15. 🎥 05:16.43 → 05:21.43 (5.00s) (Original) - 068_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-  16. 🎥 05:21.43 → 05:26.43 (5.00s) (Original) - 069_Meghan_Markle_clip_13_composite.mp4
-       Effects: trimmed
-  17. 🎥 05:26.43 → 05:31.16 (4.73s) (Original) - 070_Meghan_Markle_zxzzx_original.mp4
-       Effects: trimmed
-  18. 🎥 05:31.16 → 05:36.16 (5.00s) (Original) - 071_Meghan_Markle_sfdsfds_original.mp4
-       Effects: trimmed
-  19. 🎥 05:36.16 → 05:41.16 (5.00s) (Original) - 072_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-  20. 🎥 05:41.16 → 05:46.16 (5.00s) (Original) - 073_Meghan_Markle_zvz_original.mp4
-       Effects: trimmed
-  21. 🎥 05:46.16 → 05:51.16 (5.00s) (Original) - 074_Meghan_Markle_12321_1_chf3_rhea1_original.mp4
-       Effects: trimmed
-  22. 🎥 05:51.16 → 05:56.16 (5.00s) (Original) - 075_Meghan_Markle_sdsdf_composite.mp4
-       Effects: trimmed
-  23. 🎥 05:56.16 → 06:01.16 (5.00s) (Original) - 076_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-  24. 🎥 06:01.16 → 06:01.31 (0.15s) (Original) - 077_Meghan_Markle_21_original.mp4
+   3. 🎥 01:00.16 → 01:01.23 (1.08s) (Original) - 014_Prince_Harry_10_original.mp4
        Effects: trimmed
 
 🎬 SOUTH PARK
 ----------------------------------------
-   1. 🎥 06:01.31 → 06:06.31 (5.00s) (Original) - 078_South_Park_2_composite.mp4
+   1. 🎥 01:01.23 → 01:06.23 (5.00s) (Original) - 015_South_Park_15_composite.mp4
        Effects: trimmed
-   2. 🎥 06:06.31 → 06:08.74 (2.43s) (Original) - 079_South_Park_3_original.mp4
+   2. 🎥 01:06.23 → 01:11.23 (5.00s) (Original) - 016_South_Park_4_original.mp4
+       Effects: trimmed
+   3. 🎥 01:11.23 → 01:13.45 (2.21s) (Original) - 017_South_Park_5_original.mp4
        Effects: trimmed
 
 🎬 PRINCE HARRY
 ----------------------------------------
-   1. 🎥 06:08.74 → 06:09.21 (0.46s) (Original) - 080_Prince_Harry_clip_9_original.mp4
+   1. 🎥 01:13.45 → 01:13.91 (0.47s) (Original) - 018_Prince_Harry_clip.mp4
+       Effects: ken_burns
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 01:13.91 → 01:18.91 (5.00s) (Original) - 019_Meghan_Markle_dgfdd_original.mp4
+       Effects: trimmed
+   2. 🎥 01:18.91 → 01:23.91 (5.00s) (Original) - 020_Meghan_Markle_asdasdas_chf3_rhea1_original.mp4
+       Effects: trimmed
+   3. 🎥 01:23.91 → 01:28.91 (5.00s) (Original) - 021_Meghan_Markle_8_composite.mp4
+       Effects: trimmed
+   4. 🎥 01:28.91 → 01:29.64 (0.72s) (Original) - 022_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 01:29.64 → 01:34.64 (5.00s) (Original) - 023_Prince_Harry_clip_16_original.mp4
+       Effects: trimmed
+   2. 🎥 01:34.64 → 01:38.78 (4.14s) (Original) - 024_Prince_Harry_3_composite.mp4
+       Effects: trimmed
+   3. 🎥 01:38.78 → 01:43.78 (5.00s) (Original) - 025_Prince_Harry_clip_9_original.mp4
+       Effects: trimmed
+   4. 🎥 01:43.78 → 01:48.78 (5.00s) (Original) - 026_Prince_Harry_clip.mp4
+       Effects: ken_burns
+   5. 🎥 01:48.78 → 01:50.24 (1.46s) (Original) - 027_Prince_Harry_8_composite.mp4
        Effects: trimmed
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 06:09.21 → 06:14.21 (5.00s) (Original) - 081_Meghan_Markle_123_composite.mp4
+   1. 🎥 01:50.24 → 01:55.24 (5.00s) (Original) - 028_Meghan_Markle_27_original.mp4
        Effects: trimmed
-   2. 🎥 06:14.21 → 06:19.21 (5.00s) (Original) - 082_Meghan_Markle_zcxzxzc_original.mp4
+   2. 🎥 01:55.24 → 02:00.24 (5.00s) (Original) - 029_Meghan_Markle_vc_chf3_rhea1_original.mp4
        Effects: trimmed
-   3. 🎥 06:19.21 → 06:24.21 (5.00s) (Original) - 083_Meghan_Markle_clip.mp4
+   3. 🎥 02:00.24 → 02:05.24 (5.00s) (Original) - 030_Meghan_Markle_4_chf3_rhea1_composite.mp4
+       Effects: trimmed
+   4. 🎥 02:05.24 → 02:10.24 (5.00s) (Original) - 031_Meghan_Markle_clip.mp4
        Effects: ken_burns
-   4. 🎥 06:24.21 → 06:29.21 (5.00s) (Original) - 084_Meghan_Markle_1_1_chf3_rhea1_composite.mp4
+   5. 🎥 02:10.24 → 02:15.24 (5.00s) (Original) - 032_Meghan_Markle_zxcxzxz_original.mp4
        Effects: trimmed
-   5. 🎥 06:29.21 → 06:34.21 (5.00s) (Original) - 085_Meghan_Markle_sdf_original.mp4
+   6. 🎥 02:15.24 → 02:19.06 (3.82s) (Original) - 033_Meghan_Markle_111_composite.mp4
        Effects: trimmed
-   6. 🎥 06:34.21 → 06:39.21 (5.00s) (Original) - 086_Meghan_Markle_dvfv_chf3_rhea1_original.mp4
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 02:19.06 → 02:24.06 (5.00s) (Original) - 034_Prince_Harry_clip_3_original.mp4
        Effects: trimmed
-   7. 🎥 06:39.21 → 06:44.21 (5.00s) (Original) - 087_Meghan_Markle_clip.mp4
+   2. 🎥 02:24.06 → 02:29.06 (5.00s) (Original) - 035_Prince_Harry_7_original.mp4
+       Effects: trimmed
+   3. 🎥 02:29.06 → 02:34.06 (5.00s) (Original) - 036_Prince_Harry_clip.mp4
        Effects: ken_burns
-   8. 🎥 06:44.21 → 06:49.21 (5.00s) (Original) - 088_Meghan_Markle_zccvcx_original.mp4
+   4. 🎥 02:34.06 → 02:39.06 (5.00s) (Original) - 037_Prince_Harry_5_original.mp4
        Effects: trimmed
-   9. 🎥 06:49.21 → 06:54.21 (5.00s) (Original) - 089_Meghan_Markle_zxzx_chf3_rhea1_original.mp4
+   5. 🎥 02:39.06 → 02:44.06 (5.00s) (Original) - 038_Prince_Harry_clip_13_original.mp4
        Effects: trimmed
-  10. 🎥 06:54.21 → 06:59.21 (5.00s) (Original) - 090_Meghan_Markle_xcx_composite.mp4
+   6. 🎥 02:44.06 → 02:49.06 (5.00s) (Original) - 039_Prince_Harry_clip_4_composite.mp4
        Effects: trimmed
-  11. 🎥 06:59.21 → 07:04.21 (5.00s) (Original) - 091_Meghan_Markle_clip.mp4
+   7. 🎥 02:49.06 → 02:54.06 (5.00s) (Original) - 040_Prince_Harry_clip.mp4
        Effects: ken_burns
-  12. 🎥 07:04.21 → 07:09.21 (5.00s) (Original) - 092_Meghan_Markle_clip_13_original.mp4
+   8. 🎥 02:54.06 → 02:54.60 (0.54s) (Original) - 041_Prince_Harry_4_original.mp4
        Effects: trimmed
-  13. 🎥 07:09.21 → 07:14.21 (5.00s) (Original) - 093_Meghan_Markle_sadsad_chf3_rhea1_composite.mp4
+   9. 🎥 02:54.60 → 02:59.60 (5.00s) (Original) - 042_Prince_Harry_clip_20_composite.mp4
        Effects: trimmed
-  14. 🎥 07:14.21 → 07:19.21 (5.00s) (Original) - 094_Meghan_Markle_sfdsfds_original.mp4
+  10. 🎥 02:59.60 → 03:04.60 (5.00s) (Original) - 043_Prince_Harry_1_original.mp4
        Effects: trimmed
-  15. 🎥 07:19.21 → 07:24.21 (5.00s) (Original) - 095_Meghan_Markle_clip.mp4
+  11. 🎥 03:04.60 → 03:09.60 (5.00s) (Original) - 044_Prince_Harry_clip.mp4
        Effects: ken_burns
-  16. 🎥 07:24.21 → 07:29.21 (5.00s) (Original) - 096_Meghan_Markle_sdfds_composite.mp4
+  12. 🎥 03:09.60 → 03:14.60 (5.00s) (Original) - 045_Prince_Harry_clip_6_composite.mp4
        Effects: trimmed
-  17. 🎥 07:29.21 → 07:34.21 (5.00s) (Original) - 097_Meghan_Markle_5_1_chf3_rhea1_original.mp4
+  13. 🎥 03:14.60 → 03:16.71 (2.11s) (Original) - 046_Prince_Harry_12_original.mp4
        Effects: trimmed
-  18. 🎥 07:34.21 → 07:39.21 (5.00s) (Original) - 098_Meghan_Markle_25_original.mp4
+  14. 🎥 03:16.71 → 03:21.07 (4.37s) (Original) - 047_Prince_Harry_clip_5_original.mp4
        Effects: trimmed
-  19. 🎥 07:39.21 → 07:44.21 (5.00s) (Original) - 099_Meghan_Markle_clip.mp4
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 03:21.07 → 03:21.58 (0.51s) (Original) - 048_Meghan_Markle_5_1_chf3_rhea1_composite.mp4
+       Effects: trimmed
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 03:21.58 → 03:26.58 (5.00s) (Original) - 049_Prince_Harry_clip.mp4
        Effects: ken_burns
-  20. 🎥 07:44.21 → 07:49.21 (5.00s) (Original) - 100_Meghan_Markle_111_original.mp4
+   2. 🎥 03:26.58 → 03:31.58 (5.00s) (Original) - 050_Prince_Harry_clip_2 copy_original.mp4
        Effects: trimmed
-  21. 🎥 07:49.21 → 07:54.21 (5.00s) (Original) - 101_Meghan_Markle_4_original.mp4
+   3. 🎥 03:31.58 → 03:36.58 (5.00s) (Original) - 051_Prince_Harry_clip_14_composite.mp4
        Effects: trimmed
-  22. 🎥 07:54.21 → 07:59.21 (5.00s) (Original) - 102_Meghan_Markle_24_composite.mp4
+   4. 🎥 03:36.58 → 03:41.58 (5.00s) (Original) - 052_Prince_Harry_clip_1 copy_original.mp4
        Effects: trimmed
-  23. 🖼️ 07:59.21 → 08:03.12 (3.91s) (Ken Burns) - Nigeria-Invictus-Games-4_1718089593471_1718089623487.remini-enhanced.png
+   5. 🎥 03:41.58 → 03:44.83 (3.25s) (Original) - 053_Prince_Harry_clip.mp4
+       Effects: ken_burns
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 03:44.83 → 03:49.83 (5.00s) (Original) - 054_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+   2. 🎥 03:49.83 → 03:51.88 (2.05s) (Original) - 055_Meghan_Markle_123_original.mp4
+       Effects: trimmed
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 03:51.88 → 03:56.88 (5.00s) (Original) - 056_Prince_Harry_9_original.mp4
+       Effects: trimmed
+   2. 🎥 03:56.88 → 04:01.88 (5.00s) (Original) - 057_Prince_Harry_clip_17_composite.mp4
+       Effects: trimmed
+   3. 🎥 04:01.88 → 04:06.88 (5.00s) (Original) - 058_Prince_Harry_16_original.mp4
+       Effects: trimmed
+   4. 🎥 04:06.88 → 04:07.24 (0.35s) (Original) - 059_Prince_Harry_clip.mp4
+       Effects: ken_burns
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 04:07.24 → 04:12.24 (5.00s) (Original) - 060_Meghan_Markle_11_composite.mp4
+       Effects: trimmed
+   2. 🎥 04:12.24 → 04:13.15 (0.92s) (Original) - 061_Meghan_Markle_sdsdf_original.mp4
+       Effects: trimmed
+
+🎬 SOUTH PARK
+----------------------------------------
+   1. 🎥 04:13.15 → 04:15.17 (2.02s) (Original) - 062_South_Park_2_original.mp4
+       Effects: trimmed
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 04:15.17 → 04:17.03 (1.86s) (Original) - 063_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 04:17.03 → 04:22.03 (5.00s) (Original) - 064_Prince_Harry_clip_4 copy_original.mp4
+       Effects: trimmed
+   2. 🎥 04:22.03 → 04:27.03 (5.00s) (Original) - 065_Prince_Harry_14_original.mp4
+       Effects: trimmed
+   3. 🎥 04:27.03 → 04:29.57 (2.55s) (Original) - 066_Prince_Harry_clip_6 copy_composite.mp4
+       Effects: trimmed
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 04:29.57 → 04:34.57 (5.00s) (Original) - 067_Meghan_Markle_4_original.mp4
+       Effects: trimmed
+   2. 🎥 04:34.57 → 04:39.57 (5.00s) (Original) - 068_Meghan_Markle_zxzx_chf3_rhea1_original.mp4
+       Effects: trimmed
+   3. 🎥 04:39.57 → 04:44.57 (5.00s) (Original) - 069_Meghan_Markle_21_composite.mp4
+       Effects: trimmed
+   4. 🎥 04:44.57 → 04:49.57 (5.00s) (Original) - 070_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+   5. 🎥 04:49.57 → 04:54.57 (5.00s) (Original) - 071_Meghan_Markle_clip_12_original.mp4
+       Effects: trimmed
+   6. 🎥 04:54.57 → 04:59.57 (5.00s) (Original) - 072_Meghan_Markle_10_composite.mp4
+       Effects: trimmed
+   7. 🎥 04:59.57 → 05:02.09 (2.51s) (Original) - 073_Meghan_Markle_zcxzcz_original.mp4
+       Effects: trimmed
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 05:02.09 → 05:07.09 (5.00s) (Original) - 074_Prince_Harry_clip.mp4
+       Effects: ken_burns
+   2. 🎥 05:07.09 → 05:12.09 (5.00s) (Original) - 075_Prince_Harry_15_composite.mp4
+       Effects: trimmed
+   3. 🎥 05:12.09 → 05:14.36 (2.27s) (Original) - 076_Prince_Harry_6_original.mp4
+       Effects: trimmed
+
+🎬 SOUTH PARK
+----------------------------------------
+   1. 🎥 05:14.36 → 05:19.36 (5.00s) (Original) - 077_South_Park_8_original.mp4
+       Effects: trimmed
+   2. 🎥 05:19.36 → 05:21.48 (2.12s) (Original) - 078_South_Park_14_composite.mp4
+       Effects: trimmed
 
 🎬 NETFLIX
 ----------------------------------------
-   1. 🎥 08:03.12 → 08:08.12 (5.00s) (Original) - 104_Netflix_2_original.mp4
+   1. 🎥 05:21.48 → 05:26.48 (5.00s) (Original) - 079_Netflix_1 2_original.mp4
        Effects: trimmed
-   2. 🎥 08:08.12 → 08:09.72 (1.60s) (Original) - 105_Netflix_5_composite.mp4
+   2. 🎥 05:26.48 → 05:27.24 (0.76s) (Original) - 080_Netflix_4_original.mp4
        Effects: trimmed
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 08:09.72 → 08:14.72 (5.00s) (Original) - 106_Meghan_Markle_10_original.mp4
-       Effects: trimmed
-   2. 🎥 08:14.72 → 08:19.72 (5.00s) (Original) - 107_Meghan_Markle_26_original.mp4
-       Effects: trimmed
-   3. 🎥 08:19.72 → 08:24.72 (5.00s) (Original) - 108_Meghan_Markle_zvz_composite.mp4
-       Effects: trimmed
-   4. 🎥 08:24.72 → 08:29.31 (4.60s) (Original) - 109_Meghan_Markle_clip.mp4
+   1. 🎥 05:27.24 → 05:32.24 (5.00s) (Original) - 081_Meghan_Markle_clip.mp4
        Effects: ken_burns
-   5. 🎥 08:29.31 → 08:34.31 (5.00s) (Original) - 110_Meghan_Markle_xc_original.mp4
+   2. 🎥 05:32.24 → 05:37.24 (5.00s) (Original) - 082_Meghan_Markle_xc_original.mp4
        Effects: trimmed
-   6. 🎥 08:34.31 → 08:39.31 (5.00s) (Original) - 111_Meghan_Markle_31_composite.mp4
+   3. 🎥 05:37.24 → 05:42.24 (5.00s) (Original) - 083_Meghan_Markle_fghgvcb_original.mp4
        Effects: trimmed
-   7. 🎥 08:39.31 → 08:44.31 (5.00s) (Original) - 112_Meghan_Markle_27_original.mp4
+   4. 🎥 05:42.24 → 05:47.24 (5.00s) (Original) - 084_Meghan_Markle_28_composite.mp4
        Effects: trimmed
-   8. 🎥 08:44.31 → 08:49.31 (5.00s) (Original) - 113_Meghan_Markle_clip.mp4
+   5. 🎥 05:47.24 → 05:50.35 (3.12s) (Original) - 085_Meghan_Markle_clip.mp4
        Effects: ken_burns
-   9. 🎥 08:49.31 → 08:50.02 (0.70s) (Original) - 114_Meghan_Markle_32_composite.mp4
+   6. 🎥 05:50.35 → 05:55.35 (5.00s) (Original) - 086_Meghan_Markle_zvz_original.mp4
        Effects: trimmed
-  10. 🎥 08:50.02 → 08:55.02 (5.00s) (Original) - 115_Meghan_Markle_cvcxvx_original.mp4
+   7. 🎥 05:55.35 → 06:00.35 (5.00s) (Original) - 087_Meghan_Markle_zcxzxzc_composite.mp4
        Effects: trimmed
-  11. 🎥 08:55.02 → 08:55.88 (0.86s) (Original) - 116_Meghan_Markle_xcvcxvcx_original.mp4
+   8. 🎥 06:00.35 → 06:05.35 (5.00s) (Original) - 088_Meghan_Markle_32_original.mp4
        Effects: trimmed
-  12. 🎥 08:55.88 → 09:00.88 (5.00s) (Original) - 117_Meghan_Markle_clip.mp4
+   9. 🎥 06:05.35 → 06:10.35 (5.00s) (Original) - 089_Meghan_Markle_clip.mp4
        Effects: ken_burns
-  13. 🎥 09:00.88 → 09:05.88 (5.00s) (Original) - 118_Meghan_Markle_12321_1_chf3_rhea1_original.mp4
-       Effects: trimmed
-  14. 🎥 09:05.88 → 09:10.88 (5.00s) (Original) - 119_Meghan_Markle_dgfdd_original.mp4
-       Effects: trimmed
-  15. 🎥 09:10.88 → 09:15.88 (5.00s) (Original) - 120_Meghan_Markle_28_composite.mp4
-       Effects: trimmed
-  16. 🎥 09:15.88 → 09:20.88 (5.00s) (Original) - 121_Meghan_Markle_clip.mp4
-       Effects: ken_burns
-  17. 🎥 09:20.88 → 09:25.88 (5.00s) (Original) - 122_Meghan_Markle_8_original.mp4
-       Effects: trimmed
-  18. 🎥 09:25.88 → 09:30.88 (5.00s) (Original) - 123_Meghan_Markle_1_composite.mp4
-       Effects: trimmed
-  19. 🎥 09:30.88 → 09:35.00 (4.11s) (Original) - 124_Meghan_Markle_asd_chf3_rhea1_original.mp4
-       Effects: trimmed
-
-🎬 PIERS MORGAN
-----------------------------------------
-   1. 🎥 09:35.00 → 09:39.24 (4.24s) (Original) - 125_Piers_Morgan_6_original.mp4
+  10. 🎥 06:10.35 → 06:14.51 (4.16s) (Original) - 090_Meghan_Markle_xcvcxvcx_composite.mp4
        Effects: trimmed
 
 🎬 PRINCE HARRY
 ----------------------------------------
-   1. 🎥 09:39.24 → 09:44.24 (5.00s) (Original) - 126_Prince_Harry_clip_6_composite.mp4
+   1. 🎥 06:14.51 → 06:17.15 (2.64s) (Original) - 091_Prince_Harry_13_original.mp4
        Effects: trimmed
-   2. 🎥 09:44.24 → 09:49.24 (5.00s) (Original) - 127_Prince_Harry_clip.mp4
+   2. 🎥 06:17.15 → 06:19.33 (2.18s) (Original) - 092_Prince_Harry_clip.mp4
        Effects: ken_burns
-   3. 🎥 09:49.24 → 09:52.84 (3.60s) (Original) - 128_Prince_Harry_clip_3_original.mp4
+
+🎬 NETFLIX
+----------------------------------------
+   1. 🎥 06:19.33 → 06:19.96 (0.63s) (Original) - 093_Netflix_1_composite.mp4
        Effects: trimmed
-   4. 🎥 09:52.84 → 09:55.63 (2.80s) (Original) - 129_Prince_Harry_5_composite.mp4
+
+🎬 SOUTH PARK
+----------------------------------------
+   1. 🎥 06:19.96 → 06:24.96 (5.00s) (Original) - 094_South_Park_16_original.mp4
+       Effects: trimmed
+   2. 🎥 06:24.96 → 06:29.96 (5.00s) (Original) - 095_South_Park_1_original.mp4
+       Effects: trimmed
+   3. 🎥 06:29.96 → 06:34.96 (5.00s) (Original) - 096_South_Park_7_composite.mp4
+       Effects: trimmed
+   4. 🎥 06:34.96 → 06:37.51 (2.56s) (Original) - 097_South_Park_8_original.mp4
        Effects: trimmed
 
 🎬 MEGHAN MARKLE
 ----------------------------------------
-   1. 🎥 09:55.63 → 10:00.63 (5.00s) (Original) - 130_Meghan_Markle_clip.mp4
+   1. 🎥 06:37.51 → 06:42.51 (5.00s) (Original) - 098_Meghan_Markle_sdfds_original.mp4
+       Effects: trimmed
+   2. 🎥 06:42.51 → 06:47.51 (5.00s) (Original) - 099_Meghan_Markle_clip_13_composite.mp4
+       Effects: trimmed
+   3. 🎥 06:47.51 → 06:52.51 (5.00s) (Original) - 100_Meghan_Markle_clip.mp4
        Effects: ken_burns
-   2. 🎥 10:00.63 → 10:05.63 (5.00s) (Original) - 131_Meghan_Markle_clip_12_original.mp4
+   4. 🎥 06:52.51 → 06:57.51 (5.00s) (Original) - 101_Meghan_Markle_sadsad_chf3_rhea1_original.mp4
        Effects: trimmed
-   3. 🎥 10:05.63 → 10:10.63 (5.00s) (Original) - 132_Meghan_Markle_zxzzx_composite.mp4
+   5. 🎥 06:57.51 → 07:02.51 (5.00s) (Original) - 102_Meghan_Markle_sdf_composite.mp4
        Effects: trimmed
-   4. 🎥 10:10.63 → 10:10.92 (0.28s) (Original) - 133_Meghan_Markle_30_original.mp4
+   6. 🎥 07:02.51 → 07:06.60 (4.08s) (Original) - 103_Meghan_Markle_sfdsfds_original.mp4
        Effects: trimmed
-   5. 🎥 10:10.92 → 10:15.92 (5.00s) (Original) - 134_Meghan_Markle_clip.mp4
+
+🎬 SOUTH PARK
+----------------------------------------
+   1. 🎥 07:06.60 → 07:11.60 (5.00s) (Original) - 104_South_Park_9_original.mp4
+       Effects: trimmed
+   2. 🎥 07:11.60 → 07:16.60 (5.00s) (Original) - 105_South_Park_6_composite.mp4
+       Effects: trimmed
+   3. 🎥 07:16.60 → 07:21.60 (5.00s) (Original) - 106_South_Park_2_original.mp4
+       Effects: trimmed
+   4. 🎥 07:21.60 → 07:26.60 (5.00s) (Original) - 107_South_Park_13_original.mp4
+       Effects: trimmed
+   5. 🎥 07:26.60 → 07:31.60 (5.00s) (Original) - 108_South_Park_4_composite.mp4
+       Effects: trimmed
+   6. 🎥 07:31.60 → 07:36.60 (5.00s) (Original) - 109_South_Park_5_original.mp4
+       Effects: trimmed
+   7. 🎥 07:36.60 → 07:41.60 (5.00s) (Original) - 110_South_Park_15_original.mp4
+       Effects: trimmed
+   8. 🎥 07:41.60 → 07:41.65 (0.06s) (Original) - 111_South_Park_16_composite.mp4
+       Effects: trimmed
+   9. 🎥 07:41.65 → 07:43.87 (2.22s) (Original) - 112_South_Park_3_original.mp4
+       Effects: trimmed
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 07:43.87 → 07:48.87 (5.00s) (Original) - 113_Prince_Harry_16_original.mp4
+       Effects: trimmed
+   2. 🎥 07:48.87 → 07:53.87 (5.00s) (Original) - 114_Prince_Harry_5_composite.mp4
+       Effects: trimmed
+   3. 🎥 07:53.87 → 07:55.25 (1.38s) (Original) - 115_Prince_Harry_1_original.mp4
+       Effects: trimmed
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 07:55.25 → 08:00.25 (5.00s) (Original) - 116_Meghan_Markle_clip.mp4
        Effects: ken_burns
-   6. 🎥 10:15.92 → 10:20.92 (5.00s) (Original) - 135_Meghan_Markle_4_chf3_rhea1_composite.mp4
+   2. 🎥 08:00.25 → 08:05.25 (5.00s) (Original) - 117_Meghan_Markle_31_composite.mp4
        Effects: trimmed
-   7. 🎥 10:20.92 → 10:25.92 (5.00s) (Original) - 136_Meghan_Markle_6_original.mp4
+   3. 🎥 08:05.25 → 08:10.25 (5.00s) (Original) - 118_Meghan_Markle_1_1_chf3_rhea1_original.mp4
        Effects: trimmed
-   8. 🎥 10:25.92 → 10:30.92 (5.00s) (Original) - 137_Meghan_Markle_zxcxzxz_original.mp4
+   4. 🎥 08:10.25 → 08:11.50 (1.24s) (Original) - 119_Meghan_Markle_zxzzx_original.mp4
        Effects: trimmed
-   9. 🎥 10:30.92 → 10:35.92 (5.00s) (Original) - 138_Meghan_Markle_clip.mp4
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 08:11.50 → 08:16.50 (5.00s) (Original) - 120_Prince_Harry_clip.mp4
        Effects: ken_burns
-  10. 🎥 10:35.92 → 10:40.92 (5.00s) (Original) - 139_Meghan_Markle_sfsdfsd_original.mp4
+   2. 🎥 08:16.50 → 08:21.50 (5.00s) (Original) - 121_Prince_Harry_clip_9_original.mp4
        Effects: trimmed
-  11. 🎥 10:40.92 → 10:45.74 (4.82s) (Original) - 140_Meghan_Markle_zcxzcz_original.mp4
+   3. 🎥 08:21.50 → 08:26.50 (5.00s) (Original) - 122_Prince_Harry_10_original.mp4
        Effects: trimmed
-  12. 🎥 10:45.74 → 10:50.74 (5.00s) (Original) - 141_Meghan_Markle_vc_chf3_rhea1_composite.mp4
+   4. 🎥 08:26.50 → 08:31.50 (5.00s) (Original) - 123_Prince_Harry_2_composite.mp4
+       Effects: trimmed
+   5. 🎥 08:31.50 → 08:36.50 (5.00s) (Original) - 124_Prince_Harry_clip.mp4
+       Effects: ken_burns
+   6. 🎥 08:36.50 → 08:39.51 (3.01s) (Original) - 125_Prince_Harry_clip_3_original.mp4
+       Effects: trimmed
+   7. 🎥 08:39.51 → 08:44.51 (5.00s) (Original) - 126_Prince_Harry_clip_6 copy_composite.mp4
+       Effects: trimmed
+   8. 🎥 08:44.51 → 08:48.44 (3.93s) (Original) - 127_Prince_Harry_12_original.mp4
+       Effects: trimmed
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 08:48.44 → 08:53.44 (5.00s) (Original) - 128_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+   2. 🎥 08:53.44 → 08:58.44 (5.00s) (Original) - 129_Meghan_Markle_30_composite.mp4
+       Effects: trimmed
+   3. 🎥 08:58.44 → 09:03.44 (5.00s) (Original) - 130_Meghan_Markle_xcx_original.mp4
+       Effects: trimmed
+   4. 🎥 09:03.44 → 09:08.44 (5.00s) (Original) - 131_Meghan_Markle_zccvcx_original.mp4
+       Effects: trimmed
+   5. 🎥 09:08.44 → 09:13.44 (5.00s) (Original) - 132_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+   6. 🎥 09:13.44 → 09:18.44 (5.00s) (Original) - 133_Meghan_Markle_1234_original.mp4
+       Effects: trimmed
+   7. 🎥 09:18.44 → 09:19.84 (1.40s) (Original) - 134_Meghan_Markle_asd_chf3_rhea1_original.mp4
+       Effects: trimmed
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 09:19.84 → 09:24.84 (5.00s) (Original) - 135_Prince_Harry_clip.mp4
+       Effects: ken_burns
+   2. 🎥 09:24.84 → 09:29.84 (5.00s) (Original) - 136_Prince_Harry_clip_5_original.mp4
+       Effects: trimmed
+   3. 🎥 09:29.84 → 09:34.84 (5.00s) (Original) - 137_Prince_Harry_8_original.mp4
+       Effects: trimmed
+   4. 🎥 09:34.84 → 09:37.44 (2.60s) (Original) - 138_Prince_Harry_clip_14_composite.mp4
+       Effects: trimmed
+
+🎬 SOUTH PARK
+----------------------------------------
+   1. 🎥 09:37.44 → 09:42.44 (5.00s) (Original) - 139_South_Park_1_original.mp4
+       Effects: trimmed
+   2. 🎥 09:42.44 → 09:47.44 (5.00s) (Original) - 140_South_Park_12_original.mp4
+       Effects: trimmed
+   3. 🎥 09:47.44 → 09:52.44 (5.00s) (Original) - 141_South_Park_14_composite.mp4
+       Effects: trimmed
+   4. 🎥 09:52.44 → 09:57.44 (5.00s) (Original) - 142_South_Park_7_original.mp4
+       Effects: trimmed
+   5. 🎥 09:57.44 → 10:02.44 (5.00s) (Original) - 143_South_Park_10_original.mp4
+       Effects: trimmed
+   6. 🎥 10:02.44 → 10:07.44 (5.00s) (Original) - 144_South_Park_11_composite.mp4
+       Effects: trimmed
+   7. 🎥 10:07.44 → 10:09.96 (2.52s) (Original) - 145_South_Park_13_original.mp4
+       Effects: trimmed
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 10:09.96 → 10:14.96 (5.00s) (Original) - 146_Prince_Harry_clip.mp4
+       Effects: ken_burns
+   2. 🎥 10:14.96 → 10:19.96 (5.00s) (Original) - 147_Prince_Harry_9_composite.mp4
+       Effects: trimmed
+   3. 🎥 10:19.96 → 10:24.96 (5.00s) (Original) - 148_Prince_Harry_11_original.mp4
+       Effects: trimmed
+   4. 🎥 10:24.96 → 10:29.96 (5.00s) (Original) - 149_Prince_Harry_7_original.mp4
+       Effects: trimmed
+   5. 🎥 10:29.96 → 10:34.96 (5.00s) (Original) - 150_Prince_Harry_clip.mp4
+       Effects: ken_burns
+   6. 🎥 10:34.96 → 10:39.96 (5.00s) (Original) - 151_Prince_Harry_3_original.mp4
+       Effects: trimmed
+   7. 🎥 10:39.96 → 10:44.96 (5.00s) (Original) - 152_Prince_Harry_clip_2 copy_original.mp4
+       Effects: trimmed
+   8. 🎥 10:44.96 → 10:49.86 (4.90s) (Original) - 153_Prince_Harry_clip_16_composite.mp4
+       Effects: trimmed
+   9. 🎥 10:49.86 → 10:54.86 (5.00s) (Original) - 154_Prince_Harry_clip.mp4
+       Effects: ken_burns
+  10. 🎥 10:54.86 → 10:55.41 (0.56s) (Original) - 155_Prince_Harry_13_original.mp4
+       Effects: trimmed
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 10:55.41 → 11:00.41 (5.00s) (Original) - 156_Meghan_Markle_12321_1_chf3_rhea1_composite.mp4
+       Effects: trimmed
+   2. 🎥 11:00.41 → 11:05.41 (5.00s) (Original) - 157_Meghan_Markle_clip.mp4
+       Effects: ken_burns
+   3. 🎥 11:05.41 → 11:10.41 (5.00s) (Original) - 158_Meghan_Markle_24_original.mp4
+       Effects: trimmed
+   4. 🎥 11:10.41 → 11:13.37 (2.96s) (Original) - 159_Meghan_Markle_cvcxvx_composite.mp4
+       Effects: trimmed
+
+🎬 SOUTH PARK
+----------------------------------------
+   1. 🎥 11:13.37 → 11:18.37 (5.00s) (Original) - 160_South_Park_15_original.mp4
+       Effects: trimmed
+   2. 🎥 11:18.37 → 11:21.86 (3.48s) (Original) - 161_South_Park_14_original.mp4
+       Effects: trimmed
+
+🎬 PRINCE HARRY
+----------------------------------------
+   1. 🎥 11:21.86 → 11:22.32 (0.46s) (Original) - 162_Prince_Harry_clip_4_composite.mp4
+       Effects: trimmed
+
+🎬 MEGHAN MARKLE
+----------------------------------------
+   1. 🎥 11:22.32 → 11:27.32 (5.00s) (Original) - 163_Meghan_Markle_zcxzxzc_original.mp4
        Effects: trimmed
 
 --------------------------------------------------------------------------------
@@ -364,71 +488,63 @@ EFFECTS STATISTICS
 --------------------------------------------------------------------------------
 
 Overall Effects Applied:
-  🖼️  Ken Burns (Images): 29 segments
+  🖼️  Ken Burns (Images): 30 segments
   🎬 Composite (Videos): 0 segments
   📱 Split Screen (Conflicts): 0 segments
-  🎥 Original (No effects): 112 segments
-  📊 Total Segments: 141
+  🎥 Original (No effects): 133 segments
+  📊 Total Segments: 163
 
 Effects by Celebrity:
 
-Meghan Markle:
-  • Total Screen Time: 552.19 seconds (86.3%)
-  • Total Clips: 119
-  • Ken Burns: 27 clips
-  • Composite: 0 clips
-  • Split Screen: 0 clips
-  • Original: 92 clips
-
-Piers Morgan:
-  • Total Screen Time: 36.75 seconds (5.7%)
-  • Total Clips: 8
+South Park:
+  • Total Screen Time: 144.96 seconds (21.3%)
+  • Total Clips: 35
   • Ken Burns: 0 clips
   • Composite: 0 clips
   • Split Screen: 0 clips
-  • Original: 8 clips
+  • Original: 35 clips
+
+Meghan Markle:
+  • Total Screen Time: 253.58 seconds (37.3%)
+  • Total Clips: 59
+  • Ken Burns: 14 clips
+  • Composite: 0 clips
+  • Split Screen: 0 clips
+  • Original: 45 clips
 
 Prince Harry:
-  • Total Screen Time: 36.88 seconds (5.8%)
-  • Total Clips: 10
-  • Ken Burns: 2 clips
+  • Total Screen Time: 274.24 seconds (40.4%)
+  • Total Clips: 66
+  • Ken Burns: 16 clips
   • Composite: 0 clips
   • Split Screen: 0 clips
-  • Original: 8 clips
-
-South Park:
-  • Total Screen Time: 7.43 seconds (1.2%)
-  • Total Clips: 2
-  • Ken Burns: 0 clips
-  • Composite: 0 clips
-  • Split Screen: 0 clips
-  • Original: 2 clips
+  • Original: 50 clips
 
 Netflix:
-  • Total Screen Time: 6.60 seconds (1.0%)
-  • Total Clips: 2
+  • Total Screen Time: 6.39 seconds (0.9%)
+  • Total Clips: 3
   • Ken Burns: 0 clips
   • Composite: 0 clips
   • Split Screen: 0 clips
-  • Original: 2 clips
+  • Original: 3 clips
 
 --------------------------------------------------------------------------------
 PROCESSING SUMMARY
 --------------------------------------------------------------------------------
 
 📈 Processing Efficiency:
-  • Effects Applied: 29/141 segments (20.6%)
+  • Effects Applied: 30/163 segments (18.4%)
   • Conflicts Resolved: 0 overlapping segments
-  • Images Enhanced: 29 with Ken Burns effect
+  • Images Enhanced: 30 with Ken Burns effect
   • Videos Processed: 0 with composite effects
 
 💾 Output Files:
-  • Location: /Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show
+  • Location: /Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan
   • Naming: [original]_[effect].mp4
   • Quality: 1920x1080 @ 24 FPS
 
 🎯 Next Steps:
-  1. Review processed segments in: /Users/superman/Desktop/Clips Assembled/Meghan In Tears After Piers Morgan Destroys Her Live On National TV Show
+  1. Review processed segments in: /Users/superman/Desktop/Clips Assembled/Prince Harry Left Shaken After South Park Reveals Another Plan To Mock Meghan
   2. Run Final Assembly script to combine all segments
   3. Add voice-over audio to complete the video
 

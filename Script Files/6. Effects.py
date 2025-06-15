@@ -725,6 +725,22 @@ def find_alternative_file(original_path, celebrity):
         print(f"   ❌ Error searching for alternatives: {e}")
         return None
 
+def sanitize_for_filename(text):
+    """Sanitize text to create a valid, clean filename."""
+    # Keep only letters, numbers, and spaces
+    import re
+    # First replace common special characters with spaces
+    text = text.replace('&', ' and ')
+    text = text.replace('-', ' ')
+    text = text.replace('_', ' ')
+    # Then remove any other special characters
+    text = re.sub(r'[^a-zA-Z0-9 ]', '', text)
+    # Replace multiple spaces with single space
+    text = re.sub(r'\s+', ' ', text)
+    # Convert spaces to underscores and trim
+    text = text.strip().replace(' ', '_')
+    return text
+
 def process_image_with_ken_burns(segment, ken_burns_exporter):
     """Process an image segment with Ken Burns effect."""
     media = segment['media']
@@ -736,35 +752,7 @@ def process_image_with_ken_burns(segment, ken_burns_exporter):
     
     input_path = folder / filename
     
-    # If original file fails, try to find an alternative
-    if not input_path.exists() or filename.startswith('._'):
-        alternative_file = find_alternative_file(input_path, celebrity)
-        if alternative_file:
-            input_path = alternative_file
-            filename = alternative_file.name
-            media['file'] = filename  # Update the media info with new file
-            print(f"   📝 Updated segment to use alternative file")
-        else:
-            print(f"\n⚠️  SKIPPING: No valid file found for {filename}")
-            return False
-    
     # Create a filename that maintains order but avoids special characters
-    # Format: 001_Prince_Harry_clip.mp4
-    def sanitize_for_filename(text):
-        # Keep only letters, numbers, and spaces
-        import re
-        # First replace common special characters with spaces
-        text = text.replace('&', ' and ')
-        text = text.replace('-', ' ')
-        text = text.replace('_', ' ')
-        # Then remove any other special characters
-        text = re.sub(r'[^a-zA-Z0-9 ]', '', text)
-        # Replace multiple spaces with single space
-        text = re.sub(r'\s+', ' ', text)
-        # Convert spaces to underscores and trim
-        text = text.strip().replace(' ', '_')
-        return text
-    
     celebrity_safe = sanitize_for_filename(celebrity)
     output_filename = f"{sequence_number:03d}_{celebrity_safe}_clip.mp4"
     
@@ -811,10 +799,29 @@ def process_image_with_ken_burns(segment, ken_burns_exporter):
         print(f"      Temp: {temp_abs_path}")
         print(f"      Output: {output_abs_path}")
         
-        # Create Ken Burns effect
-        exporter.export_video(str(input_abs_path), str(temp_abs_path))
+        try:
+            # Create Ken Burns effect - this will now try alternatives if the main file fails
+            exporter.export_video(str(input_abs_path), str(temp_abs_path))
+            print(f"   ✓ Ken Burns effect created with optimal duration")
+            
+        except ValueError as e:
+            # If no alternatives worked, try to find another file for this celebrity
+            alternative_file = find_alternative_file(input_path, celebrity)
+            if alternative_file:
+                print(f"   🔄 Trying celebrity-matched alternative: {alternative_file.name}")
+                try:
+                    exporter.export_video(str(alternative_file), str(temp_abs_path))
+                    print(f"   ✓ Ken Burns effect created with celebrity-matched alternative")
+                    # Update the media info with the new file
+                    media['file'] = alternative_file.name
+                    input_abs_path = alternative_file.resolve()
+                except Exception as alt_e:
+                    print(f"   ❌ Failed with celebrity-matched alternative: {alt_e}")
+                    return False
+            else:
+                print(f"   ❌ No working alternatives found for {filename}")
+                return False
         
-        print(f"   ✓ Ken Burns effect created with optimal duration")
         print(f"   ✂️  Now trimming to exact duration: {duration:.3f} seconds")
         
         # Then use FFmpeg to trim to exact duration
