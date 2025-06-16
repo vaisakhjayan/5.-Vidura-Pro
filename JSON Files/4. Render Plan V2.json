@@ -1,13 +1,58 @@
 {
     "video_info": {
-        "title": "Test",
+        "title": "Meghan And Harry LIED About Archie Birth Palace! Finally EXPOSES The Truth",
         "output_file": "final_render.mp4",
-        "generated_at": "2025-06-16 00:45:18"
+        "generated_at": "2025-06-16 14:44:33"
     },
     "segments": [
         {
-            "start_time": 0.0,
-            "end_time": 5.0,
+            "start_time": 0,
+            "end_time": 4.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 4.0,
+                "file": "clip_4 copy.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 4.0,
+            "end_time": 9.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "GettyImages-1142162066-27f0682098454cf3bde4ca426dab0305.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 3.0,
+                "file": "13399_5856531_archie_updates.webp"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 12.0,
+            "end_time": 17.0,
             "type": "celebrity_overlay",
             "celebrity": "Prince Harry",
             "media": {
@@ -21,162 +66,8 @@
             ]
         },
         {
-            "start_time": 5.0,
-            "end_time": 10.0,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
-                "type": "video",
-                "duration": 5.0,
-                "file": "8.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 10.0,
-            "end_time": 13.0,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
-                "type": "video",
-                "duration": 3.0,
-                "file": "clip_6 copy.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 13.0,
-            "end_time": 18.0,
-            "type": "intelligent_clip",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Intelligent Clip/Celebrities At Meghan and Harry's Wedding",
-                "type": "video",
-                "duration": 5.0,
-                "file": "1.mp4"
-            },
-            "transcription_context": [
-                "Celebrities at Meghan and Harry's wedding"
-            ],
-            "similarity_score": 0.64,
-            "intelligent_folder": "Celebrities At Meghan and Harry's Wedding"
-        },
-        {
-            "start_time": 18.0,
-            "end_time": 23.0,
-            "type": "intelligent_clip",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Intelligent Clip/Celebrities At Meghan and Harry's Wedding",
-                "type": "video",
-                "duration": 5.0,
-                "file": "5.mp4"
-            },
-            "transcription_context": [
-                "Celebrities at Meghan and Harry's wedding"
-            ],
-            "similarity_score": 0.64,
-            "intelligent_folder": "Celebrities At Meghan and Harry's Wedding"
-        },
-        {
-            "start_time": 23.0,
-            "end_time": 24.0,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
-                "type": "image",
-                "duration": 1.0,
-                "file": "Duke of Sussex_Misan HarrimanV3.jpeg"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 24.0,
-            "end_time": 29.0,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
-                "type": "video",
-                "duration": 5.0,
-                "file": "sdf.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 29.0,
-            "end_time": 34.0,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
-                "type": "video",
-                "duration": 5.0,
-                "file": "24.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 34.0,
-            "end_time": 39.0,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
-                "type": "video",
-                "duration": 5.0,
-                "file": "zvz.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 39.0,
-            "end_time": 40.0,
-            "type": "celebrity_overlay",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
-                "type": "image",
-                "duration": 1.0,
-                "file": "Meghan-Markle-news-6184453.remini-enhanced.jpg"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 40.0,
-            "end_time": 45.0,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
-                "type": "video",
-                "duration": 5.0,
-                "file": "clip_4 copy.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 45.0,
-            "end_time": 50.0,
+            "start_time": 17.0,
+            "end_time": 22.0,
             "type": "celebrity_overlay",
             "celebrity": "Prince Harry",
             "media": {
@@ -190,45 +81,150 @@
             ]
         },
         {
-            "start_time": 50.0,
-            "end_time": 55.0,
-            "type": "celebrity_overlay",
-            "celebrity": "Prince Harry",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
-                "type": "video",
-                "duration": 5.0,
-                "file": "clip_14.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 55.0,
-            "end_time": 60.0,
+            "start_time": 22.0,
+            "end_time": 27.0,
             "type": "celebrity_overlay",
             "celebrity": "Prince Harry",
             "media": {
                 "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
                 "type": "image",
                 "duration": 5.0,
-                "file": "bf0b4d148ed6-prince-harry.jpg.webp"
+                "file": "principe-harry-traje-negro-ciudad-justicia-londres_1200_800.webp"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ]
         },
         {
-            "start_time": 60.0,
-            "end_time": 65.0,
+            "start_time": 27.0,
+            "end_time": 31.0,
             "type": "celebrity_overlay",
             "celebrity": "Prince Harry",
             "media": {
                 "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
                 "type": "video",
+                "duration": 4.0,
+                "file": "4.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 31.0,
+            "end_time": 36.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
                 "duration": 5.0,
-                "file": "clip_9.mp4"
+                "file": "24.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 36.0,
+            "end_time": 41.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "5_1_chf3_rhea1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 41.0,
+            "end_time": 46.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "zcxzcz.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 46.0,
+            "end_time": 51.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 5.0,
+                "file": "imagen-meghan-markle-principe-harry-mirandose_1200_800.webp"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 51.0,
+            "end_time": 53.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 2.0,
+                "file": "1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 53.0,
+            "end_time": 58.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "21.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 58.0,
+            "end_time": 63.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "xcvcxvcx.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 63.0,
+            "end_time": 65.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 2.0,
+                "file": "Meghan-Markle-makeup-free-Jamie-Kern-Lima-podcast-042825-tout-01-2917c3a5ea5a431fbc9a1266ca102fd3.remini-enhanced.jpg"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -243,7 +239,7 @@
                 "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
                 "type": "video",
                 "duration": 5.0,
-                "file": "7.mp4"
+                "file": "clip_14.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -251,63 +247,44 @@
         },
         {
             "start_time": 70.0,
-            "end_time": 73.0,
+            "end_time": 75.0,
             "type": "celebrity_overlay",
             "celebrity": "Prince Harry",
             "media": {
                 "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
                 "type": "video",
-                "duration": 3.0,
-                "file": "clip_5.mp4"
+                "duration": 5.0,
+                "file": "clip_1 copy.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
             ]
         },
         {
-            "start_time": 73.0,
-            "end_time": 78.0,
-            "type": "intelligent_clip",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan And Harry At Elizabeth's Funeral",
-                "type": "video",
-                "duration": 5.0,
-                "file": "1.mp4"
-            },
-            "transcription_context": [
-                "Meghan and Harry at Elizabeth's funeral"
-            ],
-            "similarity_score": 0.711,
-            "intelligent_folder": "Meghan And Harry At Elizabeth's Funeral"
-        },
-        {
-            "start_time": 78.0,
-            "end_time": 83.0,
-            "type": "intelligent_clip",
-            "celebrity": "Meghan Markle",
-            "media": {
-                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan And Harry At Elizabeth's Funeral",
-                "type": "video",
-                "duration": 5.0,
-                "file": "2.mp4"
-            },
-            "transcription_context": [
-                "Meghan and Harry at Elizabeth's funeral"
-            ],
-            "similarity_score": 0.711,
-            "intelligent_folder": "Meghan And Harry At Elizabeth's Funeral"
-        },
-        {
-            "start_time": 83.0,
-            "end_time": 85.0,
+            "start_time": 75.0,
+            "end_time": 80.0,
             "type": "celebrity_overlay",
             "celebrity": "Prince Harry",
             "media": {
                 "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
                 "type": "image",
-                "duration": 2.0,
-                "file": "prince-harry-Responsible-Technology-Youth-Power-Fund-brooklyn-042525-58e42cac00aa4733972f451aef022a56.remini-enhanced.jpg"
+                "duration": 5.0,
+                "file": "bf0b4d148ed6-prince-harry.jpg.webp"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 80.0,
+            "end_time": 85.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "1.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -315,44 +292,44 @@
         },
         {
             "start_time": 85.0,
-            "end_time": 90.0,
+            "end_time": 86.0,
             "type": "celebrity_overlay",
-            "celebrity": "King Charles",
+            "celebrity": "Prince Harry",
             "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/King Charles",
-                "type": "video",
-                "duration": 5.0,
-                "file": "29.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 90.0,
-            "end_time": 95.0,
-            "type": "celebrity_overlay",
-            "celebrity": "King Charles",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/King Charles",
-                "type": "video",
-                "duration": 5.0,
-                "file": "5.mp4"
-            },
-            "transcription_context": [
-                "[Description placeholder]"
-            ]
-        },
-        {
-            "start_time": 95.0,
-            "end_time": 96.0,
-            "type": "celebrity_overlay",
-            "celebrity": "King Charles",
-            "media": {
-                "folder": "/Users/superman/Desktop/Celebrity Folder/King Charles",
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
                 "type": "video",
                 "duration": 1.0,
-                "file": "24.mp4"
+                "file": "16.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 86.0,
+            "end_time": 91.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "111.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 91.0,
+            "end_time": 96.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "zcxzxzc.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"
@@ -362,12 +339,1866 @@
             "start_time": 96.0,
             "end_time": 101.0,
             "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "cvcxvx.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 101.0,
+            "end_time": 106.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 5.0,
+                "file": "GettyImages_906665902.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 106.0,
+            "end_time": 111.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "10.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 111.0,
+            "end_time": 116.0,
+            "type": "celebrity_overlay",
             "celebrity": "Prince Harry",
             "media": {
                 "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
                 "type": "video",
                 "duration": 5.0,
+                "file": "5.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 116.0,
+            "end_time": 121.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "image",
+                "duration": 5.0,
+                "file": "6208735.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 121.0,
+            "end_time": 126.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "3.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 126.0,
+            "end_time": 131.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "10.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 131.0,
+            "end_time": 136.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_13.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 136.0,
+            "end_time": 139.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "image",
+                "duration": 3.0,
+                "file": "2152473727.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 139.0,
+            "end_time": 144.0,
+            "type": "intelligent_clip",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan and Harry Shows Archie For The First Time",
+                "type": "video",
+                "duration": 5.0,
+                "file": "1.mp4"
+            },
+            "transcription_context": [
+                "Meghan and Harry showing Archie for the first time"
+            ],
+            "similarity_score": 0.562,
+            "intelligent_folder": "Meghan and Harry Shows Archie For The First Time"
+        },
+        {
+            "start_time": 144.0,
+            "end_time": 149.0,
+            "type": "intelligent_clip",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan and Harry Shows Archie For The First Time",
+                "type": "video",
+                "duration": 5.0,
+                "file": "2.mp4"
+            },
+            "transcription_context": [
+                "Meghan and Harry showing Archie for the first time"
+            ],
+            "similarity_score": 0.562,
+            "intelligent_folder": "Meghan and Harry Shows Archie For The First Time"
+        },
+        {
+            "start_time": 149.0,
+            "end_time": 154.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "3000.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 154.0,
+            "end_time": 157.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 3.0,
+                "file": "vf625-duchess-of-sussex.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 157.0,
+            "end_time": 162.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "sadsad_chf3_rhea1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 162.0,
+            "end_time": 167.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "zccvcx.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 167.0,
+            "end_time": 170.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 3.0,
+                "file": "prince_harry_and_meghan_markle_child_safety_1731341606457_1731723595731.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 170.0,
+            "end_time": 175.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "11.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 175.0,
+            "end_time": 180.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "1_1_chf3_rhea1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 180.0,
+            "end_time": 185.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "31.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 185.0,
+            "end_time": 190.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 5.0,
+                "file": "fv3rifoc_meghan-markle_625x300_01_July_23.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 190.0,
+            "end_time": 195.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "asdasdas_chf3_rhea1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 195.0,
+            "end_time": 200.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_12.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 200.0,
+            "end_time": 205.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "asd_chf3_rhea1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 205.0,
+            "end_time": 210.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 5.0,
+                "file": "2057573_1.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 210.0,
+            "end_time": 215.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "sfsdfsd.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 215.0,
+            "end_time": 220.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "xcx.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 220.0,
+            "end_time": 225.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "zxzzx.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 225.0,
+            "end_time": 230.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 5.0,
+                "file": "COLOMBIA-BRITAIN-ROYALS-VISIT-3_1728908365907_1732645154372.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 230.0,
+            "end_time": 233.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 3.0,
+                "file": "zxcxzxz.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 233.0,
+            "end_time": 238.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_16.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 238.0,
+            "end_time": 243.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "2.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 243.0,
+            "end_time": 248.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_9.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 248.0,
+            "end_time": 253.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "image",
+                "duration": 5.0,
+                "file": "GettyImages-2151728100-e1735811707594.webp"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 253.0,
+            "end_time": 258.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_6 copy.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 258.0,
+            "end_time": 261.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 3.0,
+                "file": "8.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 261.0,
+            "end_time": 266.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "123.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 266.0,
+            "end_time": 271.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "sfdsfds.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 271.0,
+            "end_time": 276.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 5.0,
+                "file": "meghan-markle-abrigo-negro-principe-harry-traje-negro-camisa-blanca_1200_800.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 276.0,
+            "end_time": 280.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 4.0,
+                "file": "4_chf3_rhea1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 280.0,
+            "end_time": 285.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "sdsdf.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 285.0,
+            "end_time": 290.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "vc_chf3_rhea1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 290.0,
+            "end_time": 295.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 5.0,
+                "file": "image (4).webp"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 295.0,
+            "end_time": 300.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "4.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 300.0,
+            "end_time": 305.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "28.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 305.0,
+            "end_time": 310.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "zxzx_chf3_rhea1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 310.0,
+            "end_time": 315.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 5.0,
+                "file": "d12ee2dcd48a1b6bc8f58d6da23417b3115afd1917f847552257362c3f7b7a77._SX1080_FMjpg_.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 315.0,
+            "end_time": 320.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "zvz.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 320.0,
+            "end_time": 325.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "27.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 325.0,
+            "end_time": 330.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "30.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 330.0,
+            "end_time": 331.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 1.0,
+                "file": "meghan-markle-as-ever.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 331.0,
+            "end_time": 336.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "9.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 336.0,
+            "end_time": 341.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "image",
+                "duration": 5.0,
+                "file": "DYjMLCDwGmSBPbV7kBx8q.png"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 341.0,
+            "end_time": 346.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "11.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 346.0,
+            "end_time": 351.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "13.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 351.0,
+            "end_time": 356.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_5.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 356.0,
+            "end_time": 361.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "image",
+                "duration": 5.0,
+                "file": "prince-harry-meghan-markle.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 361.0,
+            "end_time": 363.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 2.0,
+                "file": "12.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 363.0,
+            "end_time": 368.0,
+            "type": "intelligent_clip",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan and Harry Shows Archie For The First Time",
+                "type": "video",
+                "duration": 5.0,
+                "file": "1.mp4"
+            },
+            "transcription_context": [
+                "Meghan and Harry showing Archie for the first time"
+            ],
+            "similarity_score": 0.573,
+            "intelligent_folder": "Meghan and Harry Shows Archie For The First Time"
+        },
+        {
+            "start_time": 368.0,
+            "end_time": 373.0,
+            "type": "intelligent_clip",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan and Harry Shows Archie For The First Time",
+                "type": "video",
+                "duration": 5.0,
+                "file": "2.mp4"
+            },
+            "transcription_context": [
+                "Meghan and Harry showing Archie for the first time"
+            ],
+            "similarity_score": 0.573,
+            "intelligent_folder": "Meghan and Harry Shows Archie For The First Time"
+        },
+        {
+            "start_time": 373.0,
+            "end_time": 374.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 1.0,
+                "file": "RI-pull-out-RIGHT-10.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 374.0,
+            "end_time": 379.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "dgfdd.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 379.0,
+            "end_time": 384.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "1234.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 384.0,
+            "end_time": 389.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "8.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 389.0,
+            "end_time": 390.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 1.0,
+                "file": "GettyImages_960088690.webp"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 390.0,
+            "end_time": 395.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_3.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 395.0,
+            "end_time": 400.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "7.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 400.0,
+            "end_time": 405.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "image",
+                "duration": 5.0,
+                "file": "3okahaj8_prince-harry_625x300_21_March_24.webp"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 405.0,
+            "end_time": 410.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "2.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 410.0,
+            "end_time": 415.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_14.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 415.0,
+            "end_time": 420.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "3.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 420.0,
+            "end_time": 425.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "image",
+                "duration": 5.0,
+                "file": "prince-harry-042625-5c551405d8b24c03ab6e7360d2af2ecd.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 425.0,
+            "end_time": 428.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 3.0,
+                "file": "8.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 428.0,
+            "end_time": 433.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "9.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 433.0,
+            "end_time": 438.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_4 copy.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 438.0,
+            "end_time": 443.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "image",
+                "duration": 5.0,
+                "file": "r1ast7oc_prince-harry_625x300_11_April_25 (1).webp"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 443.0,
+            "end_time": 444.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 1.0,
+                "file": "clip_3.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 444.0,
+            "end_time": 449.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "meghan-archie-lilibet-harry-060425-d376ddd253d84e269f0f3affe7db9220.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 449.0,
+            "end_time": 452.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 3.0,
+                "file": "GettyImages_1154107726.webp"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 452.0,
+            "end_time": 457.0,
+            "type": "intelligent_clip",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan and Harry Shows Archie For The First Time",
+                "type": "video",
+                "duration": 5.0,
+                "file": "1.mp4"
+            },
+            "transcription_context": [
+                "Meghan and Harry showing Archie for the first time"
+            ],
+            "similarity_score": 0.584,
+            "intelligent_folder": "Meghan and Harry Shows Archie For The First Time"
+        },
+        {
+            "start_time": 457.0,
+            "end_time": 462.0,
+            "type": "intelligent_clip",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan and Harry Shows Archie For The First Time",
+                "type": "video",
+                "duration": 5.0,
+                "file": "2.mp4"
+            },
+            "transcription_context": [
+                "Meghan and Harry showing Archie for the first time"
+            ],
+            "similarity_score": 0.584,
+            "intelligent_folder": "Meghan and Harry Shows Archie For The First Time"
+        },
+        {
+            "start_time": 462.0,
+            "end_time": 467.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_16.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 467.0,
+            "end_time": 472.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_6 copy.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 472.0,
+            "end_time": 477.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "image",
+                "duration": 5.0,
+                "file": "602382_4756397_updates.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 477.0,
+            "end_time": 482.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_13.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 482.0,
+            "end_time": 487.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 487.0,
+            "end_time": 490.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 3.0,
+                "file": "7.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 490.0,
+            "end_time": 495.0,
+            "type": "intelligent_clip",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan And Harry At Elizabeth's Funeral",
+                "type": "video",
+                "duration": 5.0,
+                "file": "1.mp4"
+            },
+            "transcription_context": [
+                "Meghan and Harry at Elizabeth's funeral"
+            ],
+            "similarity_score": 0.642,
+            "intelligent_folder": "Meghan And Harry At Elizabeth's Funeral"
+        },
+        {
+            "start_time": 495.0,
+            "end_time": 500.0,
+            "type": "intelligent_clip",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan And Harry At Elizabeth's Funeral",
+                "type": "video",
+                "duration": 5.0,
+                "file": "2.mp4"
+            },
+            "transcription_context": [
+                "Meghan and Harry at Elizabeth's funeral"
+            ],
+            "similarity_score": 0.642,
+            "intelligent_folder": "Meghan And Harry At Elizabeth's Funeral"
+        },
+        {
+            "start_time": 500.0,
+            "end_time": 505.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "harry-and-meghan-netflix-docuseries-main-split-021925-e81d4613903a46f3b1c4a7fcc72cfb1c.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 505.0,
+            "end_time": 510.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "hq720 (23).remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 510.0,
+            "end_time": 512.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 2.0,
+                "file": "AA1xootc.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 512.0,
+            "end_time": 515.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 3.0,
+                "file": "harry-and-meghan-netflix-docuseries-main-split-021925-e81d4613903a46f3b1c4a7fcc72cfb1c.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 515.0,
+            "end_time": 520.0,
+            "type": "intelligent_clip",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan Markle Emotional & Sad Clips",
+                "type": "image",
+                "duration": 5.0,
+                "file": "CF-k9kuTURBXy9kMzRkMmJkMy03Zjc5LTRlZWMtYjViYi0zYzIxMGU4NzA1OWUuanBlZ5KVAwAAzQXczQNMkwXNBLDNAljeAAGhMAE.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "Meghan Markle emotional and sad clips"
+            ],
+            "similarity_score": 0.658,
+            "intelligent_folder": "Meghan Markle Emotional & Sad Clips"
+        },
+        {
+            "start_time": 520.0,
+            "end_time": 525.0,
+            "type": "intelligent_clip",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan Markle Emotional & Sad Clips",
+                "type": "image",
+                "duration": 5.0,
+                "file": "b8094baed9dc4ada8a90064e6bc13d03.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "Meghan Markle emotional and sad clips"
+            ],
+            "similarity_score": 0.658,
+            "intelligent_folder": "Meghan Markle Emotional & Sad Clips"
+        },
+        {
+            "start_time": 525.0,
+            "end_time": 530.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "image",
+                "duration": 5.0,
+                "file": "0c93b630-242d-11ef-80de-01d4152f54e3.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 530.0,
+            "end_time": 535.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "4.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 535.0,
+            "end_time": 540.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "10.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 540.0,
+            "end_time": 543.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 3.0,
                 "file": "clip_1 copy.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 543.0,
+            "end_time": 548.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "GettyImages_1154107726.webp"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 548.0,
+            "end_time": 553.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "vf625-duchess-of-sussex.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 553.0,
+            "end_time": 558.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "13399_5856531_archie_updates.webp"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 558.0,
+            "end_time": 563.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "AA1xootc.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 563.0,
+            "end_time": 568.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "RI-pull-out-RIGHT-10.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 568.0,
+            "end_time": 573.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "meghan-archie-lilibet-harry-060425-d376ddd253d84e269f0f3affe7db9220.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 573.0,
+            "end_time": 577.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 4.0,
+                "file": "3000.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 577.0,
+            "end_time": 582.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "xc.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 582.0,
+            "end_time": 587.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "sdfds.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 587.0,
+            "end_time": 592.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "clip_13.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 592.0,
+            "end_time": 597.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "image",
+                "duration": 5.0,
+                "file": "meghan-markle.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 597.0,
+            "end_time": 602.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "fghgvcb.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 602.0,
+            "end_time": 607.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 5.0,
+                "file": "32.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 607.0,
+            "end_time": 610.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Meghan Markle",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Meghan Markle",
+                "type": "video",
+                "duration": 3.0,
+                "file": "12321_1_chf3_rhea1.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 610.0,
+            "end_time": 615.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "image",
+                "duration": 5.0,
+                "file": "urnpublicidap.org88c61a08225269014224283c37225bf8Britain-Prince-Harry-Lawsuit_04660.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 615.0,
+            "end_time": 620.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "13.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 620.0,
+            "end_time": 625.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "11.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 625.0,
+            "end_time": 630.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "12.mp4"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 630.0,
+            "end_time": 635.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "image",
+                "duration": 5.0,
+                "file": "prince-harry-nc-mem-170914_3x2_1600.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 635.0,
+            "end_time": 640.0,
+            "type": "intelligent_clip",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan Markle Moon Bump Video",
+                "type": "video",
+                "duration": 5.0,
+                "file": "1.mp4"
+            },
+            "transcription_context": [
+                "Meghan Markle moon bump video showing her pregnancy, Meghan Markle Fake Pregnancy"
+            ],
+            "similarity_score": 0.576,
+            "intelligent_folder": "Meghan Markle Moon Bump Video"
+        },
+        {
+            "start_time": 640.0,
+            "end_time": 645.0,
+            "type": "intelligent_clip",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Intelligent Clip/Meghan Markle Moon Bump Video",
+                "type": "video",
+                "duration": 5.0,
+                "file": "2.mp4"
+            },
+            "transcription_context": [
+                "Meghan Markle moon bump video showing her pregnancy, Meghan Markle Fake Pregnancy"
+            ],
+            "similarity_score": 0.576,
+            "intelligent_folder": "Meghan Markle Moon Bump Video"
+        },
+        {
+            "start_time": 645.0,
+            "end_time": 650.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "GettyImages-1142162066-27f0682098454cf3bde4ca426dab0305.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 650.0,
+            "end_time": 655.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 5.0,
+                "file": "hq720 (23).remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 655.0,
+            "end_time": 657.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Archie",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Archie",
+                "type": "image",
+                "duration": 2.0,
+                "file": "meghan-archie-lilibet-harry-060425-d376ddd253d84e269f0f3affe7db9220.remini-enhanced.jpg"
+            },
+            "transcription_context": [
+                "[Description placeholder]"
+            ]
+        },
+        {
+            "start_time": 657.0,
+            "end_time": 662.0,
+            "type": "celebrity_overlay",
+            "celebrity": "Prince Harry",
+            "media": {
+                "folder": "/Users/superman/Desktop/Celebrity Folder/Prince Harry",
+                "type": "video",
+                "duration": 5.0,
+                "file": "16.mp4"
             },
             "transcription_context": [
                 "[Description placeholder]"

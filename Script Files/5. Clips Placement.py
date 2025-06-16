@@ -420,7 +420,11 @@ def generate_render_plans_5s_blocks(detections_json, text_output_file, json_outp
                     mid_time = start + (end - start) / 2
                     block_count += 1
                     
-                    # First 5 seconds
+                    # Calculate actual durations
+                    first_duration = mid_time - start
+                    second_duration = end - mid_time
+                    
+                    # First part
                     json_segment = {
                         "start_time": start,
                         "end_time": mid_time,
@@ -429,7 +433,7 @@ def generate_render_plans_5s_blocks(detections_json, text_output_file, json_outp
                         "media": {
                             "folder": os.path.dirname(first_file),
                             "type": media_type,
-                            "duration": 5.0,
+                            "duration": first_duration,
                             "file": os.path.basename(first_file)
                         },
                         "transcription_context": [suggestion.description],
@@ -438,7 +442,7 @@ def generate_render_plans_5s_blocks(detections_json, text_output_file, json_outp
                     }
                     json_data["segments"].append(json_segment)
                     
-                    # Second 5 seconds
+                    # Second part
                     json_segment = {
                         "start_time": mid_time,
                         "end_time": end,
@@ -447,7 +451,7 @@ def generate_render_plans_5s_blocks(detections_json, text_output_file, json_outp
                         "media": {
                             "folder": os.path.dirname(second_file),
                             "type": media_type,
-                            "duration": 5.0,
+                            "duration": second_duration,
                             "file": os.path.basename(second_file)
                         },
                         "transcription_context": [suggestion.description],
@@ -456,11 +460,11 @@ def generate_render_plans_5s_blocks(detections_json, text_output_file, json_outp
                     }
                     json_data["segments"].append(json_segment)
                     
-                    # Write text segments
-                    f.write(f"    {block_count}a. {media_symbol} {format_timestamp(start)} → {format_timestamp(mid_time)} (5.00s) ({media_type_str}) - {os.path.basename(first_file)}\n")
+                    # Write text segments with actual durations
+                    f.write(f"    {block_count}a. {media_symbol} {format_timestamp(start)} → {format_timestamp(mid_time)} ({first_duration:.2f}s) ({media_type_str}) - {os.path.basename(first_file)}\n")
                     f.write(f"       📝 {suggestion.description} (Part 1)\n")
                     f.write("       " + "-"*70 + "\n")
-                    f.write(f"    {block_count}b. {media_symbol} {format_timestamp(mid_time)} → {format_timestamp(end)} (5.00s) ({media_type_str}) - {os.path.basename(second_file)}\n")
+                    f.write(f"    {block_count}b. {media_symbol} {format_timestamp(mid_time)} → {format_timestamp(end)} ({second_duration:.2f}s) ({media_type_str}) - {os.path.basename(second_file)}\n")
                     f.write(f"       📝 {suggestion.description} (Part 2)\n")
                     f.write("       " + "-"*70 + "\n")
                 else:

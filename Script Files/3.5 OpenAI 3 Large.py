@@ -7,7 +7,7 @@ import re
 
 # Set up OpenAI API key
 # Note: For security, consider using environment variables instead of hardcoding
-openai.api_key = "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"
+openai.api_key = ""
 
 # Alternative secure method (uncomment and use environment variable):
 # openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -147,9 +147,10 @@ class VideoClipMatcher:
         return clip_data
     
     def find_best_matches(self, transcription_segments: List[Dict], clip_data: List[Dict], 
-                         similarity_threshold: float = 0.55) -> List[Tuple]:
+                         similarity_threshold: float = 0.45) -> List[Tuple]:
         """Find the best clip matches for each transcription segment."""
         matches = []
+        used_ranges = []  # Track which time ranges are already used
         
         print("Processing transcription segments and finding matches...")
         
@@ -160,6 +161,14 @@ class VideoClipMatcher:
             embedding = self.get_embedding(clip['combined_text'])
             clip_embeddings.append(embedding)
         
+        def is_overlap(start: float, end: float) -> bool:
+            """Check if a time range overlaps with any existing ranges"""
+            for used_start, used_end in used_ranges:
+                # Check if there's any overlap
+                if not (end <= used_start or start >= used_end):
+                    return True
+            return False
+        
         # Process each transcription segment
         for i, segment in enumerate(transcription_segments):
             print(f"Processing segment {i+1}/{len(transcription_segments)}: {segment['timestamp']}")
@@ -167,6 +176,14 @@ class VideoClipMatcher:
             # Skip segments shorter than 8 seconds
             duration = segment['end'] - segment['start']
             if duration < 8:
+                continue
+                
+            # Round start time to nearest second
+            start_time = round(segment['start'])
+            end_time = start_time + 10  # Make each suggestion exactly 10 seconds
+            
+            # Skip if this segment would overlap with existing matches
+            if is_overlap(start_time, end_time):
                 continue
                 
             segment_embedding = self.get_embedding(segment['text'])
@@ -195,10 +212,6 @@ class VideoClipMatcher:
             
             # Only add if we found a good match
             if best_match and best_similarity >= similarity_threshold:
-                # Round start and end times to nearest second for cleaner segments
-                start_time = round(segment['start'])
-                end_time = start_time + 10  # Make each suggestion exactly 10 seconds
-                
                 matches.append({
                     'segment': {
                         'text': segment['text'],
@@ -209,6 +222,10 @@ class VideoClipMatcher:
                     'clip': best_match,
                     'similarity': best_similarity
                 })
+                # Add this range to used ranges
+                used_ranges.append((start_time, end_time))
+                # Sort used ranges for efficient overlap checking
+                used_ranges.sort(key=lambda x: x[0])
         
         return matches
     

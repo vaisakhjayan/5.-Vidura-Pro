@@ -2,34 +2,203 @@
 INTELLIGENT VIDEO CLIP SUGGESTIONS
 ================================================================================
 Channel: Meghan Markle
-Video: Test
-Total Matches Found: 2
+Video: Meghan And Harry LIED About Archie Birth Palace! Finally EXPOSES The Truth
+Total Matches Found: 15
 ================================================================================
 
 MATCH #1
 ----------------------------------------
-Timestamp: 13.0s - 23.0s
+Timestamp: 4.0s - 14.0s
 Transcription Section:
-"Since their wedding in 2018, the Duke and Duchess of Sussex have become household names, not"
+"to die down, Prince Archie's birth."
 
-Suggested Clip: Celebrities At Meghan and Harry's Wedding
-Folder: Celebrities At Meghan and Harry's Wedding
-Description: Celebrities at Meghan and Harry's wedding
-Similarity Score: 0.640
+Suggested Clip: Meghan and Harry Shows Archie For The First Time
+Folder: Meghan and Harry Shows Archie For The First Time
+Description: Meghan and Harry showing Archie for the first time
+Similarity Score: 0.480
 
 ================================================================================
 
 MATCH #2
 ----------------------------------------
-Timestamp: 73.0s - 83.0s
+Timestamp: 101.0s - 111.0s
 Transcription Section:
-"of Queen Elizabeth II in September 2022."
+"And look, people can debate whether Meghan used surrogate, whether she wore a moonbump,"
+
+Suggested Clip: Meghan Markle Moon Bump Video
+Folder: Meghan Markle Moon Bump Video
+Description: Meghan Markle moon bump video showing her pregnancy, Meghan Markle Fake Pregnancy
+Similarity Score: 0.531
+
+================================================================================
+
+MATCH #3
+----------------------------------------
+Timestamp: 139.0s - 149.0s
+Transcription Section:
+"Archie's birth."
+
+Suggested Clip: Meghan and Harry Shows Archie For The First Time
+Folder: Meghan and Harry Shows Archie For The First Time
+Description: Meghan and Harry showing Archie for the first time
+Similarity Score: 0.562
+
+================================================================================
+
+MATCH #4
+----------------------------------------
+Timestamp: 157.0s - 167.0s
+Transcription Section:
+"like CBS This Morning, where Gale King just so happens to be a friend of Meghan's."
+
+Suggested Clip: Meghan Markle Oprah Interview
+Folder: Meghan Markle Oprah Interview
+Description: Meghan Markle Oprah Interview
+Similarity Score: 0.464
+
+================================================================================
+
+MATCH #5
+----------------------------------------
+Timestamp: 215.0s - 225.0s
+Transcription Section:
+"Meghan's bump became its own storyline."
+
+Suggested Clip: Meghan Markle Moon Bump Video
+Folder: Meghan Markle Moon Bump Video
+Description: Meghan Markle moon bump video showing her pregnancy, Meghan Markle Fake Pregnancy
+Similarity Score: 0.544
+
+================================================================================
+
+MATCH #6
+----------------------------------------
+Timestamp: 231.0s - 241.0s
+Transcription Section:
+"Was it a moon bump, a padded prosthetic?"
+
+Suggested Clip: Meghan Markle Moon Bump Video
+Folder: Meghan Markle Moon Bump Video
+Description: Meghan Markle moon bump video showing her pregnancy, Meghan Markle Fake Pregnancy
+Similarity Score: 0.548
+
+================================================================================
+
+MATCH #7
+----------------------------------------
+Timestamp: 261.0s - 271.0s
+Transcription Section:
+"And Meghan's pregnancy had questions stacked from top to bottom."
+
+Suggested Clip: Meghan Markle Moon Bump Video
+Folder: Meghan Markle Moon Bump Video
+Description: Meghan Markle moon bump video showing her pregnancy, Meghan Markle Fake Pregnancy
+Similarity Score: 0.468
+
+================================================================================
+
+MATCH #8
+----------------------------------------
+Timestamp: 280.0s - 290.0s
+Transcription Section:
+"Meghan was supposedly in labor with baby Lilibet, yet there was a video of her dancing, smiling,"
+
+Suggested Clip: Meghan Markle Moon Bump Video
+Folder: Meghan Markle Moon Bump Video
+Description: Meghan Markle moon bump video showing her pregnancy, Meghan Markle Fake Pregnancy
+Similarity Score: 0.503
+
+================================================================================
+
+MATCH #9
+----------------------------------------
+Timestamp: 363.0s - 373.0s
+Transcription Section:
+"That's how the world officially found out about Archie's birth."
+
+Suggested Clip: Meghan and Harry Shows Archie For The First Time
+Folder: Meghan and Harry Shows Archie For The First Time
+Description: Meghan and Harry showing Archie for the first time
+Similarity Score: 0.572
+
+================================================================================
+
+MATCH #10
+----------------------------------------
+Timestamp: 412.0s - 422.0s
+Transcription Section:
+"Buckingham Palace looked like it was following their lead instead of setting the tone."
+
+Suggested Clip: Royal Palace Guards
+Folder: Royal Palace Guards
+Description: Royal Palace Guards and their clips showing exterior of Buckingham Palace
+Similarity Score: 0.452
+
+================================================================================
+
+MATCH #11
+----------------------------------------
+Timestamp: 452.0s - 462.0s
+Transcription Section:
+"Harry and Meghan introduced their baby to the world in a controlled, carefully staged moment"
+
+Suggested Clip: Meghan and Harry Shows Archie For The First Time
+Folder: Meghan and Harry Shows Archie For The First Time
+Description: Meghan and Harry showing Archie for the first time
+Similarity Score: 0.584
+
+================================================================================
+
+MATCH #12
+----------------------------------------
+Timestamp: 490.0s - 500.0s
+Transcription Section:
+"The time was chosen based on the family's visit to Windsor to introduce Archie to the Queen and Prince Philip."
 
 Suggested Clip: Meghan And Harry At Elizabeth's Funeral
 Folder: Meghan And Harry At Elizabeth's Funeral
 Description: Meghan and Harry at Elizabeth's funeral
-Similarity Score: 0.711
+Similarity Score: 0.643
 
 ================================================================================
 
-Average Similarity Score: 0.676
+MATCH #13
+----------------------------------------
+Timestamp: 512.0s - 522.0s
+Transcription Section:
+"Where was Archie actually born?"
+
+Suggested Clip: Meghan Walking With Archie
+Folder: Meghan Walking With Archie
+Description: Meghan walking with Archie
+Similarity Score: 0.467
+
+================================================================================
+
+MATCH #14
+----------------------------------------
+Timestamp: 543.0s - 553.0s
+Transcription Section:
+"As the son of Prince Harry, Archie is a direct descendant in the royal line."
+
+Suggested Clip: Meghan Walking With Archie
+Folder: Meghan Walking With Archie
+Description: Meghan walking with Archie
+Similarity Score: 0.468
+
+================================================================================
+
+MATCH #15
+----------------------------------------
+Timestamp: 635.0s - 645.0s
+Transcription Section:
+"Some claimed Meghan had used a surrogate, others believed she wore a fake bump."
+
+Suggested Clip: Meghan Markle Moon Bump Video
+Folder: Meghan Markle Moon Bump Video
+Description: Meghan Markle moon bump video showing her pregnancy, Meghan Markle Fake Pregnancy
+Similarity Score: 0.576
+
+================================================================================
+
+Average Similarity Score: 0.524

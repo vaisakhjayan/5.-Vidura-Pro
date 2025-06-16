@@ -4,6 +4,7 @@
             "Prince Harry": ["Harry", "Harry's", "prince harry", "prince harry's"],
             "Prince William": ["William", "William's", "prince william", "prince william's"],
             "Netflix": ["Netflix", "netflix"],
+            "Prince Archie": ["Archie", "Archie's", "prince archie", "prince archie's"],
             "South Park": ["South Park", "South Park's", "south park"],
             "David Beckham": ["David", "David's", "David Beckham", "Beckham", "david beckham", "david beckham's"],
             "Martha Stewart": ["Martha", "Martha's", "Martha Stewart", "martha stewart", "martha stewart's"],
@@ -44,6 +45,11 @@
                 "description": "Meghan Markle visiting schools and talking to children",
                 "keywords": ["schools", "children", "education", "visiting", "talking"]
             },
+            "Meghan Markle Moon Bump Video": {
+                "folder": "Meghan Markle Moon Bump Video",
+                "description": "Meghan Markle moon bump video showing her pregnancy, Meghan Markle Fake Pregnancy",
+                "keywords": ["moon bump", "moon bump video", "Fake Pregnancy", "moon bump video clips"]
+            },
             "Meghan And Harry As Couples": {
                 "folder": "Meghan And Harry As Couples",
                 "description": "Meghan and Harry as a couple and their clips of doing things together, use this folder when discussing both of them together",
@@ -64,6 +70,21 @@
                 "folder": "Meghan And Harry At Elizabeth's Funeral",
                 "description": "Meghan and Harry at Elizabeth's funeral",
                 "keywords": ["funeral", "Elizabeth", "funeral"]
+            },
+            "Meghan and Harry Shows Archie For The First Time": {
+                "folder": "Meghan and Harry Shows Archie For The First Time",
+                "description": "Meghan and Harry showing Archie for the first time",
+                "keywords": ["Archie", "first time", "show", "showcase"]
+            },
+            "Meghan Reading Book To Archie": {
+                "folder": "Meghan Reading Book To Archie",
+                "description": "Meghan reading a book to Archie",
+                "keywords": ["reading", "book", "Archie", "reading to Archie"]
+            },
+            "Meghan Walking With Archie": {
+                "folder": "Meghan Walking With Archie",
+                "description": "Meghan walking with Archie",
+                "keywords": ["walking", "Archie", "walking with Archie"]
             },
             "Meghan Markle Oprah Interview": {
                 "folder": "Meghan Markle Oprah Interview",
