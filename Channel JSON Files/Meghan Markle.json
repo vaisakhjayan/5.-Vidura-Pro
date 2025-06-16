@@ -8,6 +8,7 @@
             "Tom Bower": ["Tom", "Tom's", "Tom Bower", "Tom Bower's", "tom bower", "tom bower's"],
             "Prince Archie": ["Archie", "Archie's", "prince archie", "prince archie's"],
             "South Park": ["South Park", "South Park's", "south park"],
+            "Tyler Perry": ["Tyler", "Tyler's", "Tyler Perry", "Perry", "Perry's", "tyler perry", "tyler perry's"],
             "David Beckham": ["David", "David's", "David Beckham", "Beckham", "david beckham", "david beckham's"],
             "Martha Stewart": ["Martha", "Martha's", "Martha Stewart", "martha stewart", "martha stewart's"],
             "Greg Peters": ["Greg", "Greg's", "Greg Peters", "Greg Peters's", "greg peters", "greg peters's"],
@@ -97,6 +98,11 @@
                 "folder": "Meghan Markle Emotional & Sad Clips",
                 "description": "Meghan Markle emotional and sad clips",
                 "keywords": ["emotional", "sad", "tears", "crying"]
+            },
+            "Meghan Markle Spotify and Netflix Deal": {
+                "folder": "Meghan Markle Spotify and Netflix Deal",
+                "description": "Meghan Markle Spotify and Netflix Deal only for when Netflix and Spotify are mentioned together",
+                "keywords": ["Spotify", "Netflix", "Deal", "Meghan Markle Spotify and Netflix Deal"]
             },
             "Celebrities At Meghan and Harry's Wedding": {
                 "folder": "Celebrities At Meghan and Harry's Wedding",
